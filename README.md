@@ -69,14 +69,13 @@ python tools/build_mod.py --encoder path/to/w3strings.exe
 
 `build_mod.py` бярэ `bel` з `data/*.json`, прымяняе `tools/overrides.json`,
 прапускае неперакладзеныя (роўныя `en`) і пустыя радкі, ачышчае пераносы радкоў і
-кадуе ў `.w3strings` ([w3strings encoder](https://www.nexusmods.com/witcher3/mods/1055)
-/ [w3stringsx](https://github.com/SpontanCombust/w3stringsx)).
+кадуе ў `.w3strings` праз [w3strings encoder v0.4.1](https://www.nexusmods.com/witcher3/mods/1055).
 
 ## Падзякі
 
 - Перакладчыкі супольнасці на Crowdin.
 - Шрыфт кірыліцы — з [украінскай лакалізацыі The Witcher 3](https://www.nexusmods.com/witcher3/mods/8395).
-- [w3strings encoder](https://www.nexusmods.com/witcher3/mods/1055) / [w3stringsx](https://github.com/SpontanCombust/w3stringsx).
+- [w3strings encoder v0.4.1](https://www.nexusmods.com/witcher3/mods/1055).
 
 ## Ліцэнзія / License
 

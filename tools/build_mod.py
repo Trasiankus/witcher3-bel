@@ -7,8 +7,7 @@ Reads the `bel` field from data/content*.json, applies tools/overrides.json,
 skips untranslated (== en) and empty lines, neutralises stray newlines, and
 encodes a single en.w3strings into mod/mods/mod000_Belarusian/content/.
 
-w3strings encoder: https://www.nexusmods.com/witcher3/mods/1055
-            (or w3stringsx: https://github.com/SpontanCombust/w3stringsx)
+w3strings encoder v0.4.1: https://www.nexusmods.com/witcher3/mods/1055
 """
 import argparse, io, json, os, re, shutil, subprocess, sys
 
