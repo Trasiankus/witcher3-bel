@@ -1,13 +1,13 @@
 # witcher3-bel — Беларуская лакалізацыя «The Witcher 3: Wild Hunt»
 
-Belarusian (беларуская мова) translation of *The Witcher 3: Wild Hunt* (Game of the
-Year / Next-Gen v4.04), distributed as a text mod. Сабрана з [Crowdin](https://crowdin.com/)
-і распакавана з гульнявых файлаў `.w3strings`.
+Belarusian localization of *The Witcher 3: Wild Hunt* (Game of the
+Year / Next-Gen v4.04). Зроблена з дапамогай [Crowdin](https://crowdin.com/)`.w3strings`.
+
+Далучыцца да праекту можна тут: https://crowdin.com/project/witcher-3-bel/be
 
 ## Стан перакладу
 
 | | |
-|---|---|
 | Перакладзена радкоў | **49 849** |
 | Усяго ў гульні | 94 430 |
 | **Ахоп гульні** | **52.8 %** |
@@ -16,7 +16,7 @@ Base game + усе DLC (Hearts of Stone, Blood and Wine) уключна.
 
 ## Усталяванне
 
-1. Скапіруйце змесціва `mod/` у каранёвую тэчку гульні, каб атрымалася:
+1. Скапіруйце змесціва `mod/` у каранёвую папку гульні, каб атрымалася:
    ```
    The Witcher 3\Mods\mod000_Belarusian\content\en.w3strings
    The Witcher 3\Mods\modBelarusianFont\content\blob0.bundle   (гл. «Шрыфт» ніжэй)
@@ -25,7 +25,7 @@ Base game + усе DLC (Hearts of Stone, Blood and Wine) уключна.
 3. Неперакладзеныя радкі аўтаматычна паказваюцца на англійскай.
 
 > **Шрыфт / Font.** Стандартны англійскі шрыфт гульні не змяшчае кірыліцы, таму
-> патрэбны мод-шрыфт `modBelarusianFont`, які дадае кірылічныя гліфы (уключна з
+> патрэбны мод на шрыфта `modBelarusianFont`, які дадае кірылічныя сівалы (уключна з
 > беларускімі **і**, **ў**). Ён засноўваецца на шрыфце з [украінскай лакалізацыі
 > (Nexus mod 8395)](https://www.nexusmods.com/witcher3/mods/8395) і таму **не
 > ўваходзіць у гэты рэпазіторый** — спампуйце ўкраінскі моўны пак і скапіруйце ягоны
@@ -69,13 +69,15 @@ python tools/build_mod.py --encoder path/to/w3strings.exe
 
 `build_mod.py` бярэ `bel` з `data/*.json`, прымяняе `tools/overrides.json`,
 прапускае неперакладзеныя (роўныя `en`) і пустыя радкі, ачышчае пераносы радкоў і
-кадуе ў `.w3strings` праз [w3strings encoder v0.4.1](https://www.nexusmods.com/witcher3/mods/1055).
+кадуе ў `.w3strings` ([w3strings encoder](https://www.nexusmods.com/witcher3/mods/1055)
+/ [w3stringsx](https://github.com/SpontanCombust/w3stringsx)).
 
 ## Падзякі
 
 - Перакладчыкі супольнасці на Crowdin.
+- Рудзі.
 - Шрыфт кірыліцы — з [украінскай лакалізацыі The Witcher 3](https://www.nexusmods.com/witcher3/mods/8395).
-- [w3strings encoder v0.4.1](https://www.nexusmods.com/witcher3/mods/1055).
+- [w3strings encoder](https://www.nexusmods.com/witcher3/mods/1055) / [w3stringsx](https://github.com/SpontanCombust/w3stringsx).
 
 ## Ліцэнзія / License
 
