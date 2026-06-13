@@ -3,9 +3,9 @@
 
   python tools/build_mod.py --encoder path/to/w3strings.exe
 
-Reads the `bel` field from data/content*.json, applies tools/overrides.json,
-skips untranslated (== en) and empty lines, neutralises stray newlines, and
-encodes a single en.w3strings into mod/mods/mod000_Belarusian/content/.
+Reads the `bel` field from data/content*.json (translated-only), applies
+tools/overrides.json, neutralises stray newlines, and encodes a single
+en.w3strings into mod/mods/mod000_Belarusian/content/.
 
 w3strings encoder v0.4.1: https://www.nexusmods.com/witcher3/mods/1055
 """
@@ -39,28 +39,25 @@ def main():
                 order.append(k)
             merged[k] = rec
 
-    rows, skip_en, skip_empty, fixed_nl = [], 0, 0, 0
+    rows, skip_empty, fixed_nl = [], 0, 0
     for k in order:
-            rec = merged[k]
-            bel = overrides.get(k, rec.get("bel", ""))
-            if not bel or not bel.strip():
-                skip_empty += 1
-                continue
-            if bel == rec.get("en"):
-                skip_en += 1
-                continue
-            if "\n" in bel or "\r" in bel:
-                bel = re.sub(r"  +", " ", bel.replace("\r\n", " ").replace("\n", " ").replace("\r", " "))
-                fixed_nl += 1
-            sid, keyhex = k.split("_", 1)
-            rows.append((int(sid), f"{sid}|{keyhex}||{bel}"))
+        rec = merged[k]
+        bel = overrides.get(k, rec.get("bel", ""))
+        if not bel or not bel.strip():      # data is translated-only; just guard empties
+            skip_empty += 1
+            continue
+        if "\n" in bel or "\r" in bel:
+            bel = re.sub(r"  +", " ", bel.replace("\r\n", " ").replace("\n", " ").replace("\r", " "))
+            fixed_nl += 1
+        sid, keyhex = k.split("_", 1)
+        rows.append((int(sid), f"{sid}|{keyhex}||{bel}"))
 
     rows.sort(key=lambda r: r[0])
     with io.open(CSV, "w", encoding="utf-8", newline="\n") as f:   # UTF-8, NO BOM
         f.write(";meta[language=en]\n; id|key(hex)|key(str)|text\n")
         for _, line in rows:
             f.write(line + "\n")
-    print(f"rows: {len(rows)}  skipped(en): {skip_en}  skipped(empty): {skip_empty}  nl-fixed: {fixed_nl}")
+    print(f"rows: {len(rows)}  skipped(empty): {skip_empty}  nl-fixed: {fixed_nl}")
 
     if not (os.path.isfile(args.encoder) or shutil.which(args.encoder)):
         print(f"\nCSV written to {CSV}\nEncoder not found ({args.encoder}); "
