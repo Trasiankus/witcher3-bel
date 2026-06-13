@@ -4,7 +4,7 @@ Belarusian (беларуская мова) translation of *The Witcher 3: Wild H
 Year / Next-Gen v4.04), distributed as a text mod. Сабрана з [Crowdin](https://crowdin.com/)
 і распакавана з гульнявых файлаў `.w3strings`.
 
-## Стан перакладу / Status
+## Стан перакладу
 
 | | |
 |---|---|
@@ -15,7 +15,7 @@ Year / Next-Gen v4.04), distributed as a text mod. Сабрана з [Crowdin](h
 
 Base game + усе DLC (Hearts of Stone, Blood and Wine) уключна.
 
-## Усталяванне / Installation
+## Усталяванне
 
 1. Скапіруйце змесціва `mod/` у каранёвую тэчку гульні, каб атрымалася:
    ```
@@ -45,7 +45,7 @@ tools/           скрыпты зборкі
   overrides.json ручныя праўкі, што перажываюць паўторны экспарт з Crowdin
 ```
 
-### Фармат дадзеных / Data format
+### Фармат дадзеных
 
 Кожны ключ — гэта `<id>_<keyhash>` са строкавай базы гульні; значэнне змяшчае
 арыгінал і пераклады:
@@ -61,7 +61,7 @@ tools/           скрыпты зборкі
 }
 ```
 
-## Зборка / Build
+## Зборка
 
 ```bash
 python tools/build_mod.py --encoder path/to/w3strings.exe
@@ -73,7 +73,7 @@ python tools/build_mod.py --encoder path/to/w3strings.exe
 кадуе ў `.w3strings` ([w3strings encoder](https://www.nexusmods.com/witcher3/mods/1055)
 / [w3stringsx](https://github.com/SpontanCombust/w3stringsx)).
 
-## Падзякі / Credits
+## Падзякі
 
 - Перакладчыкі супольнасці на Crowdin.
 - Шрыфт кірыліцы — з [украінскай лакалізацыі The Witcher 3](https://www.nexusmods.com/witcher3/mods/8395).
