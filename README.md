@@ -21,7 +21,7 @@ Base game + усе DLC (Hearts of Stone, Blood and Wine) уключна.
    The Witcher 3\Mods\mod000_Belarusian\content\en.w3strings
    The Witcher 3\Mods\modBelarusianFont\content\blob0.bundle   (гл. «Шрыфт» ніжэй)
    ```
-2. У гульні: **Опцыі → Мова → English** (гэта мова *тэксту*; агучка можа быць любой).
+2. У гульні: **Settings/Настройки → Language/Локализация → English/Английская**.
 3. Неперакладзеныя радкі аўтаматычна паказваюцца на англійскай.
 
 > **Шрыфт / Font.** Стандартны англійскі шрыфт гульні не змяшчае кірыліцы, таму
