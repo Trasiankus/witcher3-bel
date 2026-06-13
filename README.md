@@ -9,7 +9,7 @@ Year / Next-Gen v4.04), distributed as a text mod. Сабрана з [Crowdin](h
 | | |
 |---|---|
 | Перакладзена радкоў | **49 849** |
-| Усяго ў гульні (унікальных) | 94 430 |
+| Усяго ў гульні | 94 430 |
 | **Ахоп гульні** | **52.8 %** |
 
 Base game + усе DLC (Hearts of Stone, Blood and Wine) уключна.
