@@ -3,7 +3,7 @@
 Belarusian localization of *The Witcher 3: Wild Hunt* (Game of the
 Year / Next-Gen v4.04). Зроблена з дапамогай [Crowdin](https://crowdin.com/)`.w3strings`.
 
-Далучыцца да праекту можна тут: https://crowdin.com/project/witcher-3-bel/be
+Далучыцца да праекту можна тут: https://crowdin.com/project/witcher-3-bel
 
 ## Стан перакладу
 
