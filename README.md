@@ -12,7 +12,7 @@ Year / Next-Gen v4.04). Зроблена з дапамогай [Crowdin](https:/
 | Усяго ў гульні | 94 430 |
 | **Ахоп гульні** | **53.2 %** |
 
-Базавая гульня + усе DLC (Hearts of Stone, Blood and Wine) уключна.
+Базавая гульня + усе DLC (Hearts of Stone, Blood and Wine).
 
 ## Усталяванне
 
