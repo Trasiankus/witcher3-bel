@@ -1,2 +1,84 @@
-# witcher3-bel
-Witcher 3 Belarusian Localization Project
+# witcher3-bel — Беларуская лакалізацыя «The Witcher 3: Wild Hunt»
+
+Belarusian (беларуская мова) translation of *The Witcher 3: Wild Hunt* (Game of the
+Year / Next-Gen v4.04), distributed as a text mod. Сабрана з [Crowdin](https://crowdin.com/)
+і распакавана з гульнявых файлаў `.w3strings`.
+
+## Стан перакладу / Status
+
+| | |
+|---|---|
+| Перакладзена радкоў / strings translated | **49 849** |
+| Усяго ў гульні (унікальных) / total unique in game | 94 430 |
+| **Ахоп гульні / game coverage** | **52.8 %** |
+| Ахоп праекта Crowdin / Crowdin scope | 92.0 % |
+
+Base game + усе DLC (Hearts of Stone, Blood and Wine) уключна.
+
+## Усталяванне / Installation
+
+1. Скапіруйце змесціва `mod/` у каранёвую тэчку гульні, каб атрымалася:
+   ```
+   The Witcher 3\Mods\mod000_Belarusian\content\en.w3strings
+   The Witcher 3\Mods\modBelarusianFont\content\blob0.bundle   (гл. «Шрыфт» ніжэй)
+   ```
+2. У гульні: **Опцыі → Мова → English** (гэта мова *тэксту*; агучка можа быць любой).
+3. Неперакладзеныя радкі аўтаматычна паказваюцца на англійскай.
+
+> **Шрыфт / Font.** Стандартны англійскі шрыфт гульні не змяшчае кірыліцы, таму
+> патрэбны мод-шрыфт `modBelarusianFont`, які дадае кірылічныя гліфы (уключна з
+> беларускімі **і**, **ў**). Ён засноўваецца на шрыфце з [украінскай лакалізацыі
+> (Nexus mod 8395)](https://www.nexusmods.com/witcher3/mods/8395) і таму **не
+> ўваходзіць у гэты рэпазіторый** — спампуйце ўкраінскі моўны пак і скапіруйце ягоны
+> `modUkrFont` як `modBelarusianFont` (тэчка `content/` з `blob0.bundle` і
+> `metadata.store`). Падзяка аўтарам украінскага пэка.
+
+## Структура / Layout
+
+```
+data/            паралельныя дадзеныя перакладу (en / ru / pl / bel) па файлах гульні
+  content0.json  …  content4.json
+mod/             гатовы да ўсталявання мод (толькі тэкст)
+  mods/mod000_Belarusian/content/en.w3strings
+tools/           скрыпты зборкі
+  build_mod.py   data → CSV → .w3strings (праз w3strings encoder)
+  overrides.json ручныя праўкі, што перажываюць паўторны экспарт з Crowdin
+```
+
+### Фармат дадзеных / Data format
+
+Кожны ключ — гэта `<id>_<keyhash>` са строкавай базы гульні; значэнне змяшчае
+арыгінал і пераклады:
+
+```json
+{
+  "1055110_231374e3": {
+    "en": "Skelliger",
+    "ru": "Островитянин",
+    "pl": "Skelligijczyk",
+    "bel": "Скеліганец"
+  }
+}
+```
+
+## Зборка / Build
+
+```bash
+python tools/build_mod.py --encoder path/to/w3strings.exe
+# → mod/mods/mod000_Belarusian/content/en.w3strings
+```
+
+`build_mod.py` бярэ `bel` з `data/*.json`, прымяняе `tools/overrides.json`,
+прапускае неперакладзеныя (роўныя `en`) і пустыя радкі, ачышчае пераносы радкоў і
+кадуе ў `.w3strings` ([w3strings encoder](https://www.nexusmods.com/witcher3/mods/1055)
+/ [w3stringsx](https://github.com/SpontanCombust/w3stringsx)).
+
+## Падзякі / Credits
+
+- Перакладчыкі супольнасці на Crowdin.
+- Шрыфт кірыліцы — з [украінскай лакалізацыі The Witcher 3](https://www.nexusmods.com/witcher3/mods/8395).
+- [w3strings encoder](https://www.nexusmods.com/witcher3/mods/1055) / [w3stringsx](https://github.com/SpontanCombust/w3stringsx).
+
+## Ліцэнзія / License
+
+Тэкст гульні належыць CD PROJEKT RED. Гэта некамерцыйны фанацкі пераклад.
