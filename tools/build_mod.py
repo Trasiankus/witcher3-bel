@@ -3,9 +3,14 @@
 
   python tools/build_mod.py --encoder path/to/w3strings.exe
 
-Reads the `bel` field from data/content*.json (translated-only), applies
-tools/overrides.json, neutralises stray newlines, and encodes a single
-en.w3strings into mod/mods/mod000_Belarusian/content/.
+Reads the `bel` field from every data file (translated-only), merges them in the
+game's load order, applies tools/overrides.json, neutralises stray newlines, and
+encodes a single en.w3strings into mod/mods/mod000_Belarusian/content/.
+
+Data files are named after the game archives they came from:
+  data/content0..12.json        base game + patches
+  data/dlc/{dlcN,ep1,bob}.json  DLCs and expansions
+Later files win on duplicate ids, mirroring how the game applies them.
 
 w3strings encoder v0.4.1: https://www.nexusmods.com/witcher3/mods/1055
 """
@@ -16,6 +21,26 @@ REPO = os.path.dirname(HERE)
 DATA = os.path.join(REPO, "data")
 OUT_DIR = os.path.join(REPO, "mod", "mods", "mod000_Belarusian", "content")
 CSV = os.path.join(HERE, "be.csv")
+
+
+def load_order(path):
+    """Game load order: base content -> patches -> DLCs -> ep1 -> bob (last-wins)."""
+    stem = os.path.basename(path)[:-5]
+    if stem.startswith("content"): cat = 0
+    elif stem.startswith("dlc"):   cat = 1
+    elif stem == "ep1":            cat = 2
+    else:                          cat = 3
+    m = re.search(r"(\d+)$", stem)
+    return (cat, int(m.group(1)) if m else 0, stem)
+
+
+def data_files():
+    out = []
+    for dirpath, _, filenames in os.walk(DATA):
+        out += [os.path.join(dirpath, fn) for fn in filenames if fn.endswith(".json")]
+    if not out:
+        sys.exit(f"no data files under {DATA}")
+    return sorted(out, key=load_order)
 
 
 def main():
@@ -29,20 +54,18 @@ def main():
     if os.path.isfile(ovr_path):
         overrides = json.load(io.open(ovr_path, encoding="utf-8-sig"))
 
-    # merge content0..4 last-wins (content4 overrides content0, mirroring the
-    # game's content-patch load order) so the build reproduces the shipped mod
     merged, order = {}, []
-    for i in range(5):
-        d = json.load(io.open(os.path.join(DATA, f"content{i}.json"), encoding="utf-8-sig"))
+    for path in data_files():
+        d = json.load(io.open(path, encoding="utf-8-sig"))
         for k, rec in d.items():
             if k not in merged:
                 order.append(k)
             merged[k] = rec
+        print(f"  {os.path.relpath(path, DATA)}: {len(d)}")
 
     rows, skip_empty, fixed_nl = [], 0, 0
     for k in order:
-        rec = merged[k]
-        bel = overrides.get(k, rec.get("bel", ""))
+        bel = overrides.get(k, merged[k].get("bel", ""))
         if not bel or not bel.strip():      # data is translated-only; just guard empties
             skip_empty += 1
             continue

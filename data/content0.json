@@ -93,7 +93,7 @@
     "en": "Find the looters' valuables using your Witcher Senses.",
     "ru": "Найти ценности мародёров, используя ведьмачье чутьё.",
     "pl": "Znajdź kosztowności szabrownika, używając wiedźmińskich zmysłów.",
-    "bel": "Знайсці каштоўнасці марадзёраў, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці каштоўнасці марадзёраў з дапамогай пачуцця ведзьмара."
   },
   "1086994_00000000": {
     "en": "Read the letter you found.",
@@ -2469,7 +2469,7 @@
     "en": "Search the room using your Witcher Senses.",
     "ru": "Обыскать помещение, используя ведьмачье чутьё.",
     "pl": "Przeszukaj pomieszczenie za pomocą wiedźmińskich zmysłów.",
-    "bel": "Абшукаць пакой, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць пакой з дапамогай пачуцця ведзьмара."
   },
   "1038635_00000000": {
     "en": "Light the braziers in the correct order.",
@@ -2481,7 +2481,7 @@
     "en": "Look for the lamp in the mage's laboratory using your Witcher Senses.",
     "ru": "Отыскать магический светильник в лаборатории чародея.",
     "pl": "Odszukaj magiczny kaganek w laboratorium.",
-    "bel": "Знайсці каганец у лабараторыі мага, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці каганец у лабараторыі мага з дапамогай пачуцця ведзьмара."
   },
   "1038638_00000000": {
     "en": "Take the tunnel back to the surface.",
@@ -2685,7 +2685,7 @@
     "en": "Look for signs indicating the cargo's owner using your Witcher Senses.",
     "ru": "Понять, кому мог принадлежать груз, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów sprawdź, do kogo należy ładunek.",
-    "bel": "Зразумець, каму належыў груз выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Зразумець, каму належыў груз з дапамогай пачуцця ведзьмара."
   },
   "440795_00000000": {
     "en": "Finders Keepers",
@@ -3297,7 +3297,7 @@
     "en": "Find the treasure in the shipwreck using your Witcher Senses.",
     "ru": "Найти сокровища на погибшем корабле, используя ведьмачье чутьё.",
     "pl": "Znajdź skarb we wraku statku, używając wiedźmińskich zmysłów.",
-    "bel": "Знайсці скарбы на загінулым караблі, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці скарбы на загінулым караблі з дапамогай пачуцця ведзьмара."
   },
   "1086672_00000000": {
     "en": "Read the well-worn letter.",
@@ -3969,7 +3969,7 @@
     "en": "Find the treasure hidden in the underwater cave using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти сокровища, спрятанные в подводной пещере.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć skarb ukryty w podwodnej jaskini.",
-    "bel": "Знайсці скарбы ў схаванай падводнай пячоры, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці скарбы ў схаванай падводнай пячоры з дапамогай пачуцця ведзьмара."
   },
   "1086771_00000000": {
     "en": "Read the letter you found.",
@@ -4203,7 +4203,7 @@
     "en": "Find those who ventured off toward the tower using your Witcher Senses.",
     "ru": "Отыскать людей, которые направились к башне, используя ведьмачье чутьё.",
     "pl": "Odszukaj ludzi, którzy udali się w stronę wieży, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Адшукаць людзей, якія накіраваліся да вежы, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Адшукаць людзей, якія накіраваліся да вежы з дапамогай пачуцця ведзьмара."
   },
   "170816_00000000": {
     "en": "Cross the lake.",
@@ -4221,13 +4221,13 @@
     "en": "Follow the boat trail using your Witcher Senses.",
     "ru": "Пройти по следу лодки, используя ведьмачье чутьё.",
     "pl": "Korzystając z wiedźmińskich zmysłów, idź za śladami ciągniętej łodzi.",
-    "bel": "Прайсці па следзе лодкі, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па следзе лодкі з дапамогай пачуцця ведзьмара."
   },
   "412917_00000000": {
     "en": "Explore the ruins of Urskar and search for signs of Hjalmar's presence using your Witcher Senses.",
     "ru": "Осмотреть руины Урскара и поискать следы Хьялмара, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów, zbadaj ruiny Urskar, by znaleźć ślady Hjalmara.",
-    "bel": "Агледзець руіны Урскара і пашукаць сляды Хьялмара, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець руіны Урскара і пашукаць сляды Хьялмара з дапамогай пачуцця ведзьмара."
   },
   "417287_00000000": {
     "en": "Search the siren cave and find who the voice belongs to.",
@@ -4245,19 +4245,19 @@
     "en": "Explore the remains of Hjalmar's camp using your Witcher Senses.",
     "ru": "Исследовать брошенный лагерь Хьялмара, используя ведьмачье чутьё.",
     "pl": "Zbadaj ruiny obozu Hjalmara za pomocą wiedźmińskich zmysłów.",
-    "bel": "Даследаваць кінуты лагер Х'ялмара, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць кінуты лагер Х'ялмара з дапамогай пачуцця ведзьмара."
   },
   "524612_00000000": {
     "en": "Explore the site of the battle and look for signs of Hjalmar using your Witcher Senses.",
     "ru": "Осмотреть поле боя и отыскать следы Хьялмара, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów, przeszukaj pobojowisko, by znaleźć ślady Hjalmara.",
-    "bel": "Агледзець поле бою і адшукаць сляды Х'ялмара, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець поле бою і адшукаць сляды Х'ялмара з дапамогай пачуцця ведзьмара."
   },
   "1072218_00000000": {
     "en": "Use your Witcher Senses to follow the tracks of those who fled the camp before the attack.",
     "ru": "Пройти по следам тех, кто сбежал из лагеря до нападения, используя ведьмачье чутьё.",
     "pl": "Używając z wiedźmińskich zmysłów, podążaj za śladami ludzi, którzy wyszli z obozu przed atakiem.",
-    "bel": "Прайсці па слядах тых, хто збег з лагера да нападу, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядах тых, хто збег з лагера да нападу з дапамогай пачуцця ведзьмара."
   },
   "1072407_00000000": {
     "en": "Find out what happened to Hjalmar's crew.",
@@ -4275,7 +4275,7 @@
     "en": "Find the man the trolls captured using your Witcher Senses.",
     "ru": "Найти человека, схваченного троллями, используя ведьмачье чутьё.",
     "pl": "Odszukaj człowieka porwanego przez trolle, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці чалавека, схопленага тролямі, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці чалавека, схопленага тролямі з дапамогай пачуцця ведзьмара."
   },
   "1051856_00000000": {
     "en": "It is a truth universally acknowledged that children only prove more troublesome as they mature. In Crach's case, any troubles his offspring had caused him only doubled after King Bran's death, when both his son and daughter joined the ranks of the claimants of Skellige's throne.<br>Tradition demanded the next king be a great hero, and Hjalmar, Crach's son, felt he fit the bill perfectly. As anyone versed in fable knows, there is no more fitting way to prove oneself a hero than to kill a giant - and it so happened there was one such beast in desperate need of slaughtering on the nearby isle of Undvik. Thus Hjalmar had organized an expedition and set off to earn his glory. Unfortunately, there'd been no word of him since and the jarl had begun to worry. Like many before and after him, he took this worry to the witcher.",
@@ -4347,7 +4347,7 @@
     "en": "Find the key to Vigi's cage using your Witcher Senses.",
     "ru": "Найти ключ от клетки с Виги.",
     "pl": "Znajdź klucz do klatki z Vigim, używając wiedźmińskich zmysłów.",
-    "bel": "Знайсці ключ ад клеткі, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці ключ ад клеткі з дапамогай пачуцця ведзьмара."
   },
   "420820_00000000": {
     "en": "Meet Folan near the sawmill.",
@@ -4449,7 +4449,7 @@
     "en": "Investigate the haunted mansion using your Witcher Senses.",
     "ru": "Осмотреть дом с привидениями, используя ведьмачье чутьё.",
     "pl": "Zbadaj nawiedzony dom używając wiedźmińskich zmysłów.",
-    "bel": "Агледзець дом з прывідамі, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець дом з прывідамі з дапамогай пачуцця ведзьмара."
   },
   "573126_00000000": {
     "en": "Investigate the basement using your Witcher Senses.",
@@ -4623,7 +4623,7 @@
     "en": "<i>Forktails… Bah! Fuckers' tails're more like cleavers.</i><br>– Yavinn Buck, veteran of the Mahakaman Volunteer Regiment<br><br>Forktails owe their quaint name to the long, sharp growths at the tip of their tails. A blow from this weapon can slice an oaken shield in two – along with the arm that was carrying it. Thus, though its name conjures images of cutlery, fighting a forktail is nothing like a dinner party and ends in death rather than dessert.<br>",
     "ru": "<i>Вилохвост… Ничё себе. Скорей уж, сука, мечехвост.</i><br>— Явинн Бук, ветеран махакамского полка добровольцев<br><br>Своим звучным названием вилохвост обязан длинным острым отросткам, венчающим его хвост. Нанесённый им удар может пробить насквозь и дубовый щит, и руку, которая его держит, даже если её будет защищать кольчужная перчатка. Другими словами, с вилохвостом, даже молодым, шутки плохи.<br>",
     "pl": "<i>Widłogon... Dobre sobie. Raczej, kurwa, mieczogon.</i><br>– Yavinn Buck, weteran Ochotniczego Hufu Mahakamskiego<br><br>Widłogon swoją dźwięczną nazwę zawdzięcza długim, ostrym wyrostkom wieńczącym jego ogon. Zadany nim cios potrafi przebić na wylot dębową tarczę i rękę, która ją trzyma, choćby chroniła ją kolcza rękawica. Innymi słowy, z widłogonem, nawet młodym, nie ma żartów.<br>",
-    "bel": "<i>Вілахвост... Нічога сабе. Хутчэй ужо, халера, мечахвост. — </i><br>Явін Бук, ветэран магакамскага палка добраахвотнікаў<br><br> Сваёй гучнай назвай вілахвост абавязаны доўгаму востраму адростку на хвасце. Нанесены ім удар можа прабіць наскрозь і дубовы шчыт, і руку, якая яго трымае, нават калі яе будзе абараняць кальчужная пальчатка. Іншымі словамі, з вілахвостам, нават маладым, лепей не жартаваць.<br>"
+    "bel": "<i>Вілахвост... нічога сабе. Хутчэй ужо, халера, мечахвост. — </i><br>Явін Бук, ветэран магакамскага палка добраахвотнікаў<br><br> Сваёй гучнай назвай вілахвост абавязаны доўгаму востраму адростку на хвасце. Нанесены ім удар можа прабіць наскрозь і дубовы шчыт, і руку, якая яго трымае, нават калі яе будзе абараняць кальчужная пальчатка. Іншымі словамі, з вілахвостам, нават маладым, лепей не жартаваць.<br>"
   },
   "1077784_00000000": {
     "en": "Forktails are active by day. They usually hunt alone or, more rarely, in pairs. They attack big game, including domesticated animals, mainly cattle and pigs, and even humans from time to time.<br><br>Like all draconids their massive size does not stop them from flying and attacking from the air. They use their weight and height advantage as they swoop down to knock their prey over with their wings. Once on the ground, they are somewhat less mobile but still dangerous, turning to other tactics centered on attacking with their massive, spike-covered tails.",
@@ -5397,7 +5397,7 @@
     "en": "Nathaniel Pastodi",
     "ru": "Натаниэль Пастоди",
     "pl": "Nataniel Pastodi",
-    "bel": "Нітаніель Пастоды"
+    "bel": "Натаніель Пастоды"
   },
   "594104_00000000": {
     "en": "Go back to Farcorners.",
@@ -5883,13 +5883,13 @@
     "en": "Investigate the place where the drowners were seen using your Witcher Senses.",
     "ru": "Осмотреть местность, где видели утопцев, используя ведьмачье чутьё.",
     "pl": "Za pomocą wiedźmińskich zmysłów zbadaj miejsca, gdzie widziano utopce.",
-    "bel": "Агледзець мясцовасць, дзе бачылі тапельцаў, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець мясцовасць, дзе бачылі тапельцаў з дапамогай пачуцця ведзьмара."
   },
   "1005080_00000000": {
     "en": "Search for the drowners' lair using your Witcher Senses.",
     "ru": "Осмотреть гнездо утопцев, используя ведьмачье чутьё.",
     "pl": "Zbadaj leże utopców za pomocą wiedźmińskich zmysłów.",
-    "bel": "Агледзець гняздо тапельцаў, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець гняздо тапельцаў з дапамогай пачуцця ведзьмара."
   },
   "1005092_00000000": {
     "en": "Hide in the water hag's lair and wait for the monster to return.",
@@ -5925,7 +5925,7 @@
     "en": "Search for the lair of the drowners using your Witcher Senses.",
     "ru": "Найти гнездо утопцев, используя ведьмачье чутьё.",
     "pl": "Poszukaj legowiska potwora za pomocą wiedźmińskich zmysłów.",
-    "bel": "Знайсці гняздо тапельцаў выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці гняздо тапельцаў з дапамогай пачуцця ведзьмара."
   },
   "1078418_00000000": {
     "en": "Obtain a drowner pheromone formula from the local herbalist or acquire it in some other way.",
@@ -5943,7 +5943,7 @@
     "en": "Investigate the drowners' lair using your Witcher Senses.",
     "ru": "Осмотреть потайное логово, используя ведьмачье чутьё.",
     "pl": "Zbadaj ukryte leże za pomocą wiedźmińskich zmysłów.",
-    "bel": "Агледзець патаемнае логава, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець патаемнае логава з дапамогай пачуцця ведзьмара."
   },
   "1086633_00000000": {
     "en": "Gather the ingredients for a drowner pheromone potion.",
@@ -7473,7 +7473,7 @@
     "en": "Find the hidden goods mentioned in the letter by using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти спрятанные ценности, о которых говорится в письме.",
     "pl": "Użyj wiedźmińskich zmysłów, by odnaleźć skrytkę, o której mowa w liście.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці схаваныя каштоўнасці, пра якія гаворыцца ў лісце."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці схаваныя каштоўнасці, пра якія гаворыцца ў лісце."
   },
   "1087029_00000000": {
     "en": "Read the letter you found.",
@@ -9645,7 +9645,7 @@
     "en": "Search for treasure on the bottom of the lake using your Witcher Senses.",
     "ru": "Отыскать клад на дне озера, используя ведьмачье чутьё.",
     "pl": "Poszukaj skarbu na dnie jeziora, używając wiedźmińskich zmysłów.",
-    "bel": "Адшукаць скарб на дне возера, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Адшукаць скарб на дне возера з дапамогай пачуцця ведзьмара."
   },
   "1086764_00000000": {
     "en": "Read the notes you found.",
@@ -9759,7 +9759,7 @@
     "en": "Search the nearby fields using your Witcher Senses.",
     "ru": "Обыскать близлежащие поля, используя ведьмачье чутьё.",
     "pl": "Przeszukaj okoliczne pole używając wiedźmińskich zmysłów.",
-    "bel": "Абшукаць бліжэйшыя палі, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць бліжэйшыя палі з дапамогай пачуцця ведзьмара."
   },
   "1015668_00000000": {
     "en": "Read the letter you found in the shallow grave.",
@@ -9861,7 +9861,7 @@
     "en": "Use your Witcher Senses to find out what happened to Dolores' brother.",
     "ru": "Узнать, что произошло с братом Долорес, используя ведьмачье чутьё.",
     "pl": "Użyj wiedźmińskich zmysłów by odkryć, co się stało z bratem Dolores.",
-    "bel": "Даведацца, што адбылося з братам Далорэс, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даведацца, што адбылося з братам Далорэс з дапамогай пачуцця ведзьмара."
   },
   "1012896_00000000": {
     "en": "Ask Dolores about the monsters in her manor.",
@@ -10107,7 +10107,7 @@
     "en": "Look for Cerys in the abandoned home using your Witcher Senses.",
     "ru": "Поискать Керис в заброшенном доме, используя ведьмачье чутьё.",
     "pl": "Poszukaj Cerys w opuszczonym domu, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Пашукаць Кэрыс у закінутым доме, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Пашукаць Кэрыс у закінутым доме з дапамогай пачуцця ведзьмара."
   },
   "486011_00000000": {
     "en": "Return to Udalryk.",
@@ -11187,7 +11187,7 @@
     "en": "Find dragonsroot using your Witcher Senses.",
     "ru": "Найти драконий корень, используя ведьмачье чутьё.",
     "pl": "Znajdź smoczy korzeń korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці корань дракона, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці корань дракона з дапамогай пачуцця ведзьмара."
   },
   "1038454_00000000": {
     "en": "Take the dragonsroot to the fortune teller.",
@@ -11535,7 +11535,7 @@
     "en": "Find the deserters' cache using your Witcher Senses.",
     "ru": "Найти тайник дезертиров, используя ведьмачье чутьё.",
     "pl": "Znajdź skrytkę dezerterów za pomocą wiedźmińskich zmysłów.",
-    "bel": "Знайсці тайнік дэзерціраў, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці тайнік дэзерціраў з дапамогай пачуцця ведзьмара."
   },
   "1087018_00000000": {
     "en": "Read the letter you found.",
@@ -11643,7 +11643,7 @@
     "en": "Look for the sword Jutta requested in the sunken ship's wreck using your Witcher Senses.",
     "ru": "Отыскать меч для Ютты на затопленном корабле, используя ведьмачье чутьё.",
     "pl": "Odnajdź miecz dla Jutty w zatopionym statku z pomocą wiedźmińskich zmysłów.",
-    "bel": "Адшукаць меч Юты ​​на патанулым караблі, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Адшукаць меч Юты ​​на патанулым караблі з дапамогай пачуцця ведзьмара."
   },
   "1018191_00000000": {
     "en": "Defeat Gundar.",
@@ -12213,7 +12213,7 @@
     "en": "Find the cargo using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти груз.",
     "pl": "Użyj wiedźmińskich zmysłów, by odnaleźć ładunek.",
-    "bel": "Знайсці груз, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці груз з дапамогай пачуцця ведзьмара."
   },
   "1086990_00000000": {
     "en": "Read the letter you found.",
@@ -12681,19 +12681,19 @@
     "en": "Search the bottom of the bay using your Witcher Senses.",
     "ru": "Обыскать дно бухты, используя ведьмачье чутьё.",
     "pl": "Przeszukaj dno za pomocą wiedźmińskich zmysłów.",
-    "bel": "Абшукаць дно бухты, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць дно бухты з дапамогай пачуцця ведзьмара."
   },
   "587274_00000000": {
     "en": "Search the bottom of the bay using your Witcher Senses.",
     "ru": "Обыскать дно бухты, используя ведьмачье чутьё.",
     "pl": "Przeszukaj dno za pomocą wiedźmińskich zmysłów.",
-    "bel": "Абшукаць дно бухты, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць дно бухты з дапамогай пачуцця ведзьмара."
   },
   "587277_00000000": {
     "en": "Search the bottom of the bay using your Witcher Senses.",
     "ru": "Обыскать дно бухты, используя ведьмачье чутьё.",
     "pl": "Przeszukaj dno za pomocą wiedźmińskich zmysłów.",
-    "bel": "Абшукаць дно бухты, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць дно бухты з дапамогай пачуцця ведзьмара."
   },
   "587278_00000000": {
     "en": "Return to the boat and talk to Yennefer.",
@@ -12717,7 +12717,7 @@
     "en": "Search the ship using your Witcher Senses.",
     "ru": "Обыскать корабль, используя ведьмачье чутьё.",
     "pl": "Przeszukaj statek za pomocą wiedźmińskich zmysłów.",
-    "bel": "Абшукаць карабель, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць карабель з дапамогай пачуцця ведзьмара."
   },
   "587280_00000000": {
     "en": "Stop the djinn.",
@@ -12801,7 +12801,7 @@
     "en": "Search Aeramas' residence using your Witcher Senses.",
     "ru": "Обыскать поместье Аэрамаса, используя ведьмачье чутьё.",
     "pl": "Przeszukaj rezydencję Aeramasa używając wiedźmińskich zmysłów.",
-    "bel": "Абшукаць маёнтак Аэрамаса, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць маёнтак Аэрамаса з дапамогай пачуцця ведзьмара."
   },
   "467287_00000000": {
     "en": "Find out more about the run-down residence.",
@@ -13041,7 +13041,7 @@
     "en": "Find Eskel using your Witcher Senses.",
     "ru": "Найти Эскеля, используя ведьмачье чутьё.",
     "pl": "Znajdź Eskela, posiłkując się wiedźmińskimi zmysłami.",
-    "bel": "Знайсці Эскеля, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці Эскеля з дапамогай пачуцця ведзьмара."
   },
   "532437_00000000": {
     "en": "Use your Witcher Senses to follow the sound Lambert heard.",
@@ -13323,7 +13323,7 @@
     "en": "Find the dwarven woodcarver's body using your Witcher Senses.",
     "ru": "Найти труп плотника-краснолюда, используя ведьмачье чутьё.",
     "pl": "Znajdź ciało krasnoludzkiego cieśli za pomocą wiedźmińskich zmysłów.",
-    "bel": "Знайсці труп цесляра-красналюда, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці труп цесляра-красналюда з дапамогай пачуцця ведзьмара."
   },
   "341504_00000000": {
     "en": "Find Eustace the corpse collector.",
@@ -13341,19 +13341,19 @@
     "en": "Investigate the alley where Priscilla was attacked using your Witcher Senses.",
     "ru": "Осмотреть переулок, в котором напали на Присциллу, используя ведьмачье чутьё.",
     "pl": "Użyj wiedźmińskich zmysłów by zbadać zaułek, w którym napadnięto Priscillę.",
-    "bel": "Агледзець завулак, у якім напалі на Прысцылу, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець завулак, у якім напалі на Прысцылу з дапамогай пачуцця ведзьмара."
   },
   "341502_00000000": {
     "en": "Examine the place where the woodcarver died using your Witcher Senses.",
     "ru": "Осмотреть место гибели плотника, используя ведьмачье чутьё.",
     "pl": "Zbadaj miejsce śmierci cieśli za pomocą wiedźmińskich zmysłów.",
-    "bel": "Агледзець месца гібелі цесляра, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець месца гібелі цесляра з дапамогай пачуцця ведзьмара."
   },
   "341500_00000000": {
     "en": "Examine the woodcarver's workshop using your Witcher Senses.",
     "ru": "Осмотреть мастерскую плотника, используя ведьмачье чутьё.",
     "pl": "Zbadaj warsztat cieśli korzystając z wiedźmińskich zmysłów.",
-    "bel": "Агледзець майстэрню цесляра, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець майстэрню цесляра з дапамогай пачуцця ведзьмара."
   },
   "341498_00000000": {
     "en": "Talk to the coroner.",
@@ -13515,7 +13515,7 @@
     "en": "Go to the place where Muggs was attacked and examine it using your Witcher Senses.",
     "ru": "Отправиться на место нападения на Муггса и осмотреться, используя ведьмачье чутьё.",
     "pl": "Udaj się na miejsce, gdzie Muggs został napadnięty i zbadaj je używając wiedźmińskich zmysłów.",
-    "bel": "Адправіцца на месца нападу на Магза і даследаваць яго, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Адправіцца на месца нападу на Магза і даследаваць яго з дапамогай пачуцця ведзьмара."
   },
   "467429_00000000": {
     "en": "Use your Witcher Senses to follow the clues to find Muggs' attackers.",
@@ -15255,19 +15255,19 @@
     "en": "Examine where the monster attacked using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, осмотреть место нападения чудовища.",
     "pl": "Zbadaj miejsce ataku potwora używając wiedźmińskich zmysłów.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, агледзець месца нападу пачвары."
+    "bel": "З дапамогай пачуцця ведзьмара агледзець месца нападу пачвары."
   },
   "564659_00000000": {
     "en": "Follow the blood trail using your Witcher Senses.",
     "ru": "Пройти по кровавому следу, используя ведьмачье чутьё.",
     "pl": "Podążaj za śladami krwi używając wiedźmińskich zmysłów.",
-    "bel": "Прайсці па крывавым следзе, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па крывавым следзе з дапамогай пачуцця ведзьмара."
   },
   "564669_00000000": {
     "en": "Follow the ravens using your Witcher Senses.",
     "ru": "Последовать за воронами, используя ведьмачье чутьё.",
     "pl": "Idź za krukami, posługując się wiedźmińskimi zmysłami.",
-    "bel": "Рушыць услед за крумкачамі, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Рушыць услед за крумкачамі з дапамогай пачуцця ведзьмара."
   },
   "564674_00000000": {
     "en": "Find the griffin's nest.",
@@ -15417,25 +15417,25 @@
     "en": "Find the silver sword upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения серебряного меча.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie miecza srebrnego.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння сярэбранага мяча."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння сярэбранага мяча."
   },
   "1078500_00000000": {
     "en": "Find the armor upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения доспеха.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie pancerza.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння даспеха."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння даспеха."
   },
   "1078518_00000000": {
     "en": "Find the boots upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения сапог.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie butów.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння ботаў."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння ботаў."
   },
   "1084666_00000000": {
     "en": "Find the silver sword upgrade diagram.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения серебряного меча.",
     "pl": "Znajdź schemat na ulepszenie miecza srebrnego.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння сярэбранага мяча."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння сярэбранага мяча."
   },
   "1084667_00000000": {
     "en": "Find the armor upgrade diagram.",
@@ -16425,7 +16425,7 @@
     "en": "Find the body of the pellar's father in the swamps using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти тело отца ворожея на болотах.",
     "pl": "Odszukaj ciało ojca Guślarza na moczarach, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці цела бацькі Варажбіта на балотах."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці цела бацькі Варажбіта на балотах."
   },
   "569021_00000000": {
     "en": "Burn the pellar's father's body.",
@@ -17253,7 +17253,7 @@
     "en": "Look for the key using your  Witcher Senses.",
     "ru": "Поискать ключ, используя ведьмачье чутьё.",
     "pl": "Znajdź klucz za pomocą wiedźmińskich zmysłów.",
-    "bel": "Пашукаць ключ, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Пашукаць ключ з дапамогай пачуцця ведзьмара."
   },
   "1037218_00000000": {
     "en": "Open the door to Polly's home.",
@@ -17691,7 +17691,7 @@
     "en": "Follow the blood trail using your Witcher Senses to find the hidden treasure.",
     "ru": "Используя ведьмачье чутьё, пройти по кровавым следам до тайника с кладом.",
     "pl": "Używając wiedźmińskich zmysłów, podążaj śladami krwi do ukrytego skarbu.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, прайсці па крывавых слядах да схованкі са скарбам."
+    "bel": "З дапамогай пачуцця ведзьмара прайсці па крывавых слядах да схованкі са скарбам."
   },
   "1086996_00000000": {
     "en": "Read the notes you found.",
@@ -17835,7 +17835,7 @@
     "en": "Find the sunken treasure using your Witcher Senses.",
     "ru": "Найти утонувшие ценности, используя ведьмачье чутьё.",
     "pl": "Znajdź zatopioną skrzynię ze skarbem, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці патанулы скарб, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці патанулы скарб з дапамогай пачуцця ведзьмара."
   },
   "1087025_00000000": {
     "en": "Read the letter you found.",
@@ -18027,7 +18027,7 @@
     "en": "Cirilla Fiona Elen Riannon – what can I possibly say about her? That we call her Ciri for short, that she was born in 1251, that she has ashen hair and a scar on her cheek?<br><br>All true, and that's the Cirilla I know best, the one I first laid eyes upon those many years ago, the one who seemed thoroughly, well, not ordinary, but certainly not as extraordinary as she in fact is.<br><br>For Cirilla is also a highly-skilled witcher, heiress to several thrones, the last bearer of the Elder Blood, a powerful Source endowed with exceptional magic talent and the Lady of Time and Space. Her hair color and date of birth seem... rather incidental now, don't they? <br><br>I could also tell you she is Geralt's adopted daughter – but that would be a gross simplification. Ciri is much more. She is his Destiny, his Unexpected Child, someone bound to the witcher by Fate's most inextricably tangled fetters. <br><br>Following age-old witcher tradition, Geralt took Ciri to Kaer Morhen when she came into his care. There he and Vesemir taught her in the ways of the professional monster slayer. It was then that her magic talents were first revealed, and they discovered she was a Source. <br>Ciri's gift proved a curse as well. Because of it, she would one day have to hide from the entire world – even Geralt.",
     "ru": "Цирилла Фиона Элен Рианнон. Что я могу о ней рассказать? Что друзья зовут её Цири, появилась она на свет в 1251 году, у неё пепельные волосы и шрам на щеке? Всё это так. И с виду Цирилла, которую я хорошо знаю и которую впервые увидел много-много лет назад, была не сказать чтобы совсем обычной, нет, она была очень даже примечательной, но, глядя на неё, нельзя было и представить, сколь она необыкновенна. Ибо Цирилла — умелая ведьмачка, наследница нескольких королевских тронов, последняя носительница Старшей Крови, могущественный Исток, обладательница исключительных магических способностей, Повелительница Времени и Пространства. Разве имеет значение цвет её волос или год рождения?<br><br>Я мог бы сказать, что она приёмная дочь Геральта, но это было бы грубым упрощением. Цири для него нечто гораздо большее. Цири — его Предназначение, Дитя-Неожиданность, связанное с его жизнью тысячами неразрывных нитей.<br><br>Следуя вековой традиции ведьмаков, Геральт привёз свою воспитанницу в Каэр Морхен. Здесь они с Весемиром обучали её искусству убивать чудовищ. Здесь же впервые раскрылись её магические таланты и ведьмаки узнали, что девочка — Исток.<br><br>Дар Цири оказался её проклятием, и однажды именно из-за него ей пришлось скрываться от всех — даже от Геральта.<br>",
     "pl": "Urodzona w 1251 roku Cirilla Fiona Elen Riannon, albo po prostu Ciri, jest bezsprzecznie osobą niezwykłą – choć gdy spotkałem ją po raz pierwszy, wydała mi się zwyczajną, szarowłosą dziewczynką. <br><br>Powiedzieć o Ciri, że jest przybraną córką Geralta, byłoby znacznym uproszczeniem. Ciri jest bowiem kimś więcej. Jest jego Przeznaczeniem, Dzieckiem-Niespodzianką, połączonym z wiedźminem skomplikowanymi więzami losu.<br><br>Postępując zgodnie z tradycjami wiedźmińskiego fachu, Geralt zabrał Ciri do Kaer Morhen. Tam, wraz z Vesemirem, przyuczał ją do fachu zabójcy potworów. Wówczas okazało się, że Ciri jest Źródłem – osobą obdarzoną potężnym magicznym talentem.<br><br>Zdolności Ciri okazały się też jej przekleństwem. Przez nie musiała skryć się przed całym światem – nawet przed Geraltem.<br>",
-    "bel": "Цырыла Фіёна Элен Рыянон — што можна сказаць пра яе? Што мы клічам яе Цыры, што яна нарадзілася ў 1251-ым, што ў яе папялястыя валасы і шнар на шчацэ?<br><br>Усё так, і гэта Цырыла, якую так добра ведаю, якую пабачыў шмат гадоў таму і якую падавалася не, не звычайнай, але дакладна не настолькі асаблівай, якой яна сапраўды з'яўляецца.<br><br>Цырыла – ўмелая вядзьмарка, спадчынніца некалькіх тронаў, апошняя носьбітка Старэйшай Крывы, магутны Выток, адораны выключным магічным талентам і Уладарка Часу ды Прасторы. З такім паслужным спісам яе колер валасоў і дата нараджэння здаюцца... неяк другараднымі, ці не так? <br><br>Можна сказаць, што яна прыёмная дачка Геральта, але гэта было недаравальным спрашчэнням. Цыры – нешта большае. Яна – яго Лёс, Дзіця-Нечаканасць, чалавек, звязаны з жыццём ведзьмара самымі неразрыўнымі ніцямі. <br><br>Па спрадвечнай традыцыі ведзьмароў, Геральт узяў Цыры да Каэр-Морэна, дзе ён і Весемір абучалі дзяўчыну мастацтву вынішчэння пачвар. Там упершыню праявіліся яе магічныя таленты, і ведзьмары даведаліся, што яна – Выток. <br>Дар Цыры стаў яе ж праклёнам, які змусіў дзяўчыну хавацца ад іх, нават ад Геральта."
+    "bel": "Цырыла Фіёна Элен Рыянон — што можна сказаць пра яе? Што мы клічам яе Цыры, што яна нарадзілася ў 1251-ым, што ў яе папялястыя валасы і шнар на шчацэ?<br><br>Усё так, і гэта Цырыла, якую так добра ведаю, якую пабачыў шмат гадоў таму і якую падавалася не, не звычайнай, але дакладна не настолькі асаблівай, якой яна сапраўды з'яўляецца.<br><br>Цырыла – ўмелая вядзьмарка, спадчынніца некалькіх тронаў, апошняя носьбітка Старэйшай Крывы, магутны Выток, адораны выключным магічным талентам і Уладарка Часу ды Прасторы. З такім паслужным спісам яе колер валасоў і дата нараджэння здаюцца... неяк другараднымі, ці не так? <br><br>Можна сказаць, што яна прыёмная дачка Геральта, але гэта было недаравальным спрашчэнням. Цыры – нешта большае. Яна – яго Лёс, Дзіця-Нечаканасць, чалавек, звязаны з жыццём ведзьмара самымі неразрыўнымі ніцямі.<br><br>Па спрадвечнай традыцыі ведзьмароў, Геральт узяў Цыры да Каэр-Морэна, дзе ён і Весемір абучалі дзяўчыну мастацтву вынішчэння пачвар. Там упершыню праявіліся яе магічныя таленты, і ведзьмары даведаліся, што яна – Выток.<br>Дар Цыры стаў яе ж праклёнам, які змусіў дзяўчыну хавацца ад іх, нават ад Геральта."
   },
   "492593_00000000": {
     "en": "Ciri's biography contained one more great secret. Her natural father was none other than the emperor of Nilfgaard, Emhyr var Emreis. His words confirmed the fears swirling in Geralt's mind. Ciri had returned and was in mortal danger, for the unrelenting Wild Hunt was on her trail.<br>",
@@ -19503,7 +19503,7 @@
     "en": "Search Whoreson Junior's hideout using your Witcher Senses.",
     "ru": "Обыскать укрытие Ублюдка Младшего, используя ведьмачье чутьё.",
     "pl": "Przeszukaj kryjówkę Skurwiela Juniora korzystając z wiedźmińskich zmysłów.",
-    "bel": "Абшукаць сховішча Вырадка Малодшага, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць сховішча Вырадка Малодшага з дапамогай пачуцця ведзьмара."
   },
   "488457_00000000": {
     "en": "Defeat the assassins.",
@@ -19569,7 +19569,7 @@
     "en": "Use your Witcher Senses to find a way to access the secret stash.",
     "ru": "Придумать, как пробраться в тайник, используя ведьмачье чутьё.",
     "pl": "Dostań się do schowka, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Прыдумаць, як прабрацца ў схованку, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прыдумаць, як прабрацца ў схованку з дапамогай пачуцця ведзьмара."
   },
   "417962_00000000": {
     "en": "Search the secret stash.",
@@ -19665,7 +19665,7 @@
     "en": "Search the abandoned sawmill using your Witcher Senses.",
     "ru": "Осмотреть заброшенную лесопилку, используя ведьмачье чутьё.",
     "pl": "Przeszukaj opuszczony tartak za pomocą wiedźmińskich zmysłów.",
-    "bel": "Агледзець закінутую лесапільню, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець закінутую лесапільню з дапамогай пачуцця ведзьмара."
   },
   "1073377_00000000": {
     "en": "Abandoned Sawmill",
@@ -20343,7 +20343,7 @@
     "en": "Explore the lighthouse using your Witcher Senses.",
     "ru": "Осмотреть маяк, используя ведьмачье чутьё.",
     "pl": "Zbadaj latarnię morską przy użyciu wiedźmińskich zmysłów.",
-    "bel": "Агледзець маяк, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець маяк з дапамогай пачуцця ведзьмара."
   },
   "1078136_00000000": {
     "en": "Read the letter from the lighthouse.",
@@ -20589,13 +20589,13 @@
     "en": "Search for signs of Craven near the sacred tree using your Witcher Senses.",
     "ru": "Поискать следы Труса под священным деревом, используя ведьмачье чутьё.",
     "pl": "Poszukaj śladów Tchórza wokół świętego drzewa, używając wiedźmińskich zmysłów.",
-    "bel": "Пашукаць сляды Баязліўца пад святым дрэвам, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Пашукаць сляды Баязліўца пад святым дрэвам з дапамогай пачуцця ведзьмара."
   },
   "1048558_00000000": {
     "en": "Follow Craven's footsteps using your Witcher Senses.",
     "ru": "Пройти по следу Труса, используя ведьмачье чутьё.",
     "pl": "Podążaj śladami Tchórza, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Прайсці па следзе Баязліўца, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па следзе Баязліўца з дапамогай пачуцця ведзьмара."
   },
   "1048559_00000000": {
     "en": "Get past the barricaded doors.",
@@ -20607,7 +20607,7 @@
     "en": "Find Craven using your Witcher Senses.",
     "ru": "Отыскать Труса, используя ведьмачье чутьё.",
     "pl": "Odszukaj Tchórza, używając wiedźmińskich zmysłów.",
-    "bel": "Знайсці Баязліўца, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці Баязліўца з дапамогай пачуцця ведзьмара."
   },
   "1048561_00000000": {
     "en": "Get out of the underground chamber.",
@@ -21153,19 +21153,19 @@
     "en": "Find the gauntlets upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения перчаток.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie rękawice.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння пальчатак."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння пальчатак."
   },
   "1079673_00000000": {
     "en": "Find the steel sword upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения стального меча.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie miecza stalowy.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння стальнога мяча."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння стальнога мяча."
   },
   "1079675_00000000": {
     "en": "Find the trousers upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения штанов.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie spodni.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння штаноў."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння штаноў."
   },
   "1084681_00000000": {
     "en": "Find the gauntlets upgrade diagram.",
@@ -21243,7 +21243,7 @@
     "en": "Find Zed's ledger using your Witcher Senses.",
     "ru": "Найти учётную книгу Зеда, используя ведьмачье чутьё.",
     "pl": "Odszukaj księgę rachunkową Zeda korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці ўліковую кнігу Зэда, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці ўліковую кнігу Зэда з дапамогай пачуцця ведзьмара."
   },
   "1035035_00000000": {
     "en": "Bring Zed's ledger to Zoltan.",
@@ -21261,7 +21261,7 @@
     "en": "Search Zed's home using your Witcher Senses.",
     "ru": "Обыскать дом Зеда, используя ведьмачье чутьё.",
     "pl": "Przeszukaj dom Zeda korzystając z wiedźmińskich zmysłów.",
-    "bel": "Абшукаць дом Зэда, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць дом Зэда з дапамогай пачуцця ведзьмара."
   },
   "1035159_00000000": {
     "en": "Bring Zoltan the Fringilla Vigo and John Natalis cards.",
@@ -21309,7 +21309,7 @@
     "en": "Search upstairs in Caesar Bilzen's home using your Witcher Senses.",
     "ru": "Обыскать верхний этаж в доме Цезаря Бильзена, используя ведьмачье чутьё.",
     "pl": "Przeszukaj piętro w domu Caesara Bilzena za pomocą wiedźmińskich zmysłów.",
-    "bel": "Абшукаць верхні паверх у доме Цэзара Більзэна, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць верхні паверх у доме Цэзара Більзэна з дапамогай пачуцця ведзьмара."
   },
   "562197_00000000": {
     "en": "Let Zoltan know you've found the card.",
@@ -21681,19 +21681,19 @@
     "en": "Examine the victims' bodies using your Witcher Senses.",
     "ru": "Осмотреть тела жертв, используя ведьмачье чутьё.",
     "pl": "Użyj wiedźmińskich zmysłów, by zbadać ciała ofiar.",
-    "bel": "Даследуйце цела ахвяры, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследуйце цела ахвяры з дапамогай пачуцця ведзьмара."
   },
   "581330_00000000": {
     "en": "Use your Witcher Senses to follow the monster's tracks to the site of the attack.",
     "ru": "Используя ведьмачье чутьё, пройти по следам чудовища к месту нападения.",
     "pl": "Poszukaj śladów potwora w miejscu ataku za pomocą wiedźmińskich zmysłów.",
-    "bel": "Адшукайце сляды пачвары на месцы нападу, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Адшукайце сляды пачвары на месцы нападу з дапамогай пачуцця ведзьмара."
   },
   "581334_00000000": {
     "en": "Follow the monster's tracks using your Witcher Senses.",
     "ru": "Идти по следу чудовища, используя ведьмачье чутьё.",
     "pl": "Podążaj za śladami krwi używając wiedźmińskich zmysłów.",
-    "bel": "Прайсці па слядах пачвары, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядах пачвары з дапамогай пачуцця ведзьмара."
   },
   "581335_00000000": {
     "en": "Talk to the village elder in Fyresdal about bait.",
@@ -21771,7 +21771,7 @@
     "en": "Use your Witcher Senses to find out what's killing drowners near the lake.",
     "ru": "Используя ведьмачье чутьё, узнать, что убивает утопцев рядом с озером.",
     "pl": "Korzystając z wiedźmińskich zmysłów ustal, co zabija utopce w pobliżu jeziora.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, даведацца, што забівае тапельнікаў каля возера."
+    "bel": "З дапамогай пачуцця ведзьмара даведацца, што забівае тапельнікаў каля возера."
   },
   "1043875_00000000": {
     "en": "Kill the troll.",
@@ -22113,19 +22113,19 @@
     "en": "Find the steel sword upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения стального меча.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie miecza stalowego.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння стальнога мяча."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння стальнога мяча."
   },
   "1078502_00000000": {
     "en": "Find the trousers upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения штанов.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie spodni.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння штаноў."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння штаноў."
   },
   "1078506_00000000": {
     "en": "Find the gauntlets upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения перчаток.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie rękawic.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння пальчатак."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння пальчатак."
   },
   "1084669_00000000": {
     "en": "Find the steel sword upgrade diagram.",
@@ -22263,7 +22263,7 @@
     "en": "Search the abandoned house using your Witcher Senses.",
     "ru": "Обыскать опустевший дом, используя ведьмачье чутьё.",
     "pl": "Przeszukaj opuszczony dom używając wiedźmińskich zmysłów.",
-    "bel": "Абшукаць закінуты дом, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць закінуты дом з дапамогай пачуцця ведзьмара."
   },
   "1051170_00000000": {
     "en": "When Geralt saw a dog which was clearly someone's beloved pet surrounded by a pack of starving wolves, he could not help but interfere and save the poor animal's life. The wolves slain, he petted the dog to calm it and discovered there was a key sewn into its collar.<br>",
@@ -23025,19 +23025,19 @@
     "en": "Determine what happened in the mine using your Witcher Senses.",
     "ru": "Понять, что произошло в шахте, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów ustal, co stało się w kopalniach.",
-    "bel": "Вызнач, што здарылася ў шахце, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Вызнач, што здарылася ў шахце з дапамогай пачуцця ведзьмара."
   },
   "507730_00000000": {
     "en": "Explore the mine using your Witcher Senses.",
     "ru": "Осмотреть шахту, используя ведьмачье чутьё.",
     "pl": "Zbadaj kopalnie używając wiedźmińskich zmysłów.",
-    "bel": "Даследуй шахту, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследуй шахту з дапамогай пачуцця ведзьмара."
   },
   "1061624_00000000": {
     "en": "Find out where the monsters in the mine are coming from using your Witcher Senses.",
     "ru": "Найти, откуда в шахту лезут чудовища, используя ведьмачье чутьё.",
     "pl": "Odkryj skąd biorą się potwory w kopalni używając wiedźmińskich zmysłów.",
-    "bel": "Даведайся, адкуль бяруцца пачвары ў шахце, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даведайся, адкуль бяруцца пачвары ў шахце з дапамогай пачуцця ведзьмара."
   },
   "440629_00000000": {
     "en": "Kill the arachas.",
@@ -23079,7 +23079,7 @@
     "en": "Investigate the arachas' lair using your Witcher Senses.",
     "ru": "Осмотреть логово главоглаза, используя ведьмачье чутьё.",
     "pl": "Przeszukaj leże krabopająka używając wiedźmińskich zmysłów.",
-    "bel": "Даследуй логава крабапавука, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследуй логава крабапавука з дапамогай пачуцця ведзьмара."
   },
   "440626_00000000": {
     "en": "Contract: Missing Brother",
@@ -24375,19 +24375,19 @@
     "en": "Examine the cart using your Witcher Senses.",
     "ru": "Осмотреть телегу, используя ведьмачье чутьё.",
     "pl": "Zbadaj wóz używając wiedźmińskich zmysłów.",
-    "bel": "Агледзець воз, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець воз з дапамогай пачуцця ведзьмара."
   },
   "557986_00000000": {
     "en": "Follow the scent using your Witcher Senses.",
     "ru": "Идти по запаху, используя ведьмачье чутьё.",
     "pl": "Idź śladem zapachu używając wiedźmińskich zmysłów.",
-    "bel": "Ісці па следзе паху, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Ісці па следзе паху з дапамогай пачуцця ведзьмара."
   },
   "557995_00000000": {
     "en": "Explore the cave using your Witcher Senses.",
     "ru": "Осмотреть пещеру, используя ведьмачье чутьё.",
     "pl": "Zbadaj jaskinię używając wiedźmińskich zmysłów.",
-    "bel": "Агледзець пячору, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець пячору з дапамогай пачуцця ведзьмара."
   },
   "557974_00000000": {
     "en": "Contract: Phantom of the Trade Route",
@@ -25071,13 +25071,13 @@
     "en": "Examine the site where the monster was seen using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, осмотреть место нападения чудовища.",
     "pl": "Używając wiedźmińskich zmysłów zbadaj miejsce, w którym widziano potwora.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, агледзь месца, дзе бачылі пачвару."
+    "bel": "З дапамогай пачуцця ведзьмара агледзь месца, дзе бачылі пачвару."
   },
   "571594_00000000": {
     "en": "Look over the victims' bodies using your Witcher Senses.",
     "ru": "Осмотреть тела жертв, используя ведьмачье чутьё.",
     "pl": "Zbadaj ciała ofiar używając wiedźmińskich zmysłów.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, даследуйце целы ахвяр."
+    "bel": "З дапамогай пачуцця ведзьмара даследуйце целы ахвяр."
   },
   "571596_00000000": {
     "en": "Talk to the innkeep and get drunk in order to bait the katakan.",
@@ -25101,7 +25101,7 @@
     "en": "Track down the katakan using your Witcher Senses.",
     "ru": "Выследить катакана, используя ведьмачье чутьё.",
     "pl": "Użyj wiedźmińskich zmysłów do wytropienia katakana.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, высачы катакана."
+    "bel": "З дапамогай пачуцця ведзьмара высачы катакана."
   },
   "571600_00000000": {
     "en": "Get inside the katakan's hideout.",
@@ -25155,7 +25155,7 @@
     "en": "Find out what's stealing the old woman's chickens using your Witcher Senses.",
     "ru": "Узнать, кто таскает кур у старушки, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów dowiedz się, co porywa kurczęta staruszki.",
-    "bel": "Даведацца, хто крадзе ў старой курэй, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даведацца, хто крадзе ў старой курэй з дапамогай пачуцця ведзьмара."
   },
   "472948_00000000": {
     "en": "Convince the old woman to take in the children.",
@@ -26349,7 +26349,7 @@
     "en": "Search for treasure in the elven ruins using your Witcher Senses.",
     "ru": "Отыскать сокровища в эльфских руинах, используя ведьмачье чутьё.",
     "pl": "Poszukaj skarbu w elfich ruinach, używając wiedźmińskich zmysłów.",
-    "bel": "Адшукаць скарб у эльфаўскіх руінах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Адшукаць скарб у эльфаўскіх руінах з дапамогай пачуцця ведзьмара."
   },
   "1087010_00000000": {
     "en": "Read the notes you found.",
@@ -26385,19 +26385,19 @@
     "en": "Explore the village using your Witcher Senses.",
     "ru": "Осмотреть деревню, используя ведьмачье чутьё.",
     "pl": "Zbadaj wioskę używając wiedźmińskich zmysłów.",
-    "bel": "Агледзець вёску, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець вёску з дапамогай пачуцця ведзьмара."
   },
   "552362_00000000": {
     "en": "Follow the scent of blood using your Witcher Senses.",
     "ru": "Пройти по запаху крови, используя ведьмачье чутьё.",
     "pl": "Idź śladem zapachu krwi używając wiedźmińskich zmysłów.",
-    "bel": "Прайсці па паху крыві, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па паху крыві з дапамогай пачуцця ведзьмара."
   },
   "552363_00000000": {
     "en": "Explore the tunnels under Byways using your Witcher Senses.",
     "ru": "Осмотреть тоннели под Стёжками, используя ведьмачье чутьё.",
     "pl": "Zbadaj tunele pod Stegną używając wiedźmińskich zmysłów.",
-    "bel": "Агледзець тунэлі пад Сцежкамі, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець тунэлі пад Сцежкамі з дапамогай пачуцця ведзьмара."
   },
   "552364_00000000": {
     "en": "Deal with the ghouls prowling the village.",
@@ -26637,7 +26637,7 @@
     "en": "Find the bones of the spirit trapped beneath the Whispering Hillock using your Witcher Senses.",
     "ru": "Найти кости духа, запертого под Шепчущим холмом, используя ведьмачье чутьё.",
     "pl": "Korzystając z wiedźmińskich zmysłów, odszukaj kości uwięzionej pod Szepczącym Wzgórzem.",
-    "bel": "Знайсці косткі духу, зняволены пад Пагоркам Шэптаў, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці косткі духу, зняволены пад Пагоркам Шэптаў з дапамогай пачуцця ведзьмара."
   },
   "402786_00000000": {
     "en": "Find a raven feather.",
@@ -26667,7 +26667,7 @@
     "en": "Find where the voice is coming from using your Witcher Senses.",
     "ru": "Понять, откуда доносится голос, используя ведьмачье чутьё.",
     "pl": "Użyj wiedźmińskich zmysłów aby znajdź miejsce, z którego dochodzi głos.",
-    "bel": "Зразумець, адкуль даносіцца голас, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Зразумець, адкуль даносіцца голас з дапамогай пачуцця ведзьмара."
   },
   "402792_00000000": {
     "en": "Destroy the heart in the tree's roots.",
@@ -26763,7 +26763,7 @@
     "en": "Find the Allgod using your Witcher Senses.",
     "ru": "Найти Всебога, используя ведьмачье чутьё.",
     "pl": "Odszukaj Wszechboga, używając wiedźmińskich zmysłów.",
-    "bel": "Знайсці Усябога, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці Усябога з дапамогай пачуцця ведзьмара."
   },
   "562684_00000000": {
     "en": "Kill the sylvan.",
@@ -27693,19 +27693,19 @@
     "en": "Find the silver sword upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения серебряного меча.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie miecza srebrnego.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння сярэбранага мяча."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння сярэбранага мяча."
   },
   "1082102_00000000": {
     "en": "Find the steel sword upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения стального меча.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie miecza stalowego.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння стальнога мяча."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння стальнога мяча."
   },
   "1082103_00000000": {
     "en": "Find the armor upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения доспеха.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie pancerza.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння даспеха."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння даспеха."
   },
   "1084696_00000000": {
     "en": "Find the silver sword upgrade diagram.",
@@ -28107,13 +28107,13 @@
     "en": "Examine the crime scene using your Witcher Senses.",
     "ru": "Осмотреть место преступления, используя ведьмачье чутьё.",
     "pl": "Zbadaj miejsce zbrodni używając wiedźmińskich zmysłów.",
-    "bel": "Даследаваць месца злачынства, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць месца злачынства з дапамогай пачуцця ведзьмара."
   },
   "568247_00000000": {
     "en": "Follow the tracks using your Witcher Senses.",
     "ru": "Пройти по следам, используя ведьмачье чутьё.",
     "pl": "Podążaj po śladach używając wiedźmińskich zmysłów.",
-    "bel": "Прайсці па слядах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядах з дапамогай пачуцця ведзьмара."
   },
   "568248_00000000": {
     "en": "Talk to the brothel owner.",
@@ -28125,13 +28125,13 @@
     "en": "Investigate the brothel and its surroundings using your Witcher Senses.",
     "ru": "Осмотреть бордель и его окрестности, используя ведьмачье чутьё.",
     "pl": "Zbadaj zamtuz i jego otoczenie za pomocą wiedźmińskich zmysłów.",
-    "bel": "Даследаваць бардэль і яго ваколіцы, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць бардэль і яго ваколіцы з дапамогай пачуцця ведзьмара."
   },
   "568250_00000000": {
     "en": "Follow the scent of perfume using your Witcher Senses.",
     "ru": "Пройти по запаху духов, используя ведьмачье чутьё.",
     "pl": "Idź po śladach zapachu perfum używając wiedźmińskich zmysłów.",
-    "bel": "Прайсці ўслед за водарам парфумы, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці ўслед за водарам парфумы з дапамогай пачуцця ведзьмара."
   },
   "568251_00000000": {
     "en": "Find a way into the house.",
@@ -28317,7 +28317,7 @@
     "en": "Explore the old bastion near Kaer Morhen using your Witcher Senses.",
     "ru": "Исследовать старый бастион неподалёку от Каэр Морхена, используя ведьмачье чутьё.",
     "pl": "Zbadaj stary bastion nieopodal Kaer Morhen korzystając z wiedźmińskich zmysłów.",
-    "bel": "Даследаваць стары бастыён каля Каэр-Морэн, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць стары бастыён каля Каэр-Морэн з дапамогай пачуцця ведзьмара."
   },
   "1029389_00000000": {
     "en": "Eliminate the wraiths haunting the old bastion.",
@@ -28335,7 +28335,7 @@
     "en": "Explore the old bastion near Kaer Morhen using your Witcher Senses.",
     "ru": "Исследовать старый бастион неподалёку от Каэр Морхена, используя ведьмачье чутьё.",
     "pl": "Zbadaj stary bastion nieopodal Kaer Morhen korzystając z wiedźmińskich zmysłów.",
-    "bel": "Даследаваць стары бастыён каля Каэр-Морэна, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць стары бастыён каля Каэр-Морэна з дапамогай пачуцця ведзьмара."
   },
   "1029392_00000000": {
     "en": "Use Keira's lamp to investigate the old bastion.",
@@ -28347,7 +28347,7 @@
     "en": "Look for the boy's remains around the bastion using your Witcher Senses.",
     "ru": "Обыскать местность вокруг бастиона и найти кости мальчика, используя ведьмачье чутьё.",
     "pl": "Przeszukaj teren bastionu za pomocą wiedźmińskich zmysłów by odnaleźć kości chłopca.",
-    "bel": "Даследаваць наваколле бастыёна, выкарыстоўваючы пачуцце ведзьмара, каб знайсці астанкі хлопчыка."
+    "bel": "Даследаваць наваколле бастыёна з дапамогай пачуцця ведзьмара, каб знайсці астанкі хлопчыка."
   },
   "1029394_00000000": {
     "en": "Use Keira's lamp to find out what happened to the boy.",
@@ -30339,49 +30339,49 @@
     "en": "Follow Eskel's tracks using your Witcher Senses.",
     "ru": "Пройти по следам Эскеля, используя ведьмачье чутьё.",
     "pl": "Podążaj śladami Eskela, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Прайсці па слядах Эскеля, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядах Эскеля з дапамогай пачуцця ведзьмара."
   },
   "374836_00000000": {
     "en": "Track Eskel using your Witcher Senses.",
     "ru": "Выследить Эскеля, используя ведьмачье чутьё.",
     "pl": "Wytrop Eskela, posługując się wiedźmińskimi zmysłami.",
-    "bel": "Высачыць Эскеля, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Высачыць Эскеля з дапамогай пачуцця ведзьмара."
   },
   "169274_00000000": {
     "en": "Search for Eskel's tracks near the entrance to Kaer Morhen using your Witcher Senses.",
     "ru": "Поискать следы Эскеля у входа в Каэр Морхен, используя ведьмачье чутьё.",
     "pl": "Poszukaj tropów Eskela przed Kaer Morhen korzystając z wiedźmińskich zmysłów.",
-    "bel": "Пашукаць сляды Эскеля каля Каэр-Морэна, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Пашукаць сляды Эскеля каля Каэр-Морэна з дапамогай пачуцця ведзьмара."
   },
   "526683_00000000": {
     "en": "Look around for more tracks left by Eskel using your Witcher Senses.",
     "ru": "Осмотреть округу в поисках следов Эскеля, используя ведьмачье чутьё.",
     "pl": "Rozejrzyj się za śladami Eskela korzystając z wiedźmińskich zmysłów.",
-    "bel": "Агледзецца навокал у пошуках слядоў Эскеля, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзецца навокал у пошуках слядоў Эскеля з дапамогай пачуцця ведзьмара."
   },
   "526689_00000000": {
     "en": "Follow Eskel's footprints using your Witcher Senses.",
     "ru": "Идти по следам Эскеля, используя ведьмачье чутьё.",
     "pl": "Idź za śladami Eskela, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Ісці па слядах Эскеля, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Ісці па слядах Эскеля з дапамогай пачуцця ведзьмара."
   },
   "526688_00000000": {
     "en": "Follow the smell using your Witcher Senses.",
     "ru": "Идти на запах козы, используя ведьмачье чутьё.",
     "pl": "Podążaj za zapachem korzystając z wiedźmińskich zmysłów.",
-    "bel": "Ісці на пах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Ісці на пах з дапамогай пачуцця ведзьмара."
   },
   "526671_00000000": {
     "en": "Examine the area around Eskel's horse for tracks using your Witcher Senses.",
     "ru": "Поискать следы Эскеля рядом с его жеребцом, используя ведьмачье чутьё.",
     "pl": "Poszukaj śladów Eskela w pobliżu jego wierzchowca za pomocą wiedźmińskich zmysłów.",
-    "bel": "Пашукаць сляды Эскеля побач з яго канём, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Пашукаць сляды Эскеля побач з яго канём з дапамогай пачуцця ведзьмара."
   },
   "370083_00000000": {
     "en": "Follow the tracks left by Eskel's horse using your Witcher Senses.",
     "ru": "Пройти по следу жеребца Эскеля, используя ведьмачье чутьё.",
     "pl": "Podążaj śladami wierzchowca Eskela, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Ісці па слядах, якія пакінуў конь Эскеля, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Ісці па слядах, якія пакінуў конь Эскеля з дапамогай пачуцця ведзьмара."
   },
   "370448_00000000": {
     "en": "Explore the path with Eskel.",
@@ -30453,7 +30453,7 @@
     "en": "Follow the forktail's blood trail using your Witcher Senses.",
     "ru": "Пройти по кровавому следу вилохвоста, используя ведьмачье чутьё.",
     "pl": "Podążaj za śladami krwi widłogona.",
-    "bel": "Прайсці па крывавым следзе вілахвоста, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па крывавым следзе вілахвоста з дапамогай пачуцця ведзьмара."
   },
   "516593_00000000": {
     "en": "Beat Eskel back to Kaer Morhen.",
@@ -30855,7 +30855,7 @@
     "en": "Use your Witcher Senses to find something associated with Ciri's horse Kelpie.",
     "ru": "Используя ведьмачье чутьё, найти что-нибудь связанное с Кэльпи — лошадью Цири.",
     "pl": "Używając wiedźmińskich zmysłów znajdź coś, co kojarzy się z koniem Ciri o imieniu Kelpie.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці што-небудзь звязанае з Кэлпі - канём Цыры."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці што-небудзь звязанае з Кэлпі - канём Цыры."
   },
   "1035276_00000000": {
     "en": "Rejoin Keira.",
@@ -31665,7 +31665,7 @@
     "en": "Follow the Nilfgaardian soldiers' tracks using your Witcher Senses.",
     "ru": "Пройти по следам нильфгаардских солдат, используя ведьмачье чутьё.",
     "pl": "Idź za śladami nilfgaardzkich żołnierzy, posługując się wiedźmińskimi zmysłami.",
-    "bel": "Прайсці па слядах нільфгаардскага салдата, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядах нільфгаардскага салдата з дапамогай пачуцця ведзьмара."
   },
   "546200_00000000": {
     "en": "Meet Vesemir in the field where you plan to ambush the griffin.",
@@ -32277,7 +32277,7 @@
     "en": "Find the sunken cargo using your Witcher Senses.",
     "ru": "Найти пошедший ко дну груз, используя ведьмачье чутьё.",
     "pl": "Odnajdź zagubiony ładunek, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці груз, які пайшоў на дно, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці груз, які пайшоў на дно з дапамогай пачуцця ведзьмара."
   },
   "1086757_00000000": {
     "en": "Read the document you found.",
@@ -32361,7 +32361,7 @@
     "en": "Search the site for personal artifacts using your Witcher Senses.",
     "ru": "Найти личные вещи солдат на месте казни, используя ведьмачье чутьё.",
     "pl": "Poszukaj osobistych pamiątek żołnierzy za pomocą wiedźmińskich zmysłów.",
-    "bel": "Знайсці асабістыя рэчы салдат на месцы пакарання, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці асабістыя рэчы салдат на месцы пакарання з дапамогай пачуцця ведзьмара."
   },
   "1007624_00000000": {
     "en": "Return to the mother.",
@@ -32373,13 +32373,13 @@
     "en": "Go to the battlefield and search it using your Witcher Senses.",
     "ru": "Сходить на поле боя и осмотреть его, используя ведьмачье чутьё.",
     "pl": "Idź na pole bitwy i przeszukaj je korzystając z wiedźmińskich zmysłów.",
-    "bel": "Пайсці на поле бою і агледзець яго, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Пайсці на поле бою і агледзець яго з дапамогай пачуцця ведзьмара."
   },
   "1007623_00000000": {
     "en": "Find Hrodeberth's body using your Witcher Senses.",
     "ru": "Найти тело Хродеберта, используя ведьмачье чутьё.",
     "pl": "Znajdź ciało Hrodebertha korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці цела Хродаберта, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці цела Хродаберта з дапамогай пачуцця ведзьмара."
   },
   "1007619_00000000": {
     "en": "Return to the mother.",
@@ -32739,7 +32739,7 @@
     "en": "Search the area around the smokehouse using your Witcher Senses.",
     "ru": "Осмотреть землю вокруг сарая, используя ведьмачье чутьё.",
     "pl": "Przeszukaj teren wokół szopy przy pomocy wiedźmińskich zmysłów.",
-    "bel": "Агледзець зямлю навокал хлева, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець зямлю навокал хлева з дапамогай пачуцця ведзьмара."
   },
   "338811_00000000": {
     "en": "Examine the dead horses.",
@@ -32847,7 +32847,7 @@
     "en": "Use your Witcher Senses to locate where the scent is coming from.",
     "ru": "Используя ведьмачье чутьё, найти источник запаха.",
     "pl": "Użyj wiedźmińskich zmysłów i zlokalizuj źródło zapachu.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці крыніцу паху."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці крыніцу паху."
   },
   "1044107_00000000": {
     "en": "Lead the goat to the pellar.",
@@ -33417,19 +33417,19 @@
     "en": "Find the armor upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения доспеха.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie pancerza.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння даспеха."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння даспеха."
   },
   "1080940_00000000": {
     "en": "Find the silver sword upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения серебряного меча.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie miecza srebrnego.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння сярэбранага мяча."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння сярэбранага мяча."
   },
   "1080941_00000000": {
     "en": "Find the steel sword upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения стального меча.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie miecza stalowego.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння стальнога мяча."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння стальнога мяча."
   },
   "1084678_00000000": {
     "en": "Find the armor upgrade diagram.",
@@ -33897,7 +33897,7 @@
     "en": "Find the sunken treasure using your Witcher Senses.",
     "ru": "Найти утонувшее сокровище, используя ведьмачье чутьё.",
     "pl": "Odnajdź zatopiony skarb za pomocą wiedźmińskich zmysłów.",
-    "bel": "Знайсці патанулы скарб, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці патанулы скарб з дапамогай пачуцця ведзьмара."
   },
   "1086766_00000000": {
     "en": "Read the notes you found.",
@@ -34185,7 +34185,7 @@
     "en": "Investigate the weather anomaly using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, исследовать погодную аномалию.",
     "pl": "Użyj wiedźmińskich zmysłów i zbadaj anomalię pogodową.",
-    "bel": "Даследаваць пагодную анамалію, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць пагодную анамалію з дапамогай пачуцця ведзьмара."
   },
   "1024113_00000000": {
     "en": "Use the obelisks to restore the place's proper microclimate.",
@@ -35973,7 +35973,7 @@
     "en": "Follow the scent using your Witcher Senses.",
     "ru": "Идти на запах, используя ведьмачье чутьё.",
     "pl": "Idź za zapachem używając wiedźmińskich zmysłów.",
-    "bel": "Ісці на пах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Ісці на пах з дапамогай пачуцця ведзьмара."
   },
   "492262_00000000": {
     "en": "Ask about the shawl's owner.",
@@ -36009,7 +36009,7 @@
     "en": "Follow the tracks using your Witcher Senses.",
     "ru": "Пройти по следу, используя ведьмачье чутьё.",
     "pl": "Podążaj za śladami korzystając z wiedźmińskich zmysłów.",
-    "bel": "Прайсці па слядах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядах з дапамогай пачуцця ведзьмара."
   },
   "492258_00000000": {
     "en": "The Nithing",
@@ -36225,7 +36225,7 @@
     "en": "Follow the tracks using your Witcher Senses.",
     "ru": "Пройти по следам, используя ведьмачье чутьё.",
     "pl": "Idź za śladami, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Прайсці па слядах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядах з дапамогай пачуцця ведзьмара."
   },
   "308600_00000000": {
     "en": "Return to the guardpost captain for your reward.",
@@ -37155,7 +37155,7 @@
     "en": "Track the smell of blood and sewer muck using your Witcher Senses.",
     "ru": "Пройти по запаху крови и ила из каналов, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów, szukaj zapachu krwi i szlamu z kanałów.",
-    "bel": "Прайсці па паху крыві і глею з каналаў, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па паху крыві і глею з каналаў з дапамогай пачуцця ведзьмара."
   },
   "1062075_00000000": {
     "en": "Follow the missing man's trail using your Witcher Senses.",
@@ -37269,7 +37269,7 @@
     "en": "Explore Avallac'h's laboratory using your Witcher Senses.",
     "ru": "Осмотреть лабораторию Аваллак'ха, используя ведьмачье чутьё.",
     "pl": "Zbadaj laboratorium Avallac'ha korzystając z wiedźmińskich zmysłów.",
-    "bel": "Агледзець лабараторыю Авалак'ха, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець лабараторыю Авалак'ха з дапамогай пачуцця ведзьмара."
   },
   "541561_00000000": {
     "en": "Talk to Yennefer.",
@@ -39303,7 +39303,7 @@
     "en": "Find the person marked by the leshen by using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти человека, отмеченного лешим.",
     "pl": "Korzystając z wiedźmińskich zmysłów, znajdź osobę naznaczoną przez leszego.",
-    "bel": "Знайсці чалавека, якога адзначыў лясун, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці чалавека, якога адзначыў лясун з дапамогай пачуцця ведзьмара."
   },
   "388582_00000000": {
     "en": "Talk to Sven about Hilde.",
@@ -39447,7 +39447,7 @@
     "en": "Find the little box the merchant mentioned using your Witcher Senses.",
     "ru": "Найти коробочку с ценным грузом, используя ведьмачье чутьё.",
     "pl": "Znajdź skrzynkę z cennym ładunkiem korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці скрынку з каштоўным грузам, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці скрынку з каштоўным грузам з дапамогай пачуцця ведзьмара."
   },
   "1029680_00000000": {
     "en": "Find the cart.",
@@ -39459,7 +39459,7 @@
     "en": "Use your Witcher Senses to find where the cart left the road.",
     "ru": "Найти место, где повозка съехала с дороги, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów, znajdź miejsce, w którym wóz zjechał z drogi.",
-    "bel": "Знайсці месца, дзе воз з'ехаў з дарогі, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці месца, дзе воз з'ехаў з дарогі з дапамогай пачуцця ведзьмара."
   },
   "1029683_00000000": {
     "en": "Return the box to the merchant.",
@@ -39495,7 +39495,7 @@
     "en": "Look around the cart for evidence about the attack using your Witcher Senses.",
     "ru": "Поискать следы нападения вокруг повозки, используя ведьмачье чутьё.",
     "pl": "Poszukaj śladów ataku wokół wozu używając wiedźmińskich zmysłów.",
-    "bel": "Пашукаць сляды нападу вакол воза, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Пашукаць сляды нападу вакол воза з дапамогай пачуцця ведзьмара."
   },
   "1025960_00000000": {
     "en": "Precious Cargo",
@@ -39549,7 +39549,7 @@
     "en": "Follow the smell of Dandelion's cologne using your Witcher Senses.",
     "ru": "Следовать за запахом Лютикова одеколона, используя ведьмачье чутьё.",
     "pl": "Podążaj za zapachem perfum Jaskra, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Прайсці па паху адэкалону Казяльца, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па паху адэкалону Казяльца з дапамогай пачуцця ведзьмара."
   },
   "1049305_00000000": {
     "en": "Explore the area in front of the hut in the woods.",
@@ -39759,13 +39759,13 @@
     "en": "Investigate the crime scene using your Witcher Senses.",
     "ru": "Осмотреть место преступления, используя ведьмачье чутьё.",
     "pl": "Zbadaj miejsce zbrodni używając wiedźmińskich zmysłów.",
-    "bel": "Агледзець месца злачынства, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець месца злачынства з дапамогай пачуцця ведзьмара."
   },
   "1010893_00000000": {
     "en": "Follow the footsteps using your Witcher Senses.",
     "ru": "Определить, куда ведут следы, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów sprawdź, dokąd prowadzą ślady stóp.",
-    "bel": "Прайсці па слядах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядах з дапамогай пачуцця ведзьмара."
   },
   "1010900_00000000": {
     "en": "Examine the beach near the dead girl using the magic lamp.",
@@ -39777,13 +39777,13 @@
     "en": "Follow the footsteps using your Witcher Senses.",
     "ru": "Найти, куда ведут следы, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów sprawdź, dokąd prowadzą ślady.",
-    "bel": "Прайсці па слядах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядах з дапамогай пачуцця ведзьмара."
   },
   "1028301_00000000": {
     "en": "Search the shore using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, обыскать берег.",
     "pl": "Użyj wiedźmińskich zmysłów i przeszukaj brzeg.",
-    "bel": "Абшукаць бераг, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць бераг з дапамогай пачуцця ведзьмара."
   },
   "1072959_00000000": {
     "en": "Return to this place once you have found another way to examine it.",
@@ -40473,7 +40473,7 @@
     "en": "Look around for tracks using your Witcher Senses.",
     "ru": "Поискать какие-нибудь следы, используя ведьмачье чутьё.",
     "pl": "Rozejrzyj się za śladami korzystając z wiedźmińskich zmysłów.",
-    "bel": "Пашукаць сляды, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Пашукаць сляды з дапамогай пачуцця ведзьмара."
   },
   "1064357_00000000": {
     "en": "Find the trolls' cave.",
@@ -40851,19 +40851,19 @@
     "en": "Find the armor upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения доспеха.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie pancerza.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння даспеха."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння даспеха."
   },
   "1078511_00000000": {
     "en": "Find the steel sword upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения стального меча.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie miecza stalowego.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння стальнога мяча."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння стальнога мяча."
   },
   "1078782_00000000": {
     "en": "Find the silver sword upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения серебряного меча.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie miecza srebrnego.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння сярэбранага мяча."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння сярэбранага мяча."
   },
   "1084675_00000000": {
     "en": "Find the armor upgrade diagram.",
@@ -41061,7 +41061,7 @@
     "en": "Explore the secret chamber using your Witcher Senses.",
     "ru": "Осмотреть тайную комнату, используя ведьмачье чутьё.",
     "pl": "Zbadaj sekretną komnatę za pomocą wiedźmińskich zmysłów.",
-    "bel": "Даследаваць таемны пакой, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць таемны пакой з дапамогай пачуцця ведзьмара."
   },
   "500951_00000000": {
     "en": "Beat Cerys to the top of the mountain.",
@@ -41079,7 +41079,7 @@
     "en": "Explore the mysterious room using your Witcher Senses.",
     "ru": "Осмотреть таинственную комнату, используя ведьмачье чутьё.",
     "pl": "Zbadaj tajemniczą komnatę za pomocą wiedźmińskich zmysłów.",
-    "bel": "Даследаваць загадкавы пакой, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць загадкавы пакой з дапамогай пачуцця ведзьмара."
   },
   "1070250_00000000": {
     "en": "Pull Hjalmar's axe out of the stump.",
@@ -41193,7 +41193,7 @@
     "en": "Retrieve the coin Thecla threw in the water by using your Witcher Senses.",
     "ru": "Найти монету, которую Тэкла бросила в воду, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów, odzyskaj monetę, wrzuconą do wody przez Teklę.",
-    "bel": "Дастаць манету, якую Тэкла кінула ў ваду, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Дастаць манету, якую Тэкла кінула ў ваду з дапамогай пачуцця ведзьмара."
   },
   "1058827_00000000": {
     "en": "Give the coin to Thecla.",
@@ -43089,7 +43089,7 @@
     "en": "Find the sunken treasure using your Witcher Senses.",
     "ru": "Найти затопленное сокровище, используя ведьмачье чутьё.",
     "pl": "Znajdź zatopione kosztowności, używając wiedźmińskich zmysłów.",
-    "bel": "Знайсці патанулы скарб, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці патанулы скарб з дапамогай пачуцця ведзьмара."
   },
   "1086770_00000000": {
     "en": "Read the notes you found.",
@@ -43383,13 +43383,13 @@
     "en": "Examine the area in search of clues using your Witcher Senses.",
     "ru": "Осмотреть окрестности в поисках улик, используя ведьмачье чутьё.",
     "pl": "Użyj wiedźmińskich zmysłów, by zbadać okolicę w poszukiwaniu wskazówek.",
-    "bel": "Агледзець наваколле ў пошуках доказаў, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець наваколле ў пошуках доказаў з дапамогай пачуцця ведзьмара."
   },
   "1038285_00000000": {
     "en": "Follow the footprints using your Witcher Senses.",
     "ru": "Пройти по следам, используя ведьмачье чутьё.",
     "pl": "Podążaj za śladami korzystając z wiedźmińskich zmysłów.",
-    "bel": "Прайсці па слядах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядах з дапамогай пачуцця ведзьмара."
   },
   "1038289_00000000": {
     "en": "Open the basement.",
@@ -43413,13 +43413,13 @@
     "en": "Search the area around the lake using your Witcher Senses.",
     "ru": "Обыскать окрестности озера, используя ведьмачье чутьё.",
     "pl": "Przeszukaj okolicę jeziora za pomocą wiedźmińskich zmysłów.",
-    "bel": "Абшукаць наваколле возера, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць наваколле возера з дапамогай пачуцця ведзьмара."
   },
   "1079414_00000000": {
     "en": "Follow the tracks using your Witcher Senses.",
     "ru": "Пройти по следам, используя ведьмачье чутьё.",
     "pl": "Podążaj za śladami korzystając z wiedźmińskich zmysłów.",
-    "bel": "Прайсці па слядах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядах з дапамогай пачуцця ведзьмара."
   },
   "1011793_00000000": {
     "en": "Ask Holofernes Meiersdorf about the contract on the Apiarian Phantom.",
@@ -43827,7 +43827,7 @@
     "en": "Search for treasure on the sea floor using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти сокровища на дне моря.",
     "pl": "Użyj wiedźmińskich zmysłów, by poszukać skarbu na dnie morza.",
-    "bel": "Адшукаць скарб на марскім дне, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Адшукаць скарб на марскім дне з дапамогай пачуцця ведзьмара."
   },
   "1086667_00000000": {
     "en": "Read the unsent letter.",
@@ -44043,7 +44043,7 @@
     "en": "Find valuables near the destroyed wagon using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти ценности неподалёку от разбитой телеги.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć kosztowności w pobliżu zniszczonego wozu.",
-    "bel": "Знайсці каштоўнасці недалёка ад пабітага воза, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці каштоўнасці недалёка ад пабітага воза з дапамогай пачуцця ведзьмара."
   },
   "1087033_00000000": {
     "en": "Read the letter you found.",
@@ -45933,7 +45933,7 @@
     "en": "Search the mine using your Witcher Senses.",
     "ru": "Обыскать рудник, используя ведьмачье чутьё.",
     "pl": "Przeszukaj kopalnię za pomocą wiedźmińskich zmysłów.",
-    "bel": "Абшукаць шахту, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць шахту з дапамогай пачуцця ведзьмара."
   },
   "1031354_00000000": {
     "en": "Kill the earth elemental.",
@@ -45951,7 +45951,7 @@
     "en": "Search the mysterious chamber using your Witcher Senses.",
     "ru": "Обыскать тайную комнату, используя ведьмачье чутьё.",
     "pl": "Przeszukaj tajemną komnatę za pomocą wiedźmińskich zmysłów.",
-    "bel": "Абшукаць загадкавую залу, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць загадкавую залу з дапамогай пачуцця ведзьмара."
   },
   "1031428_00000000": {
     "en": "Kill the ifrit.",
@@ -46041,7 +46041,7 @@
     "en": "Investigate the broken cart using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, осмотреть разбитую повозку.",
     "pl": "Użyj wiedźmińskich zmysłów i zbadaj zniszczony wóz.",
-    "bel": "Агледзець раструшчаны воз, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець раструшчаны воз з дапамогай пачуцця ведзьмара."
   },
   "1028667_00000000": {
     "en": "Read the letter you found on the dead woman's body.",
@@ -46053,7 +46053,7 @@
     "en": "Use your Witcher Senses to follow the tracks leading away from the broken cart.",
     "ru": "Используя ведьмачье чутьё, найти, куда ведёт след от разбитой повозки.",
     "pl": "Użyj wiedźmińskich zmysłów i zobacz, dokąd prowadzi ślad ze zniszczonego wozu.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці куды вядзе след ад раструшчанага воза."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці куды вядзе след ад раструшчанага воза."
   },
   "1049355_00000000": {
     "en": "Deliver the letter to the smith at Kaer Trolde.",
@@ -46281,7 +46281,7 @@
     "en": "Follow the footprints using your Witcher Senses.",
     "ru": "Идти по следам, используя ведьмачье чутьё.",
     "pl": "Podążaj za śladami stóp korzystając z wiedźmińskich zmysłów.",
-    "bel": "Прайсці па слядах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядах з дапамогай пачуцця ведзьмара."
   },
   "589608_00000000": {
     "en": "Return to the Nilfgaardian camp.",
@@ -46293,7 +46293,7 @@
     "en": "Follow the soldier's footprints to the other side of the lake using your Witcher Senses.",
     "ru": "Отыскать следы солдат на другой стороне озера, используя ведьмачье чутьё.",
     "pl": "Poszukaj śladów żołnierzy po drugiej stronie jeziora korzystając z wiedźmińskich zmysłów.",
-    "bel": "Пашукай сляды салдатаў на другім баку возера, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Пашукай сляды салдатаў на другім баку возера з дапамогай пачуцця ведзьмара."
   },
   "589613_00000000": {
     "en": "Kill the draconid.",
@@ -46413,7 +46413,7 @@
     "en": "Using your Witcher Senses, search for Temerian shields with small white flowers painted on them.",
     "ru": "Искать темерские щиты, отмеченные белым цветком, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów, szukaj tarcz oznaczonych białym kwiatem.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, шукай шчыты, адзначаныя белай кветкай."
+    "bel": "З дапамогай пачуцця ведзьмара шукай шчыты, адзначаныя белай кветкай."
   },
   "1035193_00000000": {
     "en": "Meet Dune near the battlefield.",
@@ -48165,7 +48165,7 @@
     "en": "Find the bandits' treasure using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти бандитский клад.",
     "pl": "Użyj wiedźmińskich zmysłów, by odnaleźć skarb bandytów.",
-    "bel": "Знайсці бандыцкі скарб, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці бандыцкі скарб з дапамогай пачуцця ведзьмара."
   },
   "1087016_00000000": {
     "en": "Read the letter you found.",
@@ -48279,7 +48279,7 @@
     "en": "Find the old woman's husband's grave using your Witcher Senses.",
     "ru": "Найти могилу мужа старушки, используя ведьмачье чутьё.",
     "pl": "Znajdź grób męża staruszki używając wiedźmińskich zmysłów.",
-    "bel": "Знайсці магілу мужа старой, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці магілу мужа старой з дапамогай пачуцця ведзьмара."
   },
   "389091_00000000": {
     "en": "Return to the old woman for a reward.",
@@ -48807,7 +48807,7 @@
     "en": "Find the  ingredients from the missing transport using your Witcher Senses.",
     "ru": "Найти ингредиенты с пропавшей повозки, используя ведьмачье чутьё.",
     "pl": "Odnajdź składniki z zaginionego transportu korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці інгрэдыенты са зніклага транспарту, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці інгрэдыенты са зніклага транспарту з дапамогай пачуцця ведзьмара."
   },
   "301281_00000000": {
     "en": "Bring the ingredients to Keira.",
@@ -48819,7 +48819,7 @@
     "en": "Find Keira using your Witcher Senses.",
     "ru": "Найти Кейру, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów znajdź Keirę Metz.",
-    "bel": "Знайсці Кейру Мец, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці Кейру Мец з дапамогай пачуцця ведзьмара."
   },
   "565690_00000000": {
     "en": "Meet Keira when you have some time.",
@@ -50007,7 +50007,7 @@
     "en": "Find the sunken treasure using your Witcher Senses.",
     "ru": "Найти затонувшие сокровища, используя ведьмачье чутьё.",
     "pl": "Użyj wiedźmińskich zmysłów, by odnaleźć zatopione kosztowności.",
-    "bel": "Знайсці патанулы скарб, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці патанулы скарб з дапамогай пачуцця ведзьмара."
   },
   "1087002_00000000": {
     "en": "Read the letter you found.",
@@ -50055,7 +50055,7 @@
     "en": "Search the agent's hut using your Witcher Senses.",
     "ru": "Обыскать хату Гендрика, используя ведьмачье чутьё.",
     "pl": "Przeszukaj chatę agenta korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці хату агента, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці хату агента з дапамогай пачуцця ведзьмара."
   },
   "1059819_00000000": {
     "en": "Travel to Velen.",
@@ -50583,7 +50583,7 @@
     "en": "Follow the scent using your Witcher Senses.",
     "ru": "Идти по запаху, используя ведьмачье чутьё.",
     "pl": "Podążaj za zapachem korzystając z wiedźmińskich zmysłów.",
-    "bel": "Ісці на пах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Ісці на пах з дапамогай пачуцця ведзьмара."
   },
   "560053_00000000": {
     "en": "Explore the Vildkaarls' village using your Witcher Senses.",
@@ -50595,19 +50595,19 @@
     "en": "Examine the area around the altar using your Witcher Senses.",
     "ru": "Осмотреться вокруг алтаря, используя ведьмачье чутьё.",
     "pl": "Zbadaj teren wokół ołtarza za pomocą wiedźmińskich zmysłów.",
-    "bel": "Даследаваць мясцовасць вакол алтара, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць мясцовасць вакол алтара з дапамогай пачуцця ведзьмара."
   },
   "563242_00000000": {
     "en": "Follow the footprints using your Witcher Senses.",
     "ru": "Идти по следам, используя ведьмачье чутьё.",
     "pl": "Podążaj za śladem stóp, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Прайсці па слядах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядах з дапамогай пачуцця ведзьмара."
   },
   "346844_00000000": {
     "en": "Follow the Vildkaarls' trail using your Witcher Senses.",
     "ru": "Пройти по следу вильдкаарлов, используя ведьмачье чутьё.",
     "pl": "Idź za śladami vildkaarli, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Прайсці па слядах вільдкаарлаў, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядах вільдкаарлаў з дапамогай пачуцця ведзьмара."
   },
   "417975_00000000": {
     "en": "Examine the place where fights are held using your Witcher Senses.",
@@ -50619,13 +50619,13 @@
     "en": "Examine the place Hjalmar pointed out using your Witcher Senses.",
     "ru": "Изучить место, показанное Хьялмаром, с помощью ведьмачьего чутья.",
     "pl": "Zbadaj miejsce, które wskazał Hjalmar korzystając z wiedźmińskich zmysłów.",
-    "bel": "Даследаваць месца, на якое паказаў Х'ялмар, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць месца, на якое паказаў Х'ялмар з дапамогай пачуцця ведзьмара."
   },
   "560904_00000000": {
     "en": "Search for evidence in Arnvald's room using your Witcher Senses.",
     "ru": "Поискать улики в комнате Арнвальда, используя ведьмачье чутьё.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć dowody w pokoju Arnvalda.",
-    "bel": "Шукаць доказы ў пакоі Арнвальда, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Шукаць доказы ў пакоі Арнвальда з дапамогай пачуцця ведзьмара."
   },
   "1037789_00000000": {
     "en": "Search Arnvald's body.",
@@ -50637,7 +50637,7 @@
     "en": "Follow the tracks left by Arnvald's horse outside Kaer Trolde using your Witcher Senses.",
     "ru": "Пройти по следам коня Арнвальда за пределы Каэр Трольде, используя ведьмачье чутьё.",
     "pl": "Podążaj za śladami konia Arnvalda spod Kaer Trolde, używając wiedźmińskich zmysłów.",
-    "bel": "Ісці па слядах каня Арнвальда за межы Каэр-Трольдэ, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Ісці па слядах каня Арнвальда за межы Каэр-Трольдэ з дапамогай пачуцця ведзьмара."
   },
   "346895_00000000": {
     "en": "Catch Arnvald.",
@@ -50703,19 +50703,19 @@
     "en": "Find the source of the scent using your Witcher Senses.",
     "ru": "Найти источник запаха, используя ведьмачье чутьё.",
     "pl": "Znajdź źródło zapachu, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці крыніцу паху, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці крыніцу паху з дапамогай пачуцця ведзьмара."
   },
   "567945_00000000": {
     "en": "Examine the traces of mead around the crime scene using your Witcher Senses.",
     "ru": "Осмотреть следы мёда, используя ведьмачье чутьё.",
     "pl": "Zbadaj ślady miodu w miejscu zbrodni z pomocą wiedźmińskich zmysłów.",
-    "bel": "Даследаваць сляды мёду на месцы злачынства, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць сляды мёду на месцы злачынства з дапамогай пачуцця ведзьмара."
   },
   "346852_00000000": {
     "en": "Examine the crime scene using your Witcher Senses.",
     "ru": "Осмотреть место резни, используя ведьмачье чутьё.",
     "pl": "Zbadaj miejsce zbrodni za pomocą wiedźmińskich zmysłów.",
-    "bel": "Даследаваць месца злачынства, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць месца злачынства з дапамогай пачуцця ведзьмара."
   },
   "346859_00000000": {
     "en": "Flee from the burning cellar.",
@@ -50757,19 +50757,19 @@
     "en": "Look for tracks around the cellar door using your Witcher Senses.",
     "ru": "Осмотреть дверь погреба в поисках следов, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów, zbadaj drzwi do piwnicy.",
-    "bel": "Даследаваць дзверы склепа, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць дзверы склепа з дапамогай пачуцця ведзьмара."
   },
   "1072749_00000000": {
     "en": "Follow the footprints using your Witcher Senses.",
     "ru": "Пройти по следу, используя ведьмачье чутьё.",
     "pl": "Idź za śladami stóp, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Прайсці па слядах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядах з дапамогай пачуцця ведзьмара."
   },
   "1072730_00000000": {
     "en": "Look around for a clue using your Witcher Senses.",
     "ru": "Осмотреться и поискать поблизости какие-нибудь зацепки, используя ведьмачье чутьё.",
     "pl": "Rozejrzyj się za kolejnym śladem, używając wiedźmińskich zmysłów.",
-    "bel": "Шукаць іншую падказку, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Шукаць іншую падказку з дапамогай пачуцця ведзьмара."
   },
   "346828_00000000": {
     "en": "King's Gambit",
@@ -50805,13 +50805,13 @@
     "en": "Use your Witcher Senses to look behind the forge for clues about the arsonist.",
     "ru": "Поискать следы поджигателя за кузницей, используя ведьмачье чутьё.",
     "pl": "Poszukaj śladów podpalacza za kuźnią, używając wiedźmińskich zmysłów.",
-    "bel": "Пашукаць сляды падпальшчыка за кузняй, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Пашукаць сляды падпальшчыка за кузняй з дапамогай пачуцця ведзьмара."
   },
   "1039014_00000000": {
     "en": "Follow the trail using your Witcher Senses.",
     "ru": "Идти по следам, используя ведьмачье чутьё.",
     "pl": "Idź za śladami posługując się wiedźmińskimi zmysłami.",
-    "bel": "Ісці па слядах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Ісці па слядах з дапамогай пачуцця ведзьмара."
   },
   "1039015_00000000": {
     "en": "Talk to the suspect.",
@@ -50835,7 +50835,7 @@
     "en": "Look for someone with wounds dealt by drowners using your Witcher Senses.",
     "ru": "Найти человека, раненного утопцами, используя ведьмачье чутьё.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć osobę z ranami zadanymi przez utopce.",
-    "bel": "Адшукаць чалавека, параненага тапельнікамі, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Адшукаць чалавека, параненага тапельнікамі з дапамогай пачуцця ведзьмара."
   },
   "1058028_00000000": {
     "en": "Escort the arsonist back to the blacksmith.",
@@ -52119,7 +52119,7 @@
     "en": "Find the missing part of the mechanism using your Witcher Senses.",
     "ru": "Отыскать недостающую деталь механизма, используя ведьмачье чутьё.",
     "pl": "Znajdź brakujący element mechanizmu korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайдзіце адсутную частку механізма, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайдзіце адсутную частку механізма з дапамогай пачуцця ведзьмара."
   },
   "543306_00000000": {
     "en": "Repair the mechanism and open the doors.",
@@ -52245,7 +52245,7 @@
     "en": "Find the cargo that fell off the ferryman's boat by using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти сундук, упавший с лодки перевозчика.",
     "pl": "Użyj wiedźmińskich zmysłów, by odnaleźć ładunek, który wypadł z łodzi przewoźnika.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці груз, які ўпаў з лодкі перавозчыка."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці груз, які ўпаў з лодкі перавозчыка."
   },
   "1086992_00000000": {
     "en": "Read the letter you found.",
@@ -52287,7 +52287,7 @@
     "en": "Find the treasure in the catacombs using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти клад в катакомбах.",
     "pl": "Użyj wiedźmińskich zmysłów, by odnaleźć skarb w katakumbach.",
-    "bel": "Адшукаць скарб у катакомбах, выкарыстоўваючы пачуццё ведзьмара."
+    "bel": "Адшукаць скарб у катакомбах з дапамогай пачуцця ведзьмара."
   },
   "1087012_00000000": {
     "en": "Read the document you found.",
@@ -52641,7 +52641,7 @@
     "en": "Look around inside the hut for a frying pan using your Witcher Senses.",
     "ru": "Осмотреть хату и найти сковороду, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów zbadaj chatę i rozejrzyj się za patelnią.",
-    "bel": "Агледзець хату і адшукаць патэльню, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець хату і адшукаць патэльню з дапамогай пачуцця ведзьмара."
   },
   "1058276_00000000": {
     "en": "Search the hut and use your Witcher Senses to determine what happened there.",
@@ -54027,7 +54027,7 @@
     "en": "Look for Johnny in the swamp using your Witcher Senses.",
     "ru": "Отыскать на болотах Ивасика.",
     "pl": "Odszukaj na moczarach Janka, używając wiedźmińskich zmysłów.",
-    "bel": "Пашукаць на балоце Янэка, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Пашукаць на балоце Янэка з дапамогай пачуцця ведзьмара."
   },
   "366732_00000000": {
     "en": "Follow Johnny.",
@@ -54039,7 +54039,7 @@
     "en": "Use your Witcher Senses to find the shrine that marks the start of the Trail of Treats.",
     "ru": "Следовать за сладостями, не забывая пользоваться ведьмачьим чутьём.",
     "pl": "Używając wiedźmińskich zmysłów znajdź kapliczkę na początku Słodkiej Ścieżki.",
-    "bel": "Знайсці каплічку на пачатку Салодкай Сцяжынкі, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці каплічку на пачатку Салодкай Сцяжынкі з дапамогай пачуцця ведзьмара."
   },
   "379523_00000000": {
     "en": "Ask the children in the swamp village about Ciri.",
@@ -54105,7 +54105,7 @@
     "en": "Follow the Trail of Treats using your Witcher Senses.",
     "ru": "Идти по Сладкой Тропинке, используя ведьмачье чутьё.",
     "pl": "Podążaj Słodką Ścieżką, używając wiedźmińskich zmysłów.",
-    "bel": "Прайсці па Салодкай Сцяжынцы, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па Салодкай Сцяжынцы з дапамогай пачуцця ведзьмара."
   },
   "385574_00000000": {
     "en": "Ask the children in the swamp village about Johnny.",
@@ -54117,7 +54117,7 @@
     "en": "Find the hidden children using your Witcher Senses.",
     "ru": "Найти прячущихся детей, используя ведьмачье чутьё.",
     "pl": "Odszukaj ukrywające się dzieci za pomocą wiedźmińskich zmysłów.",
-    "bel": "Знайсці схаваных дзяцей, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці схаваных дзяцей з дапамогай пачуцця ведзьмара."
   },
   "396143_00000000": {
     "en": "Give the children some tasty treats.",
@@ -54135,7 +54135,7 @@
     "en": "Follow Johnny's footprints using your Witcher Senses.",
     "ru": "Пройти по следам Ивасика, используя ведьмачье чутьё.",
     "pl": "Podążaj za śladami stóp Janka, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Прайсці па слядах Янэка, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядах Янэка з дапамогай пачуцця ведзьмара."
   },
   "416288_00000000": {
     "en": "Lure Johnny out of his burrow.",
@@ -54147,7 +54147,7 @@
     "en": "Find Johnny's footprints.",
     "ru": "Найти следы Ивасика.",
     "pl": "Znajdź ślady stóp Janka używając wiedźmińskich zmysłów.",
-    "bel": "Знайсці сляды Янэка, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці сляды Янэка з дапамогай пачуцця ведзьмара."
   },
   "382835_00000000": {
     "en": "Go to the hut and talk to the boy.",
@@ -54213,7 +54213,7 @@
     "en": "Find a passage leading under the hill using your Witcher Senses.",
     "ru": "Найти проход под холмом, используя ведьмачье чутьё.",
     "pl": "Znajdź przejście pod wzgórzem, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці праход пад узгоркам, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці праход пад узгоркам з дапамогай пачуцця ведзьмара."
   },
   "1084259_00000000": {
     "en": "Explore the cave.",
@@ -55575,7 +55575,7 @@
     "en": "Search the ground floor for clues using your Witcher Senses.",
     "ru": "Обыскать первый этаж, используя ведьмачье чутьё.",
     "pl": "Przeszukaj parter, używając wiedźmińskich zmysłów.",
-    "bel": "Абшукаць першы паверх, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць першы паверх з дапамогай пачуцця ведзьмара."
   },
   "438092_00000000": {
     "en": "Talk to Zoltan.",
@@ -56535,7 +56535,7 @@
     "en": "Explore the cave using your Witcher Senses.",
     "ru": "Осмотреть пещеру, используя ведьмачье чутьё.",
     "pl": "Zbadaj jaskinię używając wiedźmińskich zmysłów.",
-    "bel": "Агледзець пячору, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець пячору з дапамогай пачуцця ведзьмара."
   },
   "1028051_00000000": {
     "en": "Kill the chort.",
@@ -56547,7 +56547,7 @@
     "en": "Look for a silver sword in the cave using your Witcher Senses.",
     "ru": "Обыскать пещеру и найти серебряный меч, используя ведьмачье чутьё.",
     "pl": "Użyj wiedźmińskich zmysłów, by odszukać schemat na wykonanie srebrnego miecza.",
-    "bel": "Адшукаць чарцёж сярэбранага мяча, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Адшукаць чарцёж сярэбранага мяча з дапамогай пачуцця ведзьмара."
   },
   "1028037_00000000": {
     "en": "Berengar's Blade",
@@ -56589,7 +56589,7 @@
     "en": "Follow the blood trail from the battlefield to the loot using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, пройти по кровавым следам к трофеям с поля боя.",
     "pl": "Używając wiedźmińskich zmysłów, podążaj za śladem krwi, aby znaleźć łupy z pobojowiska.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, прайсці па слядах крыві, каб знайсці здабычу з поля бітвы."
+    "bel": "З дапамогай пачуцця ведзьмара прайсці па слядах крыві, каб знайсці здабычу з поля бітвы."
   },
   "1087000_00000000": {
     "en": "Read the notes you found.",
@@ -59361,7 +59361,7 @@
     "en": "Find the treasure chest using your Witcher Senses.",
     "ru": "Найти сокровище, используя ведьмачье чутьё.",
     "pl": "Znajdź skarb, używając wiedźmińskich zmysłów.",
-    "bel": "Знайсці скарб, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці скарб з дапамогай пачуцця ведзьмара."
   },
   "1086997_00000000": {
     "en": "Read the letter you found.",
@@ -59727,7 +59727,7 @@
     "en": "Find the treasure chest using your Witcher Senses.",
     "ru": "Найти сокровище, используя ведьмачье чутьё.",
     "pl": "Znajdź skarb, używając wiedźmińskich zmysłów.",
-    "bel": "Знайсці скарб, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці скарб з дапамогай пачуцця ведзьмара."
   },
   "1087023_00000000": {
     "en": "Read the letter you found.",
@@ -61071,7 +61071,7 @@
     "en": "Find the valuables in the burned-down home using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти ценности в сожжённом доме.",
     "pl": "Użyj wiedźmińskich zmysłów, by odnaleźć kosztowności w spalonym domu.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці каштоўнасці ў спаленым доме."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці каштоўнасці ў спаленым доме."
   },
   "1087004_00000000": {
     "en": "Read the letter you found.",
@@ -61245,19 +61245,19 @@
     "en": "Find the silver sword upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения серебряного меча.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie miecza srebrnego.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння сярэбранага мяча."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння сярэбранага мяча."
   },
   "1079638_00000000": {
     "en": "Find the boots upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения сапог.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie butów.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння ботаў."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння ботаў."
   },
   "1079672_00000000": {
     "en": "Find the armor upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения доспеха.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie pancerza.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння даспеха."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння даспеха."
   },
   "1084684_00000000": {
     "en": "Find the silver sword upgrade diagram.",
@@ -61305,7 +61305,7 @@
     "en": "Find the sunken treasure chest using your Witcher Senses.",
     "ru": "Найти затонувший сундук с сокровищами, используя ведьмачье чутьё.",
     "pl": "Odszukaj zatopioną skrzynię, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці патанулую скрыню, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці патанулую скрыню з дапамогай пачуцця ведзьмара."
   },
   "1087014_00000000": {
     "en": "Read the notes you found.",
@@ -61371,25 +61371,25 @@
     "en": "Follow the imp using your Witcher Senses.",
     "ru": "Выследить домового, используя ведьмачье чутьё.",
     "pl": "Wyśledź chochlika używając wiedźmińskich zmysłów.",
-    "bel": "Высачыць дамавіка, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Высачыць дамавіка з дапамогай пачуцця ведзьмара."
   },
   "576469_00000000": {
     "en": "Search the house using your Witcher Senses.",
     "ru": "Обыскать дом, используя ведьмачье чутьё.",
     "pl": "Przeszukaj dom używając wiedźmińskich zmysłów.",
-    "bel": "Абшукаць дом, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць дом з дапамогай пачуцця ведзьмара."
   },
   "576456_00000000": {
     "en": "Find a way to track the doppler using your Witcher Senses.",
     "ru": "Найти способ выследить допплера, используя ведьмачье чутьё.",
     "pl": "Z pomocą wiedźmińskich zmysłów znajdź sposób, żeby dotrzeć do dopplera.",
-    "bel": "Знайсці спосаб высачыць доплера, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці спосаб высачыць доплера з дапамогай пачуцця ведзьмара."
   },
   "576465_00000000": {
     "en": "Follow the scent of perfume using your Witcher Senses.",
     "ru": "Идти по запаху духов, используя ведьмачье чутьё.",
     "pl": "Idź śladem zapachu perfum, używając wiedźmińskich zmysłów.",
-    "bel": "Прайсці ўслед за водарам парфумы, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці ўслед за водарам парфумы з дапамогай пачуцця ведзьмара."
   },
   "576468_00000000": {
     "en": "Catch the doppler.",
@@ -61689,25 +61689,25 @@
     "en": "Investigate the ruined tower using your Witcher Senses.",
     "ru": "Осмотреть развалины башни, используя ведьмачье чутьё.",
     "pl": "Zbadaj zrujnowaną wieżę, używając wiedźmińskich zmysłów.",
-    "bel": "Агледзіце зруйнаваную вежу, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзіце зруйнаваную вежу з дапамогай пачуцця ведзьмара."
   },
   "577962_00000000": {
     "en": "Look for the bodies of the White Lady's victims using your Witcher Senses.",
     "ru": "Найти тела жертв Белой Дамы, используя ведьмачье чутьё.",
     "pl": "Znajdź ciała ofiar Białej Damy, używając wiedźmińskich zmysłów.",
-    "bel": "Знайсці целы ахвяр Белай дамы, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці целы ахвяр Белай дамы з дапамогай пачуцця ведзьмара."
   },
   "577963_00000000": {
     "en": "Investigate the place where the White Lady attacked using your Witcher Senses.",
     "ru": "Осмотреть место нападения, используя ведьмачье чутьё.",
     "pl": "Zbadaj miejsce ataku, używając wiedźmińskich zmysłów.",
-    "bel": "Агледзіце месца нападу Белай дамы, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзіце месца нападу Белай дамы з дапамогай пачуцця ведзьмара."
   },
   "1055082_00000000": {
     "en": "Follow the tracks using your Witcher Senses.",
     "ru": "Пойти по следам, используя ведьмачье чутьё.",
     "pl": "Idź za śladami, używając wiedźmińskich zmysłów.",
-    "bel": "Прайсці па слядам, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці па слядам з дапамогай пачуцця ведзьмара."
   },
   "577965_00000000": {
     "en": "Talk to the widow.",
@@ -61947,7 +61947,7 @@
     "en": "Look for clues about the thieves in the bathhouse side rooms using your Witcher Senses.",
     "ru": "Поискать следы воров в боковых помещениях бани, используя ведьмачье чутьё.",
     "pl": "Szukaj śladów złodziei w bocznych salach łaźni korzystając z wiedźmińskich zmysłów.",
-    "bel": "Пашукаць сляды злодзея ў бакавых памяшканнях лазні, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Пашукаць сляды злодзея ў бакавых памяшканнях лазні з дапамогай пачуцця ведзьмара."
   },
   "358274_00000000": {
     "en": "Examine Fons' body.",
@@ -61959,7 +61959,7 @@
     "en": "Use your Witcher Senses to search the sewer room for evidence.",
     "ru": "Поискать улики в каналах, используя ведьмачье чутьё.",
     "pl": "Z pomocą wiedźmińskich zmysłów zbadaj pomieszczenie w poszukiwaniu dowodów.",
-    "bel": "Знайдзіце зачэпкі ў каналах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайдзіце зачэпкі ў каналах з дапамогай пачуцця ведзьмара."
   },
   "358234_00000000": {
     "en": "Follow the current.",
@@ -61977,7 +61977,7 @@
     "en": "Investigate the site of the break-in using your Witcher Senses.",
     "ru": "Осмотреть место ограбления, используя ведьмачье чутьё.",
     "pl": "Zbadaj miejsce rabunku za pomocą wiedźmińskich zmysłów.",
-    "bel": "Агледзець месца аграблення, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець месца аграблення з дапамогай пачуцця ведзьмара."
   },
   "380104_00000000": {
     "en": "Examine the thief's body.",
@@ -62139,7 +62139,7 @@
     "en": "Search Margrave Henckel's house using your Witcher Senses.",
     "ru": "Обыскать дом маркграфа Хенкеля, используя ведьмачье чутьё.",
     "pl": "Przeszukaj dom margrabiego korzystając z wiedźmińskich zmysłów.",
-    "bel": "Абшукаць дом маркграфа Хэнкеля, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць дом маркграфа Хэнкеля з дапамогай пачуцця ведзьмара."
   },
   "381398_00000000": {
     "en": "Check what's going on downstairs.",
@@ -62157,19 +62157,19 @@
     "en": "Search the hidden room using your Witcher Senses.",
     "ru": "Обыскать тайную комнату, используя ведьмачье чутьё.",
     "pl": "Przeszukaj ukryty pokój za pomocą wiedźmińskich zmysłów.",
-    "bel": "Абшукаць схаваны пакой, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць схаваны пакой з дапамогай пачуцця ведзьмара."
   },
   "1065858_00000000": {
     "en": "Investigate the other room using your Witcher Senses.",
     "ru": "Осмотреть следующее помещение, используя ведьмачье чутьё.",
     "pl": "Zbadaj drugi pokój, używając wiedźmińskich zmysłów.",
-    "bel": "Даследаваць другі пакой, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць другі пакой з дапамогай пачуцця ведзьмара."
   },
   "489442_00000000": {
     "en": "Find the drop box using your Witcher Senses. Place the holy tome there to signal that you want to meet with the spy.",
     "ru": "Используя ведьмачье чутьё, найти тайник и оставить там священную книгу, тем самым подав шпиону сигнал о встрече.",
     "pl": "Daj szpiegowi sygnał do spotkania – używając wiedźmińskich zmysłów znajdź umówione miejsce i zostaw tam świętą księgę.",
-    "bel": "Даць шпіёну сігнал для сустрэчы — выкарыстоўваючы пачуцце ведзьмара, знайсці дамоўленае месца і пакінуць там святую кнігу."
+    "bel": "Даць шпіёну сігнал для сустрэчы — з дапамогай пачуцця ведзьмара, знайсці дамоўленае месца і пакінуць там святую кнігу."
   },
   "489443_00000000": {
     "en": "Be at the arranged meeting place at midnight.",
@@ -62895,19 +62895,19 @@
     "en": "Find the silver sword upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения серебряного меча.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie miecza srebrnego.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння сярэбранага мяча."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння сярэбранага мяча."
   },
   "1082093_00000000": {
     "en": "Find the gauntlets upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения перчаток.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie rękawic.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння пальчатак."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння пальчатак."
   },
   "1082092_00000000": {
     "en": "Find the armor upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения доспеха.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie pancerza.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння даспеха."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння даспеха."
   },
   "1084702_00000000": {
     "en": "Find the silver sword upgrade diagram.",
@@ -63891,7 +63891,7 @@
     "en": "Search the wreck using your Witcher Senses.",
     "ru": "Обыскать остов корабля, используя ведьмачье чутьё.",
     "pl": "Przeszukaj wrak przy pomocy wiedźmińskich zmysłów.",
-    "bel": "Абшукаць месца крушэння, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць месца крушэння з дапамогай пачуцця ведзьмара."
   },
   "1140067_00000000": {
     "en": "Read the note.",
@@ -64161,7 +64161,7 @@
     "en": "Find a ladder using your Witcher Senses.",
     "ru": "Найти лестницу, используя ведьмачье чутьё.",
     "pl": "Znajdź drabinę za pomocą wiedźmińskich zmysłów.",
-    "bel": "Знайсці лесвіцу, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці лесвіцу з дапамогай пачуцця ведзьмара."
   },
   "1073888_00000000": {
     "en": "Search the farmstead.",
@@ -64173,7 +64173,7 @@
     "en": "Find where the noise is coming from using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти источник шума.",
     "pl": "Użyj wiedźmińskich zmysłów, żeby zlokalizować źródło hałasu.",
-    "bel": "Зразумець, адкуль даносіцца шум, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Зразумець, адкуль даносіцца шум з дапамогай пачуцця ведзьмара."
   },
   "573190_00000000": {
     "en": "Enter the barn.",
@@ -64275,19 +64275,19 @@
     "en": "Find the steel sword upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения стального меча.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie miecza stalowego.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння стальнога мяча."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння стальнога мяча."
   },
   "1082089_00000000": {
     "en": "Find the boots upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения сапог.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie butów.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння ботаў."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння ботаў."
   },
   "1082090_00000000": {
     "en": "Find the trousers upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения штанов.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie spodni.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці чарцёж для паляпшэння штаноў."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці чарцёж для паляпшэння штаноў."
   },
   "1084690_00000000": {
     "en": "Find the steel sword upgrade diagram.",
@@ -65481,7 +65481,7 @@
     "en": "Find the archgriffin using your Witcher Senses and kill it.",
     "ru": "Найти и убить архигрифона, используя ведьмачье чутьё.",
     "pl": "Znajdź archegryfa za pomocą wiedźmińskich zmysłów i zabij go.",
-    "bel": "Знайсці архігрыфона, выкарыстоўваючы пачуцце ведзьмара, і забіць яго."
+    "bel": "Знайсці архігрыфона з дапамогай пачуцця ведзьмара, і забіць яго."
   },
   "1038357_00000000": {
     "en": "Take a trophy from the archgriffin.",
@@ -66297,7 +66297,7 @@
     "en": "Find the werewolf's lair using your Witcher Senses.",
     "ru": "Найти логово волколака, используя ведьмачье чутьё.",
     "pl": "Znajdź leże wilkołaka korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці логава ваўкалака, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці логава ваўкалака з дапамогай пачуцця ведзьмара."
   },
   "472040_00000000": {
     "en": "Defeat the werewolf.",
@@ -66321,7 +66321,7 @@
     "en": "Search for signs of Hanna in the woods using your Witcher Senses.",
     "ru": "Найти в лесу следы Ганны, используя ведьмачье чутьё.",
     "pl": "Poszukaj śladów Hanny w lesie za pomocą wiedźmińskich zmysłów.",
-    "bel": "Пашукаць сляды Ганны ў лесе, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Пашукаць сляды Ганны ў лесе з дапамогай пачуцця ведзьмара."
   },
   "592702_00000000": {
     "en": "Tell Niellen Hanna is dead.",
@@ -66603,7 +66603,7 @@
     "en": "Investigate the strange fog using your Witcher Senses.",
     "ru": "Исследовать странный туман, используя ведьмачье чутьё.",
     "pl": "Zbadaj dziwną mgłę używając wiedźmińskich zmysłów.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара агледзьце дзіўны туман."
+    "bel": "З дапамогай пачуцця ведзьмара агледзьце дзіўны туман."
   },
   "550439_00000000": {
     "en": "Find out what's killing people in the fog.",
@@ -66627,7 +66627,7 @@
     "en": "Explore the foglet's lair using your Witcher Senses.",
     "ru": "Осмотреть логово туманника.",
     "pl": "Zbadaj leże mglaka.",
-    "bel": "Даследаваць логава туманніка, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць логава туманніка з дапамогай пачуцця ведзьмара."
   },
   "550423_00000000": {
     "en": "Kill the foglet.",
@@ -67149,7 +67149,7 @@
     "en": "Find the lost Temerian treasure using your Witcher Senses.",
     "ru": "Найти спрятанный темерский клад, используя ведьмачье чутьё.",
     "pl": "Odnajdź zagubiony temerski skarb, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці тэмерыйскі скарб, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці тэмерыйскі скарб з дапамогай пачуцця ведзьмара."
   },
   "1087020_00000000": {
     "en": "Read the document you found.",
@@ -67275,7 +67275,7 @@
     "en": "Find the next stash using your Witcher Senses.",
     "ru": "Найти следующий тайник, используя ведьмачье чутьё.",
     "pl": "Użyj wiedźmińskich zmysłów by znaleźć kolejną skrytkę.",
-    "bel": "Знайсці наступную схованку, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці наступную схованку з дапамогай пачуцця ведзьмара."
   },
   "1009938_00000000": {
     "en": "Take the loot from the spies' chest.",
@@ -67563,13 +67563,13 @@
     "en": "Explore the caves Britt mentioned using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, осмотреть пещеры, о которых говорила Бритт.",
     "pl": "Zbadaj jaskinie wskazane przez Britt, używając wiedźmińskich zmysłów.",
-    "bel": "Даследаваць пячоры, паказаныя Брыт, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць пячоры, паказаныя Брыт з дапамогай пачуцця ведзьмара."
   },
   "1025963_00000000": {
     "en": "Explore the caves on Spikeroog using your Witcher Senses.",
     "ru": "Осмотреть пещеры на Спикерооге, используя ведьмачье чутьё.",
     "pl": "Zbadaj jaskinie na Spikeroog, używając wiedźmińskich zmysłów.",
-    "bel": "Даследаваць пячору на Спікерогу, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць пячору на Спікерогу з дапамогай пачуцця ведзьмара."
   },
   "1025655_00000000": {
     "en": "Contract: Here Comes the Groom",
@@ -68271,7 +68271,7 @@
     "en": "Investigate the ambush site using your Witcher Senses.",
     "ru": "Исследовать место засады, используя ведьмачье чутьё.",
     "pl": "Użyj wiedźmińskich zmysłów i zbadaj miejsce zasadzki.",
-    "bel": "Даследуйце месца засады, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследуйце месца засады з дапамогай пачуцця ведзьмара."
   },
   "1010147_00000000": {
     "en": "Talk to the village elder in Larvik.",
@@ -68325,7 +68325,7 @@
     "en": "Follow the tracks using your Witcher Senses.",
     "ru": "Пройти по следу, используя ведьмачье чутьё.",
     "pl": "Podążaj za śladami, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Ісці па слядах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Ісці па слядах з дапамогай пачуцця ведзьмара."
   },
   "1070383_00000000": {
     "en": "Kill the nekkers in the nest to provoke their pack leader.",
@@ -68685,31 +68685,31 @@
     "en": "Examine the crime scene using your Witcher Senses.",
     "ru": "Осмотреть место преступления, используя ведьмачье чутьё.",
     "pl": "Zbadaj miejsce zbrodni za pomocą wiedźmińskich zmysłów.",
-    "bel": "Даследаваць месца злачынства, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Даследаваць месца злачынства з дапамогай пачуцця ведзьмара."
   },
   "592262_00000000": {
     "en": "Find the monster that is prowling the area by using your Witcher Senses.",
     "ru": "Найти чудовище, рыскающее в окрестностях, используя ведьмачье чутьё.",
     "pl": "Wytrop potwora grasującego w okolicy za pomocą wiedźmińskich zmysłów.",
-    "bel": "Знайсці пачвару, што рыскае па аколіцах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці пачвару, што рыскае па аколіцах з дапамогай пачуцця ведзьмара."
   },
   "592263_00000000": {
     "en": "Find the place where the monster emerged from the water using your Witcher Senses.",
     "ru": "Найти место, где чудовище вылезло из воды, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów, odszukaj miejsce, w którym potwór wyszedł z wody.",
-    "bel": "Знайсці месца, дзе пачвара вылезла з вады, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці месца, дзе пачвара вылезла з вады з дапамогай пачуцця ведзьмара."
   },
   "592264_00000000": {
     "en": "Find the ekimmara's lair by following its tracks using your Witcher Senses.",
     "ru": "Пойти по следам экиммы и найти её логово, используя ведьмачье чутьё.",
     "pl": "Odnajdź legowisko ekimmy używając wiedźmińskich zmysłów.",
-    "bel": "Ісці па слядах экімы ды знайсці яе логава, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Ісці па слядах экімы ды знайсці яе логава з дапамогай пачуцця ведзьмара."
   },
   "1075086_00000000": {
     "en": "Look for the ekimmara in its lair using your Witcher Senses.",
     "ru": "Отыскать экимму в её логове, используя ведьмачье чутьё.",
     "pl": "Znajdź ekimmę w jej leżu używając wiedźmińskich zmysłów.",
-    "bel": "Знайсці экіму, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці экіму з дапамогай пачуцця ведзьмара."
   },
   "594464_00000000": {
     "en": "Find the shrine where Hammond prays.",
@@ -69015,7 +69015,7 @@
     "en": "Use your Witcher Senses to find the key to the bedroom door.",
     "ru": "Найти ключ от спальни, используя ведьмачье чутьё.",
     "pl": "Znajdź klucz do sypialni przy użyciu wiedźmińskich zmysłów.",
-    "bel": "Знайсці ключ ад спальні, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці ключ ад спальні з дапамогай пачуцця ведзьмара."
   },
   "1050730_00000000": {
     "en": "Every story has to start somewhere. This one starts in the guest room at Kaer Morhen, the stronghold of the witchers in the Blue Mountains. It starts with Geralt taking a bath, disproving the theory that witchers neglect personal hygiene. But as he's bathing, he is brusquely interrupted by Yennefer - does she ever interrupt in any other way? She reminds him that he was supposed to train with Ciri. What could our hero do but bid the sorceress farewell and descend into the courtyard of the fortress? Little did he know this would mark the start of a great adventure.<br>",
@@ -69351,19 +69351,19 @@
     "en": "Search the forest using your Witcher Senses.",
     "ru": "Обыскать лес, используя ведьмачье чутьё.",
     "pl": "Przeszukaj las używając wiedźmińskich zmysłów.",
-    "bel": "Абшукаць лес, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць лес з дапамогай пачуцця ведзьмара."
   },
   "560907_00000000": {
     "en": "Follow the tracks using your Witcher Senses.",
     "ru": "Пройти по следам, используя ведьмачье чутьё.",
     "pl": "Podążaj za śladami używając wiedźmińskich zmysłów.",
-    "bel": "Ісці па слядах, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Ісці па слядах з дапамогай пачуцця ведзьмара."
   },
   "560908_00000000": {
     "en": "Find out where the scent is coming from using your Witcher Senses.",
     "ru": "Отыскать источник запаха, используя ведьмачье чутьё.",
     "pl": "Sprawdź, dokąd prowadzi zapach, używając wiedźmińskich zmysłów.",
-    "bel": "Знайсці крыніцу паха, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці крыніцу паха з дапамогай пачуцця ведзьмара."
   },
   "560909_00000000": {
     "en": "Find a way into the cave.",
@@ -69435,7 +69435,7 @@
     "en": "Explore the cave using your Witcher Senses.",
     "ru": "Осмотреть пещеру, используя ведьмачье чутьё.",
     "pl": "Przeszukaj jaskinię używając wiedźmińskich zmysłów.",
-    "bel": "Агледзець пячору, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець пячору з дапамогай пачуцця ведзьмара."
   },
   "1051925_00000000": {
     "en": "In the village of Lindenvale Geralt came across a highly unusual contract. A certain hunter was worried by some strange tracks he had found in the woods and sought someone who could help him determine to whom - or to what - they belonged.<br>",
@@ -69507,7 +69507,7 @@
     "en": "Find the treasure chest using your Witcher Senses.",
     "ru": "Найти сундук с сокровищами, используя ведьмачье чутьё.",
     "pl": "Znajdź skrzynię ze skarbem za pomocą wiedźmińskich zmysłów.",
-    "bel": "Знайсці скарб, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці скарб з дапамогай пачуцця ведзьмара."
   },
   "1086669_00000000": {
     "en": "Read the crumpled note.",
@@ -69711,7 +69711,7 @@
     "en": "Track down the bards using your Witcher Senses and recover your equipment.",
     "ru": "Выследить бардов, используя ведьмачье чутьё, и вернуть снаряжение.",
     "pl": "Wyśledź bardów za pomocą wiedźmińskich zmysłów by odzyskać swój ekwipunek.",
-    "bel": "Высачыць бардаў і знайсці рыштунак, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Высачыць бардаў і знайсці рыштунак з дапамогай пачуцця ведзьмара."
   },
   "1051231_00000000": {
     "en": "On the high road outside Novigrad Geralt came across a merry band of troubadours who invited him to join them around the campfire and partake of tasty beverages. The witcher naturally never turns down such propositions and so gladly took them up on it. <br><br>When he awoke the next morning, he discovered he had been robbed of all his possessions and the troubadours had vanished without a trace. Furious, he set off on the thieves' trail.<br>",
@@ -69981,7 +69981,7 @@
     "en": "Find a book with a red cover using your Witcher Senses.",
     "ru": "Найти книгу в красной обложке, используя ведьмачье чутьё.",
     "pl": "Znajdź książkę z czerwoną okładką za pomocą wiedźmińskich zmysłów.",
-    "bel": "Знайсці кнігу ва чырвонай вокладцы, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці кнігу ва чырвонай вокладцы з дапамогай пачуцця ведзьмара."
   },
   "1086599_00000000": {
     "en": "Read the letter you found folded inside the book \"My Manifesto.\"",
@@ -70257,7 +70257,7 @@
     "en": "Use your Witcher Senses to figure out what happened to the murdered man.",
     "ru": "Используя ведьмачье чутьё, узнать, что случилось с убитым.",
     "pl": "Korzystając z wiedźmińskich zmysłów, ustal losy zamordowanego mężczyzny.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, даведацца пра лёс забітага мужчыны."
+    "bel": "З дапамогай пачуцця ведзьмара даведацца пра лёс забітага мужчыны."
   },
   "548413_00000000": {
     "en": "Kill the bandits.",
@@ -71415,7 +71415,7 @@
     "en": "Find the key to the library using your Witcher Senses.",
     "ru": "Найти ключ от библиотеки, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów, odszukaj klucz do biblioteki.",
-    "bel": "Знайсці ключ ад бібліятэкі, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці ключ ад бібліятэкі з дапамогай пачуцця ведзьмара."
   },
   "1040166_00000000": {
     "en": "Enter the library.",
@@ -71427,7 +71427,7 @@
     "en": "Find \"Gottfried's Omni-opening Grimoire\" using your Witcher Senses.",
     "ru": "Найти «Глобальное отмыкание Готфрида», используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów, znajdź „Globalne Otwarcie Gotfryda”.",
-    "bel": "Знайсці \"Глабальнае адмыканне Готфрыда\", выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці \"Глабальнае адмыканне Готфрыда\" з дапамогай пачуцця ведзьмара."
   },
   "1024126_00000000": {
     "en": "Bring the mage \"Gottfried's Omni-opening Grimoire.\"",
@@ -73239,7 +73239,7 @@
     "en": "Find the underwater treasure using your Witcher Senses.",
     "ru": "Найти спрятанные под водой сокровища, используя ведьмачье чутьё.",
     "pl": "Znajdź ukryty pod wodą skarb za pomocą wiedźmińskich zmysłów.",
-    "bel": "Знайсці схаваны пад вадой скарб, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці схаваны пад вадой скарб з дапамогай пачуцця ведзьмара."
   },
   "1086774_00000000": {
     "en": "Read the note you found.",
@@ -73275,7 +73275,7 @@
     "en": "Find the sunken treasure using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти затонувшее сокровище.",
     "pl": "Używając wiedźmińskich zmysłów, odszukaj zatopiony skarb.",
-    "bel": "Знайсці патанулы скарб, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці патанулы скарб з дапамогай пачуцця ведзьмара."
   },
   "1087037_00000000": {
     "en": "Read the letter you found.",
@@ -73491,7 +73491,7 @@
     "en": "Find the lost chest using your Witcher Senses.",
     "ru": "Найти потерянный сундук, используя ведьмачье чутьё.",
     "pl": "Znajdź zagubioną skrzynię, korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці згублены куфар, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці згублены куфар з дапамогай пачуцця ведзьмара."
   },
   "1087031_00000000": {
     "en": "Read the notes you found.",
@@ -73653,19 +73653,19 @@
     "en": "Find the steel sword upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения стального меча.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie miecza stalowego.",
-    "bel": "Знайсці чарцёж для паляпшэння стальнога мяча, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці чарцёж для паляпшэння стальнога мяча з дапамогай пачуцця ведзьмара."
   },
   "1080937_00000000": {
     "en": "Find the silver sword upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения серебряного меча.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie miecza srebrnego.",
-    "bel": "Знайсці чарцёж для паляпшэння сярэбранага мяча, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці чарцёж для паляпшэння сярэбранага мяча з дапамогай пачуцця ведзьмара."
   },
   "1080938_00000000": {
     "en": "Find the armor upgrade diagram using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти чертёж для улучшения доспеха.",
     "pl": "Użyj wiedźmińskich zmysłów, by znaleźć schemat na ulepszenie pancerza.",
-    "bel": "Знайсці чарцёж для паляпшэння даспеха, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці чарцёж для паляпшэння даспеха з дапамогай пачуцця ведзьмара."
   },
   "1084687_00000000": {
     "en": "Find the steel sword upgrade diagram.",
@@ -74055,7 +74055,7 @@
     "en": "Search Triss' house using your Witcher Senses.",
     "ru": "Обыскать дом Трисс, используя ведьмачье чутьё.",
     "pl": "Przeszukaj dom Triss za pomocą wiedźmińskich zmysłów.",
-    "bel": "Абшукаць дом Трыс, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць дом Трыс з дапамогай пачуцця ведзьмара."
   },
   "377705_00000000": {
     "en": "Talk with beggars about the King of Beggars.",
@@ -74103,7 +74103,7 @@
     "en": "Find the lost parcel using your Witcher Senses.",
     "ru": "Найти утопленный пакет, используя ведьмачье чутьё.",
     "pl": "Odszukaj zatopioną paczkę korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці затанулы пакет, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці затанулы пакет з дапамогай пачуцця ведзьмара."
   },
   "489312_00000000": {
     "en": "Place rat traps around the warehouse - use your Witcher Senses to guide you.",
@@ -74139,7 +74139,7 @@
     "en": "Find the secret passage using your Witcher Senses, then open it.",
     "ru": "Используя ведьмачье чутьё, найти тайный проход, а затем открыть его.",
     "pl": "Użyj wiedźmińskich zmysłów aby znaleźć tajne przejście, a następnie je otwórz.",
-    "bel": "Знайсці тайны праход, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці тайны праход з дапамогай пачуцця ведзьмара."
   },
   "1062903_00000000": {
     "en": "Leave the warehouse.",
@@ -74631,7 +74631,7 @@
     "en": "Use your Witcher Senses to follow the sounds and find the leshen's totem.",
     "ru": "Используя ведьмачье чутьё, пройти на звук вороньего грая и отыскать тотем лешего.",
     "pl": "Używając wiedźmińskich zmysłów, idź za krakaniem, by odszukać totem leszego.",
-    "bel": "Прайсці на гук варонінага грая і адшукаць татэм лесуна, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Прайсці на гук варонінага грая і адшукаць татэм лесуна з дапамогай пачуцця ведзьмара."
   },
   "566319_00000000": {
     "en": "Investigate the site of the monster's attack.",
@@ -74679,13 +74679,13 @@
     "en": "Find the site of the attack using your Witcher Senses.",
     "ru": "Найти место нападения, используя ведьмачье чутьё.",
     "pl": "Poszukaj śladów wokół szałasu drwali korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці месца нападу, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці месца нападу з дапамогай пачуцця ведзьмара."
   },
   "1074406_00000000": {
     "en": "Use your Witcher Senses to follow the wagon tracks to where the monster attacked.",
     "ru": "Используя ведьмачье чутьё, дойти по следам повозки до места нападения чудовища.",
     "pl": "Używając wiedźmińskich zmysłów, podążaj za śladami wozu do miejsca ataku potwora.",
-    "bel": "Дайсці па слядах воза да месца нападу пачвары, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Дайсці па слядах воза да месца нападу пачвары з дапамогай пачуцця ведзьмара."
   },
   "566290_00000000": {
     "en": "Contract: Lord of the Wood",
@@ -76137,7 +76137,7 @@
     "en": "Find a way to open the stable doors from the inside using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти способ открыть двери конюшни изнутри.",
     "pl": "Użyj wiedźmińskich zmysłów by znaleźć sposób na otwarcie stajni od środka.",
-    "bel": "Знайсці спосаб адкрыць канюшні знутры, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці спосаб адкрыць канюшні знутры з дапамогай пачуцця ведзьмара."
   },
   "588256_00000000": {
     "en": "Get on a horse and flee.",
@@ -76575,7 +76575,7 @@
     "en": "Go down the well and look for something that belonged to the dead woman using your Witcher Senses.",
     "ru": "Спуститься в колодец и с помощью ведьмачьего чутья поискать вещи, принадлежавшие убитой женщине.",
     "pl": "Zejdź do studni i używając wiedźmińskich zmysłów poszukaj przedmiotu należącego do zabitej kobiety.",
-    "bel": "Спусціцца ў калодзеж і пашукаць рэчы загінуўшай жанчыны, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Спусціцца ў калодзеж і пашукаць рэчы загінуўшай жанчыны з дапамогай пачуцця ведзьмара."
   },
   "1057932_00000000": {
     "en": "Light a fire to destroy the noonwraith's bones and bracelet.",
@@ -76599,13 +76599,13 @@
     "en": "Follow the drag marks using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, пройти по следам, оставленным телом.",
     "pl": "Podążaj za śladami wleczonego ciała korzystając z wiedźmińskich zmysłów.",
-    "bel": "Ісці па слядах, пакінутых целам, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Ісці па слядах, пакінутых целам з дапамогай пачуцця ведзьмара."
   },
   "1058678_00000000": {
     "en": "Use your Witcher Senses to examine the well.",
     "ru": "Осмотреть колодец, используя ведьмачье чутьё.",
     "pl": "Użyj wiedźmińskich zmysłów by znaleźć ślady zostawione przez ofiarę.",
-    "bel": "Агледзець калодзеж, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець калодзеж з дапамогай пачуцця ведзьмара."
   },
   "1058215_00000000": {
     "en": "Inspect the well.",
@@ -76641,7 +76641,7 @@
     "en": "Find evidence of the spirit's presence using your Witcher Senses.",
     "ru": "Используя ведьмачье чутьё, найти доказательства того, что дух здесь.",
     "pl": "Korzystając z wiedźmińskich zmysłów, znadź dowody na obecność ducha.",
-    "bel": "Знайсці доказы прысутнасці духу, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці доказы прысутнасці духу з дапамогай пачуцця ведзьмара."
   },
   "1025961_00000000": {
     "en": "Contract: Devil by the Well",
@@ -76797,13 +76797,13 @@
     "en": "Find a pimpernel in the woods using your Witcher Senses.",
     "ru": "Найти в лесу цветок курослепа, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów, odnajdź kwiat kurzyśladu w lesie.",
-    "bel": "Знайсці ў лесе кветку кураслепа, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці ў лесе кветку кураслепа з дапамогай пачуцця ведзьмара."
   },
   "474125_00000000": {
     "en": "Search the woods for the missing apprentice and some pimpernel using your Witcher Senses.",
     "ru": "Отыскать в лесу пропавшего ученика и нарвать курослепа, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów, odszukaj w lesie zaginionego ucznia i kwiat kurzyśladu.",
-    "bel": "Адшукаць у лесе зніклага вучня і нарваць кураслепа, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Адшукаць у лесе зніклага вучня і нарваць кураслепа з дапамогай пачуцця ведзьмара."
   },
   "474126_00000000": {
     "en": "Kill the succubus.",
@@ -76815,7 +76815,7 @@
     "en": "Use your Witcher Senses to find and pick a pimpernel.",
     "ru": "Найти и сорвать курослеп, используя ведьмачье чутьё.",
     "pl": "Za pomocą wiedźmińskich zmysłów znajdź, a następnie zerwij kwiat kurzośladu.",
-    "bel": "Знайсці ды сарваць кураслеп, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці ды сарваць кураслеп з дапамогай пачуцця ведзьмара."
   },
   "556779_00000000": {
     "en": "Bring the flower to Gremist.",
@@ -76875,7 +76875,7 @@
     "en": "Use your Witcher Senses to search the distillery for instructions on how to produce alcohol.",
     "ru": "Используя ведьмачье чутьё, найти в винокурне инструкцию по изготовлению дистиллята.",
     "pl": "Korzystając z wiedźmińskich zmysłów, znajdź instrukcję wyprodukowania destylatu.",
-    "bel": "Выкарыстоўваючы пачуцце ведзьмара, знайсці інструкцыю па вытворчасці дыстыляту."
+    "bel": "З дапамогай пачуцця ведзьмара знайсці інструкцыю па вытворчасці дыстыляту."
   },
   "556784_00000000": {
     "en": "Use the machine to produce alcohol.",
@@ -77361,7 +77361,7 @@
     "en": "Find the key Morkvarg mentioned using your Witcher Senses.",
     "ru": "При помощи ведьмачьего чутья найти ключ, о котором говорил Моркварг.",
     "pl": "Znajdź klucz, o którym mówił Morkvarg, używając wiedźmińskich zmysłów.",
-    "bel": "Знайсці ключ, аб якім гаварыў Моркварг, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці ключ, аб якім гаварыў Моркварг з дапамогай пачуцця ведзьмара."
   },
   "505304_00000000": {
     "en": "Collect your reward from the pawnshop in Novigrad.",
@@ -77415,7 +77415,7 @@
     "en": "Search the cave using your Witcher Senses.",
     "ru": "Обыскать пещеру, используя ведьмачье чутьё.",
     "pl": "Przeszukaj jaskinię używając wiedźmińskich zmysłów.",
-    "bel": "Абшукаць пячору, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Абшукаць пячору з дапамогай пачуцця ведзьмара."
   },
   "1086241_00000000": {
     "en": "Read Morkvarg's journal.",
@@ -77781,7 +77781,7 @@
     "en": "Find a black pearl using your Witcher Senses.",
     "ru": "Найти чёрную жемчужину, используя ведьмачье чутьё.",
     "pl": "Znajdź czarną perłę za pomocą wiedźmińskich zmysłów.",
-    "bel": "Знайсці чорную жамчужыну, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці чорную жамчужыну з дапамогай пачуцця ведзьмара."
   },
   "498111_00000000": {
     "en": "Kill the drowners.",
@@ -78015,7 +78015,7 @@
     "en": "Use your Witcher Senses to look for the charlatan in the cemetery.",
     "ru": "Найти мошенника на кладбище, используя ведьмачье чутьё.",
     "pl": "Używając wiedźmińskich zmysłów znajdź oszusta na cmentarzu.",
-    "bel": "Знайсці ашуканца на могілках, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці ашуканца на могілках з дапамогай пачуцця ведзьмара."
   },
   "1080207_00000000": {
     "en": "Find out more about the contract posted by the residents of Lindenvale.",
@@ -78057,7 +78057,7 @@
     "en": "Find the woman's missing fiancé in the woods using your Witcher Senses.",
     "ru": "Найти жениха девушки, пропавшего в лесу, используя ведьмачье чутьё.",
     "pl": "Znajdź zaginionego w lesie narzeczonego korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці жаніха дзяўчыны, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці жаніха дзяўчыны з дапамогай пачуцця ведзьмара."
   },
   "507201_00000000": {
     "en": "Deliver the bad news to the girl.",
@@ -78285,7 +78285,7 @@
     "en": "Find the missing horse using your Witcher Senses.",
     "ru": "Найти пропавшую кобылу, используя ведьмачье чутьё.",
     "pl": "Odnajdź zaginionego konia korzystając z wiedźmińskich zmysłów.",
-    "bel": "Знайсці зніклага каня, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Знайсці зніклага каня з дапамогай пачуцця ведзьмара."
   },
   "478637_00000000": {
     "en": "Defeat the Scoia'tael.",
@@ -79035,13 +79035,13 @@
     "en": "Explore the cemetery using your Witcher Senses.",
     "ru": "Осмотреть кладбище, используя ведьмачье чутьё.",
     "pl": "Użyj wiedźmińskich zmysłów do zbadania cmentarza.",
-    "bel": "Агледзець могілкі, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець могілкі з дапамогай пачуцця ведзьмара."
   },
   "1022629_00000000": {
     "en": "Investigate the lair using your Witcher Senses.",
     "ru": "Осмотреть логово, используя ведьмачье чутьё.",
     "pl": "Użyj wiedźmińskich zmysłów dla zbadania legowiska.",
-    "bel": "Агледзець логава, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Агледзець логава з дапамогай пачуцця ведзьмара."
   },
   "1048650_00000000": {
     "en": "Go to the cemetery.",
@@ -79059,7 +79059,7 @@
     "en": "Follow the scent of cadaverine using your Witcher Senses.",
     "ru": "Идти по запаху трупного яда, используя ведьмачье чутьё.",
     "pl": "Idź tropem zapachu kadaweryny używając wiedźmińskich zmysłów.",
-    "bel": "Ісці да крыніцы трупнага паху, выкарыстоўваючы пачуцце ведзьмара."
+    "bel": "Ісці да крыніцы трупнага паху з дапамогай пачуцця ведзьмара."
   },
   "555224_00000000": {
     "en": "Kill the grave hag.",
@@ -97522,12 +97522,6 @@
     "ru": "Здесь вы можете помочь виноделу очистить пещеру от чудовищ.",
     "pl": "W tym miejscu możesz pomóc winiarzom oczyścić jaskinię z potworów.",
     "bel": "Тут вы можаце дапамагчы вінаробу ачысціць пячору ад пачвар."
-  },
-  "1028101_33e7a86f": {
-    "en": "The Defensive Regulatory Magicon (or DRM for short) belongs to the above-mentioned group of the longest-lasting, most effective and hardest to break defensive mechanisms. In order to recognize the individual administering it, it makes use of a portal mounted at the entrance of the area it is to defend. This portal passes streams of magical energy through the body of the person entering and can, in the blink of an eye, determine if this person has the corporeal signature (eyeball structure included) of the entitled administrator. As a result, the only unauthorized individuals that can possibly hope to enter are mimics.<br><br>DRM thus makes for an extremely effective and near-unbreakable security measure - but you are in luck, for you hold in your hands the key to bypassing it, namely the present tome, Gottfried’s Omni-opening Grimoire, or GOG for short. In the pages to follow you will find innumerable methods for deactivating DRM, or, even better, bypassing it altogether (…)",
-    "ru": "Дефенсивный регулятор магии (сокращённо ДРМ) относится к вышеупомянутой группе долговечнейших, эффективнейших и прочнейших защитных устройств. С целью опознания пользователя используется портал на входе в защищённую зону. Этот портал пронизывает пучками магической энергии тело входящего и в мгновение ока определяет, соответствует ли телесная сигнатура данного лица (включая строение глазного яблока) сигнатуре владельца. Таким образом, только мимики могут надеяться пробраться сквозь портал.<br><br>ДРМ — чрезвычайно эффективное и практически неуязвимое средство защиты, но вам повезло — у вас в руках универсальный ключ, а именно «Глобальное отмыкание Готфрида» (сокращённо ГОГ). На страницах этой книги вы найдёте множество способов деактивации ДРМ и даже преодоления подобной защиты.",
-    "pl": "Defensywny Regulator Magiczny (w skrócie DRM) jest w wymienionej wyżej grupie zabezpieczeniem zdecydowanie najtrwalszym, najbardziej skutecznym i najtrudniejszym do przełamania. W celu rozpoznania jednostki zarządzającej wykorzystuje portal zamontowany przy wejściu do obszaru, który ma ochraniać. Portal, przepuszczając wiązki energii magicznej przez ciało wchodzącego weń osobnika, w czasie krótszym niż mrugnięcie okiem, jest w stanie ustalić czy wchodzący ma cechy cielesne identyczne z tymi posiadanymi przez właściciela (włącznie ze strukturą gałek ocznych). Z tego względu zagrożenie, że do środka chronionego obszaru dostanie się jednostka niepowołana, zostało ograniczone jedynie do mimików. <br><br>DRM jest więc bardzo silnym zabezpieczeniem, a jedynym sposobem na jego przełamanie jest zastosowanie formuły magicznej znanej jako Globalne Otwarcie Goftryda (w skrócie GOG, nazwanej tak na cześć twórcy), której treść znajduje się poniżej (...).",
-    "bel": ""
   },
   "1206000_33ee34d5": {
     "en": "Words of Wisdom on Beastly Curses",

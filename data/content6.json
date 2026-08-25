@@ -1,0 +1,650 @@
+﻿{
+  "515698_00000000": {
+    "en": "So, Yennefer found a volunteer to walk around with that chirping stick after all.",
+    "ru": "Вижу, Йеннифэр наконец нашла добровольца побегать с пищащей палкой?",
+    "pl": "Widzę, że Yennefer znalazła kogoś do łażenia z pikającą różdżką?",
+    "bel": "Бачу, Енэфер знайшла добраахвотніка пабегаць з пісклявай палкай."
+  },
+  "1040322_00000000": {
+    "en": "Hah! Lambert claimed you'd forget. Thanks, brother.",
+    "ru": "Ха! А Ламберт говорил, ты забудешь. Спасибо, брат.",
+    "pl": "Ha! A Lambert mówił, że zapomnisz. Dzięki, bracie.",
+    "bel": "Ха! А Ламберт казаў, што ты забудзеш. Дзякуй, брат."
+  },
+  "528721_00000000": {
+    "en": "You heard the answer to that question, Lambert… Besides, not our business.",
+    "ru": "Ты сам слышал, Ламберт. И потом, это не наше дело.",
+    "pl": "Przecież słyszałeś... A poza tym, nie nasza sprawa.",
+    "bel": "Ты сам чуў, Ламберт… апроч таго, гэта не наша справа."
+  },
+  "524830_00000000": {
+    "en": "Where've you been, Lambert?",
+    "ru": "Где ты был, Ламберт?",
+    "pl": "Co u ciebie, Lambert?",
+    "bel": "Дзе ты быў, Ламберт?"
+  },
+  "1075416_00000000": {
+    "en": "What've you been up to, Lambert? Any interesting contracts before you set off in search of Karadin?",
+    "ru": "А у тебя что, Ламберт? Было что-нибудь интересное, не считая поисков Таулера?",
+    "pl": "Co u ciebie, Lambert? Trafiły ci się jakieś ciekawe zlecenia, zanim zaczął polować na Taulera?",
+    "bel": "А ў цябе што, Ламберт? Было што-небудзь цікавае, апрача пошукаў Таўлера?"
+  },
+  "446990_00000000": {
+    "en": "What've you been up to, Lambert? On your way west last time I saw you.",
+    "ru": "Что у тебя, Ламберт? Когда мы виделись в последний раз, ты собирался на запад…",
+    "pl": "Co u ciebie, Lambert? Jak się ostatnio widzieliśmy, wybierałeś się gdzieś na zachód...",
+    "bel": "Што ў цябе, Ламберт? Калі мы бачыліся апошнім разам, ты збіраўся на захад…"
+  },
+  "519967_00000000": {
+    "en": "You could stand to show some of Lambert's expediency, set ideals like justice for trolls aside, keep yourself out of poverty instead.",
+    "ru": "Мог бы иногда брать пример с Ламберта — забыть хоть на время про идеалы и думать о деньгах.",
+    "pl": "Ty też mógłbyś być czasem jak Lambert. Odłożyć na bok ideały, takie jak sprawiedliwość dla trolli i pomyśleć o pieniądzach.",
+    "bel": "Мог бы часам браць прыклад з Ламберта. Забыцца хоць ненадоўга на ідэалы і думаць пра грошы."
+  },
+  "519972_00000000": {
+    "en": "We've no interest in your fantasies, Lambert. Whereas the vampire… even I'm curious to know how you managed.",
+    "ru": "Ламберт, нас не интересуют твои фантазии. Что до вампира… даже мне интересно, что у тебя вышло.",
+    "pl": "Nie interesują nas twoje fantazje. Za to ten wampir... Nawet mnie ciekawi, jak sobie poradziłeś.",
+    "bel": "Нас не цікавяць твае фантазіі, Ламберт. Што да таго вампіра… нават мне цікава, што ў цябе выйшла."
+  },
+  "447186_00000000": {
+    "en": "Pff. Long story. I was on Ciri's trail - went to Velen, Skellige, Novigrad - where Dandelion needed saving again.",
+    "ru": "Долгая история. Я шёл по следам Цири — Велен, Скеллиге… В Новиграде снова пришлось спасать Лютика…",
+    "pl": "Długa historia. Jeździłem za Ciri – do Velen, na Skellige... W Novigradzie ratowałem Jaskra...",
+    "bel": "Доўгая гісторыя. Я ішоў па слядах Цыры – Велен, Скеліге… у Навіградзе зноў ратаваў Казяльца."
+  },
+  "447196_00000000": {
+    "en": "Right. Speaking of old friends, Novigrad and ploughing… How's Triss?",
+    "ru": "Раз уж зашла речь о старых друзьях, ебле и Новиграде… Как там Трисс?",
+    "pl": "A właśnie, przy okazji starych znajomych, Novigradu i chędożenia... Co u Triss?",
+    "bel": "Калі ўжо пайшла гаворка пра старых знаёмых, Навіград і еблю… як там Трыс?"
+  },
+  "520583_00000000": {
+    "en": "Triss is… managing all right.",
+    "ru": "Трисс… отлично справляется.",
+    "pl": "Triss... Radzi sobie.",
+    "bel": "Трыс… дае раду."
+  },
+  "520033_00000000": {
+    "en": "Triss is managing.",
+    "ru": "Трисс о себе позаботится.",
+    "pl": "Triss sobie radzi.",
+    "bel": "Трыс дае рады."
+  },
+  "520575_00000000": {
+    "en": "Fuck off, Lambert.",
+    "ru": "Отъебись, Ламберт.",
+    "pl": "Odpieprz się.",
+    "bel": "Ад'ябіся."
+  },
+  "520587_00000000": {
+    "en": "Lambert. Not funny.",
+    "ru": "Ламберт… это уже не смешно.",
+    "pl": "Lambert... To już nie jest śmieszne.",
+    "bel": "Ламберт… гэта ўжо нясмешна."
+  },
+  "520622_00000000": {
+    "en": "Mind your manners, Lambert.",
+    "ru": "Повежливей.",
+    "pl": "Grzeczniej.",
+    "bel": "Паветлівей."
+  },
+  "528774_00000000": {
+    "en": "Gentlemen, pleasure drinking with you… Lambert especially. But the hour is late.",
+    "ru": "Господа… была рада с вами выпить, с тобой, Ламберт, особенно. Но час уже поздний.",
+    "pl": "Panowie, korzystając z okazji... Miło się piło, zwłaszcza z Lambertem... Ale pora późna.",
+    "bel": "Спадары, цудоўна было выпіць з вамі… з Ламбертам асабліва. Але час позні."
+  },
+  "527946_00000000": {
+    "en": "We could've gone to Triss for help.",
+    "ru": "Может, взял бы лучше Трисс?",
+    "pl": "Może lepiej było Triss wziąć...",
+    "bel": "Мо лепш узяў бы з сабой Трыс?"
+  },
+  "527948_00000000": {
+    "en": "Put it to you this way… If Yen can't help Uma, we can always go to Triss - she won't hold it against us. But if we'd done it the other way around…",
+    "ru": "Я так скажу… Если Йен не справится с проклятием Умы, мы всегда сможем обратиться к Трисс, и она на нас не обозлится. А вот если сделать наоборот…",
+    "pl": "Powiem tak... Jeśli Yen nie da rady z Umą, zawsze możemy zwrócić się do Triss, nie będzie miała pretensji. Ale gdybyśmy zrobili na odwrót...",
+    "bel": "Скажу так… калі Ен не дапаможа Уме, мы заўсёды можам звярнуцца да Трыс, і яна не ўзлуецца. А вось калі зрабіць наадварот…"
+  },
+  "529491_00000000": {
+    "en": "Lambert, enough.",
+    "ru": "Ламберт… Хватит.",
+    "pl": "Lambert... Dość.",
+    "bel": "Ламберт… годзе."
+  },
+  "529477_00000000": {
+    "en": "Dandelion should sing about you instead. \"Lambert, the Smart-Ass Witcher.\"",
+    "ru": "Пусть лучше он споёт балладу о тебе. «Ламберт, или Доставучий ведьмак».",
+    "pl": "Niech lepiej zaśpiewa o tobie. „Lambert – albo upierdliwy wiedźmin”.",
+    "bel": "Няхай лепш заспявае баладу пра цябе. \"Ламберт, ці ўпарты вядзьмар\"."
+  },
+  "1000016_00000000": {
+    "en": "I'm looking for Ciri.",
+    "ru": "Я ищу Цири.",
+    "pl": "Szukam Ciri.",
+    "bel": "Я шукаю Цыры."
+  },
+  "1000022_00000000": {
+    "en": "I'm looking for Ciri. Ashen hair, scar on her cheek. Seen her?",
+    "ru": "Я ищу Цири. Пепельные волосы, шрам на щеке… Ты видел её?",
+    "pl": "Szukam Ciri. Popielate włosy, blizna na policzku... Widziałeś ją?",
+    "bel": "Я шукаю Цыры. Папялястыя валасы, шнар на шчацэ… бачыў яе?"
+  },
+  "522425_00000000": {
+    "en": "Good luck, Wolf. And give Cirilla our love.",
+    "ru": "Удачи тебе, Волк. И передавай привет Ласточке.",
+    "pl": "Powodzenia... I pozdrów od nas Jaskółeczkę.",
+    "bel": "Удачы… і перадавай прывет Ластаўцы."
+  },
+  "522423_00000000": {
+    "en": "Fine. I'll get Ciri, and recruit some allies. Bring everyone here. Got a few favors I can call in.",
+    "ru": "Хорошо. Я заберу Цири и найду союзников… Отправлю всех сюда. Есть пара особ, с которых можно стрясти долги…",
+    "pl": "Dobrze. Sprowadzę tu Ciri... I sprzymierzeńców. Jest parę osób, u których mam dług wdzięczności.",
+    "bel": "Добра. Я забяру Цыры… і знайду саюзнікаў. Ёсць пара асоб, з якіх можна стрэсці даўгі."
+  },
+  "522244_00000000": {
+    "en": "Time we the hunted became the hunters. Geralt will find Ciri and bring her here… and the Hunt will follow.",
+    "ru": "Пора добыче стать охотником. Геральт найдёт Цири и приведёт сюда её — и Охоту.",
+    "pl": "Czas, żebyśmy ze zwierzyny stali się łowcą. Jak Geralt odnajdzie Ciri, przyjedzie tu... A Gon za nim.",
+    "bel": "Здабычы самы час стаць паляўнічым. Геральт знойдзе Цыры і прывядзе яе сюды… разам з Паляваннем."
+  },
+  "522234_00000000": {
+    "en": "Ciri can't flee forever. One day she'll stumble. And she won't get a second chance.",
+    "ru": "Цири не может убегать вечно. Однажды она запнётся… И второго шанса у неё не будет.",
+    "pl": "Ciri nie może uciekać w nieskończoność. W końcu powinie jej się noga... A drugiej szansy nie dostanie.",
+    "bel": "Цыры не можа ўцякаць вечна. Аднойчы яна спатыкнецца… і другога шанца не будзе."
+  },
+  "522173_00000000": {
+    "en": "I'm going to get Ciri.",
+    "ru": "Я еду за Цири.",
+    "pl": "Jadę po Ciri.",
+    "bel": "Я еду па Цыры."
+  },
+  "522175_00000000": {
+    "en": "Hold up. Don't you think you owe us some answers? How do you know this Avallac'h? What's Ciri been doing with him?",
+    "ru": "Постой… Тебе не кажется, что ты должен нам кое-что рассказать? Откуда ты знаешь этого Аваллак'ха? Какое он имеет отношение к Цири?",
+    "pl": "Chwila... Nie uważasz, że jesteś nam winny odpowiedzi? Skąd znasz tego Avallac’ha? Co Ciri z nim robiła?",
+    "bel": "Пачакай… табе не здаецца, што ты маеш сёе-тое нам расказаць? Адкуль ты ведаеш Авалак'ха? Якое дачыненне ён мае да Цыры?"
+  },
+  "522177_00000000": {
+    "en": "Yennefer can tell you, just keep an eye on him. He's not a friend.",
+    "ru": "Йеннифэр вам всё объяснит. Главное — приглядывайте за ним… Он… не друг.",
+    "pl": "Yennefer wam wyjaśni. Dość powiedzieć, że powinniście mieć go na oku... To nie jest przyjaciel.",
+    "bel": "Енэфер усё растлумачыць. Галоўнае – наглядайце за ім… ён не сябар."
+  },
+  "522179_00000000": {
+    "en": "Perhaps not, but Ciri apparently trusted him. We should at least take his words seriously.",
+    "ru": "Может, и нет, но Цири ему доверяла… И отмахиваться от его слов не стоит.",
+    "pl": "Może nie, ale skoro Ciri mu zaufała... To i my powinniśmy potraktować jego słowa poważnie.",
+    "bel": "Можа і не, але Цыры яму давярала… і адмахвацца ад яго слоў не варта."
+  },
+  "522181_00000000": {
+    "en": "You heard what he said - take Ciri from that Isle of Mists and the Hunt'll pick up her trail immediately. What then?",
+    "ru": "Ты слышал, что он сказал: заберёшь Цири с Острова Туманов, и Охота тут же возьмёт её след. И что тогда?",
+    "pl": "Słyszałeś, co powiedział – kiedy zabierzesz Ciri z tej Wyspy Mgieł, Gon podejmie jej trop. I co wtedy?",
+    "bel": "Ты чуў, што ён сказаў: забярэш Цыры з гэтага Вострава Туманаў, і Паляванне адразу возьме яе след. Што тады?"
+  },
+  "522138_00000000": {
+    "en": "I'm going after Ciri.",
+    "ru": "Я отправляюсь за Цири.",
+    "pl": "Jadę po Ciri.",
+    "bel": "Я іду па Цыры."
+  },
+  "522123_00000000": {
+    "en": "The Hunt - what's it want from Ciri?",
+    "ru": "Чего Охота хочет от Цири?",
+    "pl": "Czego Gon chce od Ciri?",
+    "bel": "Чаго Паляванне хоча ад Цыры?"
+  },
+  "522089_00000000": {
+    "en": "Where is Ciri?",
+    "ru": "Где Цири?",
+    "pl": "Gdzie jest Ciri?",
+    "bel": "Дзе Цыры?"
+  },
+  "536219_00000000": {
+    "en": "This \"monstrosity\" might well be your daughter. Its body is the product of a curse. Someone hides inside it.",
+    "ru": "Это «чучело» может быть твоей дочерью. Тело Умы создано проклятием… И в нём кто-то заперт.",
+    "pl": "Ta „pokraka” może być twoją córką. Ciało Umy jest wytworem klątwy... I kogoś w sobie skrywa.",
+    "bel": "Гэты \"вырадак\" можа быць тваёй дачкай. Цела Умы створана праклёнам… і хтосьці ў ім замкнёны."
+  },
+  "536231_00000000": {
+    "en": "Dandelion told me. Ciri talked to him about it.",
+    "ru": "Мне Лютик сказал… А ему сказала Цири.",
+    "pl": "Wiem od Jaskra... Ciri z nim o tym rozmawiała.",
+    "bel": "Казялец мне сказаў… а яму сказала Цыры."
+  },
+  "536233_00000000": {
+    "en": "At last, you provide a pleasant surprise. Lady Yennefer, my question stands.",
+    "ru": "Хоть раз ты меня приятно удивил… Йеннифэр. Я повторяю вопрос.",
+    "pl": "Chociaż raz mnie pozytywnie zaskoczyłeś... Yennefer. Ponawiam pytanie.",
+    "bel": "Хоць аднойчы ты прыемна мяне здзівіў… Енэфер. Я паўтараю пытанне."
+  },
+  "536263_00000000": {
+    "en": "The details do not interest me. Geralt, you've achieved precious little - yet admittedly more than the bumblers in my spy corps have. I give you half the promised reward. You will receive the other when you bring me Ciri.",
+    "ru": "Подробности меня не интересуют. Геральт… ты узнал немного, но куда больше, чем неудачники из моей разведки. Вот половина условленной награды. Вторую половину получишь, когда приведёшь Цири.",
+    "pl": "Szczegóły mnie nie interesują. Geralt... Wiele nie zdziałałeś – ale i tak więcej niż nieudacznicy z mojego wywiadu. Oto pół umówionej nagrody. Drugie pół dostaniesz, kiedy przyprowadzisz mi Ciri.",
+    "bel": "Падрабязнасці мяне не цікавяць. Геральт… ты даведаўся няшмат, але куды больш, чым няўдачнікі з маёй разведкі. Вось палова абумоўленай сумы. Другую атрымаеш, калі прывядзеш Цыры."
+  },
+  "535884_00000000": {
+    "en": "This monstrosity might be your daughter.",
+    "ru": "Это «чучело» может быть твоей дочерью.",
+    "pl": "Ta pokraka może być twoją córką.",
+    "bel": "Гэты \"вырадак\" можа быць тваёй дачкай."
+  },
+  "535885_00000000": {
+    "en": "I know where Ciri was, what she did.",
+    "ru": "Я знаю, где была Цири и что делала.",
+    "pl": "Prześledziłem losy Ciri.",
+    "bel": "Я ведаю, дзе была Цыры і што яна рабіла."
+  },
+  "536040_00000000": {
+    "en": "Ciri first reappeared in Skellige. With a mage, an elf. Yen knows more.",
+    "ru": "Сперва Цири появилась на Скеллиге с каким-то эльфским чародеем. Но об этом Йен знает больше.",
+    "pl": "Ciri pojawiła się wpierw na Skellige razem z pewnym elfim czarodziejem. Ale o tym więcej wie Yen.",
+    "bel": "Спярша Цыры з'явілася на Скеліге з нейкім эльфскім чарадзеям. Ен ведае пра гэта больш."
+  },
+  "536044_00000000": {
+    "en": "Where they were separated. Ciri spent some time with a local warlord, a self-styled baron who--",
+    "ru": "Там их пути разошлись. Цири провела некоторое время у тамошнего барона, который…",
+    "pl": "Tam ich ścieżki się rozeszły. Ciri była jakiś czas u Barona, lokalnego watażki, który...",
+    "bel": "Там іхнія шляхі разышліся. Цыры правяла некаторы час у мясцовага барона, які…"
+  },
+  "536048_00000000": {
+    "en": "…who helped her get to Novigrad, where Ciri crossed some of the city's underworld bosses. She had to flee, went back to Skellige. Ran into her elf companion there.",
+    "ru": "Барон отправил её в Новиград. Цири перешла дорогу новиградским бандитам, и ей пришлось вернуться на Скеллиге. Там она встретила своего товарища-эльфа…",
+    "pl": "Który pokierował ją do Novigradu. Ciri wdała się w zatargi z półświatkiem, więc wróciła na Skellige. Tam spotkała swojego towarzysza...",
+    "bel": "…адправіў яе ў Навіград. Цыры перайшла дарогу мясцовым бандытамі, ды ёй давялося вярнуцца на Скеліге. Там яна сустрэла свайго кампаньёна-эльфа."
+  },
+  "536050_00000000": {
+    "en": "And into the Wild Hunt, again. Ciri and the elf fled, out to sea this time. Their boat returned to shore the next day with only him on board.",
+    "ru": "И Дикую Охоту. Им пришлось вместе уходить в море… А на следующий день их лодку прибило обратно к берегу, и там был он.",
+    "pl": "I Dziki Gon. Musieli razem uciekać na morze... A następnego dnia ich łodzią przybił do brzegu on.",
+    "bel": "І Дзікае паляванне. Ім давялося ўцякаць морам… а наступнага дня іхнюю лодку прыбіла назад да берага, і там быў ён."
+  },
+  "535877_00000000": {
+    "en": "Ciri… Well, this… man is the key to finding her.",
+    "ru": "Это… Этот человек — ключ к поискам Цири.",
+    "pl": "Ten... człowiek jest kluczem do odnalezienia Ciri.",
+    "bel": "Гэты… гэты чалавек – ключ да пошукаў Цыры."
+  },
+  "535881_00000000": {
+    "en": "I give you three solid leads, trails as fresh as morning dew, the aid of my spies and my court sorceress. Yet in my daughter's stead, you bring me this… monstrosity?",
+    "ru": "Я даю тебе три свежих следа… Предлагаю помощь разведки и придворной чародейки… А ты вместо дочери привозишь мне какое-то… чучело?",
+    "pl": "Daję ci trzy świeże tropy. Oferuję pomoc wywiadu i nadwornej czarodziejki. A ty zamiast córki przywozisz mi jakąś... Pokrakę?",
+    "bel": "Я даю табе тры свежыя сляды… прапаную дапамогу разведкі ды прыдворнай чарадзейкі… а ты замест дачкі прывозіш мне якогасьці… вырадка!"
+  },
+  "535859_00000000": {
+    "en": "Your Imperial Majesty… Yennefer…",
+    "ru": "Император… Йеннифэр…",
+    "pl": "Wasza Cesarska Mość... Yennefer...",
+    "bel": "Ваша Імператарская Вялікасць… Енэфер…"
+  },
+  "526944_00000000": {
+    "en": "Dimeritium bombs. Lambert made 'em.",
+    "ru": "Двимеритовые бомбы. Ламберт делал.",
+    "pl": "Bomby dwimerytowe. Lambert robił.",
+    "bel": "Двімерытавыя бомбы. Ламберт рабіў."
+  },
+  "526406_00000000": {
+    "en": "Eskel's hunting forktails. Gotta nip that infestation in the bud, and since Yennefer needs to distill some ingredients from their organs… Well, like they say, two birds, one stone.",
+    "ru": "Эскель охотится на вилохвостов. Их и так нужно извести, пока не расплодились, ну а Йеннифэр хочет из них добыть какие-то ингредиенты… Как говорится, одним выстрелом двух зайцев.",
+    "pl": "Eskel poluje na widłogony. I tak trzeba je wytępić nim się namnożą, a że Yennefer chce z nich destylować jakieś składniki... Jak to mówią, dwie pieczenie na jednym ogniu.",
+    "bel": "Эскель палюе на вілахвостаў. Іх і так трэба звесці, пакуль не распладзіліся, ну а Енэфер хоча раздабыць якіясьці інгрэдыенты… як кажуць, двух зайцаў адным выстралам."
+  },
+  "526407_00000000": {
+    "en": "Lambert's still in the keep, preparing to venture into the mountains to enrich the phylactery with elemental power.",
+    "ru": "Ламберт ещё в замке… Собирается в горы, чтобы наполнить филактерий энергией стихий.",
+    "pl": "Lambert jest jeszcze w zamku... Zbiera się w góry, żeby napełnić filakterium energią żywiołów.",
+    "bel": "Ламберг усё яшчэ ў замку… збіраецца ў горы, каб напоўніць філактэрый энергіяй стыхій."
+  },
+  "526325_00000000": {
+    "en": "Said the same myself. Solid oak frame, down mattress. Triss always said she--",
+    "ru": "Я ей то же самое сказал. Дубовое основание, пуховый матрас. Трисс всегда говорила, что…",
+    "pl": "To samo jej powiedziałem. Solidna dębowa rama, puchowy materac. Triss zawsze mówiła, że...",
+    "bel": "Я ёй тое ж самае сказаў. Салідная дубовая рама, пуховы матрац. Трыс заўсёды казала, што…"
+  },
+  "526247_00000000": {
+    "en": "She teleports in, not even a \"nice to see you.\" Jumps right into, uh - \"We've a curse to lift. There's this to do, and that - so Eskel and Lambert, get going.\" Then she went to the guest room, to rearrange things… threw the bed off the balcony.",
+    "ru": "Телепортировалась — и никакого тебе «здравствуйте». Сразу, мол, будем снимать заклятие, нужно сделать то и это, Эскель, Ламберт, шевелитесь. А потом пошла в комнату для гостей и кровать с балкона выбросила.",
+    "pl": "Teleportowała się i żadnego „witajcie”, tylko od razu: „Będziemy odczyniać klątwę, trzeba zrobić to i to, Eskel, Lambert, ruchy”. A potem poszła do komnaty gościnnej... I wywaliła łóżko na dziedziniec.",
+    "bel": "Тэлепартавалася, і аніякага \"вітаю\", адразу, маўляў, будзем здымаць праклён, робім тое і тое, Эскель, Ламберт, рухайцеся. А потым пайшла ў пакой для гасцей і ложак з балкону выкінула."
+  },
+  "526235_00000000": {
+    "en": "Lotta work for one person. Lambert and Eskel not willing to help? Don't see the sense in it?",
+    "ru": "Многовато работы для одного. Ламберт и Эскель не помогают?",
+    "pl": "Sporo roboty... Zwłaszcza dla jednej osoby. Lambert i Eskel nie pomagają?",
+    "bel": "Шмат працы… для аднаго. Ламберт і Эскель не дапамагаюць?"
+  },
+  "526237_00000000": {
+    "en": "No. Yennefer found more important things for them to do.",
+    "ru": "Нет. Йеннифэр нашла им более важное занятие.",
+    "pl": "Nie. Yennefer znalazła im pilniejsze zajęcia.",
+    "bel": "Не. Енэфер ім знайшла важнейшы занятак."
+  },
+  "526435_00000000": {
+    "en": "Now, now. Calm down… Yennefer was right on one count… Thing sure isn't pretty.",
+    "ru": "Тише, тише… Вот холера, права была Йен… Не красавец он, конечно.",
+    "pl": "No, już, już, spokojnie... Cholera, Yennefer miała rację. Piękny to on nie jest.",
+    "bel": "Ну, ну, цішэй… халера, Енэфер мела рацыю… не прыгажун ён."
+  },
+  "529210_00000000": {
+    "en": "Lambert, Lambert - what a prick.",
+    "ru": "Ламберт, Ламберт, хер моржовый. Ламберт, Ламберт, вредный хуй.",
+    "pl": "Lambert, Lambert, ty chuju.",
+    "bel": "Ламберт, Ламберт, ты хуй."
+  },
+  "1022844_00000000": {
+    "en": "Boulders form a triangle… affecting the magic aura. Thing is, who arranged them? Couldn't 'ave been Lambert…",
+    "ru": "Камни образуют треугольник… который влияет на ауру этого места. Кто всё это поставил? Не Ламберт же…",
+    "pl": "Głazy tworzą trójkąt... Który wpływa na aurę tej okolicy. Kto to postawił? Przecież nie Lambert...",
+    "bel": "Камені фармуюць трывугольнік… які ўплывае на аўру гэтага месца. Хто іх паставіў? Не Ламберт жа…"
+  },
+  "526716_00000000": {
+    "en": "No. I was determined not to sleep in the bed in which you swived Triss. Repeatedly.",
+    "ru": "Нет. Я просто не хочу спать на кровати, в которой ты грелся с Трисс.",
+    "pl": "Nie. Aż tak nie chciałam spać w łóżku, w którym gziłeś się z Triss.",
+    "bel": "Не. Я проста не хачу спаць у пастэлі, дзе ты грэўся з Трыс."
+  },
+  "527367_00000000": {
+    "en": "Ah. So it is about Triss.",
+    "ru": "А-а. Значит, дело в Трисс.",
+    "pl": "Ach. Więc chodzi o Triss.",
+    "bel": "А-а. Дык справа ў Трыс."
+  },
+  "527368_00000000": {
+    "en": "Yes. It's about our dear darling Triss.",
+    "ru": "Да. Всё дело в нашей любимой Трисс.",
+    "pl": "Owszem. Chodzi o naszą ukochaną Triss.",
+    "bel": "Так. Справа ў нашай любімай Трыс."
+  },
+  "1056883_00000000": {
+    "en": "Come on. Triss? That's the past. You know that.",
+    "ru": "Трисс уже в прошлом. Ты же знаешь.",
+    "pl": "Triss to przeszłość. Przecież wiesz.",
+    "bel": "Трыс у мінулым. Ты ведаеш."
+  },
+  "1056881_00000000": {
+    "en": "Triss - that's the past. You know that.",
+    "ru": "Трисс уже в прошлом. Ты же знаешь.",
+    "pl": "Triss to przeszłość. Wiesz przecież.",
+    "bel": "Трыс у мінулым. Ты ведаеш."
+  },
+  "527414_00000000": {
+    "en": "Let me think - that was the… third crystal to explode. It's been a week and Lambert's still not done what I've asked. Vesemir spitefully insists on repairing the wall just beneath my window and starts hammering at the crack of dawn, while Eskel seems to have gone mushroom picking, not forktail hunting.",
+    "ru": "Дай подумать… Лопнул уже третий кристалл, Ламберт больше недели собирается заняться тем, о чём я просила, Весемир назло делает ремонт прямо под моим окном. А Эскель вместо вилохвоста, наверно, пошёл за грибами…",
+    "pl": "Niech pomyślę... To był już trzeci kryształ, który pękł. Minął już tydzień, a Lambert wciąż zbiera się, żeby załatwić, to, o co prosiłam. Vesemir na złość robi remont pod moim oknem i zaczyna walić młotkiem wraz ze wschodem słońca, a Eskel zamiast polować na widłogona pojechał chyba na grzyby...",
+    "bel": "Дай падумаць… ужо трэці крышталь трэснуў. Ламберт больш за тыдзень збіраецца заняцца тым, чым я прашу. Весемір на злосць робіць рамонт проста пад маім акном, а Эскель замест вілахвост, мусібыць, пайшоў па грыбы..."
+  },
+  "527470_00000000": {
+    "en": "Already helped Lambert, I'll go see what Eskel's up to. Anything else?",
+    "ru": "Ламберту я уже помог… Посмотрю, что у Эскеля. Что-нибудь ещё?",
+    "pl": "Lambertowi już pomogłem... Zobaczę, co u Eskela. Coś jeszcze?",
+    "bel": "Ламберту я ўжо дапамог… пагляджу, што ў Эскеля. Штосьці яшчэ?"
+  },
+  "527471_00000000": {
+    "en": "Already helped Eskel, I can check on Lambert. Anything else?",
+    "ru": "Эскелю я уже помог… Посмотрю, что у Ламберта. Что-нибудь ещё?",
+    "pl": "Eskelowi już pomogłem... Zobaczę, co u Lamberta. Coś jeszcze?",
+    "bel": "Эскелю я ўжо дапамог… пагляджу, што ў Ламберта. Штосьці яшчэ?"
+  },
+  "527463_00000000": {
+    "en": "Firstly, help Eskel and Lambert. One was supposed to get me forktail spinal fluid, the other was to fortify the phylactery with elemental power. I've yet to see anything from either of them.",
+    "ru": "Прежде всего — помоги Эскелю и Ламберту. Один должен был добыть вытяжку из хребта вилохвоста, а другой — зарядить филактерий энергией стихий… И результатов что-то не видно.",
+    "pl": "Przede wszystkim pomóż Eskelowi i Lambertowi. Jeden miał dla mnie zdobyć płyn rdzeniowy widłogona, drugi naładować filakterium mocą żywiołów. I efektów jakoś nie widać.",
+    "bel": "Перш-наперш дапамажы Эскелю і Ламберту. Адзін меў зрабіць выцяжку з хрыбта вілахвоста, другі – зарадзіць філактэрый энергіяй стыхій. Але вынікаў штосьці не бачна."
+  },
+  "526718_00000000": {
+    "en": "So upset about Triss you gotta take it out on the furniture?",
+    "ru": "Значит, ты так бесишься из-за Трисс, что вымещаешь зло на мебели?",
+    "pl": "Aż tak przeżywasz Triss, że musisz się mścić na sprzętach domowych?",
+    "bel": "Дык ты так злуешся праз Трыс, што спаганяеш зло на мэблі?"
+  },
+  "1056894_00000000": {
+    "en": "Lambert, drop it… Sorry, Geralt, that was, uh, insensitive. We didn't know. You wanna… wanna talk about it?",
+    "ru": "Да хватит, Ламберт… Прости нас за глупые шутки, Геральт. Мы не знали. Хочешь… поговорить об этом?",
+    "pl": "Daj już spokój... Wybacz głupie żarty, Geralt. Nie wiedzieliśmy. Chcesz... Chcesz o tym pogadać?",
+    "bel": "Ды супакойся… выбач нам дурныя жарты, Геральт. Мы не ведалі. Хочаш… хочаш, пагаварыць аб гэтым?"
+  },
+  "1056886_00000000": {
+    "en": "Yennefer and I - we're not a couple.",
+    "ru": "Мы с Йеннифэр больше не вместе.",
+    "pl": "Yennefer i ja nie jesteśmy razem.",
+    "bel": "Мы з Енэфер больш не разам."
+  },
+  "521073_00000000": {
+    "en": "Got a one-track mind, Lambert. What are you, twelve?",
+    "ru": "Ламберт, всё-то у тебя к одному сводится… Что, пу… пу… пубертатный период начался?",
+    "pl": "Matko, a ty wciąż o jednym... Co ty, dojrzewać zacząłeś?",
+    "bel": "Халера, ты ўсё пра адно… табе што, дванаццаць?"
+  },
+  "531394_00000000": {
+    "en": "Lambert… Listen… You… You got a problem with me?",
+    "ru": "Ламберт… послушай… Я тебя чем-то раздражаю?",
+    "pl": "Słuchaj, no... Lambert... Czy ty... Czy ty masz do mnie jakiś żal?",
+    "bel": "Слухай… Ламберт… я… я цябе нечым раздражняю?"
+  },
+  "531386_00000000": {
+    "en": "Lambert… Bud… Gotta tell you something…",
+    "ru": "Ламберт… дружище… Я вот что тебе скажу…",
+    "pl": "Lambert... Chłopie... Muszę ci coś powiedzieć...",
+    "bel": "Ламберт… сябра… я табе што скажу…"
+  },
+  "531365_00000000": {
+    "en": "Lambert… I like you, you know that, right?",
+    "ru": "Ламберт, я тебя люблю.",
+    "pl": "Lambert... Lubię cię, wiesz?",
+    "bel": "Ламберт… ты ж ведаеш, што я люблю цябе?"
+  },
+  "521341_00000000": {
+    "en": "Oh, Lambert, Lambert… Kaer Morhen's black sheep…",
+    "ru": "Ох, Ламберт, Ламберт… Позор Каэр Морхена…",
+    "pl": "Oj, Lambert, Lambert... Zakało Kaer Morhen...",
+    "bel": "Ох, Ламберт, Ламберт… ганьба Каэр-Морэна…"
+  },
+  "521334_00000000": {
+    "en": "Geralt? Lambert's a lost cause, but you… What would Papa Vesemir say?",
+    "ru": "Геральт? С Ламбертом всё понятно, но ты… Что сказал бы папочка Весемир?!",
+    "pl": "Geralt? Pal licho Lamberta, ale żeby ty... Co by powiedział papa Vesemir?",
+    "bel": "Геральт? З Ламбертам усё зразумела, але каб ты… што сказаў бы татка Весемір?"
+  },
+  "531304_00000000": {
+    "en": "Mhm… Lambert sat by the fire, wrapped in a blanket. Cussed copiously every time it started to snow…",
+    "ru": "Ага… Ламберт сидел у камина и бранился всякий раз, едва начинался снег…",
+    "pl": "Mhm... Siedział owinięty kocem przy kominku i rzucał kurwami, jak tylko zaczynało sypać...",
+    "bel": "Ага… Ламберт сядзеў ля каміна і лаяўся штораз, як пачынаўся снег…"
+  },
+  "531290_00000000": {
+    "en": "You get along with Lambert?",
+    "ru": "Как у тебя с Ламбертом?",
+    "pl": "Dogadujesz się z Lambertem?",
+    "bel": "Вы з Ламбертам ладзіце?"
+  },
+  "531293_00000000": {
+    "en": "You and Lambert get along?",
+    "ru": "Вы с Ламбертом ладите?",
+    "pl": "Dogadujesz się z Lambertem?",
+    "bel": "Вы з Ламбертам ладзіце?"
+  },
+  "523869_00000000": {
+    "en": "I ask only one night's delay. If nothing comes of it, we'll do what Yennefer wants.",
+    "ru": "…так что мне нужна всего одна ночь. Если ничего не выйдет… Сделаем, как скажет Йеннифэр.",
+    "pl": "Więc chcę tylko jednej nocy zwłoki. Jeśli mi się nie uda... Zrobimy, co powie Yennefer.",
+    "bel": "Мне патрэбна ўсяго адна ноч. Калі нічога не выйдзе… зробім, што скажа Енэфер."
+  },
+  "528169_00000000": {
+    "en": "Oo, sounds serious. C'mon, Lambert… See you in a bit Geralt.",
+    "ru": "Хо-хо… Звучит серьёзно… Ещё увидимся.",
+    "pl": "Ho, ho... Brzmi poważnie. Do zobaczenia później.",
+    "bel": "Хо, хо… гучыць сур'ёзна… да сустрэчы."
+  },
+  "524167_00000000": {
+    "en": "That was nothing. Shoulda been here last winter when Lambert tried to convince him we oughta abandon Kaer Morhen for good.",
+    "ru": "Это ничего… Тебя ещё не было прошлой зимой, когда Ламберт убеждал его, что надо уходить из Каэр Морхена.",
+    "pl": "To jeszcze nic... Nie było cię zeszłej zimy, jak Lambert go przekonywał, żebyśmy wynieśli się z Kaer Morhen.",
+    "bel": "Гэта яшчэ нічога… цябе не было мінулай зімы, калі Ламберт пераконваў яго, што трэба ісці з Каэр-Морэна."
+  },
+  "523850_00000000": {
+    "en": "Lambert, prepare the apparatuses. Eskel, go--",
+    "ru": "Ламберт, приготовь аппаратуру. Эскель, пойди…",
+    "pl": "Lambert, przygotuj aparaturę. Eskel, pójdź...",
+    "bel": "Ламберт, падрыхтуй апаратуру. Эскель, ідзі…"
+  },
+  "528525_00000000": {
+    "en": "Monstrosity might be Ciri…",
+    "ru": "Этой уродиной может быть Цири…",
+    "pl": "Ta pokraka to może być Ciri...",
+    "bel": "Гэтым вырадкам можа быць Цыры…"
+  },
+  "528527_00000000": {
+    "en": "Realize that monstrosity, as you put it, might be Ciri?",
+    "ru": "Ты знаешь, что этой, как ты выразился, уродиной… может быть Цири?",
+    "pl": "Wiesz, że ta, jak się wyraziłeś, pokraka... to może być Ciri?",
+    "bel": "Ты ведаеш, што гэтым, як ты сказаў, вырадкам… можа быць Цыры?"
+  },
+  "528585_00000000": {
+    "en": "Right, no time to lose. The monstrosity awaits.",
+    "ru": "Правда… Не стоит терять времени. Уродина ждёт.",
+    "pl": "Racja... Nie ma czasu do stracenia. Pokraka czeka.",
+    "bel": "Праўда… не варта марнаваць час. Вырадак чакае."
+  },
+  "528587_00000000": {
+    "en": "Lambert!",
+    "ru": "Ламберт!",
+    "pl": "Lambert...",
+    "bel": "Ламберт..."
+  },
+  "528600_00000000": {
+    "en": "Oh, sorry. The potential Cirilla.",
+    "ru": "Ой, извиняюсь. Потенциальная Цирилла.",
+    "pl": "O, przepraszam. Potencjalna Cirilla.",
+    "bel": "Ой, перапрошваю. Патэнцыяльная Цырыла."
+  },
+  "528523_00000000": {
+    "en": "Haven't heard? Madame sorceress has requested I fortify the phylactery with Power from the Circle of Elements. Says it's essential to lifting the curse from that monstrosity of yours.",
+    "ru": "Ты не слышал? Госпожа чародейка пожелали, чтобы я наполнил филактерий Cилой Круга Стихий. Сказала, это нужно, чтобы снять проклятие с этой вашей уродины.",
+    "pl": "Nie słyszałeś? Pani czarodziejka zażyczyła sobie, żebym napełnił filakterium mocą Kręgu Żywiołów. Ponoć to niezbędne do odczynienia klątwy z tej waszej pokraki.",
+    "bel": "Ты не чуў? Пані чарадзейка пажадала, каб я напоўніў філактэрый моцай Кола Стыхій. Сказала, гэта патрэбна, каб зняць праклён з гэтага вашага вырадка."
+  },
+  "537933_00000000": {
+    "en": "Heard about the time Ciri and I went ice skating?",
+    "ru": "Слышала историю про то, как мы с Цири катались на коньках?",
+    "pl": "Znasz tę historię, jak byłem z Ciri na łyżwach?",
+    "bel": "Ведаеш гісторыю, як мы з Цыры каталіся на каньках?"
+  },
+  "537888_00000000": {
+    "en": "Heard about my time ice skating with Ciri?",
+    "ru": "Я катался с Цири на коньках…",
+    "pl": "Znasz historię, jak byłem z Ciri na łyżwach?",
+    "bel": "Ведаеш гісторыю, як мы з Цыры каталіся на каньках?"
+  },
+  "538361_00000000": {
+    "en": "If that's Ciri in there… she could come outta this crippled, wrong in the head, just emotionless. Thought about that?",
+    "ru": "Если там Цири… Испытание может уничтожить её тело… или выжечь эмоции. Ты думал об этом?",
+    "pl": "Jeśli to jest Ciri... Jeśli to zniszczy jej organizm albo pozbawi uczuć... Myślałeś o tym?",
+    "bel": "Калі там Цыры… выпрабаванне можа знішчыць яе цела або эмоцыі… ты думаў аб гэтым?"
+  },
+  "532283_00000000": {
+    "en": "Uh… No… But we'll, uh, get to that, I promise. Right, Lambert?",
+    "ru": "Ух… Нет… Но мы всё сделаем, обещаю. Правда, Ламберт?",
+    "pl": "No... Nie... Ale zrobimy to, słowo. Prawda, Lambert?",
+    "bel": "Ох… не… але мы ўсё зробім, абяцаю. Праўда, Ламберт?"
+  },
+  "532273_00000000": {
+    "en": "That hat was a memento, Lambert.",
+    "ru": "Эта шляпа дорога мне как память, Ламберт.",
+    "pl": "Ten kapelusz to była pamiątka, Lambert.",
+    "bel": "Гэты капялюш дарагі мне як памяць, Ламберт."
+  },
+  "537629_00000000": {
+    "en": "Yennefer's right.",
+    "ru": "Йеннифэр права.",
+    "pl": "Yennefer ma rację.",
+    "bel": "Енэфер мае рацыю."
+  },
+  "1056474_00000000": {
+    "en": "Did I do sq202 (hunting genie with Yen) and tell Yennefer I wanted to be with her?",
+    "ru": "[EN] Did I do sq202 (hunting genie with Yen) and tell Yennefer I wanted to be with her?",
+    "pl": "[DEBUG] Yennefer my girlfriend?",
+    "bel": "Did I do sq202 (hunting genie with Yen) and tell Yennefer I wanted to be with her?"
+  },
+  "530069_00000000": {
+    "en": "Lambert… You're a genius!",
+    "ru": "Ламберт… Ты гений!",
+    "pl": "Lambert... Ty to masz łeb!",
+    "bel": "Ламберт… ты геній!"
+  },
+  "530070_00000000": {
+    "en": "Lambert… Believe you've had your last drink.",
+    "ru": "Ламберт… Тебе уже хватит.",
+    "pl": "Lambert... Ty już może nie pij.",
+    "bel": "Ламберт… канчай піць."
+  },
+  "532703_00000000": {
+    "en": "Hey… Relax, Lambert…",
+    "ru": "Эй… Успокойся.",
+    "pl": "Hej... Uspokój się...",
+    "bel": "Гэй… супакойся…"
+  },
+  "532644_00000000": {
+    "en": "I know! Yennefer's clothes! Let's dress up. Bags're over there.",
+    "ru": "Я знаю… Переоденемся в платья Йеннифэр! Сумки её там…",
+    "pl": "Wiem co... Załóżmy ciuchy Yenefer! Tam są jej torby...",
+    "bel": "Я ведаю… надзенем сукенкі Енэфер! Яе сумкі там..."
+  },
+  "529617_00000000": {
+    "en": "Lambert… Please.",
+    "ru": "Ламберт… Прошу тебя.",
+    "pl": "Lambert... Proszę.",
+    "bel": "Ламберт… прашу."
+  },
+  "531963_00000000": {
+    "en": "Lambert doesn't know shit about megascopes.",
+    "ru": "Ламберт не разбирается в мегаскопах.",
+    "pl": "Lambert nie zna się na megaskopach.",
+    "bel": "Ламберт не разбіраецца ў мегаскопах."
+  },
+  "531969_00000000": {
+    "en": "You know… Lambert's not exactly an expert on megascopes, so--",
+    "ru": "Знаешь… В мегаскопах он не разбирается, так что…",
+    "pl": "Wiesz... On się nie zna na megaskopach, więc...",
+    "bel": "Ведаеш… у мегаскопах ён не разбіраецца, так што…"
+  },
+  "531971_00000000": {
+    "en": "Please. Lambert is mean, not stupid.",
+    "ru": "Я тебя умоляю. Ламберт вредный, но не глупый.",
+    "pl": "Proszę cię. Lambert jest wredny, ale nie głupi.",
+    "bel": "Папрашу. Ламберт шкодны, але не дурны."
+  },
+  "531991_00000000": {
+    "en": "It matters not, Yennefer. I've grown accustomed to human… decorum.",
+    "ru": "Ничего, Йеннифэр. Я привыкла к людским… обычаям.",
+    "pl": "Nie szkodzi, Yennefer. Przywykłam do ludzkich obyczajów.",
+    "bel": "Нічога, Енэфер. Я звыкла да людскіх звычаяў."
+  },
+  "545977_00000000": {
+    "en": "Ciri, of course.",
+    "ru": "О Цири, конечно же.",
+    "pl": "O Ciri, oczywiście.",
+    "bel": "Аб Цыры, вядома."
+  },
+  "531984_00000000": {
+    "en": "Cáed'mil, Yennefer aep Vengerberg. Gwynbleidd.",
+    "ru": "Cáed'mil, Yennefer aep Vengerberg. Gwynbleidd.",
+    "pl": "Ceádmil, Yennefer aep Vengerberg. Gwynbleidd.",
+    "bel": "Cáed'mil, Yennefer aep Vengerberg. Gwynbleidd."
+  },
+  "531967_00000000": {
+    "en": "You don't suppose he--? Lambert? Really? I'm flattered.",
+    "ru": "Тогда Ламберт, должно быть, меня обожает.",
+    "pl": "Naprawdę? Ojej... No to chyba Lambert musi mnie uwielbiać.",
+    "bel": "Праўда? Тады Ламберт, мабыць, мяне абажае."
+  },
+  "531959_00000000": {
+    "en": "Dimeritium bombs. Lambert left them by the beds.",
+    "ru": "Двимеритовые бомбы. Ламберт оставил их возле кроватей.",
+    "pl": "Bomby dwimerytowe. Lambert zostawił je przy łóżkach.",
+    "bel": "Двімерытавыя бомбы. Ламберт пакінуў іх ля ложкаў."
+  }
+}

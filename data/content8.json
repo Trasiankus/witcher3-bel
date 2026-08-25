@@ -1,0 +1,422 @@
+﻿{
+  "550181_00000000": {
+    "en": "Yennefer… mentioned something.",
+    "ru": "Йеннифэр говорила что-то такое.",
+    "pl": "Yennefer wspominała.",
+    "bel": "Енэфер казала."
+  },
+  "550135_00000000": {
+    "en": "Ciri… Sure you know what you're getting into?",
+    "ru": "Цири… Ты знаешь, во что ввязываешься?",
+    "pl": "Ciri... jesteś pewna? Wiesz, na co się porywasz?",
+    "bel": "Цыры… ты ведаеш, ва што ўблытваешся?"
+  },
+  "549197_00000000": {
+    "en": "Ciri, it's the crack of dawn. Where do you wanna go?",
+    "ru": "Цири… Только рассвело… Куда ты собралась?",
+    "pl": "Ciri... Ledwo świta... Dokąd chcesz jechać?",
+    "bel": "Цыры… толькі разаднела… куды ты сабралася?"
+  },
+  "529751_00000000": {
+    "en": "Ciri! Get back to the keep!",
+    "ru": "Цири! Вернись в крепость!",
+    "pl": "Ciri! Wracaj do twierdzy!",
+    "bel": "Цыры! Вяртайся ўнутр!"
+  },
+  "310326_00000000": {
+    "en": "I'll keep an eye on Letho.",
+    "ru": "Я присмотрю за Лето.",
+    "pl": "Będę miał Letho na oku.",
+    "bel": "Я панаглядаю за Лета."
+  },
+  "319887_00000000": {
+    "en": "Gotta save Ciri - whatever the cost. And Letho's faced the Hunt before.",
+    "ru": "Я должен спасти Цири, любой ценой. А Лето уже встречался со всадниками Охоты.",
+    "pl": "Muszę uratować Ciri – za wszelką cenę. A Letho miał już do czynienia z Gonem.",
+    "bel": "Я мушу выратаваць Цыры – любой цаной. А Лета ўжо сустракаў з вершнікамі Палявання."
+  },
+  "319891_00000000": {
+    "en": "Letho won't betray us.",
+    "ru": "Лето не предаст.",
+    "pl": "Letho nie zdradzi.",
+    "bel": "Лета не здрадзіць."
+  },
+  "462992_00000000": {
+    "en": "Glad to see you, Triss.",
+    "ru": "Я рад, что ты здесь, Трисс.",
+    "pl": "Cieszę się, że jesteś, Triss.",
+    "bel": "Я рады, што ты тут, Трыс."
+  },
+  "522511_00000000": {
+    "en": "Thank Yennefer. She's the one who invited me.",
+    "ru": "Благодари Йеннифэр — это она меня пригласила.",
+    "pl": "Podziękuj Yennefer. To ona mnie zaprosiła.",
+    "bel": "Дзякуй Енэфер, гэта яна мяне запрасіла."
+  },
+  "1123880_00000000": {
+    "en": "Triss, please…",
+    "ru": "Трисс, успокойся…",
+    "pl": "Triss, daj spokój...",
+    "bel": "Трыс, калі ласка…"
+  },
+  "522478_00000000": {
+    "en": "Ah! Ciri! Haha…",
+    "ru": "Цири!",
+    "pl": "Ciri! Ciri!",
+    "bel": "Цыры! Цыры!"
+  },
+  "532922_00000000": {
+    "en": "Lambert, don't be a hero!",
+    "ru": "Ламберт, не геройствуй!",
+    "pl": "Lambert, nie zgrywaj bohatera!",
+    "bel": "Ламберт, без геройстваў!"
+  },
+  "532923_00000000": {
+    "en": "Geralt, go to Lambert, now!",
+    "ru": "Геральт, мигом к Ламберту!",
+    "pl": "Geralt, migiem do Lamberta!",
+    "bel": "Геральт, мігам да Ламберта!"
+  },
+  "532951_00000000": {
+    "en": "We gotta pull back! Yennefer's strength is waning!",
+    "ru": "Надо отступать! Йеннифэр слабеет!",
+    "pl": "Musimy się wycofać! Yennefer słabnie!",
+    "bel": "Трэба адступаць! Енэфер слабее!"
+  },
+  "562205_00000000": {
+    "en": "They killed Lambert!",
+    "ru": "Они убили Ламберта!",
+    "pl": "Zabili Lamberta!",
+    "bel": "Яны забілі Ламберта!"
+  },
+  "532946_00000000": {
+    "en": "Lambert, dammit! Stay with us!",
+    "ru": "Ламберт, балда! Давай к нам!",
+    "pl": "Lambert, psiakrew! Idziesz za nami!",
+    "bel": "Ламберт, доўбня! Ідзі да нас!"
+  },
+  "565507_00000000": {
+    "en": "I've an idea, but I need a witcher to help me see it through. Lambert has agreed to assist me.",
+    "ru": "У меня есть одна мысль, но для её воплощения понадобится помощь ведьмака. Ламберт согласился мне помочь.",
+    "pl": "Mam pewien pomysł, ale do jego realizacji potrzebuję pomocy wiedźmina. Lambert zgodził się na współpracę.",
+    "bel": "У мяне ёсць адна думка, але для ейнага ўвасаблення спатрэбіцца дапамога ведзьмара. Ламберт пагадзіўся мне дапамагчы."
+  },
+  "565523_00000000": {
+    "en": "I'm glad I could help, but I shall leave as soon as Lambert feels better.",
+    "ru": "Рада, что смогла помочь, но я уеду, как только Ламберту станет получше.",
+    "pl": "Cieszę się, że mogłam pomóc, ale wyjeżdżam, jak tylko Lambert poczuje się lepiej.",
+    "bel": "Радая, што змагла дапамагчы, але я паеду, як толькі Ламберту стане лепш."
+  },
+  "558916_00000000": {
+    "en": "Thanks for everything you did for me and Ciri.",
+    "ru": "Спасибо за всё, что ты сделала для меня и для Цири.",
+    "pl": "Dziękuję za wszystko, co zrobiłaś dla mnie i dla Ciri.",
+    "bel": "Дзякуй за ўсё, што зрабіла для мяне і для Цыры."
+  },
+  "566061_00000000": {
+    "en": "What about Lambert?",
+    "ru": "А Ламберт?",
+    "pl": "A Lambert?",
+    "bel": "А Ламберт?"
+  },
+  "550680_00000000": {
+    "en": "Can't be sure Ciri'll agree to that.",
+    "ru": "Неизвестно, согласится ли Цири.",
+    "pl": "Nie wiadomo, czy Ciri się zgodzi.",
+    "bel": "Невядома, ці пагадзіцца Цыры."
+  },
+  "550695_00000000": {
+    "en": "Ciri hasn't agreed to that yet.",
+    "ru": "Цири ещё не дала согласия.",
+    "pl": "Ciri jeszcze się nie zgodziła.",
+    "bel": "Цыры яшчэ не дала сваёй згоды."
+  },
+  "566135_00000000": {
+    "en": "So long, Hjalmar.",
+    "ru": "Прощай.",
+    "pl": "Bywaj.",
+    "bel": "Бывай."
+  },
+  "524471_00000000": {
+    "en": "If you, or Ciri, or you and Ciri… if yous ever need help, the gates of Kaer Trolde stand open.",
+    "ru": "Если когда-нибудь тебе или Цири понадобится помощь, ворота Каэр Трольде для вас открыты.",
+    "pl": "Jeśli kiedykolwiek ty lub Ciri będziecie potrzebowali pomocy, to wrota Kaer Trolde stoją przed wami otworem.",
+    "bel": "Калі табе або Цыры спатрэбіцца дапамога, вароты Каэр-Трольдэ для вас адкрытыя."
+  },
+  "564564_00000000": {
+    "en": "I must pick a course for home soon. Take care of yourself, and Ciri.",
+    "ru": "Скоро я двинусь домой. Держись. И береги Цири.",
+    "pl": "Niedługo wracam do siebie. Trzymaj się i uważaj na Ciri.",
+    "bel": "Хутка я вярнуся дадому. Беражы сябе і Цыры."
+  },
+  "520063_00000000": {
+    "en": "The wraiths of Mörhogg? Hjalmar and I've bested worse buggers than that.",
+    "ru": "Призраки из Морхёгга? Мы с Хьялмаром и не такие подвиги совершали.",
+    "pl": "Upiory z Mörhoggu? Nie takich czynów dokonywaliśmy z Hjalmarem.",
+    "bel": "Здані з Мэрхога? Мы са Х'ялмарам і не такія подзвігі рабілі."
+  },
+  "1063050_00000000": {
+    "en": "Yennefer's spell is waning! Blizzard's almost at the fortress!",
+    "ru": "Заклятие Йен слабеет! Буран почти в крепости!",
+    "pl": "Zaklęcie Yennefer słabnie! Zamieć zaraz dotrze do twierdzy!",
+    "bel": "Заклён Енэфер слабее! Завея амаль у цвярдыні!"
+  },
+  "561026_00000000": {
+    "en": "Ciri's most important.",
+    "ru": "Важнее всего Цири.",
+    "pl": "Najważniejsza jest Ciri.",
+    "bel": "Цыры важней за ўсё."
+  },
+  "561028_00000000": {
+    "en": "Ciri's most important in all of this. The Hunt's after her, and we have to defend her at all costs.",
+    "ru": "Самое главное для нас — Цири. Это за ней гонятся Всадники, и мы должны защищать её любой ценой.",
+    "pl": "Pamiętajcie, że w tym wszystkim najważniejsza jest Ciri. To ją chce dostać Gon i musimy jej bronić za wszelką cenę.",
+    "bel": "Помніце, Цыры – важней за ўсё. Гэта за ёю гоніцца Паляванне, і мы мусім абараняць яе любой цаной."
+  },
+  "549991_00000000": {
+    "en": "The Wild Hunt'll be here soon. They're coming for Ciri, want to take her. We'll stop them.",
+    "ru": "Дикая Охота может появиться в любую минуту. Они придут за Цири, но мы их остановим.",
+    "pl": "Niebawem zjawi się tutaj Dziki Gon. Przyjdą zabrać Ciri, a my ich powstrzymamy.",
+    "bel": "Дзікае паляванне можа з'явіцца тут у любую хвіліну. Яны прыйдуць па Цыры, але мы іх спынім."
+  },
+  "562123_00000000": {
+    "en": "Lambert'll make us dimeritium bombs. Remember the formula?",
+    "ru": "Ламберт приготовит нам двимеритовые бомбы. Ты формулу-то ещё помнишь?",
+    "pl": "Lambert zrobi dla nas pociski z dwimerytem. Pamiętasz jeszcze formułę?",
+    "bel": "Ламберт падрыхтуе двімерытавыя бомбы. Ты яшчэ помніш рэцэпт?"
+  },
+  "1062897_00000000": {
+    "en": "Apart from that, they will be able to hear you and smell you. If you come across a large unit, do not attack. Signal Triss, and she will provide support.",
+    "ru": "Кроме того, вас можно будет почуять или услышать, так что, если нарвётесь на большой отряд, не нападайте. Дайте сигнал Трисс, и она вам поможет.",
+    "pl": "Prócz tego będzie można was wywęszyć lub usłyszeć, więc jeśli natraficie na duży oddział, nie atakujcie. Dajcie znak Triss i otrzymacie wsparcie.",
+    "bel": "Апроч таго, вас можна ўчуць па гуку ці паху, так што, калі наскочыце на вялікі атрад, не нападайце. Дайце сігнал Трыс, і яна вам дапаможа."
+  },
+  "589008_00000000": {
+    "en": "Where Lambert and Geralt'll be waiting. They'll use dimeritium to close the navigator's portals, stop as many warriors as possible from entering the fortress.",
+    "ru": "Ламберт и Геральт ждут в лесу. При помощи двимерита они закрывают порталы навигаторов, чтобы как можно меньше всадников проникло внутрь крепости.",
+    "pl": "Lambert i Geralt czekają w lesie. Za pomocą dwimerytu zamykają portale nawigatorów, by jak najmniej wojowników dostało się do środka twierdzy.",
+    "bel": "Ламберт і Геральт чакаюць у лесе. З дапамогай двімерыта яны закрываюць парталы навігатараў, каб як мага менш коннікаў пранікла ўнутр цвярдыні."
+  },
+  "561073_00000000": {
+    "en": "Thanks, not interested. You should talk to Ciri - fine mood she's in.",
+    "ru": "Спасибо, не интересует. Поговори лучше с Цири, смотри, какая она мрачная.",
+    "pl": "Dzięki, nie jestem zainteresowany. Pogadaj lepiej z Ciri, zobacz, jaka jest markotna.",
+    "bel": "Дзякуй, не цікавіць. Пагавары лепей з Цыры, глядзі, якая яна сумная."
+  },
+  "572362_00000000": {
+    "en": "Takin' Letho with us.",
+    "ru": "Возьмём с собой Лето.",
+    "pl": "Weźmiemy ze sobą Letho.",
+    "bel": "Возьмем з сабой Лета."
+  },
+  "520466_00000000": {
+    "en": "Remember - Eredin can't get his hands on Ciri. That's most important.",
+    "ru": "И самое главное: Цири не должна попасть в руки Эредина.",
+    "pl": "Pamiętajcie, co jest najważniejsze: Ciri nie może dostać się w ręce Eredina.",
+    "bel": "І найгалоўнейшае: Цыры няможна патрапіць у рукі Эрэдына."
+  },
+  "589009_00000000": {
+    "en": "Triss'll be waiting for their signal, then give the riders hell.",
+    "ru": "Трисс ждёт сигнала и по отмашке устраивает всадникам огненный ад.",
+    "pl": "Triss wypatruje sygnału i urządza piekło.",
+    "bel": "Трыс чакае сігналу, і па адмашцы ўстроіць іх агнявое пекла."
+  },
+  "1062844_00000000": {
+    "en": "Where Lambert, Geralt and Letho'll be waiting. They'll use dimeritium to close the navigator's portals, stop as many warriors as possible from entering the fortress.",
+    "ru": "Геральт, Ламберт и Лето ждут в лесу. При помощи двимерита они будут закрывать порталы навигаторов, чтобы как можно меньше всадников попало в крепость.",
+    "pl": "Geralt, Lambert i Letho czekają w lesie. Za pomocą dwimerytu zamykają portale nawigatorów, by jak najmniej wojowników dostało się do środka twierdzy.",
+    "bel": "Геральт, Ламберт і Лета чакаюць у лесе. З дапамогай двімерыта яны закрываюць парталы навігатараў, каб як мага менш коннікаў пранікла ўнутр цвярдыні."
+  },
+  "577675_00000000": {
+    "en": "Let's sum up: Yennefer will create a magic barrier to repel the main assault. That should push the opposing force into the woods.",
+    "ru": "Подведём итоги: Йеннифэр создаёт магический барьер и задерживает первый удар. Она оттесняет всадников в лес.",
+    "pl": "Podsumujmy: Yennefer tworzy magiczną barierę i zatrzymuje główne natarcie. Spycha siły nieprzyjaciela do lasu.",
+    "bel": "Падсумуем: Енэфер стварае магічны бар'ер і затрымлівае першы ўдар. Яна адцясняе вершнікоў да лесу."
+  },
+  "546067_00000000": {
+    "en": "Ciri! Watch out!",
+    "ru": "Цири! Осторожней!",
+    "pl": "Ciri! Uważaj na siebie!",
+    "bel": "Цыры! Асцярожна!"
+  },
+  "550486_00000000": {
+    "en": "We're here thanks to Ciri.",
+    "ru": "Мы здесь по воле Цири.",
+    "pl": "Jesteśmy tu ze względu na Ciri.",
+    "bel": "Мы тут па волі Цыры."
+  },
+  "550491_00000000": {
+    "en": "Ciri wanted to hear what you have to say.",
+    "ru": "Цири хочет выслушать тебя.",
+    "pl": "Ciri chce wysłuchać, co masz do powiedzenia.",
+    "bel": "Цыры хоча выслухаць цябе."
+  },
+  "581939_00000000": {
+    "en": "Ciri will hear you out. Then we leave.",
+    "ru": "Цири выслушает тебя, и мы уйдём.",
+    "pl": "Ciri cię wysłucha, potem ruszamy.",
+    "bel": "Цыры выслухае цябе, і мы пойдзем."
+  },
+  "550473_00000000": {
+    "en": "Cirilla Fiona Elen Riannon, Queen of Cintra, Princess of Brugge and Duchess of Sodden, heiress to Inis Ard Skellig and Inis An Skellig, and suzeraine of Attre and Abb Yarra.",
+    "ru": "Цирилла Фиона Элен Рианнон, королева Цинтры, принцесса Бругге и герцогиня Содденская, наследница Инис Ард Скеллиг и Инис Ан Скеллиг, владычица Аттре и Абб Ярра.",
+    "pl": "Cirilla Fiona Elen Riannon, królowa Cintry, księżna Brugge i diuszesa na Sodden, dziedziczka Inis Ard Skellig i Inis An Skellig, suzerenka Attre i Abb Yarra.",
+    "bel": "Цырыла Фіёна Элен Рыянон, каралева Цынтры, князёўна Бруге і княгіня Содэна, спадчынніца Ініш Ард Скеліг ды Ініш Ан Скеліг, ўладарка Атрэ і Аб-Яры."
+  },
+  "566120_00000000": {
+    "en": "I'll keep an eye on Letho.",
+    "ru": "Я присмотрю за Лето.",
+    "pl": "Będę uważał na Letho.",
+    "bel": "Я панаглядаю за Лета."
+  },
+  "566111_00000000": {
+    "en": "I need Letho.",
+    "ru": "Лето мне необходим.",
+    "pl": "Letho jest mi potrzebny.",
+    "bel": "Лета мне патрэбны."
+  },
+  "566071_00000000": {
+    "en": "I need Letho.",
+    "ru": "Лето мне нужен.",
+    "pl": "Letho jest mi potrzebny.",
+    "bel": "Лета мне патрэбны."
+  },
+  "465194_00000000": {
+    "en": "We'll never surrender Ciri.",
+    "ru": "Мы не отдадим Цири.",
+    "pl": "Nie oddamy Ciri.",
+    "bel": "Мы не аддадзім Цыры."
+  },
+  "548632_00000000": {
+    "en": "Hmm, don't know about vanilla pudding. Could work, but nothing picks me up like Lambert's famous homebrew.",
+    "ru": "Хм-м… Насчёт ванильного пудинга не знаю, но знаменитый самогон Ламберта всегда мне помогал…",
+    "pl": "Hmm... Nie wiem, jak budyń waniliowy, ale mnie zawsze dobrze robił słynny bimber Lamberta...",
+    "bel": "Хм-м… не ведаю наконт ванільнага пудынгу, але знакаміты самагон Ламберта заўсёды мне дапамагаў..."
+  },
+  "543218_00000000": {
+    "en": "You were a good friend, Lambert.",
+    "ru": "Ты был добрым другом, Ламберт.",
+    "pl": "Byłeś dobrym przyjacielem, Lambert.",
+    "bel": "Ты быў добрым сябрам, Ламберт."
+  },
+  "465186_00000000": {
+    "en": "Wee Ciri's grown up on us!",
+    "ru": "Цири-то как подросла!",
+    "pl": "Ależ nam Ciri podrosła!",
+    "bel": "А Цыры падрасла!"
+  },
+  "321100_00000000": {
+    "en": "He'll be fine. We've got Triss to worry about now.",
+    "ru": "Он справится. А мы должны помочь Трисс.",
+    "pl": "Poradzi sobie. Najpierw musimy pomóc Triss.",
+    "bel": "Ён здолее. А мы маем дапамагчы Трыс."
+  },
+  "564211_00000000": {
+    "en": "Ciri needs time.",
+    "ru": "Цири нужно время.",
+    "pl": "Ciri potrzebuje czasu.",
+    "bel": "Цыры патрэбны час."
+  },
+  "564219_00000000": {
+    "en": "Fine. We'll stay here a while longer. Then join you and Triss in Novigrad. Meet at Dandelion's inn.",
+    "ru": "Хорошо. Мы ещё ненадолго останемся в крепости, а потом… присоединимся к тебе и Трисс в Новиграде. Встретимся у Лютика.",
+    "pl": "Dobrze. Zostaniemy jeszcze trochę w twierdzy. Potem dołączymy do ciebie i Triss w Novigradzie. Spotkamy się u Jaskra.",
+    "bel": "Добра. Мы яшчэ ненадоўга застанёмся ў цвярдыні, а потым… далучымся да цябе і Трыс у Навіградзе. Сустрэнемся ў Казяльца."
+  },
+  "563020_00000000": {
+    "en": "Triss, I wish to leave today to find the sorceresses. Will you help me?",
+    "ru": "Трисс, я сегодня же отправлюсь на поиски чародеек. Ты мне поможешь?",
+    "pl": "Triss, chcę wyruszyć na poszukiwanie czarodziejek jeszcze dzisiaj. Pomożesz mi?",
+    "bel": "Трыс, я сёння ж вырушаю на пошукі чарадзеек. Ты мне дапаможаш?"
+  },
+  "563013_00000000": {
+    "en": "I don't want the Lodge anywhere near Ciri. Just don't trust those women.",
+    "ru": "Я не хотел бы вовлекать Ложу в дела Цири. Не доверяю я этим женщинам.",
+    "pl": "Nie zgadzam się na zaangażowanie Loży w sprawy Ciri. Nie ufam tym kobietom.",
+    "bel": "Не хацелася б залучаць Ложу ў справы Цыры. Не давяраю я гэтым жанчынам."
+  },
+  "535737_00000000": {
+    "en": "Haven't had a chance to talk. Thanks for your help. And for looking after Ciri.",
+    "ru": "У нас не было случая поговорить. Благодарю за помощь. И за заботу о Цири.",
+    "pl": "Nie mieliśmy okazji porozmawiać. Dziękuję za pomoc. I za to, że opiekowałeś się Ciri.",
+    "bel": "У нас не было магчымасці пагаварыць. Дзякуй за дапамогу. І клопат аб Цыры."
+  },
+  "1127068_00000000": {
+    "en": "With Triss.",
+    "ru": "С Трисс?",
+    "pl": "Z Triss?",
+    "bel": "З Трыс?"
+  },
+  "1127081_00000000": {
+    "en": "So… need your advice. About Yennefer.",
+    "ru": "Слушай… Нужен твой совет. Насчёт Йеннифэр.",
+    "pl": "Wiesz... Chcę cię poprosić o radę. W sprawie Yennefer.",
+    "bel": "Слухай… патрэбна твая парада. Наконт Енэфер."
+  },
+  "1127064_00000000": {
+    "en": "Need your advice. It's about Yennefer.",
+    "ru": "Хочу спросить у тебя совета. Насчёт Йеннифэр.",
+    "pl": "Chcę cię prosić o radę. W sprawie Yennefer.",
+    "bel": "Хачу папрасіць тваю параду. Наконт Енэфер."
+  },
+  "562501_00000000": {
+    "en": "No! Geralt gave the signal from the woods, and Triss hasn't cast the spell!",
+    "ru": "Нет! Геральт подал сигнал, а Трисс ничего не сделала!",
+    "pl": "Nie! Geralt dał sygnał z lasu, a Triss nie rzuciła zaklęcia!",
+    "bel": "Не! Геральт падаў сігнал з лесу, а Трыс нічога не зрабіла!"
+  },
+  "529686_00000000": {
+    "en": "Hold on, Triss!",
+    "ru": "Держись, Трисс!",
+    "pl": "Trzymaj się, Triss!",
+    "bel": "Трымайся, Трыс!"
+  },
+  "1077958_00000000": {
+    "en": "Ciri! No!",
+    "ru": "Цири! Нет!",
+    "pl": "Ciri, nie!",
+    "bel": "Цыры, не!"
+  },
+  "550612_00000000": {
+    "en": "Ciri, I…",
+    "ru": "Цири, я…",
+    "pl": "Ciri, ja...",
+    "bel": "Цыры, я…"
+  },
+  "1075126_00000000": {
+    "en": "The wall's holding! And Hjalmar sealed the rift!",
+    "ru": "Стена держится! Хьялмар закрыл портал!",
+    "pl": "Mur ich zatrzymał, a Hjalmar zamknął szczelinę!",
+    "bel": "Сцяна трымаецца! Х'ялмар закрыў шчыліну!"
+  },
+  "1075121_00000000": {
+    "en": "Hjalmar's sealed the portal!",
+    "ru": "Хьялмар закрыл портал!",
+    "pl": "Hjalmar zamknął szczelinę!",
+    "bel": "Х'ялмар закрыў шчыліну!"
+  },
+  "465713_00000000": {
+    "en": "Vesemir and Lambert deserve a proper goodbye. We should prepare.",
+    "ru": "Надо готовиться к погребению.",
+    "pl": "Musimy przygotować pogrzeb Vesemira i Lamberta, chodźcie.",
+    "bel": "Трэба рыхтавацца да пахавання Весеміра і Ламберта, пайшлі."
+  },
+  "465701_00000000": {
+    "en": "Avallac'h is weak, but alive. Triss is tending to the others.",
+    "ru": "Аваллак'х слаб, но жив. Трисс перевязывает остальных.",
+    "pl": "Avallac’h jest słaby, ale żyje. Triss opatruje pozostałych.",
+    "bel": "Авалак'х слабы, але жывы. Трыс перавязвае астатніх."
+  },
+  "565918_00000000": {
+    "en": "And Lambert… Dead -because of me.",
+    "ru": "Ламберт тоже… погиб из-за меня.",
+    "pl": "Lambert też zginął z mojego powodu.",
+    "bel": "Ламберт таксама загінуў праз мяне."
+  },
+  "1076891_00000000": {
+    "en": "Slow down. Element of surprise is key. Stay hidden, give Triss a chance to show them what she can do. Then we'll hit 'em.",
+    "ru": "Не спеши. Пока что лучше не высовываться… И дать Трисс возможность проявить себя во всём блеске.",
+    "pl": "Powoli. Lepiej jeszcze chwilę zostać w ukryciu... I dać Triss okazję, żeby się wykazała.",
+    "bel": "Прытармазі. Пакуль нам лепей не высоўвацца… і даць Трыс магчымасць паказаць сябе ва ўсім бляску."
+  }
+}
