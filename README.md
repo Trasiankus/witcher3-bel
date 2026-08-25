@@ -1,7 +1,7 @@
 # witcher3-bel — Беларуская лакалізацыя «The Witcher 3: Wild Hunt»
 
 Belarusian localization of *The Witcher 3: Wild Hunt* (Game of the
-Year / Next-Gen v4.04). Зроблена з дапамогай [Crowdin](https://crowdin.com/)`.w3strings`.
+Year / Next-Gen v4.04).
 
 Далучыцца да праекту можна тут: https://crowdin.com/project/witcher-3-bel
 
