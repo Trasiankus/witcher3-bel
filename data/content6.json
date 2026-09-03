@@ -11,6 +11,18 @@
     "pl": "Ha! A Lambert mówił, że zapomnisz. Dzięki, bracie.",
     "bel": "Ха! А Ламберт казаў, што ты забудзеш. Дзякуй, брат."
   },
+  "1040324_00000000": {
+    "en": "Did everything to deserve it. Well, Scorpion did. But I'm not about to ply your horse with vodka.",
+    "ru": "Ты его заслужил. Ну, то есть, скорее, Василёк, конечно… Но не поить же коня спиртом.",
+    "pl": "Zasłużyłeś sobie. No, Wojsiłek raczej... Ale koniowi przecież nie dam wódki.",
+    "bel": "Ты яго заслужыў. Ну, то-бок, хутчэй Валошка, вядома… але не паіць жа каня гарэлкай."
+  },
+  "459879_00000000": {
+    "en": "Eskel.",
+    "ru": "Эскель.",
+    "pl": "Eskel.",
+    "bel": "Эскель."
+  },
   "528721_00000000": {
     "en": "You heard the answer to that question, Lambert… Besides, not our business.",
     "ru": "Ты сам слышал, Ламберт. И потом, это не наше дело.",
@@ -40,6 +52,30 @@
     "ru": "Мог бы иногда брать пример с Ламберта — забыть хоть на время про идеалы и думать о деньгах.",
     "pl": "Ty też mógłbyś być czasem jak Lambert. Odłożyć na bok ideały, takie jak sprawiedliwość dla trolli i pomyśleć o pieniądzach.",
     "bel": "Мог бы часам браць прыклад з Ламберта. Забыцца хоць ненадоўга на ідэалы і думаць пра грошы."
+  },
+  "1067898_00000000": {
+    "en": "Eskel, fess up. How'd you get that katakan?",
+    "ru": "Эскель, расскажи, как ты завалил того катакана?",
+    "pl": "Eskel, opowiedz, jak załatwiłeś tego katakana.",
+    "bel": "Эскель, раскажы, як ты заваліў гэтага катакана?"
+  },
+  "1067900_00000000": {
+    "en": "Eskel, that katakan we cut up together - tell us how you nabbed him.",
+    "ru": "Эскель, расскажи всё-таки, как ты завалил катакана, которого мы вскрывали.",
+    "pl": "Eskel, opowiedz, jak załatwiłeś tego katakana, którego razem kroiliśmy.",
+    "bel": "Эскель, раскажы, як ты заваліў катакана, якога мы разразалі."
+  },
+  "446988_00000000": {
+    "en": "Eskel, care to share?",
+    "ru": "Эскель, чем ты занимался?",
+    "pl": "Eskel, gdzie się podziewałeś?",
+    "bel": "Эскель, чым ты займаўся?"
+  },
+  "447071_00000000": {
+    "en": "Where'd you go while you were away, Eskel?",
+    "ru": "Где был, Эскель?",
+    "pl": "Gdzie byłeś, kiedy cię nie było?",
+    "bel": "Дзе ты быў, Эскель?"
   },
   "519972_00000000": {
     "en": "We've no interest in your fantasies, Lambert. Whereas the vampire… even I'm curious to know how you managed.",
@@ -281,6 +317,30 @@
     "pl": "Wasza Cesarska Mość... Yennefer...",
     "bel": "Ваша Імператарская Вялікасць… Енэфер…"
   },
+  "531534_00000000": {
+    "en": "Eskel! Eskeeeeeel!",
+    "ru": "Эскель! Э-э-эске-е-ель!",
+    "pl": "Eskel! Eeeeskel!",
+    "bel": "Эскель? Э-э-эске-е-ель!"
+  },
+  "532436_00000000": {
+    "en": "Aha… Eskel's close…",
+    "ru": "Ага… Эскель где-то здесь…",
+    "pl": "Oho.. Eskel jest gdzieś blisko...",
+    "bel": "Ага… Эскель недзе тут…"
+  },
+  "540831_00000000": {
+    "en": "Eskel! Chop chop!",
+    "ru": "Эскель! Давай-давай!",
+    "pl": "Eskel! Hop hop!",
+    "bel": "Эскель! Хоп-хоп!"
+  },
+  "540834_00000000": {
+    "en": "Eskel, you drunk! Get out here!",
+    "ru": "Эскель, пьянчуга, вылезай!",
+    "pl": "Eskel, pijaku! Wyłaź!",
+    "bel": "Эскель, п'янюжка! Вылазь!"
+  },
   "526944_00000000": {
     "en": "Dimeritium bombs. Lambert made 'em.",
     "ru": "Двимеритовые бомбы. Ламберт делал.",
@@ -334,6 +394,18 @@
     "ru": "Ламберт, Ламберт, хер моржовый. Ламберт, Ламберт, вредный хуй.",
     "pl": "Lambert, Lambert, ty chuju.",
     "bel": "Ламберт, Ламберт, ты хуй."
+  },
+  "531119_00000000": {
+    "en": "Whine about it to Eskel later.",
+    "ru": "Поплачься Эскелю.",
+    "pl": "Poskarżysz się Eskelowi.",
+    "bel": "Пажалься Эскелю."
+  },
+  "531126_00000000": {
+    "en": "Been hitting the hooch with Eskel again?",
+    "ru": "Вы с Эскелем снова нажрались?",
+    "pl": "Znowu piłeś z Eskelem?",
+    "bel": "Вы з Эскелем зноў нажэрліся?"
   },
   "1022844_00000000": {
     "en": "Boulders form a triangle… affecting the magic aura. Thing is, who arranged them? Couldn't 'ave been Lambert…",
@@ -425,6 +497,12 @@
     "pl": "Słuchaj, no... Lambert... Czy ty... Czy ty masz do mnie jakiś żal?",
     "bel": "Слухай… Ламберт… я… я цябе нечым раздражняю?"
   },
+  "531405_00000000": {
+    "en": "Good thing it was empty… Eh… Where's Eskel? Shoulda been back by now. We oughta… look around.",
+    "ru": "Хорошо хоть, пустая… Эх… Где Эскель? Долго его нет… Надо… надо бы его поискать.",
+    "pl": "Dobrze, że pusta... Ej... A gdzie jest Eskel? Powinien był... Już wrócić. Trzeba... Trzeba się rozejrzeć.",
+    "bel": "Добра хоць, пустая… эх… дзе Эскель? Меў… ужо вярнуцца. Трэба… трэба паглядзець."
+  },
   "531386_00000000": {
     "en": "Lambert… Bud… Gotta tell you something…",
     "ru": "Ламберт… дружище… Я вот что тебе скажу…",
@@ -437,6 +515,18 @@
     "pl": "Lambert... Lubię cię, wiesz?",
     "bel": "Ламберт… ты ж ведаеш, што я люблю цябе?"
   },
+  "1062163_00000000": {
+    "en": "[DEBUG] [Skip to Eskel Drunk.]",
+    "ru": "[DEBUG] [Skip to Eskel Drunk.]",
+    "pl": "[DEBUG] DEBUG - Skip to Eskel Drunk - DEBUG",
+    "bel": "[DEBUG] [Skip to Eskel Drunk.]"
+  },
+  "521328_00000000": {
+    "en": "Eskel, Eskel… Still waters run deep.",
+    "ru": "Эскель, Эскель… Вот уж — в тихом омуте…",
+    "pl": "Eskel, Eskel... Cicha woda brzegi rwie.",
+    "bel": "Эскель, Эскель… у ціхім балоце чэрці вядуцца."
+  },
   "521341_00000000": {
     "en": "Oh, Lambert, Lambert… Kaer Morhen's black sheep…",
     "ru": "Ох, Ламберт, Ламберт… Позор Каэр Морхена…",
@@ -448,6 +538,12 @@
     "ru": "Геральт? С Ламбертом всё понятно, но ты… Что сказал бы папочка Весемир?!",
     "pl": "Geralt? Pal licho Lamberta, ale żeby ty... Co by powiedział papa Vesemir?",
     "bel": "Геральт? З Ламбертам усё зразумела, але каб ты… што сказаў бы татка Весемір?"
+  },
+  "521363_00000000": {
+    "en": "Eskel… Really?",
+    "ru": "Эскель… ты серьёзно?",
+    "pl": "Eskel... Serio?",
+    "bel": "Эскель… сур'ёзна?"
   },
   "531304_00000000": {
     "en": "Mhm… Lambert sat by the fire, wrapped in a blanket. Cussed copiously every time it started to snow…",
@@ -466,6 +562,24 @@
     "ru": "Вы с Ламбертом ладите?",
     "pl": "Dogadujesz się z Lambertem?",
     "bel": "Вы з Ламбертам ладзіце?"
+  },
+  "531338_00000000": {
+    "en": "Oh, I'll pour, Eskel, I'll pour. To the brim. 'Cause without vodka, you're as stiff as a bookkeeper in a body cast.",
+    "ru": "Ох, и налью, Эскель, налью до краёв. Потому что без водки ты сухой, как счетовод в гипсе.",
+    "pl": "Ech... Poleję ci, Eskel, poleję, i to po brzegi, bo bez wódki jesteś drętwy jak księgowy w gipsie.",
+    "bel": "Эх… налью табе, Эскель, налью да краёў. Бо без гарэлкі ты што рахункавод у гіпсе."
+  },
+  "1075696_00000000": {
+    "en": "Eskel, he doesn't need any praise. Just pour.",
+    "ru": "Эскель, хватит его расхваливать. Наливай.",
+    "pl": "Dobra, dobra, koniec zachwytów. Polewaj.",
+    "bel": "Добра, добра, годзе яго расхвальваць. Налівай."
+  },
+  "520895_00000000": {
+    "en": "Samovila contract Eskel got a while back. Good story.",
+    "ru": "У Эскеля тут был контракт на самовилу… Отличная история.",
+    "pl": "Eskel opowiadał o zleceniu na samowiłę. Niezła historia.",
+    "bel": "У Эскеля тут быў заказ на самавілу. Нядрэнная гісторыя."
   },
   "523869_00000000": {
     "en": "I ask only one night's delay. If nothing comes of it, we'll do what Yennefer wants.",
@@ -490,6 +604,42 @@
     "ru": "Ламберт, приготовь аппаратуру. Эскель, пойди…",
     "pl": "Lambert, przygotuj aparaturę. Eskel, pójdź...",
     "bel": "Ламберт, падрыхтуй апаратуру. Эскель, ідзі…"
+  },
+  "370082_00000000": {
+    "en": "Must be Eskel's prints… No one else has left the keep recently.",
+    "ru": "Это, должно быть, следы Эскеля… В последнее время никто, кроме него, из замка не уезжал.",
+    "pl": "To pewnie ślady Eskela... Nikt inny ostatnio nie wyjeżdżał z zamku.",
+    "bel": "Гэта, здаецца, сляды Эскеля… апошнім часам ніхто, апроч яго, з замка ніхто не выязджаў."
+  },
+  "526463_00000000": {
+    "en": "That's his horse… what's it's name? Scorpion? Beautiful animal…",
+    "ru": "Это его конь… Как там его… Василёк? Прекрасное создание…",
+    "pl": "To jego koń... Jak on się nazywał? Wojsiłek? Piękne zwierzę...",
+    "bel": "Гэта яго конь… як там яго? Валошка? Цудоўны звер…"
+  },
+  "445080_00000000": {
+    "en": "Eskel made camp here… Looks like he planned to stay outside a while.",
+    "ru": "Эскель разбил лагерь… Должно быть, собирался побыть тут подольше.",
+    "pl": "Eskel rozbił obóz. Chyba zakładał, że długo go nie będzie.",
+    "bel": "Эскель разбіў лагер. Мабыць, збіраўся пабыць тут даўжэй."
+  },
+  "526474_00000000": {
+    "en": "Could try to follow my nose. Can't smell Eskel, but there is the goat… Just gotta find a sample of its scent.",
+    "ru": "Попробую пойти по запаху. Эскеля я не почую, а вот козла… Надо только найти что-нибудь, что пахнет козлом, — чтоб было проще взять след.",
+    "pl": "Może pokieruję się węchem. Eskela nie wyczuję, za to ta koza... Tylko trzeba czegoś, co nią pachnie.",
+    "bel": "Паспрабую пайсці па паху. Эскеля я не пачую, але казла… трэба толькі знайсці што-небудзь, што пахне казлом."
+  },
+  "526557_00000000": {
+    "en": "Bits of bark… Looks like Eskel's goat rubbed against this tree.",
+    "ru": "Кусочки содранной коры… Похоже, козел Эскеля тёрся о дерево.",
+    "pl": "Kawałki obłupanej kory... Wygląda na to, że koza Eskela ocierała się o to drzewo.",
+    "bel": "Кавалкі здзёртай скуры… здаецца, казёл Эскеля цёрся аб дрэва."
+  },
+  "526753_00000000": {
+    "en": "Ha, Eskel's tracks… The nose knows.",
+    "ru": "А вот и следы Эскеля… Нос меня не подводит.",
+    "pl": "No proszę, ślady Eskela... Miałem nosa.",
+    "bel": "Ну вось і сляды Эскеля… нос не падводзіць."
   },
   "528525_00000000": {
     "en": "Monstrosity might be Ciri…",
@@ -527,6 +677,12 @@
     "pl": "Nie słyszałeś? Pani czarodziejka zażyczyła sobie, żebym napełnił filakterium mocą Kręgu Żywiołów. Ponoć to niezbędne do odczynienia klątwy z tej waszej pokraki.",
     "bel": "Ты не чуў? Пані чарадзейка пажадала, каб я напоўніў філактэрый моцай Кола Стыхій. Сказала, гэта патрэбна, каб зняць праклён з гэтага вашага вырадка."
   },
+  "519495_00000000": {
+    "en": "Underestimated you… Or should I say Scorpion. One fast mount.",
+    "ru": "Я тебя недооценил. Точнее, Василька. Проворная бестия.",
+    "pl": "Nie doceniłem cię... Czy raczej Wojsiłka. Rącza bestia.",
+    "bel": "Я цябе недаацаніў… ці, хутчэй, Валошку. Спрытная бестыя."
+  },
   "537933_00000000": {
     "en": "Heard about the time Ciri and I went ice skating?",
     "ru": "Слышала историю про то, как мы с Цири катались на коньках?",
@@ -545,11 +701,23 @@
     "pl": "Jeśli to jest Ciri... Jeśli to zniszczy jej organizm albo pozbawi uczuć... Myślałeś o tym?",
     "bel": "Калі там Цыры… выпрабаванне можа знішчыць яе цела або эмоцыі… ты думаў аб гэтым?"
   },
+  "1056918_00000000": {
+    "en": "Come now, Eskel. I shan't bite you. Just do it.",
+    "ru": "Успокойся, Эскель. Я тебя не укушу. Ну давай.",
+    "pl": "Daj spokój, Eskel. Nie ugryzę cię. No, chodź.",
+    "bel": "Супакойся, Эскель. Я не ўкушу цябе. Ну давай."
+  },
   "532283_00000000": {
     "en": "Uh… No… But we'll, uh, get to that, I promise. Right, Lambert?",
     "ru": "Ух… Нет… Но мы всё сделаем, обещаю. Правда, Ламберт?",
     "pl": "No... Nie... Ale zrobimy to, słowo. Prawda, Lambert?",
     "bel": "Ох… не… але мы ўсё зробім, абяцаю. Праўда, Ламберт?"
+  },
+  "537436_00000000": {
+    "en": "Geralt, make the potions. Here are the formulae. Eskel, take a bottle of spirit…",
+    "ru": "Геральт, приготовь эликсиры. А ты, Эскель, возьми бутыль спирта…",
+    "pl": "Geralt, ty zrobisz eliksiry. Proszę, tu są receptury. A ty, Eskel, weź bimber...",
+    "bel": "Геральт, ты зробіш эліксіры. Вось рэцэпты. А ты, Эскель, вазьмі пляшку спірту…"
   },
   "532273_00000000": {
     "en": "That hat was a memento, Lambert.",
@@ -557,11 +725,41 @@
     "pl": "Ten kapelusz to była pamiątka, Lambert.",
     "bel": "Гэты капялюш дарагі мне як памяць, Ламберт."
   },
+  "1059214_00000000": {
+    "en": "Eskel, I'm sorry… Would you mind…?",
+    "ru": "Эскель, прости, ты не мог бы…",
+    "pl": "Eskel, przepraszam... Czy mógłbyś?",
+    "bel": "Эскель, перапрошваю… можаш…"
+  },
   "537629_00000000": {
     "en": "Yennefer's right.",
     "ru": "Йеннифэр права.",
     "pl": "Yennefer ma rację.",
     "bel": "Енэфер мае рацыю."
+  },
+  "535175_00000000": {
+    "en": "Eskel, make the incisions in his veins, insert the tubes. Geralt, place the potion vials in the feeders.",
+    "ru": "Эскель… Надсеки ему вены и вставь трубки. Геральт, расставь эликсиры по подставкам.",
+    "pl": "Eskel... Otwórz mu żyły i wstaw kaniule. A ty, Geralt, ustaw eliksiry w podajnikach.",
+    "bel": "Эскель… надсячы яму вены ды ўстаў трубы. Геральт, расстаў эліксіры па падстаўках."
+  },
+  "528042_00000000": {
+    "en": "Bah… Scorpion's a war horse, a purebred Kaedweni. He'll be fine. Have I told you how I got him?",
+    "ru": "Какое там! Василёк — боевой конь каэдвенских кровей, он справится, если что. Я рассказывал, откуда он у меня?",
+    "pl": "E tam... Wojsiłek to koń bojowy pełnej kaedweńskiej krwi, dałby radę. Mówiłem ci, skąd go mam?",
+    "bel": "Якое там… Валошка – баявы конь каэдвенскай крыві, ён дасць рады. А не расказваў, адкуль ён у мяне?"
+  },
+  "528106_00000000": {
+    "en": "Eskel and Scorpion… Bound by fate. An enchanting tale.",
+    "ru": "Эскель и Василёк… Связаны предназначением. Невероятная история.",
+    "pl": "Eskel i Wojsiłek... Związani mocą przeznaczenia. Urzekająca historia.",
+    "bel": "Эскель і Валошка… звязаныя прызначэннем. Неймаверная гісторыя."
+  },
+  "512153_00000000": {
+    "en": "Hey! Whaddaya say to a little race? Maybe see who's faster - Roach or Scorpion. And who's the better rider.",
+    "ru": "Слушай-ка, а может, сгоняем наперегонки, посмотрим, кто быстрее, Плотва или Василёк. Что скажешь?",
+    "pl": "Słuchaj... Co powiesz na mały wyścig? Sprawdzilibyśmy, kto jest szybszy, Wojsiłek czy Płotka... I kto jest lepszym jeźdźcem.",
+    "bel": "Слухай… мо зганяем навыперадкі? Спраўдзім, хто хутчэй, Валошка ці Плотка… і хто лепшы коннік."
   },
   "1056474_00000000": {
     "en": "Did I do sq202 (hunting genie with Yen) and tell Yennefer I wanted to be with her?",
@@ -586,6 +784,24 @@
     "ru": "Эй… Успокойся.",
     "pl": "Hej... Uspokój się...",
     "bel": "Гэй… супакойся…"
+  },
+  "530066_00000000": {
+    "en": "Hellooo, Eskel! Wake up!",
+    "ru": "Эй, Эскель, подъём!",
+    "pl": "Hej, Eskel! Pobudka!",
+    "bel": "Гэй, Эскель! Пад'ём!"
+  },
+  "532744_00000000": {
+    "en": "Stop whining, Eskel. Times you gotta squeeze into some fr-fr-fr….",
+    "ru": "Не ной, Эскель. Щас будешь весь в ми-ми-ми…",
+    "pl": "Nie marudź, Eskel. Wbijamy się w fafa... fała... faf... No!",
+    "bel": "Не ный, Эскель. Зара будзеш увесь у мі-мі-мі…"
+  },
+  "539012_00000000": {
+    "en": "Damn, Eskel… You got an hourglass figure…",
+    "ru": "Эскель, холера… у тебя ж талия осиная…",
+    "pl": "Cholera, Eskel... Masz talię osy...",
+    "bel": "Халера, Эскель… стан у цябе асіны…"
   },
   "532644_00000000": {
     "en": "I know! Yennefer's clothes! Let's dress up. Bags're over there.",

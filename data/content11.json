@@ -125,6 +125,12 @@
     "pl": "Poza nami dwiema i Ciri Geralt zdążył już się przespać ze wszystkim kobietami na tym statku.",
     "bel": "Апроч нас двух і Цыры, Геральт пераспаў з усімі жанчынамі на гэтым караблі."
   },
+  "553704_00000000": {
+    "en": "Dammit. He's not here. Skjall has no grave!",
+    "ru": "Холера… Его здесь нет. Нет могилы Скьялля.",
+    "pl": "Cholera... Nie ma go tu. Nie ma grobu Skjalla.",
+    "bel": "Халера… яго тут няма. Няма магілы Ск'яла."
+  },
   "561087_00000000": {
     "en": "Don't you think it's time you stopped interfering in Ciri's life?",
     "ru": "Тебе не кажется, что пора уже перестать вмешиваться в жизнь Цири?",
@@ -280,6 +286,30 @@
     "ru": "Цири?! Эльфа ищи! Ха-а-а! Идите сюда, ублюдки! Будет вам потеха!",
     "pl": "Ciri?! Szukaj elfa! Haaaaa! Chodźcie, skurwysyny! Im was więcej, tym lepiej!",
     "bel": "Цыры?! Шукай эльфа! Ха-а-а! Ідзіце сюды, вырадкі! Чым больш, тым лепш!"
+  },
+  "553570_00000000": {
+    "en": "And what you said… Can't know the truth of it. The gods'll judge Skjall now.",
+    "ru": "А то, что ты сказала… Не знаю, правда это, нет. Пусть Скьялля судят боги.",
+    "pl": "A to, co mówiłaś... Nie wiem, prawda to czy nie. Niech Skjalla sądzą bogowie.",
+    "bel": "А тое, што ты сказала… не ведаю, ці гэта праўда. Няхай Ск'яла судзяць багі."
+  },
+  "1031284_00000000": {
+    "en": "Ugh. Skjall saved your bloody lives!",
+    "ru": "Скьялль вам жизнь спас!",
+    "pl": "Skjall uratował wam życie!",
+    "bel": "Ск'ял вам жыцці выратаваў!"
+  },
+  "1031286_00000000": {
+    "en": "The Wild Hunt was after me. Had Skjall not led me away then… Why, they would've reduced Lofoten to ash.",
+    "ru": "Дикая Охота гналась за мной. Если бы Скьялль не увёл меня… От Лофотена вообще ничего бы не осталось.",
+    "pl": "To mnie szukał Dziki Gon. Gdyby Skjall mnie wtedy nie wyprowadził... Z Lofoten nic by nie zostało.",
+    "bel": "Мяне шукала Дзікае паляванне. Не ўвядзі мяне Ск'ял… ад Лафатэна нічога б не засталася."
+  },
+  "553423_00000000": {
+    "en": "What you should've done long ago. We're burying Skjall.",
+    "ru": "То, что вы должны были сделать уже давно. Хороним Скьялля.",
+    "pl": "To, co wy powinniście byli zrobić dawno temu. Grzebiemy Skjalla.",
+    "bel": "Тое, што вы былі павінны зрабіць ужо даўно. Хаваем Ск'яла."
   },
   "551964_00000000": {
     "en": "I'm prepared to abide by the agreement I made with Yennefer.",
@@ -491,11 +521,23 @@
     "pl": "Ciri, nie mamy na to czasu.",
     "bel": "Цыры, ў нас няма на гэта часу."
   },
+  "565612_00000000": {
+    "en": "Not here. On Hindarsfjall. In Lofoten. I met a young man, Skjall, and I'd like…",
+    "ru": "Не здесь, на Хиндарсфьялле. Я познакомилась в Лофотене с одним парнем, Скьяллем, и хотела бы…",
+    "pl": "Nie tutaj, na Hindarsfjall. Poznałam w Lofoten takiego chłopaka, Skjalla, i chciałabym...",
+    "bel": "Не тут, на Хіндарсф'яле. Я пазнаёмілася ў Лафатэне з адным хлопцам, Ск'ялам, і я хацела б…"
+  },
   "565651_00000000": {
     "en": "Ciri, Skjall is dead.",
     "ru": "Цири, он умер.",
     "pl": "Ciri, on nie żyje.",
     "bel": "Цыры, ён памер."
+  },
+  "565659_00000000": {
+    "en": "Skjall died later.",
+    "ru": "Скьялль погиб позже.",
+    "pl": "Skjall zginął później.",
+    "bel": "Ск'ял загінуў пазней."
   },
   "566089_00000000": {
     "en": "…authoritarian rotter unworthy of even one inch of trust?",
