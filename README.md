@@ -13,7 +13,7 @@ Belarusian localization of *The Witcher 3: Wild Hunt — Remastered* (v5.00).
 | Blood and Wine | 0 | 17 144 | 0.0 % |
 | Іншыя DLC | 0 | 982 | 0.0 % |
 | **Усяго** | **60 631** | **96 863** | **62.6 %** |
-| Субтытры відэаролікаў | 25 | 178 | 14.0 % |
+| Субтытры відэаролікаў | 0 | 178 | 0.0 % |
 
 Лічыцца па тэксце Remastered (v5.00).
 
@@ -39,12 +39,12 @@ Belarusian localization of *The Witcher 3: Wild Hunt — Remastered* (v5.00).
 data/              паралельныя дадзеныя перакладу (en / ru / pl / bel)
   content0.json … content13.json   базавая гульня, патчы, новыя радкі Remastered (content13)
   dlc/             dlcN / ep1 / bob    дадаткі (з'явяцца па меры перакладу)
-  subtitles.json   субтытры відэаролікаў
+  subtitles.json   субтытры відэаролікаў (з'явяцца па меры перакладу)
 mod/               гатовы да ўсталявання мод
   mods/mod000_Belarusian/content/
     ua.w3strings     увесь тэкст: беларускі, дзе перакладзена, астатняе — англійскі
     en.w3strings     назва мовы «Belarusian» у англійскім меню
-    blob0.bundle, metadata.store   субтытры відэаролікаў
+    blob0.bundle, metadata.store   субтытры відэаролікаў (калі ёсць перакладзеныя)
 tools/             скрыпты зборкі
   build_mod.py     data → мод
   mod_layout.py    зборка мода (слот украінскай мовы)
