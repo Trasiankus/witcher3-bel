@@ -1,26 +1,36 @@
 #!/usr/bin/env python3
-"""Build the Belarusian .w3strings mod from data/*.json.
+"""Build the Belarusian mod for The Witcher 3 Remastered (v5.00+) from data/*.json.
 
-  python tools/build_mod.py --encoder path/to/w3strings.exe
+  python tools/build_mod.py --game "C:/Games/Steam/steamapps/common/The Witcher 3"
 
-Reads the `bel` field from every data file (translated-only), merges them in the
-game's load order, applies tools/overrides.json, neutralises stray newlines, and
-encodes a single en.w3strings into mod/mods/mod000_Belarusian/content/.
+The game install is needed for two things the repo doesn't ship: the English text used
+as fallback for untranslated lines (content/content0/en.w3strings) and the timing of the
+video subtitles (content/content0/bundles/movies.bundle).
+
+Reads the `bel` field from every data file (translated-only), merges them in the game's
+load order, applies tools/overrides.json, neutralises stray newlines, and writes the mod
+into mod/mods/mod000_Belarusian/content/ via tools/mod_layout.py:
+
+  ua.w3strings     every game string - Belarusian where translated, English elsewhere
+                   (the mod lives in the Ukrainian text slot; see mod_layout.py for why)
+  en.w3strings     the language-menu entry "Belarusian"
+  blob0.bundle,    Belarusian video subtitles (data/subtitles.json)
+  metadata.store
 
 Data files are named after the game archives they came from:
-  data/content0..12.json        base game + patches
+  data/content0..13.json        base game, patches, Remastered additions (content13)
   data/dlc/{dlcN,ep1,bob}.json  DLCs and expansions
+  data/subtitles.json           pre-rendered video subtitles
 Later files win on duplicate ids, mirroring how the game applies them.
-
-w3strings encoder v0.4.1: https://www.nexusmods.com/witcher3/mods/1055
 """
-import argparse, io, json, os, re, shutil, subprocess, sys
+import argparse, io, json, os, re, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 DATA = os.path.join(REPO, "data")
 OUT_DIR = os.path.join(REPO, "mod", "mods", "mod000_Belarusian", "content")
-CSV = os.path.join(HERE, "be.csv")
+sys.path.insert(0, HERE)
+import mod_layout
 
 
 def load_order(path):
@@ -37,7 +47,8 @@ def load_order(path):
 def data_files():
     out = []
     for dirpath, _, filenames in os.walk(DATA):
-        out += [os.path.join(dirpath, fn) for fn in filenames if fn.endswith(".json")]
+        out += [os.path.join(dirpath, fn) for fn in filenames
+                if fn.endswith(".json") and fn != "subtitles.json"]
     if not out:
         sys.exit(f"no data files under {DATA}")
     return sorted(out, key=load_order)
@@ -45,8 +56,8 @@ def data_files():
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--encoder", default=shutil.which("w3strings") or "w3strings.exe",
-                    help="path to the w3strings encoder executable")
+    ap.add_argument("--game", default=mod_layout.DEFAULT_GAME,
+                    help="The Witcher 3 Remastered install dir")
     args = ap.parse_args()
 
     overrides = {}
@@ -63,7 +74,7 @@ def main():
             merged[k] = rec
         print(f"  {os.path.relpath(path, DATA)}: {len(d)}")
 
-    rows, skip_empty, fixed_nl = [], 0, 0
+    be, skip_empty, fixed_nl = {}, 0, 0
     for k in order:
         bel = overrides.get(k, merged[k].get("bel", ""))
         if not bel or not bel.strip():      # data is translated-only; just guard empties
@@ -72,28 +83,17 @@ def main():
         if "\n" in bel or "\r" in bel:
             bel = re.sub(r"  +", " ", bel.replace("\r\n", " ").replace("\n", " ").replace("\r", " "))
             fixed_nl += 1
-        sid, keyhex = k.split("_", 1)
-        rows.append((int(sid), f"{sid}|{keyhex}||{bel}"))
+        be[int(k.split("_", 1)[0])] = bel
+    print(f"rows: {len(be)}  skipped(empty): {skip_empty}  nl-fixed: {fixed_nl}")
 
-    rows.sort(key=lambda r: r[0])
-    with io.open(CSV, "w", encoding="utf-8", newline="\n") as f:   # UTF-8, NO BOM
-        f.write(";meta[language=en]\n; id|key(hex)|key(str)|text\n")
-        for _, line in rows:
-            f.write(line + "\n")
-    print(f"rows: {len(rows)}  skipped(empty): {skip_empty}  nl-fixed: {fixed_nl}")
+    subtitles = {}
+    subs_path = os.path.join(DATA, "subtitles.json")
+    if os.path.isfile(subs_path):
+        subtitles = {k: rec["bel"] for k, rec in json.load(io.open(subs_path, encoding="utf-8-sig")).items()
+                     if rec.get("bel", "").strip()}
 
-    if not (os.path.isfile(args.encoder) or shutil.which(args.encoder)):
-        print(f"\nCSV written to {CSV}\nEncoder not found ({args.encoder}); "
-              f"run it manually with --force-ignore-id-space-check.", file=sys.stderr)
-        return
-    subprocess.run([args.encoder, "-e", CSV,
-                    "--force-ignore-id-space-check-i-know-what-i-am-doing"], check=True)
-    os.makedirs(OUT_DIR, exist_ok=True)
-    shutil.move(CSV + ".w3strings", os.path.join(OUT_DIR, "en.w3strings"))
-    for junk in (CSV, CSV + ".w3strings.ws"):
-        if os.path.isfile(junk):
-            os.remove(junk)
-    print("built:", os.path.join(OUT_DIR, "en.w3strings"))
+    files = mod_layout.build(OUT_DIR, be, args.game, subtitles)
+    print("built:", OUT_DIR, files)
 
 
 if __name__ == "__main__":

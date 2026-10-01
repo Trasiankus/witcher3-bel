@@ -53,6 +53,126 @@
     "pl": "Są. Ale zajęci. Matula właśnie okłada tatę patelnią. Bo się kur... Kur.. Kurczył?",
     "bel": "Ну, але яны занятыя. Маці частуе Тату патэльняй. Бо знайшоў нейкую бля... бля... бляшанку?"
   },
+  "572546_00000000": {
+    "en": "Ahem. Fucked.",
+    "ru": "На блядки.",
+    "pl": "Kurwił.",
+    "bel": "Цыцы-брыцы круціў."
+  },
+  "569324_00000000": {
+    "en": "I see. We shan't bother them. Will you let us in?",
+    "ru": "Понимаю. Не будем мешать. Ты нас впустишь?",
+    "pl": "Rozumiem. Nie będziemy przeszkadzać. Wpuścisz nas?",
+    "bel": "Зразумеў. Я не буду перашкаджаць. Пусціш?"
+  },
+  "572548_00000000": {
+    "en": "I will.",
+    "ru": "Впущу.",
+    "pl": "Wpuszczę.",
+    "bel": "Пушчу."
+  },
+  "454814_00000000": {
+    "en": "At last.",
+    "ru": "Наконец-то.",
+    "pl": "Nareszcie.",
+    "bel": "Нарэшце."
+  },
+  "538457_00000000": {
+    "en": "This Tir ná Lia?",
+    "ru": "Это Tir ná Lia?",
+    "pl": "To Tir ná Lia?",
+    "bel": "Гэта Тыр-на-Лія?"
+  },
+  "454816_00000000": {
+    "en": "The Palace of Awakening, formerly the Moon Palace. Ge'els' headquarters.",
+    "ru": "Дворец Пробуждения, прежде — Лунный дворец. Резиденция Ге'эльса.",
+    "pl": "Pałac Świadomości, dawniej Księżycowy. Główna siedziba Ge’elsa.",
+    "bel": "Палац Абуджэння, раней Месяцовы. Галоўная рэзідэнцыя Ге'эльса."
+  },
+  "569351_00000000": {
+    "en": "Mummy!",
+    "ru": "Мама!",
+    "pl": "Mama!",
+    "bel": "Матухна!"
+  },
+  "454824_00000000": {
+    "en": "{Que aynimm rhovir'le? } [What will you title it?]",
+    "ru": "{Que aynimm rhovir'le? } [Как ты его назовёшь?]",
+    "pl": "{Que aynimm rhovir’le?} [Jak nazwiesz ten obraz?]",
+    "bel": "{Que aynimm rhovir’le?} [Як ты гэта назавеш?]"
+  },
+  "312001_00000000": {
+    "en": "{No rhovir'le. } [I will not.]",
+    "ru": "{No rhovir'le. } [Никак.]",
+    "pl": "{No rhovir’le.} [W ogóle go nie nazwę.]",
+    "bel": "{No rhovir’le.} [Увогуле ніяк.]"
+  },
+  "312005_00000000": {
+    "en": "{Ledwedd varlledu cyall, no ghar. } [Paintings should convey emotion, not words.]",
+    "ru": "{Ledwedd varlledu cyall, no ghar. } [Картины должны передавать эмоции, а не слова.]",
+    "pl": "{Ledwedd varlledu cyall, no ghar.} [Obrazy służą przekazywaniu emocji, nie słów.]",
+    "bel": "{Ledwedd varlledu cyall, no ghar.} [Карціны павінны перадаваць эмоцыі, а не словы.]"
+  },
+  "312007_00000000": {
+    "en": "{Emw a ledwedd... es dallistro thrbíoch, que déacum'le elaine. } [To title a painting… is to destroy the multiplicity of meanings that render it beautiful.]",
+    "ru": "{Emw a ledwedd… Es dallistro thrbíoch, que déacum'le elaine. } [Назвать картину — значит уничтожить многозначность, которая и делает её прекрасной.]",
+    "pl": "{Emw a ledwedd... Es dallistro thrbíoch, que déacum’le elaine.} [Nazwać obraz... To zniszczyć wieloznaczność, która właśnie czyni go pięknym.]",
+    "bel": "{Emw a ledwedd... Es dallistro thrbíoch, que déacum’le elaine.} [Даць назву карціне... Гэта як знішчыць шматзначнасць, якая робіць яе прыгожай.]"
+  },
+  "1008086_00000000": {
+    "en": "Avallac'h?",
+    "ru": "Аваллак'х?",
+    "pl": "Avallac’h?",
+    "bel": "Авалак'х?"
+  },
+  "1009442_00000000": {
+    "en": "Great. Gotta find the next passage on my own.",
+    "ru": "Отлично. Следующий переход придётся искать самому.",
+    "pl": "Wspaniale. Wygląda na to, że kolejne przejście muszę znaleźć sam.",
+    "bel": "Выдатна. Выглядае на тое, што наступны пераход трэба знайсці самому."
+  },
+  "1008085_00000000": {
+    "en": "Another wilderness?",
+    "ru": "Очередная пустыня?",
+    "pl": "Kolejna pustynia?",
+    "bel": "Чарговая пустыня?"
+  },
+  "538231_00000000": {
+    "en": "What is this world?",
+    "ru": "Что это за мир?",
+    "pl": "Co to za świat?",
+    "bel": "Што гэта за свет?"
+  },
+  "538345_00000000": {
+    "en": "Where are we? World of the Aen Elle?",
+    "ru": "Где мы? Это мир Aen Elle?",
+    "pl": "Co to za świat? Aen Elle?",
+    "bel": "Што гэта за свет? Aen Elle?"
+  },
+  "538428_00000000": {
+    "en": "No. This is Tedd Deireadh, the Time of the End. The world destroyed by the White Frost.",
+    "ru": "Нет. Это Tedd Deireadh, Время Конца. Мир, уничтоженный Белым Хладом.",
+    "pl": "Nie, to Tedd Deireadh, Czas Końca. Świat zniszczony przez Białe Zimno.",
+    "bel": "Не, гэта Тэд Дэйрэд, Час Канца. Свет, знішчаны Белай Стынню."
+  },
+  "538429_00000000": {
+    "en": "Alas, this awaits us all, though at differing stages of our existence.",
+    "ru": "Это обязательно случится во всех мирах. На разных этапах существования разумной жизни.",
+    "pl": "Wszystkich nas to czeka, choć na różnych etapach istnienia.",
+    "bel": "Усіх нас чакае тое ж самае, хоць і на розных этапах існавання."
+  },
+  "584026_00000000": {
+    "en": "So calm when you say that…",
+    "ru": "Ты говоришь об этом так спокойно.",
+    "pl": "Mówisz, jakby w ogóle cię to nie ruszało.",
+    "bel": "Ты так кажаш, нібы цябе гэта не турбуе."
+  },
+  "584028_00000000": {
+    "en": "Eredin succumbed to his knowledge of the apocalypse. Fear rules him now. I'll not commit the same error.",
+    "ru": "Эредин позволил сознанию неизбежной гибели овладеть собой. Теперь им владеет страх. Я не хочу совершить его ошибку.",
+    "pl": "Eredin dał się przytłoczyć świadomości zagłady i teraz rządzi nim strach. Nie chcę popełnić tego samego błędu.",
+    "bel": "Эрэдын дазволіў усведамленню гібелі апанаваць яго і зараз ім кіруе страх. Я не хачу рабіць тую ж памылку."
+  },
   "1010787_00000000": {
     "en": "You have. You fought Eredin's projection here. Before that, Ciri fought here. For you.",
     "ru": "Именно здесь ты дрался с проекцией Эредина. А ещё раньше здесь сражалась Цири. За тебя.",
