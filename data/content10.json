@@ -173,17 +173,167 @@
     "pl": "Eredin dał się przytłoczyć świadomości zagłady i teraz rządzi nim strach. Nie chcę popełnić tego samego błędu.",
     "bel": "Эрэдын дазволіў усведамленню гібелі апанаваць яго і зараз ім кіруе страх. Я не хачу рабіць тую ж памылку."
   },
+  "584030_00000000": {
+    "en": "Care to clarify?",
+    "ru": "Может, пояснишь?",
+    "pl": "Możesz jaśniej?",
+    "bel": "Можна ясней?"
+  },
+  "584032_00000000": {
+    "en": "Not here, not now.",
+    "ru": "Не здесь и не сейчас.",
+    "pl": "Nie tutaj i nie teraz.",
+    "bel": "Не тут і не зараз."
+  },
+  "585952_00000000": {
+    "en": "Why is Ge'els so important?",
+    "ru": "Чем Ге'эльс так важен?",
+    "pl": "Czemu Ge'els jest taki ważny?",
+    "bel": "Чаму Ге'эльс такі важны?"
+  },
+  "585954_00000000": {
+    "en": "Going after Ge'els is proving quite a trek, but I still don't know why he's so important.",
+    "ru": "Мы тратим на Ге'эльса столько сил, но я по-прежнему не знаю, чем он так важен.",
+    "pl": "Idziemy po Ge’elsa, ale właściwie ciągle nie wiem, czemu jest taki ważny.",
+    "bel": "Мы ідзем за Ге'эльсам, але я дагэтуль не разумею, чаму ён такі важны."
+  },
+  "585956_00000000": {
+    "en": "Eredin differs from the king he killed. Power for its own sake interests him. He has little patience for bureaucracy.",
+    "ru": "Эредин отличается от короля, которого он убил. Его интересует власть ради власти, на бюрократию ему не хватает терпения.",
+    "pl": "Eredin jest inny niż król, którego zabił. Interesuje go władza dla samej władzy, nie ma cierpliwości do rządzenia.",
+    "bel": "Эрэдзін адрозніваецца ад караля, якога ён забіў. Яго цікавіць улада дзеля ўлады, у яго няма цярпення кіраваць."
+  },
+  "585958_00000000": {
+    "en": "He spends most of his time atop his steed, leading the Red Riders. So what does he need in the capital? A good viceroy.",
+    "ru": "Большую часть времени он проводит скитаясь по иным мирам во главе Красных Всадников, так что в столице ему нужен наместник.",
+    "pl": "Większość czasu spędza, podróżując na czele Czerwonych Jeźdźców, więc potrzebuje w stolicy namiestnika.",
+    "bel": "Большую частку свайго часу ён праводзіць у падарожжах на чале Чырвоных Вершнікаў, таму яму патрэбен намеснік у сталіцы."
+  },
+  "585960_00000000": {
+    "en": "Ge'els is an excellent administrator and an even better plotter. He's the most dangerous individual amongst the Aen Elle.",
+    "ru": "Ге'эльс — прекрасный распорядитель и несравненный мастер интриги. Это самый опасный обитатель Aen Elle.",
+    "pl": "Ge’els jest świetnym administratorem i jeszcze lepszym intrygantem. To najniebezpieczniejszy elf Aen Elle.",
+    "bel": "Ге'эльс - выдатны адміністратар і яшчэ лепшы інтрыган. Ён самы небяспечны эльф Aenn Elle."
+  },
+  "585962_00000000": {
+    "en": "He got any weaknesses?",
+    "ru": "У него есть какие-то слабые места?",
+    "pl": "Ma jakiś słaby punkt?",
+    "bel": "Ці ёсць ў яго слабыя месцы?"
+  },
+  "585964_00000000": {
+    "en": "Yes. He's righteous.",
+    "ru": "О да. Он честен.",
+    "pl": "Tak. Jest uczciwy.",
+    "bel": "Так. Ён сумленны."
+  },
+  "513363_00000000": {
+    "en": "Took you a while. Did you run into trouble?",
+    "ru": "Ты долго. Были проблемы по дороге?",
+    "pl": "Długo ci zeszło. Jakieś problemy po drodze?",
+    "bel": "Доўга цябе не было. Узніклі праблемы па дарозе?"
+  },
+  "538207_00000000": {
+    "en": "Erm, no. Just taking in the sights.",
+    "ru": "М-м… Нет. Просто любовался видами.",
+    "pl": "Ekhm, nie. Po prostu podziwiałem widoki.",
+    "bel": "Гхм, не. Проста захапіўся краявідамі."
+  },
+  "1010785_00000000": {
+    "en": "What is this place? Feels like I've been here before.",
+    "ru": "Что это за место? Кажется, я здесь уже был…",
+    "pl": "Co to za miejsce? Wydaje mi się, że już tu kiedyś byłem.",
+    "bel": "Што гэта за месца? Здаецца, я тут калісьці ўжо быў."
+  },
   "1010787_00000000": {
     "en": "You have. You fought Eredin's projection here. Before that, Ciri fought here. For you.",
     "ru": "Именно здесь ты дрался с проекцией Эредина. А ещё раньше здесь сражалась Цири. За тебя.",
     "pl": "Bo to prawda. To tu walczyłeś z projekcją Eredina. A wcześniej Ciri stoczyła tu walkę o ciebie.",
     "bel": "Бо так і было. Іменна тут ты біўся з праекцыяй Эрэдына. А яшчэ раней тут білася Цыры, за цябе."
   },
+  "1010788_00000000": {
+    "en": "What're you talking about?",
+    "ru": "То есть?",
+    "pl": "O czym ty mówisz?",
+    "bel": "Пра што ты?"
+  },
+  "1010789_00000000": {
+    "en": "Ever wondered how you managed to leave the Red Riders?",
+    "ru": "А ты никогда не интересовался, как ты освободился от Красных Всадников?",
+    "pl": "Nigdy się nie zastanawiałeś, jak to się stało, że opuściłeś Czerwonych Jeźdźców?",
+    "bel": "Ніколі не задумваўся, як ты даў рады пазбегнуць Чырвоных Вершнікаў?"
+  },
+  "1010790_00000000": {
+    "en": "Many times, but I don't remember a thing.",
+    "ru": "Интересовался, и не раз… но ничего не помню.",
+    "pl": "Wiele razy, ale nic nie pamiętam.",
+    "bel": "Шмат разоў, але я нічога не памятаю."
+  },
   "1010865_00000000": {
     "en": "Ciri came for you. She sensed you were in danger, tore you from the Hunt's grasp, then deposited you in the woods near Kaer Morhen.",
     "ru": "Тебя забрала Цири. Она почувствовала, что ты в опасности, вырвала из лап Охоты и перенесла в лес под Каэр Морхеном.",
     "pl": "To Ciri po ciebie przyszła. Wyczuła, że jesteś w niebezpieczeństwie, wyrwała cię z łap Gonu i przeniosła do lasu pod Kaer Morhen.",
     "bel": "Цябе забрала Цыры. Яна адчула, што ты ў небяспецы, вырвала з лап Палявання і перанесла ў лес пад Каэр-Морэнам."
+  },
+  "1010867_00000000": {
+    "en": "Did Eredin start hunting her because of that? Because of me? Why didn't she say anything?",
+    "ru": "И после этого Эредин начал её преследовать? Из-за меня? Почему она не сказала?",
+    "pl": "Eredin zaczął ją ścigać przeze mnie? Czemu nic nie powiedziała?",
+    "bel": "Эрэдын пачаў яе пераследваць з-за мяне? Чаму яна нічога мне не сказала?"
+  },
+  "1010869_00000000": {
+    "en": "Ugh. What would it have changed?",
+    "ru": "А что бы это изменило?",
+    "pl": "A co by to zmieniło?",
+    "bel": "А што б гэта змяніла?"
+  },
+  "1010905_00000000": {
+    "en": "Where did your journey take you?",
+    "ru": "А где пролегал твой путь?",
+    "pl": "Którędy tu trafiłeś?",
+    "bel": "Як ты сюды трапіў?"
+  },
+  "1010907_00000000": {
+    "en": "I was hoping we wouldn't get separated.",
+    "ru": "Я надеялся, мы всё-таки не разделимся.",
+    "pl": "Miałem nadzieję, że jednak się nie rozdzielimy.",
+    "bel": "Я аднак спадзяваўся, што мы не раздзелімся."
+  },
+  "1010909_00000000": {
+    "en": "I warned you it could happen.",
+    "ru": "Я предупреждал, что это возможно.",
+    "pl": "Uprzedzałem cię, że to może się zdarzyć.",
+    "bel": "Я папярэджваў цябе, што гэта можа здарыцца."
+  },
+  "538234_00000000": {
+    "en": "Where'd your journey take you?",
+    "ru": "И где пролегал твой путь?",
+    "pl": "Którędy wypadła ci droga?",
+    "bel": "І дзе пралягаў твой шлях?"
+  },
+  "538356_00000000": {
+    "en": "Through a world whose sun had just died. I barely reached the next passage in time.",
+    "ru": "Через мир, где только что умерло солнце. Я с трудом дошёл до следующего перехода.",
+    "pl": "Przez świat, w którym umierało słońce. Z trudem dotarłem do kolejnego przejścia.",
+    "bel": "Праз свет, дзе сонца амаль згасла. Ледзь даў рады дабрацца да наступнага партала."
+  },
+  "1026260_00000000": {
+    "en": "That light on the peak - you put it there?",
+    "ru": "Это ты оставил огонь на скале?",
+    "pl": "Ty rozpaliłeś światło na szczycie?",
+    "bel": "Ты запаліў святло наверсе?"
+  },
+  "1026261_00000000": {
+    "en": "Light on the peak - was that you?",
+    "ru": "Свет на скале оставил ты?",
+    "pl": "Ty rozpaliłeś światło na szczycie?",
+    "bel": "Тое святло на версе...гэта быў ты?"
+  },
+  "1026262_00000000": {
+    "en": "I thought it might aid your passage. After all, that is what lighthouses do - show the way.",
+    "ru": "Я подумал, это тебе поможет. В конце концов, для того маяки и нужны — чтобы указывать путь.",
+    "pl": "Pomyślałem, że tak łatwiej ci będzie trafić. W końcu do tego służą latarnie – wskazują drogę.",
+    "bel": "Мне падалося, што так табе будзе лягчэй знайсці шлях. У рэшце рэшт для таго і існуюць ліхтары - каб паказваць шлях."
   },
   "582346_00000000": {
     "en": "Yennefer, if this is untrue…",

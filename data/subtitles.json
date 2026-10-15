@@ -1,0 +1,1070 @@
+﻿{
+  "fb_1a_01": {
+    "en": "The 3rd Northern War ended – the invader from the south achieved complete victory.",
+    "ru": "Война с Нильфгаардом закончилась полным торжеством южного захватчика.",
+    "pl": "Wojna z Nilfgaardem zakończyła się całkowitym zwycięstwem najeźdźcy z południa.",
+    "bel": "Вайна з Нільфгаардам скончылася – паўднёвы захопнік здабыў поўную перамогу."
+  },
+  "fb_1a_02": {
+    "en": "Robbed of Radovid's tactical genius, the Northern Realms could not withstand Emhyr's countless legions.",
+    "ru": "Лишённые тактического гения Радовида, королевства нордлингов не смогли противиться бесчисленным легионам Эмгыра.",
+    "pl": "Bez taktycznego geniuszu Radowida królestwa Nordlingów nie były w stanie oprzeć się niezliczonym legionom Emhyra.",
+    "bel": "Пазбаўленыя тактычнага генію Радавіда, каралеўствы Поўначы не змаглі супрацьстаяць безлічы Эмгыравых легіёнаў."
+  },
+  "fb_1a_03": {
+    "en": "Black banners appeared over Novigrad and all Redania.",
+    "ru": "Чёрные знамёна взвились над Новиградом и Реданией.",
+    "pl": "Czarne sztandary zawisły nad Novigradem i Redanią.",
+    "bel": "Чорныя сцягі ўзняліся над Навіградам і Рэданіяй."
+  },
+  "fb_1b_01": {
+    "en": "The 3rd Northern War was a clash between two great strategists: Radovid V, known as \"The Stern,\" and Emhyr var Emreis.",
+    "ru": "В Третьей войне с Нильфгаардом сошлись два великих стратега: Радовид Пятый Свирепый и Эмгыр вар Эмрейс.",
+    "pl": "W III wojnie z Nilfgaardem stanęli przeciw sobie dwaj wielcy stratedzy: Radowid V Srogi i Emhyr var Emreis.",
+    "bel": "3-я Паўночная вайна была сутыкненнем двух вялікіх стратэгаў: Радавіда V, вядомага як \"Люты\", і Эмгыра вар Эмрэйса."
+  },
+  "fb_1b_02": {
+    "en": "Both seemed invincible, yet both were defeated. Nilfgaard, invading from the south, was repelled in the field, while the North's \"supreme leader\" fell victim to assassins.",
+    "ru": "Каждый казался непобедимым, но оба потерпели поражение. Захватчик с юга был отброшен назад, владыка Севера же пал жертвой убийц.",
+    "pl": "Każdy wydawał się niepokonany – lecz obaj ponieśli porażkę. Najeźdźca z południa został odparty w polu, hegemon Północy zaś – skrytobójczo zamordowany.",
+    "bel": "Абодва здаваліся непераможнымі, але абодва ж і пацярпелі паражэнне. Нільфгаард, уварваўшыся з Поўдня, быў адкінуты на полі бою, а \"вярхоўны правадыр\" Поўначы стаў ахвярай забойцаў."
+  },
+  "fb_1b_03": {
+    "en": "Yet Redania stood victorious, and a man who had thus far operated in shadow took up the reins of power. That man was Sigismund Dijkstra.",
+    "ru": "Власть над победоносной Реданией получил человек, который до сих пор оставался в тени. Сигизмунд Дийкстра.",
+    "pl": "Władzę nad zwycięską Redanią przejął człowiek, który dotąd skrywał się w cieniu. Sigismund Dijkstra.",
+    "bel": "І ўсё ж Рэданія атрымала перамогу, а чалавек, які дагэтуль дзейнічаў у цені, узяў стырно ўлады ў свае рукі. То быў Сыгізмунд Дэйкстра."
+  },
+  "fb_1c_01": {
+    "en": "Radovid had many faults. He was cruel, impetuous and pathologically ambitious.",
+    "ru": "У Радовида было множество недостатков. Он был жесток, вспыльчив и болезненно амбициозен.",
+    "pl": "Radowid miał wiele wad. Był okrutny, porywczy, chorobliwie ambitny.",
+    "bel": "Шмат дзе памыляўся Радавід. Ён быў жорсткім, імпульсіўным і паталагічна амбіцыйным."
+  },
+  "fb_1c_02": {
+    "en": "But he was a tactical genius – that's undeniable. Commanding forces far outnumbered by his foe's, he handily defeated the invader from the south.",
+    "ru": "Но ему нельзя было отказать в одном: он был гениальным тактиком. Располагая значительно меньшими силами, он победил агрессора с юга.",
+    "pl": "Ale nie można mu było odmówić taktycznego geniuszu. Dysponując znacznie mniejszymi siłami, pokonał najeźdźcę z południa.",
+    "bel": "Але ён быў тактычным геніем – гэта бясспрэчна. Камандуючы сіламі, якія праціўнік значна перавышаў, ён умела разбіў захопніка з Поўдня."
+  },
+  "fb_1c_03": {
+    "en": "The Redanian Eagle spread its wings, taking all the North, including Novigrad, beneath them.",
+    "ru": "Реданский орёл взял под своё крыло весь Север, включая Новиград.",
+    "pl": "Redański orzeł wziął pod swoje skrzydła całą Północ, włącznie z Novigradem.",
+    "bel": "Рэданскі арол распрастаў крылы, узяўшы пад іх Поўнач, у тым ліку Навіград."
+  },
+  "fb_2a_01": {
+    "en": "While the Continent bled engulfed by war, Skellige bloomed under Cerys' enlightened rule.",
+    "ru": "В то время как Континент был обескровлен войнами, на Скеллиге под началом Керис начался расцвет.",
+    "pl": "Podczas gdy kontynent wykrwawiały wojny, Skellige pod rządami Cerys przeżywało rozkwit.",
+    "bel": "Пакуль кантынент сыходзіў крывёй, ахоплены вайной, Скеліге квітнеў пад абачлівым кіраваннем Кэрыс."
+  },
+  "fb_2a_02": {
+    "en": "Unlike those who had come before her, the young queen did not raid foreign shores, looking instead to her people, tending to her land.",
+    "ru": "Ведь, в отличие от своих предшественников, молодая королева вместо разорения чужих земель сосредоточилась на заботе о собственных вотчинах.",
+    "pl": "W przeciwieństwie bowiem do swoich poprzedników młoda królowa zamiast na łupieniu cudzych ziem skupiła się na dbaniu o własne włości.",
+    "bel": "У адрозненне ад сваіх папярэднікаў, маладая каралева не нападала на чужыя берагі, засяродзіўшыся замест таго на сваім народзе, аддаўшы перавагу сваёй зямлі."
+  },
+  "fb_2a_03": {
+    "en": "The island-bound nation prospered, though its fangs of yore were dulled.",
+    "ru": "Благодаря этому народ Островов весьма разбогател, хотя и потерял при этом свою прежнюю хватку.",
+    "pl": "Dzięki temu wyspiarski naród znacznie się wzbogacił – ale stracił też przy tym swój dawny pazur.",
+    "bel": "Астраўная нацыя квітнела, хоць яе былыя іклы і прытупіліся."
+  },
+  "fb_2b_01": {
+    "en": "Though the war on the Continent had ended, Hjalmar refused to lay down his arms.",
+    "ru": "Хотя война на Континенте уже закончилась, Хьялмар не сложил оружия.",
+    "pl": "Choć wojna na kontynencie już się zakończyła, Hjalmar nie złożył broni.",
+    "bel": "Хаця вайна на кантыненце і скончылася, але Х'ялмар адмовіўся скласці зброю."
+  },
+  "fb_2b_02": {
+    "en": "The young king pledged to raid and burn the shores of the Empire of Nilfgaard each spring. He meant to keep his word, even at the cost of drowning his people in their own blood.",
+    "ru": "Молодой король поклялся, что каждую весну будет разорять берега ненавистной империи Нильфгаарда, и собирался сдержать слово — хоть бы ему пришлось для этого утопить Скеллиге в крови своих соотечественников.",
+    "pl": "Młody król poprzysiągł, że każdej wiosny będzie łupił brzegi znienawidzonego cesarstwa Nilfgaardu i zamierzał dotrzymać słowa - choćby miał przy tym utopić własny naród we krwi.",
+    "bel": "Малады кароль абавязаўся кожную вясну рабаваць і спальваць берагі Нільфгаардскай імперыі. Ён меўся трымаць слова, нават калі б яго народ патанаў у крыві."
+  },
+  "fb_2c_01": {
+    "en": "Many islanders believed Svanrige would be no more than his ambitious mother's puppet. The young king proved them wrong, ignoring her whims and ruling with an iron hand all his own.",
+    "ru": "Многие островитяне думали, что Сванриге станет марионеткой в руках своей амбициозной матери. Молодой король, однако, быстро доказал, что будет править самостоятельно — и при этом твёрдой рукой.",
+    "pl": "Wielu wyspiarzy myślało, że Svanrige będzie marionetką w rękach swej ambitnej matki. Młody król szybko jednak udowodnił, że będzie rządził samodzielnie – i to twardą ręką.",
+    "bel": "Многія астраўляне верылі, што Сванрыг будзе не больш як марыянеткай сваёй амбіцыйнай маці. Малады кароль даказаў, што яны памыляліся: ён ігнараваў яе капрызы і кіраваў самастойна – жалезнай рукой."
+  },
+  "fb_2c_02": {
+    "en": "Tired of the jarls and their endless feuds, he resolved to turn the Isles into an absolute monarchy modeled after those of the Continent.",
+    "ru": "Измученный вечными сварами с ярлами, он постановил ввести на островах единовластие по примеру монархий Большой земли.",
+    "pl": "Zmęczony wiecznymi swarami z jarlami, postanowił wprowadzić na wyspach jedynowładztwo na wzór kontynentalnych monarchii.",
+    "bel": "Стомлены бясконцымі сутычкамі з ярламі, ён вырашыў зрабіць астравы абсалютнай манархіяй паводле ўзору кантынента."
+  },
+  "fb_2c_03": {
+    "en": "What he resolved, he achieved, but only by shedding his countrymen's blood.",
+    "ru": "И он этого добился, но прежде пролил немало крови своих родственников и соотечественников.",
+    "pl": "Udało mu się to osiągnąć – ale dopiero po przelaniu krwi wielu swoich rodaków.",
+    "bel": "Ён дасягнуў задуманага, але толькі праз пралітую кроў супляменнікаў."
+  },
+  "fb_3a_01": {
+    "en": "With victory in the war against Nilfgaard secured, Radovid proceeded to complete his witch hunt.",
+    "ru": "По завершении победоносной войны с Нильфгаардом пришла пора завершить и охоту на колдуний.",
+    "pl": "Po zwycięskiej wojnie z Nilfgaardem przyszła pora na dokończenie łowów na czarownice.",
+    "bel": "Замацаваўшы перамогу ў вайне з Нільфгаардам, Радавід пайшоў да канца ў сваім паляванні на ведзьм."
+  },
+  "fb_3a_02": {
+    "en": "As they had in Novigrad, pyres burned in Temeria and Aedirn, lands now \"liberated\" by the Redanian monarch. In the drive for moral renewal, simple herbalists, pellars, healers and nonhumans – all supposed heretics – were murdered in droves.",
+    "ru": "Так же, как прежде в Новиграде, теперь запылали костры в захваченных Радовидом Темерии и Аэдирне. Под предлогом возрождения морали были убиты тысячи простых колдунов и знахарей, нелюдей — всех этих мнимых еретиков.",
+    "pl": "Tak, jak wcześniej w Novigradzie, teraz stosy zapłonęły w zajętych przez Radowida Temerii i Aedirn.  W ramach odnowy moralnej zamordowano tysiące prostych czarowników i znachorów, nieludzi, rzekomych heretyków.",
+    "bel": "Як і ў Навіградзе, вогнішчы запалалі ў Тэмерыі і Аэдырне, землях, якія рэданскі манарх \"вызваліў\". У імкненні да маральнага абнаўлення простыя траўнікі, варажбіты, знахары і нелюдзі — усе яны лічыліся ерэтыкамі — знішчаліся масава."
+  },
+  "fb_3a_03": {
+    "en": "For many, freedom beneath Radovid's scepter proved more tragic than servitude to another.",
+    "ru": "Свобода под властью Радовида для многих оказалась хуже рабства.",
+    "pl": "Wolność pod berłem Radowida dla wielu okazała się gorsza niż niewola.",
+    "bel": "Шмат для каго свабода пад Радавідавай уладай сталася больш трагічнай, чым заняволенне чужынцамі."
+  },
+  "fb_3b_01": {
+    "en": "Weary of rebel raids, Emhyr var Emreis conceded, restoring Temeria as a realm in liege to the empire.",
+    "ru": "Измученный неустанными набегами темерских партизан, Эмгыр вар Эмрейс согласился вновь признать их королевство на правах своего ленника.",
+    "pl": "Zmęczony nieustannymi podjazdami temerskich partyzantów, Emhyr var Emreis przystał na restytucję ich królestwa na prawach lennika.",
+    "bel": "Выматаны паўстанцкімі набегамі, Эмгыр вар Эмрэйс саступіў, аднавіўшы Тэмерыю як каралеўства-васал пад уладай імперыі."
+  },
+  "fb_3b_02": {
+    "en": "When the guerillas laid down their arms, the emperor shifted his forces to other fronts.",
+    "ru": "Темерцы сложили оружие, а император благодаря этому смог сосредоточить силы на других фронтах.",
+    "pl": "Zbuntowani żołnierze złożyli broń, a cesarz mógł dzięki temu skupić swe siły na innych frontach.",
+    "bel": "Калі паўстанцы склалі зброю, імператар перакінуў свае сілы на іншыя ўчасткі фронту."
+  },
+  "fb_3b_03": {
+    "en": "Through Nilfgaard's victory, Temerians got their country back, and history, once again, proved a consummate trickster.",
+    "ru": "Так, благодаря победе Нильфгаарда, темерцы вновь обрели свою отчизну, а история в который уже раз показала, сколь любит причудливые сюжеты.",
+    "pl": "I tak, dzięki zwycięstwu Nilfgaardu, Temerczycy odzyskali swój kraj – a historia po raz kolejny dowiodła, że lubi płatać figle.",
+    "bel": "Праз перамогу Нільфгаарда тэмерыйцы вярнулі сваю краіну, і гісторыя зноў аказалася найдасканалейшым прайдзісветам."
+  },
+  "fb_3c_01": {
+    "en": "Once firmly in the chancellor's seat, Dijkstra ruled the victorious North in his patently cynical and ruthless manner.",
+    "ru": "Заняв пост канцлера, Дийкстра с присущим ему цинизмом и беспринципностью стал править всем победоносным Севером.",
+    "pl": "Po objęciu urzędu kanclerza Dijkstra przystąpił do sprawowania rządów nad zwycięską Północą – z właściwym sobie cynizmem i bezwzględnością.",
+    "bel": "Трывала заняўшы пасаду канцлера, Дэйкстра кіраваў пераможнай Поўначчу ў сваёй відавочна цынічнай і бязлітаснай манеры."
+  },
+  "fb_3c_02": {
+    "en": "He knew that to preserve peace he would need to prepare for war. Following Nilfgaard's example, he consolidated his rule over vast lands through a broad program of settlement and industrialization.",
+    "ru": "Дийкстра понимал: если хочешь мира, нужно готовиться к войне и — по примеру Нильфгаарда — укреплять свои вотчины путём повсеместного строительства новых поселений и развития мануфактур.",
+    "pl": "Dijkstra wiedział, że jeśli chce pokoju, musi szykować się do wojny i, wzorem Nilfgaardu, wzmocnić swe włości poprzez szeroko zakrojony program osadnictwa i zakładania manufaktur.",
+    "bel": "Ён ведаў: каб захаваць мір, ён мусіць рыхтавацца да вайны. Трымаючыся прыкладу Нільфгаарда, ён зацвердзіў сваю ўладу над велізарнымі абшарамі праз вялікую праграму засялення і індустрыялізацыі."
+  },
+  "fb_3c_03": {
+    "en": "All for the good of his subjects – though often contrary to their will.",
+    "ru": "Всё это во благо подданных, хоть и вопреки их воле.",
+    "pl": "Wszystko to dla dobra poddanych – choć wbrew ich woli.",
+    "bel": "Усё на карысць сваіх падданых – хоць часта і насуперак іх волі."
+  },
+  "fb_4a_01": {
+    "en": "As long as his armies went from one victory to the next, Emhyr's subjects remained boundlessly obedient.",
+    "ru": "Пока войска Эмгыра одерживали победы, он пользовался безграничным доверием и послушанием подданных.",
+    "pl": "Tak długo, jak jego wojska odnosiły zwycięstwa, Emhyr cieszył się bezgranicznym wręcz posłuszeństwem poddanych.",
+    "bel": "Пакуль яго войскі атрымлівалі адну перамогу за другой, падданыя Эмгыра заставаліся бязмежна паслухмянымі."
+  },
+  "fb_4a_02": {
+    "en": "When a string of humiliating defeats proved var Emreis fallible, the opposition – thus far secret – attacked.",
+    "ru": "Однако едва он лишился нимба непогрешимого полководца, скрывавшаяся до сей поры оппозиция перешла в атаку.",
+    "pl": "Gdy jednak upokarzające porażki odarły go z nimbu nieomylności, ukryta do tej pory opozycja przystąpiła do ataku.",
+    "bel": "Калі ж серыя прыніжальных паражэнняў выкрыла ўразлівасць вар Эмрэйса, то апазіцыя – пакуль што сакрэтная – перайшла ў атаку."
+  },
+  "fb_4a_03": {
+    "en": "The subjects of the emperor who had danced on the graves of his foes laid him to rest in a tomb of his own.",
+    "ru": "Император, который плясал на курганах врагов, сам упокоился в могиле стараниями собственных подданных.",
+    "pl": "Cesarz, który tańczył na kurhanach wrogów, został złożony w grobie przez własnych poddanych.",
+    "bel": "Падданыя імператара, які танцаваў на магілах ворагаў, супакоілі яго ва ўласнай магіле."
+  },
+  "fb_4b_01": {
+    "en": "Having dealt with Radovid, Emhyr var Emreis did the same with enemies domestic.",
+    "ru": "Расправившись с Радовидом, Эмгыр вар Эмрейс рассчитался затем и с внутренними врагами.",
+    "pl": "Rozprawiwszy się z Radowidem, Emhyr var Emreis rozliczył się z wrogiem wewnętrznym.",
+    "bel": "Разабраўшыся з Радавідам, Эмгыр вар Эмрэйс зрабіў тое ж самае з унутранымі ворагамі."
+  },
+  "fb_4b_02": {
+    "en": "The emperor's loyal spies named all who had conspired against him – traders, soldiers and aristocrats alike.",
+    "ru": "Верные императору шпионы раскрыли всех состоявших в заговоре против него купцов и аристократов.",
+    "pl": "Wierni cesarzowi szpiedzy wskazali imiona spiskujących przeciw niemu kupców i arystokratów.",
+    "bel": "Адданыя імператару шпегі пайменна назвалі ўсіх, хто змовіўся супраць яго – і гандляроў, і салдат, і арыстакратаў."
+  },
+  "fb_4b_03": {
+    "en": "Though their mutiny had only been a murky plan, the emperor showed no mercy. As was his wont.",
+    "ru": "Хотя их бунт никогда не выходил за границы туманных планов, император не знал жалости. Как всегда.",
+    "pl": "Choć ich bunt nigdy nie wyszedł poza fazę mglistych planów, cesarz nie znał litości. Jak zwykle.",
+    "bel": "Хоць іх мяцеж і быў толькі сумнеўным планам, імператар не меў літасці. Як і звычайна."
+  },
+  "fb_5a_01": {
+    "en": "While monarchs moved borders and populations, Geralt and Yennefer lived a calm, quiet life far from all things political.",
+    "ru": "В то время как короли передвигали границы, Геральт и Йеннифэр вели спокойную жизнь вдали от большой политики.",
+    "pl": "Podczas gdy królowie przesuwali granice, Geralt i Yennefer wiedli spokojne życie z dala od wielkiej polityki.",
+    "bel": "Пакуль манархі зрушвалі межы і змянялі колькасць насельніцтва, Геральт і Енэфер жылі спакойным, ціхім жыццём, воддаль ад усяго палітычнага."
+  },
+  "fb_5a_02": {
+    "en": "They breakfasted well after noon, more often than not in bed, and passed the days on lazy strolls and long conversations.",
+    "ru": "Их дни протекали в неспешных прогулках и долгих разговорах. Завтракали они уже хорошо за полдень и, конечно, чаще всего в постели.",
+    "pl": "Dni upływały im na leniwych spacerach i długich rozmowach, śniadanie jedli dobrze po południu, oczywiście najczęściej w łóżku.",
+    "bel": "Снедалі далёка папаўдні, часцей за ўсё ў ложку, і бавілі дні ў лянівых прагулках і доўгіх размовах."
+  },
+  "fb_5a_03": {
+    "en": "Boring, you say? Perhaps. But both had sought this more than anything else.",
+    "ru": "Скучно, скажете вы? Может быть. Но оба они не желали ничего больше.",
+    "pl": "Nuda, powiecie? Może. Ale oboje nie pragnęli niczego bardziej.",
+    "bel": "Нудна, скажаце? Магчыма. Але абодва імкнуліся да гэтага больш за ўсё на свеце."
+  },
+  "fb_5b_01": {
+    "en": "Hard as it may be to believe, Geralt planted roots – in faraway Kovir.",
+    "ru": "Геральт, хоть и тяжело в это поверить, наконец-то бросил якорь в далёком Ковире.",
+    "pl": "Geralt, choć ciężko w to uwierzyć, wreszcie zapuścił korzenie – w dalekim Kovirze.",
+    "bel": "Верце не верце, але Геральт пусціў карані – у далёкім Кавіры."
+  },
+  "fb_5b_02": {
+    "en": "He and Triss settled down, their home warm and smelling of freshly baked cakes. Guests were always welcome, no matter the day or the hour.",
+    "ru": "Вместе с Трисс они обустроили там тёплый дом, в котором всегда пахло свежеиспечёнными пирогами, а гостям были рады вне зависимости от дня и часа.",
+    "pl": "Razem z Triss stworzyli tam ciepły dom, w którym zawsze pachniało świeżo upieczonym ciastem, a goście byli mile widziani niezależnie od dnia czy godziny.",
+    "bel": "Яны з Трыс абзавяліся гаспадаркай, іх дом быў цёплым і пахнуў свежаспечанымі пірагамі. Гасцей заўсёды прывіталі, незалежна ад дня і часу."
+  },
+  "fb_5b_03": {
+    "en": "The witcher would take jobs at times, more from habit than need. For Triss earned a true fortune as the mage advisor to Kovir's king.",
+    "ru": "Ведьмак иногда ещё брал кое-какие заказы, но скорее по привычке, чем по необходимости. Ведь, будучи королевской советницей, Трисс зарабатывала более чем достаточно.",
+    "pl": "Wiedźmin brał jeszcze czasem jakieś zlecenie – z przyzwyczajenia raczej, niż potrzeby, bo jako królewska doradczyni, Triss zarabiała istną fortunę.",
+    "bel": "Вядзьмар часам браў заказы – хутчэй са звычкі, чым з патрэбы. Бо Трыс някепска зарабляла ў якасці чарадзейкі-дарадцы Кавірскага караля."
+  },
+  "fb_5c_01": {
+    "en": "\"And, what of Geralt?\" you might ask. Well…",
+    "ru": "А как же Геральт, спросите вы. А что такого с ним могло сделаться?",
+    "pl": "A co z Geraltem, zapytacie? A cóż mogłoby z nim się dziać?",
+    "bel": "\"А як жа Геральт?\" – спытаеце вы. Што ж…"
+  },
+  "fb_5c_02": {
+    "en": "He continued on as before, living hand to mouth, job to job, on the road, ever coinless.",
+    "ru": "Он вернулся к своему ремеслу, жил от заказа до заказа, вечно в дороге, вечно без денег.",
+    "pl": "Wrócił do swojego fachu, żył od zlecenia do zlecenia, wiecznie w drodze, wiecznie bez pieniędzy.",
+    "bel": "Ён так і працягваў, як раней: ад кавалка да кавалка, ад заказу да заказу, у дарозе, вечна без грошай."
+  },
+  "fb_5c_03": {
+    "en": "We would meet at times over a glass of strong drink to talk about the old days and speculate what could have, would have, might have been…",
+    "ru": "Иногда мы встречались с ним за рюмочкой чего-нибудь крепкого, чтобы вспомнить старые времена и задуматься, что было бы, если бы…",
+    "pl": "Czasem spotykaliśmy się przy kieliszku czegoś mocniejszego, by powspominać dawne czasy i podumać, co by było gdyby…",
+    "bel": "Часам мы сустракаліся за шклянкай чаго-небудзь моцнага, гутарылі пра былыя часы і разважалі пра тое, як бы ўсё абярнулася ды павярнулася, і што магло б быць, калі б тое ды сёе…"
+  },
+  "fb_6a_01": {
+    "en": "Cirilla Fiona Ellen Riannon, heir to Nilfgaard's throne, chose the life of a witcher, on the Path.",
+    "ru": "Цирилла Фиона Эллен Рианон, наследница нильфгаардского престола, избрала жизнь на Пути ведьмаков.",
+    "pl": "Cirilla Fiona Ellen Rianon, dziedziczka nilfgaardzkiego tronu, wybrała życie na wiedźmińskim szlaku.",
+    "bel": "Цырыла Фіёна Элен Рыянон, спадчынніца нільфгаардскага трона, абрала жыццё на шляху ведзьмароў."
+  },
+  "fb_6a_02": {
+    "en": "Geralt taught her all he knew, every skill he possessed, then each set off on their own.",
+    "ru": "Геральт научил её всему, что знал и умел сам, а затем каждый пошёл своей дорогой.",
+    "pl": "Geralt nauczył ją wszystkiego, co sam umiał – a potem każde ruszyło w swoją stronę.",
+    "bel": "Геральт навучыў яе ўсяму, што ведаў і чым валодаў, а затым кожны пайшоў сваёй дарогай."
+  },
+  "fb_6a_03": {
+    "en": "Soon word of the ashen-haired witcheress had spread throughout the North – from the Yaruga to the mountains of Kovir…",
+    "ru": "Вскоре легенды о подвигах ведьмачки с пепельными волосами разнеслись от Яруги до гор Ковира…",
+    "pl": "Wkrótce potem o wyczynach popielatowłosej wiedźminki głośno było od Jarugi po góry Koviru…",
+    "bel": "Неўзабаве паданні пра шэравалосую вядзьмарку разляцеліся па паўночных землях – ад Яругі да Кавірскіх гор…"
+  },
+  "fb_6b_01": {
+    "en": "After years in exile, Ciri returned to Nilfgaard, her paternal home, where Emhyr prepared to name her his successor.",
+    "ru": "Спустя годы скитаний Цири вернулась в свой настоящий дом — Нильфгаард. Император Эмгыр собирался сделать её своей наследницей.",
+    "pl": "Po latach tułaczki Ciri wróciła do swojego prawdziwego domu – Nilfgaardu. Zapowiadało się, że Emhyr uczyni ją swoją następczynią.",
+    "bel": "Праз гады выгнання Цыры вярнулася ў Нільфгаард, яе бацькоўскі дом, дзе Эмгыр рыхтаваўся зрабіць яе сваёй спадчынніцай."
+  },
+  "fb_6b_02": {
+    "en": "The woman had the necessary qualities. From her father she'd inherited an empress' political instincts. From Geralt she had gained a sense of simple, human decency.",
+    "ru": "Надо сказать, что у девушки были к этому все предпосылки. От кровного отца она получила острое политическое чутьё, а от Геральта ей досталась обычная людская порядочность.",
+    "pl": "Trzeba powiedzieć, że dziewczyna miała ku temu wszelkie predyspozycje. Po ojcu odziedziczyła bowiem godny cesarza zmysł do polityki, a po Geralcie przejęła zwykłą, ludzką przyzwoitość.",
+    "bel": "І неабходныя для таго якасці ў яе былі. Ад свайго бацькі яна атрымала палітычныя інстынкты імператрыцы. Ад Геральта – звычайную людскую прыстойнасць."
+  },
+  "fb_6b_03": {
+    "en": "Few monarchs boast both traits – which is quite a shame…",
+    "ru": "Эти черты у монархов редко встречаются вместе. А жаль…",
+    "pl": "Te cechy rzadko idą w parze u monarchów – a szkoda…",
+    "bel": "Рэдкі манарх спалучае абедзве гэтыя рысы – шкада, зрэшты…"
+  },
+  "fb_6c_01": {
+    "en": "As for Ciri? That's hard to say. Since the events on Undvik, she has yet to be seen.",
+    "ru": "А что Цири?.. Трудно сказать. Её не видели со времени событий на Ундвике.",
+    "pl": "A Ciri… Ciężko powiedzieć. Nie widziano jej od czasu wydarzeń na Undvik.",
+    "bel": "А што наконт Цыры? Цяжка сказаць. З тых падзей на Ундвіку яе так і не бачылі."
+  },
+  "recap_wip_01": {
+    "en": "I see you gather before me… hungry… terrified…",
+    "ru": "Вот вы, собрались передо мной… боитесь… дрожите…",
+    "pl": "Patrzę na was... Głodnych... Przerażonych...",
+    "bel": "Гляджу я на вас… галодныя вы… перапалоханыя…"
+  },
+  "recap_wip_02": {
+    "en": "Clutching your babes to your breast.",
+    "ru": "Детей к груди прижимаете.",
+    "pl": "Przyciskających dzieci do piersi.",
+    "bel": "Дзяцей да грудзей туліце."
+  },
+  "recap_wip_03": {
+    "en": "Emperor Emhyr has marched his legions into our lands… laid siege to every fortress from here to the Blue Mountains. Rabid and ravenous, he bites and bites away.",
+    "ru": "По нашим землям прошёл император Эмгыр… Осадил каждую крепостицу отсюда до Синих гор… Рвёт и кусает нас, как бешеный пёс.",
+    "pl": "Cesarz Emhyr wprowadził swoje legiony na nasze ziemie, oblega każdą twierdzę stąd aż po Góry Sine. Wściekły i wygłodniały, wciąż gryzie i kąsa!",
+    "bel": "Войскі імператара Эмгыра топчуць нашы землі… кожная крэпасць у аблозе: адсюль – і аж да Шызых Гор. Шалёны і ненажэрны, ён адкусвае ўсё болей і болей."
+  },
+  "recap_wip_04": {
+    "en": "Men of the North, you stand at the precipice! Your kings have failed you, so now you turn to the gods!",
+    "ru": "Люди Севера, вы стоите у обрыва! Короли предали вас, и вы обратились к богам!",
+    "pl": "Ludzie Północy, stoicie nad przepaścią! Wasi królowie was zawiedli, więc zwracacie się do bogów!",
+    "bel": "Людзі Поўначы, вы стаіце на краі! Вашы каралі пакінулі вас, то цяпер вы звярнуліся да багоў!"
+  },
+  "recap_wip_05": {
+    "en": "And yet you do not plead? You do not kneel to dust your heads with ash?",
+    "ru": "Но вы не молите. Не падаете на колени, посыпая голову пеплом.",
+    "pl": "A jednak nie błagacie o przebaczenie? Nie posypujecie głów popiołem?",
+    "bel": "Але ж не моліце вы? Не ўкленчваеце, пасыпаючы галовы попелам?"
+  },
+  "recap_wip_06": {
+    "en": "Instead you wail, \"Why have the gods forsaken us?\"",
+    "ru": "Нет, вы скулите: «Почему боги оставили нас?»",
+    "pl": "Zamiast tego lamentujecie! Pytacie: \"czemu bogowie nas opuścili?\"",
+    "bel": "Замест таго вы скуголіце: \"Чаму багі адрынулі нас?\""
+  },
+  "recap_wip_07": {
+    "en": "We must look into the trials we failed long ago!",
+    "ru": "Пора вернуться на путь, с которого мы давно сошли!",
+    "pl": "Musimy wrócić na drogę, którą porzuciliśmy dawno temu!",
+    "bel": "Мы мусім вярнуцца на шлях, з якога даўно збочылі!"
+  },
+  "recap_wip_08": {
+    "en": "In a time past, our world intertwined with another through an upheaval scholars call the Conjunction of the Spheres…",
+    "ru": "Было время, когда наш мир соприкоснулся с другим. Учёные зовут это Сопряжением Сфер…",
+    "pl": "W przeszłości nasz świat przeplatał się z innymi w procesie, który uczeni nazwali Koniunkcją Sfer...",
+    "bel": "Былі часы, калі наш сусвет судакрануўся з іншым – вучоныя людзі завуць гэта зрушэнне Спалучэннем Сфер…"
+  },
+  "recap_wip_09": {
+    "en": "...",
+    "ru": "…",
+    "pl": "...",
+    "bel": "…"
+  },
+  "recap_wip_10": {
+    "en": "The gods allowed unholy forces to slip into our domain.",
+    "ru": "Волей богов силы зла проникли в наше обиталище.",
+    "pl": "Bogowie pozwolili wedrzeć się tu nieczystym siłom.",
+    "bel": "Багі дазволілі нячыстым сілам пракрасціся ў нашы ўладанні."
+  },
+  "recap_wip_11": {
+    "en": "The offspring of that cataclysm was the nefarious force called magic…",
+    "ru": "И в этой катастрофе родилась нечестивая сущность, что зовётся магией…",
+    "pl": "Pokłosiem tego kataklizmu jest nikczemna siła zwana magią...",
+    "bel": "І парадзіў той катаклізм злавесную сілу, што завецца магіяй…"
+  },
+  "recap_wip_12": {
+    "en": "Yet we did not banish it, instead studying the vile arcane for our own power and wealth!",
+    "ru": "Но мы не запретили её! Нет, мы изучали её ради власти и могущества!",
+    "pl": "A jednak nie wygnaliśmy jej. Zamiast tego studiujemy jej niegodziwe arkana, by zdobyć władzę i bogactwo!",
+    "bel": "Ды не забаранілі мы яе, але вывучалі тыя агідныя таямніцы, каб здабыць уладу і багацце!"
+  },
+  "recap_wip_13": {
+    "en": "And the monsters at our door… the unholy relicts of this Conjunction? The trolls…",
+    "ru": "А что же чудища у наших дверей… подлые останки Сопряжения? Тролли…",
+    "pl": "A co z potworami u naszych drzwi? Ohydnymi rekliktami Koniunkcji Sfer? Trollami...?",
+    "bel": "А як жа пачвары ля нашых дзвярэй – брыдкія рэшткі таго Спалучэння? Тролі…"
+  },
+  "recap_wip_14": {
+    "en": "…the corpse eaters…",
+    "ru": "…трупоеды…",
+    "pl": "Trupojadami...?",
+    "bel": "…трупаеды…"
+  },
+  "recap_wip_15": {
+    "en": "…the werewolves? Did we raise our swords against them? Or have we laid this burden on others?",
+    "ru": "…волколаки! Воздели мы меч против них? Или возложили эту ношу на других?",
+    "pl": "I wilkołakami? Czy podnosimy przeciw nim oręż? Czy raczej zrzucamy ten ciężar na innych?",
+    "bel": "…ваўкалакі? Ці ўзнялі мы мячы на іх? Ці ўсклалі той цяжар на іншых?"
+  },
+  "recap_wip_16": {
+    "en": "On so-called witchers... Stray children taught the ways of foul sorcery, their bodies mutated through blasphemous ritual.",
+    "ru": "На тех, кто зовётся ведьмаками… На заблудших детей, обученных волшбе, чьи тела извращены богопротивными ритуалами.",
+    "pl": "Na tak zwanych wiedźminów. Porzucone dzieci, szkolone, by używać mrocznej magii, zmutowane za pomocą bluźnierczych rytuałów.",
+    "bel": "На так званых ведзьмароў… Бяздомных дзяцей, якіх навучылі прыёмам бязбожнага чараўніцтва, а на целы іх наклалі мутацыі праз блюзнерскія рытуалы."
+  },
+  "recap_wip_17": {
+    "en": "Sent to fight monsters though they could not distinguish good from evil. The flicker of humanity long extinguished within them, heh.",
+    "ru": "И они борются с чудовищами, хотя не отличают добра от зла. Искра человечности давно уже угасла в них.",
+    "pl": "Wysłani do walki z potworami, nie potrafią odróżnić dobra od zła. Blady płomień człowieczeństwa, który kiedyś w nich płonął, już dawno zgasł.",
+    "bel": "Адправілі іх змагацца з пачварамі, хаця яны дабра ад зла не адрозніваюць. Іскра людскасці даўно ўжо згасла ў іх."
+  },
+  "recap_wip_18": {
+    "en": "Yes, their numbers have dwindled through the years. But a few still roam our lands, offering their bloody work for coin. To this day they shame us with their very existence.",
+    "ru": "Да, с годами их всё меньше. Но и поныне они бывают в наших краях, за деньги выполняя свою кровавую работу. Позоря нас самим своим существованием!",
+    "pl": "Z każdym rokiem jest ich coraz mniej, to prawda. Ale kilku wciąż przemierza nasze ziemie, przelewając krew za pieniądze. Po dziś dzień swym istnieniem przynoszą nam hańbę!",
+    "bel": "Што праўда, з гадамі іх усё меней. Але некаторыя дагэтуль вандруюць па нашых землях, робячы крывавую працу за плату. Дагэтуль ганьбяць нас адным сваім існаваннем."
+  },
+  "recap_wip_19": {
+    "en": "The North bleeds, flogged by war! The battles are the gods' whip, chastisement for our sins!",
+    "ru": "Истерзанный войной Север обливается кровью. Битвы есть удары бичей божьих, что очистят грехи наши!",
+    "pl": "Północ krwawi, chłostana biczem wojny! To kara bogów za nasze grzechy!",
+    "bel": "Сыходзіць крывёй Поўнач, знявечаная вайною! Бітвы тыя – пакаранне боскае за грахі нашы!"
+  },
+  "recap_wip_20": {
+    "en": "But let us not forget the terrors, the scourges from beyond our world! The Wild Hunt rides the sky with every full moon!",
+    "ru": "Вспомните об ужасах, терзающих наш мир извне! Дикая Охота скачет по небесам каждое полнолуние!",
+    "pl": "Nie zapominajmy też o okrutnej pladze spoza naszego świata! Wszak Dziki Gon galopuje po niebie w każdą pełnię!",
+    "bel": "Не забывайма ж пра жахі, што караюць наш сусвет звонку! Дзікае паляванне пры кожнай поўні нясецца па небе!"
+  },
+  "recap_wip_21": {
+    "en": "The dark raiders abduct our children into lands unknown. Some say they herald a second Conjunction.",
+    "ru": "Тёмные эти всадники, вестники второго Сопряжения, уводят наших детей в неведомые земли.",
+    "pl": "Mroczni jeźdźcy porywają w nieznane nasze dzieci! Niektórzy mówią, że to zwiastuje drugą Koniukcję!",
+    "bel": "Цёмныя вершнікі забіраюць дзяцей нашых у невядомыя краі. Кажуць, што гэта прадвесце другога Спалучэння."
+  },
+  "recap_wip_22": {
+    "en": "Can we chart a course back into the light? Will we find the strength to banish the mages from our kingdoms? Unite around the warmth of the Eternal Fire?",
+    "ru": "Но можем ли мы обратиться вспять, к свету? Хватит ли у нас сил изгнать чародеев? И объединиться вокруг тепла Вечного Огня?",
+    "pl": "Czy damy radę powrócić na drogę światłości? Czy znajdziemy siłę, by wygnać czarodziejów z naszych królestw? Zjednoczyć się wokół ciepła Wiecznego Ognia?",
+    "bel": "Ці можам мы пракласці шлях назад да святла? Ці знойдзем мы сілы выгнаць магаў з нашых каралеўстваў? Аб'яднацца вакол цяпла Вечнага Полымя?"
+  },
+  "recap_wip_23": {
+    "en": "Nigh is the Time of the Sword and Axe.",
+    "ru": "Ночь — Час Меча и Топора!",
+    "pl": "Bliski jest czas miecza i topora!",
+    "bel": "Ноч – час мяча і сякеры."
+  },
+  "recap_wip_24": {
+    "en": "None will fight this war in our stead!",
+    "ru": "В этой войне никто не поможет нам!",
+    "pl": "Tej wojny nikt za nas nie wygra!",
+    "bel": "Ніхто не будзе біцца за нас у гэтай вайне!"
+  },
+  "recap_wip_25": {
+    "en": "Nigh is the Time of Madness and Disdain!",
+    "ru": "Ночь — Час Безумия, Час Презрения!",
+    "pl": "Bliski jest czas szaleństwa i czas pogardy!",
+    "bel": "Ноч – час вар'яцтва, час пагарды!"
+  },
+  "rs_1a_01": {
+    "en": "If I'm to choose between a greater and lesser evil, I'd rather not choose at all.",
+    "ru": "Если приходится выбирать между меньшим и большим злом, предпочитаю не выбирать вовсе.",
+    "pl": "Kiedy muszę wybierać między mniejszym i większym złem, wolę nie wybierać wcale.",
+    "bel": "Калі давядзецца выбіраць паміж большым і меншым ліхам, я лепш наогул выбіраць не буду."
+  },
+  "rs_1a_02": {
+    "en": "Usually, though, the stakes are just too damn high.",
+    "ru": "Но иногда ставка слишком высока.",
+    "pl": "Ale czasami stawka jest zbyt wysoka.",
+    "bel": "Зрэшты, стаўкі звычайна дужа высокія."
+  },
+  "rs_1a_03": {
+    "en": "Sometimes in choosing a greater evil, you do good, albeit in a small way.",
+    "ru": "Иногда нужно выбрать большее зло, чтобы совершить хоть малое добро.",
+    "pl": "Czasem trzeba wybrać większe zło, żeby uczynić małe dobro.",
+    "bel": "Часам, выбіраючы большае ліха, робіш хоць якое дабро."
+  },
+  "rs_1a_04": {
+    "en": "When I chose to save the orphans of the swamp, I couldn't know Anna would die.",
+    "ru": "Я не знал, что спасение детей из деревни на болотах приведёт к смерти Анны.",
+    "pl": "Nie wiedziałem, że uratowanie sierot z wioski na moczarach doprowadzi do śmierci Anny.",
+    "bel": "Выбраўшы ратаваць сірот з балота, я не ведаў, што вынікам будзе смерць Ганны."
+  },
+  "rs_1a_05": {
+    "en": "And I never thought the baron would leave his wife where she lay, find a rope and hang himself.",
+    "ru": "Я даже подумать не мог, что барон оставит тело жены и повесится на простой конопляной верёвке.",
+    "pl": "Nie przypuszczałem, że Baron zostawi ciało żony i powiesi się na konopnym sznurze.",
+    "bel": "І ніяк не думаў, што барон пакіне цела жонкі, знойдзе вяроўку і павесіцца."
+  },
+  "rs_1a_06": {
+    "en": "Most times… you make your choice and never look back.",
+    "ru": "Иногда нужно принять решение и не оглядываться назад.",
+    "pl": "Czasami trzeba podjąć decyzję i nie oglądać się wstecz.",
+    "bel": "Найчасцей… ты проста выбіраеш і не азіраешся."
+  },
+  "rs_1b_01": {
+    "en": "Witchers were made… to kill monsters.",
+    "ru": "Ведьмаки были созданы, чтобы убивать чудовищ.",
+    "pl": "Wiedźmini zostali stworzeni, żeby zabijać potwory.",
+    "bel": "Ведзьмароў стварылі… каб нішчыць пачвар."
+  },
+  "rs_1b_02": {
+    "en": "It doesn't matter who posted the notice. The coin has to be right, that's all.",
+    "ru": "Неважно, кто даёт заказ. Важно, чтобы плата была по уговору.",
+    "pl": "Nie jest ważne, kto zleca zadanie. Ważne jest, żeby zapłata się zgadzała.",
+    "bel": "Не важна, хто дае заказ. Важна каб плацілі як мае быць."
+  },
+  "rs_1b_03": {
+    "en": "Witchers don't debate.",
+    "ru": "Мелочи только отравляют жизнь.",
+    "pl": "Skrupuły nie są mile widziane.",
+    "bel": "Удакладняць – толькі ўскладняць."
+  },
+  "rs_1b_04": {
+    "en": "Their conscience plays no part. They just get on with it…",
+    "ru": "Ведьмак должен делать своё дело без лишних сомнений.",
+    "pl": "Wiedźmin ma zrobić swoje bez zbędnych dywagacji.",
+    "bel": "Без разважанняў. Бярэшся і робіш…"
+  },
+  "rs_1b_05": {
+    "en": "…then pick up the coin pouch tossed at their feet and set off on their way.",
+    "ru": "Он просто поднимает брошенный ему кошелёк и отправляется своей дорогой.",
+    "pl": "Ma podnieść rzucony mu mieszek i ruszyć swoją drogą.",
+    "bel": "…потым падымаеш гаманец, што кінулі пад ногі, і рушыш далей."
+  },
+  "rs_1b_06": {
+    "en": "Folk don't expect witchers to save them from themselves.",
+    "ru": "Люди не ждут, что ведьмак станет защищать их от них самих.",
+    "pl": "Ludzie nie oczekują, że wiedźmin ochroni ich przed nimi samymi.",
+    "bel": "Людзі не чакаюць, каб вядзьмар іх ад саміх сябе бараніў."
+  },
+  "rs_2a_01": {
+    "en": "Keira Metz was manipulative, a schemer – and loved every minute of it.",
+    "ru": "Кейра Мец обожала плести интриги и манипулировать другими.",
+    "pl": "Keira Metz była krętaczką i lubiła manipulować innymi.",
+    "bel": "Кайра Мец была інтрыганкай і любіла маніпуляваць іншымі."
+  },
+  "rs_2a_02": {
+    "en": "She was also stubborn, even for a sorceress.",
+    "ru": "Она была упряма даже для чародейки.",
+    "pl": "Była uparta, nawet jak na czarodziejkę.",
+    "bel": "Упартай таксама была – нават для чарадзейкі."
+  },
+  "rs_2a_03": {
+    "en": "But she had quite the gift – boy, could she be convincing.",
+    "ru": "Но ей трудно было отказать в обаянии и даре убеждения.",
+    "pl": "Ale trudno było jej odmówić uroku i daru przekonywania.",
+    "bel": "Але цяжка было адмовіць ёй у абаянні і дары пераканання."
+  },
+  "rs_2a_04": {
+    "en": "Deep down, though, Keira was a little girl.",
+    "ru": "В глубине души Кейра Мец оставалась маленькой девочкой.",
+    "pl": "W głębi duszy Keira Metz była małą dziewczynką.",
+    "bel": "У глыбіні душы Кайра была малое дзяўчо."
+  },
+  "rs_2a_05": {
+    "en": "She expected far too much of life and demanded instant satisfaction.",
+    "ru": "Она ждала от жизни слишком многого и хотела получить всё и сразу.",
+    "pl": "Oczekiwała od życia zbyt wiele i chciała dostać wszystko natychmiast.",
+    "bel": "Надта шмат чакала ад жыцця і хацела атрымаць усё і адразу."
+  },
+  "rs_2a_06": {
+    "en": "Little girls end badly when they fall in with the wrong crowd.",
+    "ru": "А маленьких девочек, если они попадут в неподходящую компанию, ждёт плохой конец.",
+    "pl": "A małe dziewczynki kończą źle, jeśli wpadną w nieodpowiednie towarzystwo.",
+    "bel": "А калі малое дзяўчо трапляе ў кепскую кампанію, гэта кепска і заканчваецца."
+  },
+  "rs_2b_01": {
+    "en": "Few can refuse a sorceress.",
+    "ru": "Мало кто сумеет отказать чародейке.",
+    "pl": "Mało kto potrafi odmówić czarodziejce.",
+    "bel": "Мала хто здолее адмовіць чарадзейцы."
+  },
+  "rs_2b_02": {
+    "en": "And Keira Metz certainly had her ways…",
+    "ru": "Кейра Мец всегда умела настоять на своём — так или иначе.",
+    "pl": "Keira Metz miała swoje sposoby, żeby postawić na swoim.",
+    "bel": "А ў Кайры Мец былі ўласныя спосабы стаяць на сваім…"
+  },
+  "rs_2b_03": {
+    "en": "But when she demanded the mage Alexander's notes, I had to turn her down.",
+    "ru": "Но когда она потребовала заметки чародея Александэра, я отказал ей.",
+    "pl": "Ale gdy zażądała notatek czarodzieja Aleksandra, odmówiłem jej.",
+    "bel": "Але калі ёй спатрэбіліся запісы мага Александэра, я адмовіў."
+  },
+  "rs_2b_04": {
+    "en": "Keira needed that, as she needed the impetus to start anew.",
+    "ru": "В сущности, Кейре нужен был импульс, чтобы начать новую жизнь.",
+    "pl": "W gruncie rzeczy Keira potrzebowała impulsu, żeby zacząć nowe życie.",
+    "bel": "Па сутнасці, Кайры патрэбен быў імпульс, каб пачаць новае жыццё."
+  },
+  "rs_2b_05": {
+    "en": "She found it where she least expected to.",
+    "ru": "Она получила его совершенно неожиданным образом.",
+    "pl": "Znalazła go w zupełnie nieoczekiwanym miejscu.",
+    "bel": "Яна атрымала яго там, дзе ніяк не чакала."
+  },
+  "rs_2b_06": {
+    "en": "Years later, known for discovering the cure for the Catriona plague, she was thankful none remembered her time in hiding as a village witch.",
+    "ru": "По прошествии лет никто не помнил, что создательница лекарства от чумы Катрионы скрывалась под маской деревенской колдуньи.",
+    "pl": "Po latach nikt nie pamiętał, że twórczyni leku na zarazę Catriony ukrywała się jako wiejska czarownica.",
+    "bel": "Праз гады ніхто і не памятаў, што стваральніца лекаў ад чумы Катрыёны выдавала сябе за вясковую чараўніцу."
+  },
+  "rs_3a_01": {
+    "en": "No one mourned for Whoreson Junior.",
+    "ru": "Никто не плакал по Ублюдку Младшему.",
+    "pl": "Nikt nie płakał po Skurwielu Juniorze.",
+    "bel": "Ніхто не плакаў па Вырадку Малодшым."
+  },
+  "rs_3a_02": {
+    "en": "In all his miserable life, he'd never helped a soul.",
+    "ru": "В своей никчёмной жизни он не помог никому.",
+    "pl": "W całym swoim nędznym życiu Junior nie pomógł nikomu.",
+    "bel": "За сваё нікчэмнае жыццё ён нікому не дапамог."
+  },
+  "rs_3a_03": {
+    "en": "Amusingly, once dead, he became a useful member of society.",
+    "ru": "Забавно, что его стали уважать только после смерти.",
+    "pl": "Zabawne, że stał się użyteczny dopiero po śmierci.",
+    "bel": "Забаўна, што ацанілі яго толькі пасля смерці."
+  },
+  "rs_3a_04": {
+    "en": "They say everyone deserves a second chance. Seems true enough.",
+    "ru": "Говорят, что каждый заслуживает второго шанса. Быть может, это правда.",
+    "pl": "Mówią, że każdy zasługuje na drugą szansę. Może to i prawda.",
+    "bel": "Кажуць, кожны заслугоўвае другі шанец. Цалкам верагодна."
+  },
+  "rs_3a_05": {
+    "en": "Whoreson got his, in a way…",
+    "ru": "Ублюдок в определённом смысле получил свой второй шанс.",
+    "pl": "Skurwiel Junior w pewnym sensie dostał drugie życie.",
+    "bel": "Вырадак свой атрымаў, у пэўным сэнсе…"
+  },
+  "rs_3a_06": {
+    "en": "…sharing it… with a doppler named Dudu.",
+    "ru": "Он разделил его с одним допплером, которого друзья называли Дуду.",
+    "pl": "Dzielił je z pewnym dopplerem, nazywanym przez przyjaciół Dudu.",
+    "bel": "…раздзяліўшы яго… з адным доплерам, якога звалі Дуду."
+  },
+  "rs_3b_01": {
+    "en": "Whoreson Junior wasn't a pious man.",
+    "ru": "Ублюдок Младший не был набожным человеком.",
+    "pl": "Skurwiel Junior nie był pobożnym człowiekiem.",
+    "bel": "Вырадак Малодшы не быў набожным чалавекам."
+  },
+  "rs_3b_02": {
+    "en": "But there came a moment when he prayed to all the gods at once… for his life.",
+    "ru": "Но пришла такая минута, когда он молил о жизни всех богов на свете.",
+    "pl": "Ale przyszedł taki moment, gdy modlił się o swoje życie do wszystkich bogów na raz.",
+    "bel": "Але настаў момант, калі ён маліў аб жыцці адразу ўсіх багоў."
+  },
+  "rs_3b_03": {
+    "en": "Since the gods disliked Junior, they granted his prayer.",
+    "ru": "Боги не любили Ублюдка, и потому услышали его молитвы.",
+    "pl": "Bogowie nie lubili Juniora dlatego wysłuchali jego modlitw.",
+    "bel": "Не любілі багі Малодшага, вось і пачулі яго малітвы."
+  },
+  "rs_3b_04": {
+    "en": "Years later, he had just one regret…",
+    "ru": "Спустя годы Ублюдок Младший жалел только об одном.",
+    "pl": "Po latach Skurwiel Junior żałował tylko jednego.",
+    "bel": "Праз колькі год ён хіба пра адно шкадаваў…"
+  },
+  "rs_3b_05": {
+    "en": "…that at the moment in question, he hadn't surrendered to death.",
+    "ru": "Он жалел, что в ту минуту не позволил себя просто убить.",
+    "pl": "Żałował, że w tamtej chwili nie dał się po prostu zabić.",
+    "bel": "…што ў той момант не даў сябе проста забіць."
+  },
+  "rs_3b_06": {
+    "en": "For he had had the courage then to do so, courage he would never have again.",
+    "ru": "В тот момент у него на это ещё хватило бы смелости. Потом — уже нет.",
+    "pl": "W tamtym momencie miał jeszcze dosyć odwagi. Potem już nie.",
+    "bel": "У той момант у яго б хапіла адвагі. А потым ужо не."
+  },
+  "rs_4a_01": {
+    "en": "They say ghosts are a manifestation of inner fears.",
+    "ru": "Говорят, что духи — это внутреннее проявление страха перед тем, что снаружи.",
+    "pl": "Mówią, że duchy są zewnętrznym przejawem wewnętrznego strachu.",
+    "bel": "Кажуць, што прывіды – гэта знешнія праявы ўнутраных страхаў."
+  },
+  "rs_4a_02": {
+    "en": "Hauntings are said to be longing and loneliness, grown to vast proportions.",
+    "ru": "Говорят, что в местах, населённых духами, больше всего пугает одиночество.",
+    "pl": "Ponoć w nawiedzonych miejscach straszy wyolbrzymiona samotność.",
+    "bel": "Кажуць, што ў месцах з прывідамі адзінота цісне найцяжэй."
+  },
+  "rs_4a_03": {
+    "en": "There's no truth to that.",
+    "ru": "Это неправда.",
+    "pl": "To nie jest prawda.",
+    "bel": "Гэта няпраўда."
+  },
+  "rs_4a_04": {
+    "en": "It is true, however, that monsters can be as lonely as humans…",
+    "ru": "Правда в том, что чудовища бывают столь же одиноки, как люди.",
+    "pl": "Prawdą jest natomiast, że potwory bywają samotne, jak ludzie.",
+    "bel": "А ў тым праўда, што пачвары бываюць такімі ж адзінокімі, як і людзі…"
+  },
+  "rs_4a_05": {
+    "en": "…and that to conquer one's loneliness one must first conquer one's fears.",
+    "ru": "Для того чтобы победить одиночество, нужно сперва превозмочь страх.",
+    "pl": "Prawdą jest, że aby pokonać samotność, trzeba najpierw przezwyciężyć strach.",
+    "bel": "…і ў тым, што каб адолець адзіноту, найперш трэба адолець страх."
+  },
+  "rs_4a_06": {
+    "en": "Some manage to do just that.",
+    "ru": "Иногда это удаётся.",
+    "pl": "Czasami się to udaje.",
+    "bel": "Часам гэта атрымліваецца."
+  },
+  "rs_4b_01": {
+    "en": "Long ago, to isolate themselves from a world of beasts, humans began building cities.",
+    "ru": "Давным-давно люди начали строить города, чтобы отгородиться от мира, полного чудовищ.",
+    "pl": "Dawno temu ludzie zaczęli wznosić miasta, żeby odgrodzić się od świata pełnego potworów.",
+    "bel": "Калісьці даўно людзі сталі будаваць гарады, каб адгарадзіцца ад свету, поўнага бестый."
+  },
+  "rs_4b_02": {
+    "en": "But since beasts prowl within stone walls as well as they do outside them, this did not allay human fears.",
+    "ru": "Они так никогда и не избавились от страха перед созданиями, которые могут скрываться по ту сторону каменных стен.",
+    "pl": "Nigdy nie wyzwolili się od strachu przed stworzeniami, które mogą się ukrywać wewnątrz kamiennych murów.",
+    "bel": "Але яны так і не пазбавіліся ад страху перад істотамі, якія могуць хавацца ўнутры каменных муроў."
+  },
+  "rs_4b_03": {
+    "en": "The truth is walls guarantee no one's safety.",
+    "ru": "Не стены дают людям ощущение безопасности.",
+    "pl": "Ale w rzeczywistości to nie mury zapewniają bezpieczeństwo.",
+    "bel": "Праўда ў тым, што не муры даюць бяспеку."
+  },
+  "rs_4b_04": {
+    "en": "The place where you lock yourself in and lock all else out – that's not your home.",
+    "ru": "Дом — это вовсе не то место, где можно закрыться на ключ.",
+    "pl": "Dom wcale nie oznacza miejsca, w którym można zamknąć się na klucz.",
+    "bel": "Дом – гэта зусім не тое месца, дзе можна замкнуцца на ключ."
+  },
+  "rs_4b_05": {
+    "en": "Your home is sometimes a place you travel long and far to find.",
+    "ru": "Чтобы найти настоящий дом, приходится пройти долгий путь.",
+    "pl": "Żeby znaleźć prawdziwy dom, czasem trzeba przejść długą drogę.",
+    "bel": "Каб знайсці сапраўдны дом, часам трэба прайсці доўгі шлях."
+  },
+  "rs_5a_01": {
+    "en": "Hatred and prejudice will never be eradicated.",
+    "ru": "Ненависть и предубеждения нельзя искоренить до конца.",
+    "pl": "Nienawiści i uprzedzeń nie da się wykorzenić całkowicie.",
+    "bel": "Нянавісць і прадузятасць цалкам не выкараніць."
+  },
+  "rs_5a_02": {
+    "en": "And witch hunts will never be about witches.",
+    "ru": "And witch hunts will never be about witches.",
+    "pl": "A w polowaniu na czarownice wcale nie chodzi o wiedźmy.",
+    "bel": "А паляванні на ведзьм – гэта наогул не пра ведзьм."
+  },
+  "rs_5a_03": {
+    "en": "To have a scapegoat – that's the key.",
+    "ru": "To have a scapegoat – that's the key.",
+    "pl": "Ważne jest, żeby znaleźć kozła ofiarnego.",
+    "bel": "Галоўнае – знайсці казла адпушчэння."
+  },
+  "rs_5a_04": {
+    "en": "Humans always fear the alien, the odd.",
+    "ru": "Humans always fear the alien, the odd.",
+    "pl": "Ludzie zawsze obawiali się odmieńców.",
+    "bel": "Людзі заўсёды баяліся чагосьці адрознага ад іх."
+  },
+  "rs_5a_05": {
+    "en": "Once the mages had left Novigrad, folk turned their anger against the other races…",
+    "ru": "Once the mages had left Novigrad, folk turned their anger against the other races…",
+    "pl": "Gdy czarodzieje opuścili Novigrad, ich gniew skupił się na innych rasach.",
+    "bel": "Калі магі пакінулі Навіград, народ скіраваў свой гнеў на іншыя расы…"
+  },
+  "rs_5a_06": {
+    "en": "…and, as they have for ages, branded their neighbors their greatest foes.",
+    "ru": "…and, as they have for ages, branded their neighbors their greatest foes.",
+    "pl": "Z dawien dawna największym wrogiem ludzi był nie cudzoziemiec, lecz sąsiad.",
+    "bel": "Спакон вякоў найгоршым ворагам быў не чужынец, а сусед."
+  },
+  "rs_5b_01": {
+    "en": "Streetside soothsayers, chiromancers, herbalists and healers…",
+    "ru": "Уличные предсказатели, хироманты, травники, заклинатели амулетов…",
+    "pl": "Uliczni wieszczkowie, chiromanci, zielarze, zaklinacze amuletów.",
+    "bel": "Вулічныя прадказальнікі, хіраманты, траўнікі, заклінальнікі амулетаў…"
+  },
+  "rs_5b_02": {
+    "en": "Though townsfolk had always sought their help, they'd never trusted them.",
+    "ru": "Though townsfolk had always sought their help, they'd never trusted them.",
+    "pl": "Choć mieszczenie zawsze korzystali z ich usług, nigdy im nie ufali.",
+    "bel": "Народ, хоць заўжды і карыстаўся іх паслугамі, ніколі ім не давяраў."
+  },
+  "rs_5b_03": {
+    "en": "Folk generally dislike those privy to their fears and weaknesses.",
+    "ru": "Folk generally dislike those privy to their fears and weaknesses.",
+    "pl": "Ktoś, kto może poznać ludzkie lęki i słabości, zawsze budzi niechęć.",
+    "bel": "Заўсёды ж няёмка побач з тымі, хто ведае твае страхі і слабасці."
+  },
+  "rs_5b_04": {
+    "en": "The Free City of Novigrad became a trap for all mages.",
+    "ru": "The Free City of Novigrad became a trap for all mages.",
+    "pl": "Wolne miasto Novigrad stało się dla czarodziejów pułapką.",
+    "bel": "Вольны горад Навіград стаўся для ўсіх магаў пасткай."
+  },
+  "rs_5b_05": {
+    "en": "Its merchants, craftsmen and burghers held their breath when death came for those they despised.",
+    "ru": "Its merchants, craftsmen and burghers held their breath when death came for those they despised.",
+    "pl": "Przekupnie i rzemieślnicy wstrzymali oddech, gdy po pogardzanych magików szła śmierć.",
+    "bel": "Яго купцы, рамеснікі і мяшчане затаілі дыханне, калі смерць прыйшла за тымі, кім яны пагарджалі."
+  },
+  "rs_5b_06": {
+    "en": "And they never expected the mages to take up arms, fight back.",
+    "ru": "And they never expected the mages to take up arms, fight back.",
+    "pl": "Nie spodziewali się, że czarodzieje stawią jej czoła z bronią w ręku.",
+    "bel": "А вось што магі адкажуць, узяўшыся за зброю, – гэтага не чакалі."
+  },
+  "rs_6a_01": {
+    "en": "For ages, men had shed each other's blood in the quest for Skellige's crown.",
+    "ru": "С давних пор корону Скеллиге добывали, проливая кровь.",
+    "pl": "Z dawien dawna koronę Skellige zdobywało się, przelewając krew.",
+    "bel": "Спакон вякоў на Скеліге карону здабывалі, праліваючы кроў."
+  },
+  "rs_6a_02": {
+    "en": "Politics as usual - just a difference of degree.",
+    "ru": "От обычной политики это кровопролитие отличалось только масштабами.",
+    "pl": "Od zwykłego uprawiania polityki różni się to tylko skalą.",
+    "bel": "Ад звычайнай палітыкі гэта адрознівалі толькі маштабы."
+  },
+  "rs_6a_03": {
+    "en": "Yet the bloody feast at Kaer Trolde was different.",
+    "ru": "Однако резня во время пира в Каэр Трольде была совсем другим делом.",
+    "pl": "Jednak masakra podczas uczty w Kaer Trolde była czymś innym.",
+    "bel": "Аднак разня падчас піру ў Каэр-Трольдэ была чымсьці іншым."
+  },
+  "rs_6a_04": {
+    "en": "It was dishonorable, treacherous, needed investigation.",
+    "ru": "Её итогом стал очередной ведьмачий заказ.",
+    "pl": "Skutkiem rzezi było kolejne wiedźmińskie zlecenie.",
+    "bel": "Вынікам разні стаў чарговы вядзьмарскі заказ."
+  },
+  "rs_6a_05": {
+    "en": "More witchers' work…",
+    "ru": "Который быстро перерос в расследование.",
+    "pl": "Zlecenie przerodziło się w śledztwo.",
+    "bel": "Заказ той перарос у расследаванне…"
+  },
+  "rs_6a_06": {
+    "en": "Work that culminated with the crowning of the Isles' new ruler.",
+    "ru": "Расследование, которое в результате дало островам Скеллиге нового владыку.",
+    "pl": "Śledztwo, które w rezultacie dało Wyspom Skellige nowego władcę.",
+    "bel": "А расследаванне ў выніку дала астравам Скеліге новага ўладара."
+  },
+  "rs_6b_01": {
+    "en": "In Skellige, anyone can be king. All they need is the jarls on their side.",
+    "ru": "На Скеллиге любой может стать королём — достаточно объединить ярлов.",
+    "pl": "Na Skellige każdy może zostać królem, wystarczy że zjedna sobie jarlów.",
+    "bel": "На Скеліге хто заўгодна можа стаць каралём, калі аб'яднае ярлаў."
+  },
+  "rs_6b_02": {
+    "en": "Sometimes a mediocrity gets just that.",
+    "ru": "Иногда владыкой становится ничтожество.",
+    "pl": "Czasami władcą zostaje miernota.",
+    "bel": "Часам уладаром становіцца хтосьці нікчэмны."
+  },
+  "rs_6b_03": {
+    "en": "And the Isles get a ruler the clans don't respect.",
+    "ru": "Кто-то, кого кланы просто не опасаются.",
+    "pl": "Ktoś, z kim nie liczą się klany.",
+    "bel": "Хтосьці, з кім кланы не будуць лічыцца."
+  },
+  "rs_6b_04": {
+    "en": "No one expected much of Svanrige of Clan Tuirseach.",
+    "ru": "От Сванриге из клана Тиршах никто не ожидал многого.",
+    "pl": "Po Svanrige’u z klanu Tuirseach nikt nie spodziewał się wiele.",
+    "bel": "Ад Сванрыга з клану Туршах надта шмат не чакалі."
+  },
+  "rs_6b_05": {
+    "en": "But he went down in history as the founder of a dynasty.",
+    "ru": "Но именно он остался в истории как основатель династии.",
+    "pl": "Ale to własnie on zapisał się w historii, jako założyciel dynastii.",
+    "bel": "Але менавіта ён увайшоў у гісторыю як заснавальнік дынастыі."
+  },
+  "rs_6b_06": {
+    "en": "And as the king who united all the clans against Nilfgaard.",
+    "ru": "И как король, объединивший все кланы против Нильфгаарда.",
+    "pl": "I jako król, który zjednoczył wszystkie klany przeciw Nilfgaardowi.",
+    "bel": "І кароль, які аб'яднаў усе кланы супраць Нільфгаарда."
+  },
+  "st_10_01": {
+    "en": "As Yennefer of Vengerberg told it, there had been a magic explosion in Skellige. Related to Ciri's reappearance, it had destroyed a vast swath of forest. Geralt set out for the Isles to join the sorceress and seek further clues of Ciri's whereabouts.",
+    "ru": "Со слов Йеннифэр из Венгерберга, на Скеллиге произошёл магический взрыв, который уничтожил значительную часть древней пущи и, видимо, был связан с появлением Цири. Геральт отправился на Острова, чтобы присоединиться к чародейке и вместе с ней попробовать найти следы девушки.",
+    "pl": "Wedle słów Yennefer z Vengerbergu na Skellige doszło do magicznej eksplozji, która zniszczyła sporą część puszczy i była związana z pojawieniem się Ciri. Geralt wyruszył więc na wyspy, by dołączyć do czarodziejki i wspólnie z nią szukać śladów dziewczyny.",
+    "bel": "Паводле слоў Енэфер з Венгерберга, на Скеліге адбыўся магічны выбух, што знішчыў значную частку пушчы і быў звязаны са з'яўленнем Цыры. Геральт адправіўся на астравы, каб далучыцца да чарадзейкі і знайсці сляды дзяўчыны."
+  },
+  "st_10_02": {
+    "en": "The druid Ermion, however, had no intention of letting Yennefer examine the woods. So Geralt and Yen sought out Jarl Crach an Craite, who helped break down the druid's resolve.",
+    "ru": "На месте оказалось, что друид Мышовур запретил Йеннифэр исследовать уничтоженный лес. Но с помощью ярла Краха ан Крайта его удалось переубедить.",
+    "pl": "Na miejscu okazało się, że druid Myszowór nie zamierza pozwolić czarodziejce na badanie zniszczonego lasu, ale z pomocą jarla Cracha an Craite udało się go przekonać.",
+    "bel": "На месцы апынулася, што друід Мышавур не хацеў дазваляць чарадзейцы даследаваць знішчаны лес, але пры падтрымцы ярла Краха ан Крайтэ друіда ўдалося пераканаць."
+  },
+  "st_11_01": {
+    "en": "Yennefer's suspicions proved true – Ciri had appeared in Skellige. She'd arrived from another world, together with a masked mage. She and the mage had fought the Wild Hunt before fleeing through portals that carried them to Velen.",
+    "ru": "Йеннифэр была права: Цири действительно появлялась на Скеллиге. Она прибыла туда из другого мира в компании таинственного чародея. Девушка и чародей сражались с Дикой Охотой, а затем бежали через порталы, ведущие в Велен.",
+    "pl": "Yennefer miała rację – Ciri rzeczywiście pojawiła się na Skellige. Przybyła tam z innego świata, w towarzystwie zamaskowanego czarodzieja. Dziewczyna i czarodziej walczyli z Dzikim Gonem, a potem uciekli przez portale prowadzące do Velen.",
+    "bel": "Енэфер мела рацыю: Цыры сапраўды з'яўлялася на Скеліге. Яна трапіла туды з іншага свету разам з таямнічым магам. Дзяўчына і маг змагаліся з Дзікім паляваннем, а затым уцяклі праз парталы, што вялі ў Велен."
+  },
+  "st_11_02": {
+    "en": "There, one trail ended, another began. A good time later the Wild Hunt had reappeared on Hindarsfjall – meaning Ciri, too, might have returned to Skellige.",
+    "ru": "Здесь обрывался один след и начинался другой. Гораздо позже Дикая Охота появилась на острове Хиндарсфьялль. Это могло означать, что Цири вернулась на Скеллиге.",
+    "pl": "Tutaj urywał się jeden trop, a zaczynał drugi. Dużo później Dziki Gon pojawił się na wyspie Hindarsfjall, co mogło znaczyć, że Ciri wróciła na Skellige.",
+    "bel": "Адзін след тут абрываўся, а другі пачынаўся. Нашмат пазней Дзікае паляванне з'явілася на востраве Хіндарсф'ял. Гэта магло значыць, што Цыры вярнулася на Скеліге."
+  },
+  "st_12_01": {
+    "en": "On Hindarsfjall Geralt and Yen learned that Ciri had returned to the Isles. She'd rejoined her friend, the masked mage. They had boarded a boat and sailed off in an unknown direction. The boat had returned, one passenger on board – a creature as mindless as it was hideous.",
+    "ru": "На Хиндарсфьялле Йеннифэр и Геральт узнали, что Цири действительно вернулась на Острова и вновь присоединилась к таинственному чародею. Тот вместе с девушкой отплыл на лодке в неизвестное место. Затем лодка вернулась, но только с одним пассажиром. Им было отвратительнейшее, безумное создание.",
+    "pl": "Na Hindarsfjall Yennefer i Geralt dowiedzieli się, że Ciri rzeczywiście wróciła na wyspy i dołączyła do zamaskowanego czarodzieja. Ten zabrał dziewczynę na łódź i odpłynął w nieznane miejsce. Potem łódź wróciła, ale tylko z jednym pasażerem. Było nim paskudne i bezmyślne stworzenie.",
+    "bel": "На Хіндарсф'яле Енэфер і Геральт даведаліся, што Цыры сапраўды вярнулася на астравы і далучылася да таямнічага мага. Ён на лодцы забраў дзяўчыну, і яны адплылі ў невядомае месца. Затым лодка вярнулася, але толькі з адным пасажырам. Гэта была агідная і неразумная істота."
+  },
+  "st_12_02": {
+    "en": "One of Skellige's jarls captured the poor beast, then sold it to a merchant from Novigrad.",
+    "ru": "Существо это попало в руки ярла, который продал его какому-то купцу в Новиграде.",
+    "pl": "Istota trafiła w ręce jarla, który sprzedał ją jakiemuś kupcowi w Novigradzie.",
+    "bel": "Гэта істота трапіла ў рукі ярла, які прадаў яе нейкаму купцу ў Навіградзе."
+  },
+  "st_13_01": {
+    "en": "His long search for Ciri led Geralt to conclude that Uma, the ugliest man alive and the victim of a curse, was the key to finding the young woman. Geralt needed to lift the curse, so he took Uma to the home of the world's greatest specialists on dark spells – to the witchers' fortress of Kaer Morhen.",
+    "ru": "Долгие поиски Цири привели Геральта к мысли, что ключом к разгадке тайны послужит Ума — самый отвратительный человек на свете, над которым тяготело загадочное проклятие. Проклятие следовало снять, поэтому Геральт взял Уму с собой туда, где жили самые лучшие знатоки злых чар — в ведьмачью крепость Каэр Морхен.",
+    "pl": "Długie poszukiwania Ciri doprowadziły Geralta do wniosku, że kluczem do znalezienia dziewczyny jest Uma – najbrzydszy człowiek na świecie, na którym ciążyła tajemnicza klątwa. Klątwę należało zdjąć, więc Geralt zabrał Umę w miejsce, w którym żyli najwięksi specjaliści od złych uroków – do wiedźmińskiej twierdzy Kaer Morhen.",
+    "bel": "Доўгія пошукі Цыры прывялі Геральта да высновы, што ключом, які дапаможа знайсці дзяўчыну з'яўляецца Ума – самы брыдкі чалавек у свеце, ахвяра таямнічага праклёну. Праклён належала зняць, таму Геральт забраў Уму туды, дзе жылі найлепшыя знаўцы злых заклёнаў – да вядзьмарскай крэпасці Каэр-Морэн."
+  },
+  "st_14_01": {
+    "en": "The curse that held Uma proved hard to lift, but Yennefer and the witchers managed to do it. The ugliest man alive revealed himself to be not man, but elf, and an elven Sage at that. Avallac’h – for this was his name – was the elven mage who had helped Ciri flee the Hunt, then hidden her away on the Isle of Mists.",
+    "ru": "Расколдовать Уму было нелегко, но это удалось благодаря общим усилиям Йеннифэр и всех ведьмаков. Оказалось, что самый отвратительный человек на свете — это вовсе не человек, а тот самый эльфский чародей, который сопровождал Цири во время её бегства от Дикой Охоты. Аваллак'х — под этим именем он был известен нашим героям — сообщил Геральту, что Цири находится в убежище на Острове Туманов.",
+    "pl": "Odczarowanie Umy nie było łatwe, ale powiodło się dzięki połączonym wysiłkom Yennefer i wszystkich wiedźminów. Okazało się, że najbrzydszy człowiek na świecie wcale nie jest człowiekiem, lecz owym elfim czarodziejem, który towarzyszył Ciri w ucieczce przed Dzikim Gonem. Avallac’h – bo pod takim mianem był znany – zdradził Geraltowi, że Ciri przebywa w ukryciu na Wyspie Mgieł.",
+    "bel": "Зняць праклён з Умы было нялёгка, але гэта атрымалася, дзякуючы аб'яднаным намаганням Енэфер і ўсіх ведзьмароў. Аказалася, што самы брыдкі чалавек у свеце з'яўляецца і не чалавекам нават, а эльфаўскім магам, які і суправаджаў Цыры падчас уцёкаў ад Дзікага палявання. Авалак'х – менавіта так яго звалі – паведаў Геральту, што Цыры знаходзіцца ва ўкрыцці на Востраве Туманаў."
+  },
+  "st_15_01": {
+    "en": "Geralt found Ciri at last – on the Isle of Mists, where the elven mage had concealed her. There was no time to rejoice, for the Wild Hunt descended on them. They fled, Ciri teleporting them to Kaer Morhen, where their friends awaited.",
+    "ru": "Наконец Геральт нашёл Цири на Острове Туманов — там, где оставил её эльфский чародей. Однако у них не было времени на долгие приветствия, поскольку до острова добралась Дикая Охота. Нужно было бежать, и Цири телепортировала себя и Геральта в Каэр Морхен, где их уже ждали друзья.",
+    "pl": "Nareszcie Geralt znalazł Ciri – na Wyspie Mgieł, tam, gdzie pozostawił ją elfi czarodziej. Nie było jednak czasu na długie powitania, bowiem na wyspę dotarł Dziki Gon. Trzeba było uciekać, więc Ciri teleportowała siebie i Geralta do Kaer Morhen, gdzie czekali przyjaciele.",
+    "bel": "Нарэшце Геральт знайшоў Цыры – на Востраве Туманаў, дзе яе пакінуў эльфаўскі маг. Аднак часу на доўгія прывітанні не было, бо на востраў прыбыло Дзікае паляванне. Давялося ўцякаць, таму Цыры тэлепартавала сябе і Геральта ў Каэр-Морэн, дзе чакалі сябры."
+  },
+  "st_15_02": {
+    "en": "The Wild Hunt arrived at Kaer Morhen soon after. A great battle ensued, and the fortress' defenders might all have perished had Ciri not demonstrated her powers. So sudden and violent was her outburst that the Wild Hunt was forced to withdraw. The battle was won, the war had barely started.",
+    "ru": "Всадники Дикой Охоты неотступно преследовали ведьмачку и достигли Каэр Морхена вскоре после неё. Разгорелась великая битва, которая окончилась бы смертью всех защитников крепости, если бы не внезапное проявление магической силы Цири. Дикой Охоте пришлось отступить, но до победы в войне было ещё далеко.",
+    "pl": "Wojownicy Dzikiego Gonu nieustępliwie ścigali wiedźminkę i dotarli do Kaer Morhen niedługo po niej. Rozgorzała wielka bitwa, która skończyłaby się śmiercią wszystkich obrońców, gdyby nie gwałtowna manifestacja magicznej mocy Ciri. Dziki Gon musiał się wycofać, ale wojna nie została jeszcze wygrana.",
+    "bel": "Вершнікі Дзікага палявання неадступна пераследавалі вядзьмарку і дабраліся да Каэр-Морэна неўзабаве пасля яе. Разгарэлася вялікая бітва, якая скончылася б гібеллю ўсіх абаронцаў, калі б не жорсткая праява магічнай сілы Цыры. Дзікаму паляванню давялося адступіць, але вайна яшчэ не была выйграна."
+  },
+  "st_19_01": {
+    "en": "After the battle of Kaer Morhen, the defenders licked their wounds and mourned their losses - save Ciri, who began to plan her revenge. She woke Geralt one night and urged him to travel with her to Velen, to the top of Bald Mountain, where she knew she'd find Imlerith. She had decided he had to die.",
+    "ru": "После битвы в Каэр Морхене, которая едва не закончилась смертью всех защитников крепости, Цири начала думать о мести предводителям Дикой Охоты. Однажды ночью она разбудила Геральта и убедила его отправиться в Велен. Цири знала, что на вершине Лысой горы она встретит Имлериха. Девушка собиралась его убить.",
+    "pl": "Po bitwie w Kaer Morhen, która nieomal zakończyła się śmiercią wszystkich obrońców, Ciri zaczęła myśleć o zemście na dowódcach Dzikiego Gonu. Pewnej nocy obudziła Geralta i przekonała go do wyprawy do Velen. Ciri wiedziała, że na Szczycie Łysej Góry spotka Imleritha. Postanowiła go zabić.",
+    "bel": "Пасля бітвы ў Каэр-Морэне, якая скончылася смерцю амаль усіх абаронцаў, Цыры пажадала адпомсціць верхаводам Дзікага палявання. Аднойчы ноччу яна разбудзіла Геральта і пераканала выправіцца ў Велен. Цыры ведала, што на вяршыні Лысай Гары яна знойдзе Імлерыха, якога вырашыла забіць."
+  },
+  "st_19_02": {
+    "en": "Her plan proved sound. On Bald Mountain Geralt and Ciri killed Imlerith and two of the Crones. Spurred by their success, they resolved to challenge Eredin.",
+    "ru": "Совместная эскапада закончилась успешно. На Лысой горе сгинул не только Имлерих, но и две из трёх ведьм. Окрылённые успехом, Геральт и Цири решили бросить вызов Эредину.",
+    "pl": "Wspólna eskapada zakończyła się sukcesem. Na Łysej Górze zginął nie tylko Imlerith, ale i dwie z trzech wiedźm. Zachęceni sukcesem Geralt i Ciri postanowili rzucić wyzwanie Eredinowi.",
+    "bel": "Сумесная эскапада скончылася поспехам. На Лысай Гары загінуў не толькі Імлерых, але і дзве з трох ведзьм. Натхнёныя сваім поспехам, Геральт і Цыры вырашылі кінуць выклік Эрэдыну."
+  },
+  "st_1_01": {
+    "en": "This bard's tale begins near White Orchard, with my dear friend Geralt of Rivia seeking his lover of yore – the sorceress Yennefer. She'd eluded him for years but now seemed just a few steps ahead.",
+    "ru": "В поисках Йеннифэр, своей давней любви, Геральт очутился в окрестностях деревни Белый Сад. Казалось, что чародейка опережает ведьмака лишь на шаг, и всё же она оставалась неуловимой.",
+    "pl": "W poszukiwaniu Yennefer, swej dawnej miłości, Geralt trafił w pobliże wsi Biały Sad. Zdawało się, że czarodziejka wyprzedza wiedźmina tylko o krok, ale cały czas pozostawała nieuchwytna.",
+    "bel": "У пошуках Енэфер, якую даўно кахаў, Геральт трапіў у аколіцы вёскі Белы Сад. Здавалася, што чарадзейка апярэджвала ведзьмара толькі на крок, але яна так і заставалася няўлоўнай."
+  },
+  "st_1_02": {
+    "en": "After many trials and tribulations, Geralt finally learned that Yen was in nearby Vizima.",
+    "ru": "В конце концов, благодаря коменданту нильфгаардского гарнизона, Геральт узнал, что Йеннифэр находится совсем рядом — в Вызиме.",
+    "pl": "W końcu, dzięki komendantowi nilfgaardzkiego garnizonu, Geralt dowiedział się, że Yennefer przebywa w Wyzimie.",
+    "bel": "Нарэшце, дзякуючы каменданту нільфгаардскага гарнізона, Геральт даведаўся, што Енэфер знаходзіцца ў Вызіме."
+  },
+  "st_20_01": {
+    "en": "Geralt had to face Eredin but could only hope to beat him with the help of friends. The Wild Hunt could be defeated with exceptionally powerful magic. So Triss and Yen set out to reconvene the Lodge of Sorceresses. Avallac'h, too, began to lay plans of his own.",
+    "ru": "Геральт объявил войну Эредину, но выиграть её он мог только с помощью друзей. Для победы над Дикой Охотой необходима была могущественная магия, поэтому Трисс и Йеннифэр начали собирать рассеянную Ложу чародеек. В это время Аваллак'х готовил свой собственный план.",
+    "pl": "Geralt wydał wojnę Eredinowi, ale mógł ją wygrać tylko z pomocą przyjaciół. Do pokonania Dzikiego Gonu potrzebna była potężna magia, więc Triss i Yennefer zaczęły jednoczyć rozbitą Lożę Czarodziejek. W tym czasie Avallac’h szykował swój własny plan.",
+    "bel": "Геральт аб'явіў вайну Эрэдыну, але выйграць яе мог толькі з дапамогай сваіх сяброў. Каб перамагчы Дзікае паляванне, патрэбна была магутная магія, таму Трыс і Енэфер пачалі аб'ядноўваць разбураную Ложу чарадзеек. Тым часам Авалак'х рыхтаваў свой уласны план."
+  },
+  "st_20_02": {
+    "en": "The elven Sage decided to erode the King of the Hunt's support in his own realm. With Geralt in tow, he ventured through other worlds to the city of Tir nà Lia. There, they found Eredin's viceroy, Ge'els.",
+    "ru": "Эльфский Знающий собирался лишить короля Дикой Охоты поддержки в его собственном королевстве. Вместе с Геральтом он отправился в путешествие по иным мирам, чтобы попасть в город Тир на Лиа, где находилась резиденция Ге'эльса, наместника Эредина.",
+    "pl": "Elfi Wiedzący postanowił odciąć Króla Dzikiego Gonu od wsparcia w jego własnym królestwie. Wraz z Geraltem wyruszył na wyprawę przez inne światy, do miasta Tir na Lia, gdzie urzędował Ge’els, namiestnik Eredina.",
+    "bel": "Эльфаўскі Пасвячоны збіраўся пазбавіць Караля Дзікага палявання падтрымкі ў яго ўласным каралеўстве. Разам з Геральтам ён адправіўся ў экспедыцыю па іншых светах, да горада Тыр-на-Лія, дзе знаходзіўся двор Гэ'эльса, намесніка Эрэдына."
+  },
+  "st_20_03": {
+    "en": "Ge’els had been a loyal subject of the Alder Folk's previous king. When he learned Eredin was a regicide, he agreed to help defeat the usurper.",
+    "ru": "Ге'эльс был преданным сторонником прежнего властителя Народа Ольх. Узнав, что Эредин виновен в убийстве прежнего короля, он обещал помочь Аваллак'ху в победе над узурпатором.",
+    "pl": "Ge’els był lojalnym zwolennikiem poprzedniego władcy Ludu Olch. Gdy dowiedział się, że Eredin dopuścił się królobójstwa, obiecał pomóc w pokonaniu uzurpatora.",
+    "bel": "Гэ'эльс быў адданым паплечнікам папярэдняга ўладара Народа Вольхаў. Даведаўшыся, што гэта Эрэдын здзейсніў царазабойства, ён паабяцаў дапамагчы адолець узурпатара."
+  },
+  "st_22_01": {
+    "en": "The King of the Wild Hunt sailed aboard the Naglfar, a giant longship that traveled between worlds. As Ge’els had advised, the witcher set out to find the Sunstone – an artifact needed to draw Eredin into a trap.",
+    "ru": "Король Дикой Охоты находился на палубе Нагльфара, огромного корабля, способного путешествовать между мирами. По совету Ге'эльса ведьмак отправился в путешествие за Солнечным камнем — артефактом, необходимым, чтобы завлечь Эредина в ловушку.",
+    "pl": "Król Dzikiego Gonu przebywał na pokładzie Naglfara, ogromnego okrętu zdolnego podróżować między światami. Zgodnie z radą Ge’elsa wiedźmin ruszył na wyprawę po Słoneczny Kamień – artefakt potrzebny do ściągnięcia Eredina w pułapkę.",
+    "bel": "Кароль Дзікага палявання знаходзіўся на палубе вялізнага карабля Нагльфар, здольнага падарожнічаць паміж светамі. Па парадзе Гэ'эльса вядзьмар адправіўся ў падарожжа па Сонечны Камень – артэфакт, неабходны, каб заманіць Эрэдына ў пастку."
+  },
+  "st_22_02": {
+    "en": "Using the Sunstone, the sorceresses of the Lodge summoned the Naglfar to a bay on the isle of Undvik. Thus began the last, decisive battle against the Hunt.",
+    "ru": "Воспользовавшись Солнечным камнем, чародейки призвали Нагльфар в залив у острова Ундвик. Началось последнее, решающее сражение с Дикой Охотой.",
+    "pl": "Posługując się Słonecznym Kamieniem, czarodziejki wezwały Naglfar do zatoki na wyspie Undvik. Rozpoczęła się ostatnia, decydująca bitwa z Dzikim Gonem.",
+    "bel": "Скарыстаўшыся Сонечным Каменем, чарадзейкі выклікалі Нагльфар у заліў ля вострава Ундвік. Распачалася апошняя, вырашальная бітва з Дзікім паляваннем."
+  },
+  "st_23_01": {
+    "en": "The King of the Wild Hunt lay defeated. As to Ciri with her exceptional gift, her story was hardly done. The sorceresses helped the witcher determine that Ciri and Avallac’h were somewhere on Undvik. Geralt and Yennefer set out to find them.",
+    "ru": "Король Дикой Охоты был побеждён, но история Цири и её необычайного дара ещё не окончилась. Благодаря помощи чародеек ведьмак установил, что Цири и Аваллак'х находятся где-то на острове Ундвик. Геральт и Йеннифэр отправились на поиски.",
+    "pl": "Król Dzikiego Gonu został pokonany, ale historia Ciri i jej niezwykłego daru jeszcze się nie skończyła. Dzięki pomocy czarodziejek wiedźmin ustalił, że Ciri i Avallac’h są gdzieś na wyspie Undvik. Geralt i Yennefer wyruszyli na poszukiwania.",
+    "bel": "Кароль Дзікага палявання быў пераможаны, але гісторыя Цыры і яе незвычайнага дару яшчэ не скончылася. Дзякуючы дапамозе чарадзеек вядзьмар высветліў, што Цыры і Авалак'х знаходзяцца недзе на востраве Ундвік. Геральт і Енэфер адправіліся на пошукі."
+  },
+  "st_23_02": {
+    "en": "Eredin's last words proved a lie. Avallac’h and Ciri had gone together, he as her mentor, to a portal that had opened within Tor Gvalch'ca, Falka's Tower. Ciri entered the tower, prepared to use her powers to end a danger once and for all, to save all worlds from eradication in the grip of the White Frost.",
+    "ru": "Последние слова Эредина всё-таки оказались ложью. Аваллак'х не похищал Цири. Он лишь сопровождал её как наставник в путешествии к порталу в башне Тор Гвалх'ка. Цири вошла внутрь, чтобы воспользоваться своей силой и раз и навсегда избавить существующие миры от гибели, которую нёс им Белый Холод.",
+    "pl": "Ostatnie słowa Eredina okazały się jednak kłamstwem. Avallac’h nie uprowadził Ciri. Towarzyszył jej tylko, jako mentor, w wyprawie do portalu we wnętrzu wieży Tor Gvalch'ca. Ciri weszła do środka, by użyć swojej mocy i raz na zawsze uratować wszystkie światy przed zagładą ze strony Białego Zimna.",
+    "bel": "Апошнія словы Эрэдына ўсё ж такі аказаліся хлуснёй. Авалак'х не выкрадаў Цыры. Ён толькі суправаджаў яе як настаўнік у падарожжы да партала ў Tor Gvalch'ca. Цыры ўвайшла ўнутр, каб скарыстацца сваёй сілай, і назаўсёды пазбавіць існуючыя светы ад гібелі, якую несла ім Белая Стынь."
+  },
+  "st_2_01": {
+    "en": "Geralt and Yennefer were reunited. But something even more important happened in Vizima. Geralt learned that Cirilla, his one-time ward, had returned from afar – and she was in danger. He was to find her – at the emperor's command and Yennefer's behest.",
+    "ru": "Встреча с Йеннифэр оказалась не самым важным событием во время пребывания Геральта в Вызиме. Геральт узнал, что его подопечная, Цири, вернулась из долгого путешествия и ей грозит опасность. По приказу императора и по просьбе Йеннифэр Геральт отправился на поиски Цири.",
+    "pl": "Spotkanie z Yennefer nie było najważniejszym wydarzeniem pobytu Geralta w Wyzimie. Wiedźmin dowiedział się, że jego podopieczna Ciri wróciła z długiej podróży i jest w niebezpieczeństwie. Z rozkazu cesarza i na prośbę Yennefer Geralt wyruszył na poszukiwania Ciri.",
+    "bel": "Сустрэча з Енэфер была не самай важнай падзеяй падчас знаходжання Геральта ў Вызіме. Вядзьмар даведаўся, што яго падапечная, Цыры, вярнулася з доўгага падарожжа, і цяпер яна ў небяспецы. Па загадзе імператара і па просьбе Енэфер Геральт выправіўся на пошукі Цыры."
+  },
+  "st_3_01": {
+    "en": "The witcher's contact in Velen was to be Hendrik, the emperor's spy. Hendrik was operating incognito in that war-ravaged land. His mission – to gather intelligence about Ciri.",
+    "ru": "В Велене ведьмак должен был встретиться с нильфгаардским агентом по имени Гендрик, который пребывал в этом опустошённом войной краю инкогнито. Его основным заданием был сбор сведений о Цири.",
+    "pl": "Kontaktem wiedźmina w Velen był nilfgaardzki agent o imieniu Hendrik, który przebywał incognito gdzieś w owej spustoszonej wojną krainie. Jego głównym zadaniem było zbieranie informacji o Ciri.",
+    "bel": "Інфарматарам ведзьмара ў Велене быў нільфгаардскі агент па імені Хендрык, які знаходзіўся інкогніта ў гэтым спустошаным вайной краі. Яго галоўным заданнем было збіраць інфармацыю пра Цыры."
+  },
+  "st_3_02": {
+    "en": "Yet Geralt arrived too late – the Wild Hunt had reached Hendrik first. The witcher learned nothing from the spy's corpse, but the wraiths had failed to find his notes. Geralt read them and knew that Ciri had been a guest of the Bloody Baron, a local warlord, and that she'd quarreled with a witch.",
+    "ru": "Однако Геральт не смог добраться до Гендрика — его опередила Дикая Охота. На месте ведьмак обнаружил только тело агента. К счастью, призрачные всадники не добрались до его заметок. Прочитав их, ведьмак узнал, что Цири гостила у хозяина этих мест, Кровавого Барона, и повздорила с какой-то ведьмой.",
+    "pl": "Geralt nie zdołał jednak dotrzeć do Hendrika - wyprzedził go Dziki Gon.  Na miejscu wiedźmin znalazł tylko trupa agenta, szczęśliwie upiorni jeźdźcy nie dotarli do jego notatek. Z ich lektury wiedźmin dowiedział się, że Ciri gościła u lokalnego możnowładcy – Barona i zadarła z jakąś wiedźmą.",
+    "bel": "Аднак Геральт не змог дабрацца да Хендрыка – Дзікае паляванне апярэдзіла яго. На месцы вядзьмар знайшоў толькі труп агента, да запісаў якога Дзікае паляванне, балазе, не дабралася. З тых запісаў вядзьмар даведаўся, што Цыры гасцявала ў гаспадара тых месцаў – Барона – а таксама пасварылася з нейкай ведзьмай."
+  },
+  "st_4_01": {
+    "en": "While searching for the witch Ciri had quarreled with, Geralt ran into an old friend – Keira Metz. The sorceress told the witcher about a masked mage. Ciri, it seemed, had taken shelter in his hideout. The witcher set off to find it, with Keira in tow.",
+    "ru": "В поисках ведьмы, с которой у Цири случилась размолвка, Геральт встретил старую знакомую, Кейру Мец. Чародейка рассказала ведьмаку о таинственном маге, в убежище которого могла скрываться Цири. Ведьмак отправился туда в компании Кейры.",
+    "pl": "Szukając wiedźmy, z którą Ciri miała na pieńku, Geralt spotkał starą znajomą – Keirę Metz. Czarodziejka opowiedziała wiedźminowi o zamaskowanym czarodzieju, w którego kryjówce miała schronić się Ciri. Wiedźmin wyruszył tam w towarzystwie Keiry.",
+    "bel": "Шукаючы ведзьму, з якой не паладзіла Цыры, Геральт сустрэў даўнюю знаёмую – Кайру Мец. Чарадзейка расказала ведзьмару пра таямнічага мага, у сховішчы якога Цыры магла ўкрыцца. Вядзьмар выправіўся туды ў кампаніі Кайры."
+  },
+  "st_4_02": {
+    "en": "Ciri had never reached the elven mage – yet the Wild Hunt had. The ghostly retinue was one step ahead of Geralt, or so it seemed. The witcher felt that all was lost, until Keira gave him a new lead – the Crones of Crookback Bog.",
+    "ru": "Цири так и не попала к эльфскому чародею. Зато туда добралась Дикая Охота, которая всё ещё опережала Геральта. Когда казалось, что всё пропало, Кейра навела ведьмака на новый след: она рассказала ему о ведьмах с Кривоуховых топей.",
+    "pl": "Ciri nigdy nie trafiła do elfiego czarodzieja – dotarł tam za to Dziki Gon, który wciąż wyprzedzał Geralta. Gdy zdawało się, że wszystko stracone, Keira wskazała wiedźminowi nowy trop – powiedziała mu o wiedźmach z Krzywuchowych Moczarów.",
+    "bel": "Цыры так і не трапіла да эльфаўскага мага – яго знайшло Дзікае паляванне, якое ўсё яшчэ апярэджвала Геральта. Калі здавалася, што ўсяму канец, Кайра дала ведзьмару новую падказку – расказала пра ведзьм з Крывуховай Багны."
+  },
+  "st_5_01": {
+    "en": "While in Crookback Bog, Ciri had happened on the Crones. The beastly sisters took her in, then wavered, unsure if they should eat her or surrender her to the Wild Hunt. Ciri escaped before they could decide. Pursued by a spectral rider, she had fled into the swamp – where Geralt lost her trail once more. He now needed a new lead.",
+    "ru": "Скитаясь по Кривоуховым топям, Цири наткнулась на зловещих ведьм. Отвратительные сёстры колебались, стоит ли им сожрать девушку или выдать Дикой Охоте. Однако Цири удалось от них бежать. Преследуемая призрачным всадником Охоты, она бежала в глубь болот, где Геральт потерял её след. Ему предстояло искать новые зацепки.",
+    "pl": "Podczas wędrówki przez Krzywuchowe Moczary, Ciri natknęła się na złowrogie wiedźmy. Potworne siostry wahały się, czy pożreć dziewczynę, czy wydać ją Dzikiemu Gonowi, jednak Ciri w końcu udało się uciec. Ścigana przez jednego z upiornych jeźdźców, pobiegła w głąb bagien – i tam Geralt zgubił jej ślad. Musiał szukać nowych tropów.",
+    "bel": "Блукаючы па Крывуховай Багне, Цыры напаткала злавесных ведзьм. Пачварныя сёстры вагаліся, ці зжэрці дзяўчыну, ці аддаць яе Дзікаму паляванню, але Цыры нарэшце здолела ўцячы. Пад пераследам аднаго з прывідных вершнікаў яна пабегла ўглыб балот – і там Геральт згубіў яе след. Яму давялося шукаць новыя падказкі."
+  },
+  "st_6_01": {
+    "en": "Wounded and tired, Ciri collapsed in the swamp. Some peasants found her and took her to the baron, Velen's self-appointed ruler. The warlord took the young woman in, had her nursed back to health, and sent her on her way to Novigrad.",
+    "ru": "Истощённую и раненую Цири нашли на болотах крестьяне. Они отвели её к барону, самозваному владыке Велена. Барон позаботился о девушке, и когда та набралась сил, снарядил её в Новиград.",
+    "pl": "Wyczerpaną i ranną Ciri znaleźli na bagnach chłopi. Zaprowadzili ją do Barona, samozwańczego władcy Velen. Baron zaopiekował się dziewczyną i gdy ta wróciła do zdrowia, wyprawił ją do Novigradu.",
+    "bel": "Знясіленую і параненую Цыры знайшлі на балотах сяляне. Яны прывялі дзяўчыну да Барона, самазванага ўладара Велена. Барон праявіў клопат і калі Цыры ачуняла, адправіў яе ў Навіград."
+  },
+  "st_7_01": {
+    "en": "As the emperor's spies told it, Ciri had reached Novigrad. A lone attempt to find her in the North's largest city would certainly fail. But Geralt had friends he could count on. The witcher decided to contact Triss Merigold.",
+    "ru": "Согласно сведениям имперской разведки, Цири добралась до Новиграда. Искать девушку в самом большом городе Севера было всё равно что попытаться найти иголку в стоге сена. Но Геральт мог рассчитывать на помощь друзей. Ведьмак решил связаться с Трисс Меригольд.",
+    "pl": "Wedle informacji cesarskiego wywiadu, Ciri trafiła do Novigradu. Próba odnalezienia jej w największej metropolii Północy była jak szukanie igły w stogu siana, ale Geralt mógł liczyć na pomoc przyjaciół. Wiedźmin postanowił skontaktować się z Triss Merigold.",
+    "bel": "Паводле даных імперскай выведкі, Цыры дабралася да Навіграда. Шукаць яе ў найбуйнейшым горадзе Поўначы было ўсё роўна што шукаць іголку ў стозе сена, але Геральт мог разлічваць на дапамогу сяброў. Вядзьмар вырашыў звязацца з Трыс Мэрыголд."
+  },
+  "st_8_01": {
+    "en": "Triss could not help Geralt. Yet she did direct him to Corinne Tilly – an oneiromancer and an expert at finding the lost and the missing.",
+    "ru": "Трисс не сумела помочь Геральту, но направила его к Корине Тилли, онейромантке, которая преуспела в розыске пропавших.",
+    "pl": "Triss nie potrafiła pomóc Geraltowi, ale skierowała go do Corine Tilly – onejromantki, która zajmowała się odnajdywaniem zaginionych.",
+    "bel": "Трыс не здолела дапамагчы Геральту, але накіравала яго да Корын Тылі – анейраманткі, якая мела поспехі ў адшукванні зніклых."
+  },
+  "st_8_02": {
+    "en": "Guided by Corinne Tilly, the witcher had a dream. In it, Ciri and I, the bard Dandelion, were reunited. Geralt now knew that to find Ciri he would first need to find his dear old friend.",
+    "ru": "Благодаря онейромантке Корине Тилли ведьмак увидел, как Цири встречается со мной, то есть с Лютиком. Так Геральт узнал, что если он хочет найти Цири, то должен сперва отыскать старого друга.",
+    "pl": "Onejromantka Corine Tilly sprawiła, że wiedźmin wyśnił spotkanie Ciri ze mną, czyli z Jaskrem. Geralt wiedział więc, że jeśli chce odnaleźć Ciri, musi najpierw odszukać starego przyjaciela.",
+    "bel": "З дапамогай анейраманткі Корын Тылі вядзьмар убачыў, як Цыры сустрэлася са мной, то бок Казяльцом. Так Геральт высветліў, што калі ён хоча знайсці Цыры, то спачатку трэба адшукаць старога сябра."
+  },
+  "st_9_01": {
+    "en": "But finding me proved no simple task, for having fallen afoul of Novigrad's underworld bosses, I'd disappeared.",
+    "ru": "Однако найти меня было непросто, поскольку, как узнал ведьмак, я перешёл дорогу воротилам новиградского преступного мира — и исчез.",
+    "pl": "Jednak znalezienie mnie nie było proste, albowiem, jak dowiedział się wiedźmin, zadarłem z szefami novigradzkiego półświatka przestępczego i zniknąłem.",
+    "bel": "Аднак знайсці мяне было няпроста, паколькі, як даведаўся вядзьмар, я штосьці не падзяліў з верхаводамі навіградскага злачыннага свету і знік."
+  },
+  "st_9_02": {
+    "en": "Yet Geralt soon discovered my whereabouts – a cell in the dungeon of the Temple Guard.",
+    "ru": "В конце концов Геральт выяснил, что я попал в застенки Храмовой стражи.",
+    "pl": "Geralt odkrył w końcu, że trafiłem do lochów straży świątynnej.",
+    "bel": "Нарэшце Геральт высветліў, што я трапіў у сутарэнні Храмавай Варты."
+  },
+  "st_9_03": {
+    "en": "With the help of our friends, Geralt managed to free me. Good thing, too, for indeed I knew what had happened to Ciri. Sadly, she was no longer in Novigrad. Pursued by bandits, then cornered by the Temple Guard, she had disappeared in a flash of light and a gust of heat. Where to? This I did not know.",
+    "ru": "С помощью друзей Геральт в конце концов сумел освободить меня и правильно сделал, потому что я знал, что случилось с Цири. К сожалению, девушки уже не было в городе. Спасаясь от преследования громил, а затем попав в окружение Храмовой стражи, Цири вынуждена была телепортироваться. Куда она попала? Этого я тогда ещё не знал.",
+    "pl": "Wspólnie z przyjaciółmi Geralt zdołał w końcu uwolnić mnie, i dobrze zrobił, bo wiedziałem, co stało się z Ciri. Niestety, dziewczyny nie było już w mieście. Ścigana przez grupę zbirów, a potem osaczona przez straż świątynną, musiała się teleportować. Gdzie trafiła? Tego wówczas nie wiedziałem.",
+    "bel": "З дапамогай сяброў Геральту нарэшце ўдалося вызваліць мяне, і вельмі дарэчы, бо я ведаў, што здарылася з Цыры. На жаль, дзяўчыны ўжо не было ў горадзе. Пад пераследам групы бандытаў, а потым загнаная ў кут Храмавай Вартай, яна мусіла тэлепартавацца. Куды яна трапіла? Я тады яшчэ не ведаў."
+  }
+}
