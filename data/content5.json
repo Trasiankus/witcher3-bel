@@ -46001,6 +46001,306 @@
     "pl": "Słyszałeś, że Svan Samotnik znowu wygrał wyścig? Mimo że w trakcie gonitwy koń mu okulał!",
     "bel": "Чуў? Сван Самотнік зноў выйграў скачкі. Хаця ягоны конь падкову страціў!"
   },
+  "1022336_00000000": {
+    "en": "He'd finish first were he to ride a hobbled goat. Backwards!",
+    "ru": "Он бы и на козле первым доскакал. Задом!",
+    "pl": "On to i na koźle by pierwszy dojechał. Tyłem!",
+    "bel": "Ён бы і на казле першым даскакаў. Задам!"
+  },
+  "569128_00000000": {
+    "en": "Knew there'd be trouble. It was all too calm.",
+    "ru": "Я знала, что что-то случится. Было слишком спокойно.",
+    "pl": "Czułam, że zanosi się na kłopoty. Było za spokojnie.",
+    "bel": "Я ведала, што нешта здарыцца. Было занадта спакойна."
+  },
+  "1070360_00000000": {
+    "en": "Funny. Arnvald said the same. For a feast to be any good, mead's gotta flow, but so does blood.",
+    "ru": "Забавно. Арнвальд тоже так сказал. На добром пиру и мёд, и кровь должны литься струёй.",
+    "pl": "Zabawne. To samo powiedział Arnvald. Że na dobrej uczcie i krew, i miód powinny się lać strumieniami.",
+    "bel": "Пацешна. Арнвальд таксама так сказаў. На добрым балі і мёд, і кроў павінны ліцца ракой."
+  },
+  "1070362_00000000": {
+    "en": "Might say he got his wish.",
+    "ru": "Его пожелание исполнилось…",
+    "pl": "Życzenie się spełniło...",
+    "bel": "Ягонае жаданне споўнілася."
+  },
+  "1022759_00000000": {
+    "en": "Oh, that lighthouse puts me in a right fury… If only it were somethin' different - a troll, a chort, a griffin even!",
+    "ru": "Сил моих нет… Если бы на этом нашем маяке тролль завёлся, чёрт или грифон даже!",
+    "pl": "Szlag mnie trafia... Żeby przy tej naszej latarni troll się zalągł, czart, gryf nawet!",
+    "bel": "Каб мяне распярэзала… Калі б на гэтым нашым маяку троль завёўся, чорт ці грыфон нават!"
+  },
+  "1049890_00000000": {
+    "en": "We'd call together some lads, grab our swords and cut the beast to pieces!",
+    "ru": "Собрали бы пару мужиков, взяли бы мечи да изрубили бестию на кусочки.",
+    "pl": "Skrzyknęłoby się paru chłopa, wzięło miecze i porąbało bestię na kawałki!",
+    "bel": "Сабралі б пару мужыкоў, узялі б мячы ды пасеклі бестыю на кавалачкі!"
+  },
+  "1022765_00000000": {
+    "en": "But how're we to fight a wraith? No steel will wound it. No armor will protect ye from it!",
+    "ru": "А с призраком как сражаться? Железом его не ранишь. Никакие доспехи от него не защитят!",
+    "pl": "Ale jak z upiorem walczyć? Żelazem go nie zranisz. Żadna zbroja cię przed nim nie ochroni!",
+    "bel": "А з прывідам як змагацца? Жалезам яго не параніш. Ніякія даспехі ад яго не абароняць!"
+  },
+  "1049893_00000000": {
+    "en": "They say it takes silver to defeat a ghost… that or magic.",
+    "ru": "Говорят, духа только серебром можно победить… Или чарами.",
+    "pl": "Mówią, że ducha tylko srebrem można pokonać... Albo czarami.",
+    "bel": "Кажуць, прывіда толькі срэбрам можна перамагчы... Або чарамі."
+  },
+  "1023227_00000000": {
+    "en": "That pain is normal. You're sixty years old, Oyvind. It's time you took it easier.",
+    "ru": "Так это нормально, что болит. Тебе шестьдесят, Ойвинд. Пора уже силы-то беречь…",
+    "pl": "To normalne, że boli. Masz sześćdziesiąt lat, Oyvind. Pora zacząć się oszczędzać.",
+    "bel": "Дык гэта нармальна, што баліць. Табе шэсцьдзесят, Ойвінд. Час ужо сілы берагчы."
+  },
+  "1023229_00000000": {
+    "en": "Would ye have me lie down in me grave? Stop fartin' out your mouth, Roald, and give me somethin' for me back.",
+    "ru": "Так что, может, мне сразу в могилу лечь? Не трепи языком, Руал, и дай мне что-нибудь от этой спины.",
+    "pl": "I co, może od razu do grobu się położyć? Przestań pieprzyć, Roald, i daj coś na ten bark.",
+    "bel": "Дык што, можа, мне цяпер у труну лягаць? Не мяці языком, Роалд, і дай мне што-небудзь ад гэтай спіны."
+  },
+  "577828_00000000": {
+    "en": "You did well.",
+    "ru": "Ты хорошо себя показала.",
+    "pl": "Dobrze się spisałaś.",
+    "bel": "Ты добра сябе праявіла."
+  },
+  "583663_00000000": {
+    "en": "Thought you'd be sulkin'.",
+    "ru": "Я думала, ты будешь дуться.",
+    "pl": "Myślałam, że będziesz się boczył.",
+    "bel": "Я думала, ты будзеш дзьмуцца."
+  },
+  "583665_00000000": {
+    "en": "Why would I? Showed 'em that even the lasses of Clan an Craite are fit to take the throne.",
+    "ru": "Зачем же? Ты показала, что у ан Крайтов даже бабы достойны трона.",
+    "pl": "Niby czemu? Pokazałaś, że u an Craite nawet baby są godne tronu.",
+    "bel": "Навошта? Ты паказала, што ў ан Крайтэ нават бабы годныя трона."
+  },
+  "583667_00000000": {
+    "en": "But I beat you.",
+    "ru": "Но я тебя победила.",
+    "pl": "Ale cię pokonałam.",
+    "bel": "Але я цябе перамагла."
+  },
+  "583669_00000000": {
+    "en": "If it had to be so, I'm glad it were you and not someone else.",
+    "ru": "Если кому-то суждено меня победить, пусть лучше это будешь ты, чем кто-нибудь ещё.",
+    "pl": "Jeśli ktoś miał mnie pokonać, to wolę, żebyś to była ty niż ktokolwiek inny.",
+    "bel": "Калі камусьці наканавана мяне перамагчы, няхай лепш гэта будзеш ты, чым хто-небудзь іншы."
+  },
+  "577829_00000000": {
+    "en": "You're an idiot as a brother, but you'll make a good king…",
+    "ru": "Ты, конечно, глупый брат, но из тебя выйдет добрый король.",
+    "pl": "Może głupi z ciebie brat, ale będziesz dobrym królem...",
+    "bel": "Ты, вядома, дурны брат, але з цябе выйдзе добры кароль…"
+  },
+  "583691_00000000": {
+    "en": "I will.",
+    "ru": "Угу.",
+    "pl": "Będę.",
+    "bel": "Так."
+  },
+  "583693_00000000": {
+    "en": "And I'm countin' on you bein' at my side when we set out against Nilfgaard.",
+    "ru": "Надеюсь, когда мы пойдём на Нильфгаард, ты встанешь рядом со мной.",
+    "pl": "I liczę, że kiedy ruszymy na Nilfgaard, staniesz u mego boku.",
+    "bel": "Спадзяюся, калі мы пойдзем на Нільфгаард, ты ўстанеш побач са мной."
+  },
+  "583695_00000000": {
+    "en": "Won't you feel silly? Goin' into battle arm in arm with a woman?",
+    "ru": "И ты не будешь чувствовать себя глупо? Идти в бой плечом к плечу с бабой?",
+    "pl": "Nie będzie ci głupio? Iść w bój ramię w ramię z babą?",
+    "bel": "І ты не будзеш адчуваць сябе недарэчна? Ісці ў бой плячом да пляча з бабай?"
+  },
+  "583697_00000000": {
+    "en": "With my sis, of clan an Craite. Bravest lass the Isles ever made.",
+    "ru": "С сестрой из рода ан Крайт. Самой отважной девушкой из всех, кого рождали Острова.",
+    "pl": "Z siostrą, z rodu an Craite. Najodważniejszą, jaką wydały wyspy.",
+    "bel": "З сястрой з роду ан Крайтэ. Самай адважнай дзяўчынай з усіх, каго нараджалі Астравы."
+  },
+  "585379_00000000": {
+    "en": "We can go. Is it far?",
+    "ru": "Можем отправляться. Это далеко?",
+    "pl": "Możemy ruszać. To daleko?",
+    "bel": "Можам адпраўляцца. Гэта далёка?"
+  },
+  "585380_00000000": {
+    "en": "Nah, a stone's throw. Let's gather the lads and go in. We'll know soon if there's truth to the legends!",
+    "ru": "Не, на полёт камня. Соберём только остальных ребят — и пойдём. Посмотрим, сколько правды в легендах!",
+    "pl": "Nie, rzut kamieniem. Zbierzemy tylko resztę chłopaków i wchodzimy. Okaże się, ile jest prawdy w legendach!",
+    "bel": "Не, на палёт камня. Збярэм толькі рэшту хлопцаў - і пойдзем. Паглядзім, колькі праўды ў легендах!"
+  },
+  "585377_00000000": {
+    "en": "We can go.",
+    "ru": "Можем отправляться.",
+    "pl": "Możemy ruszać.",
+    "bel": "Можам ісці."
+  },
+  "1001537_00000000": {
+    "en": "So, will you finally say why you've come?",
+    "ru": "Ты скажешь наконец, зачем припёрся?",
+    "pl": "No powiedz wreszcie, po co tu przylazłeś!",
+    "bel": "Ты скажаш нарэшце, навошта прыпёрся?"
+  },
+  "585339_00000000": {
+    "en": "Know the last time I had a Continental on me ship?",
+    "ru": "Ты знаешь, когда на моём драккаре в последний раз были люди с Большой земли?",
+    "pl": "Wiesz, kiedy ostatnio miałem na drakkarze kogoś z kontynentu?",
+    "bel": "Ты ведаеш, калі на маім дракары ў апошні раз былі людзі з кантыненту?"
+  },
+  "585340_00000000": {
+    "en": "No.",
+    "ru": "Не знаю.",
+    "pl": "Nie.",
+    "bel": "Не."
+  },
+  "585341_00000000": {
+    "en": "When I hauled prisoners from Velen to the slave market in Nazair.",
+    "ru": "Когда я вёз пленников из Велена на невольничий рынок в Назаире.",
+    "pl": "Jak wiozłem jeńców z Velen na targ niewolników w Nazairze.",
+    "bel": "Калі я вёз палонных з Велена на нявольніцкі рынак у Назаіры."
+  },
+  "594077_00000000": {
+    "en": "Now tell me why you're here.",
+    "ru": "Говори, зачем припёрся.",
+    "pl": "Mów, po coś przylazł.",
+    "bel": "Кажы, навошта прыпёрся."
+  },
+  "585343_00000000": {
+    "en": "Want to hire a witcher?",
+    "ru": "Не хочешь нанять ведьмака?",
+    "pl": "Nie chcesz wynająć wiedźmina?",
+    "bel": "Хочаш наняць вядзьмара?"
+  },
+  "585349_00000000": {
+    "en": "Any chance you got work for a witcher?",
+    "ru": "Ты случаем не хочешь нанять ведьмака?",
+    "pl": "Nie chcesz przypadkiem wynająć wiedźmina?",
+    "bel": "Раптам ты хочаш наняць вядзьмара?"
+  },
+  "585350_00000000": {
+    "en": "Any chance you want to swim to Spikeroog? Hey, lads! Strip 'im bare, toss 'im overboard!",
+    "ru": "А ты не хочешь сплавать на Спикероог? Эй, ребята! Раздеть его и в воду!",
+    "pl": "A ty nie chcesz się przepłynąć wpław na Spikeroog? Ej, chłopaki! Rozebrać go i do wody!",
+    "bel": "А ты не хочаш сплаваць на Спікерог? Гэй, хлопцы! Распрануць яго і ў ваду!"
+  },
+  "585351_00000000": {
+    "en": "Wait. Heard you're headed for the Cave of Dreams. Sure you can't use another sword or two?",
+    "ru": "Подожди. Я слышал, ты идёшь к Пещере Снов. Может, тебе пригодится лишний меч, или даже два?",
+    "pl": "Czekaj. Słyszałem, że idziesz do Jaskini Snów. Nie przyda ci się dodatkowy miecz – albo nawet dwa?",
+    "bel": "Пачакай. Я чуў, ты ідзеш да Пячоры Сноў. Можа, табе спатрэбіцца меч, ці нават два?"
+  },
+  "585352_00000000": {
+    "en": "Give us a dozen griffins and a mass o' wyverns - me and the lads'll--",
+    "ru": "Да будь там хоть дюжина грифонов и полсотни виверн, я с моими ребятами…",
+    "pl": "Choćby tam było tuzin gryfów i kopa wiwern, to ja i moi chłopcy...",
+    "bel": "Ды будзь там хоць тузін грыфонаў і паўсотні вівернаў, я з маімі хлопцамі…"
+  },
+  "594164_00000000": {
+    "en": "You and your lads don't know a lick about monsters. Griffins and wyverns never share a habitat.",
+    "ru": "Ты со своими ребятами в чудовищах не разбираетесь. Грифоны и виверны никогда не живут рядом.",
+    "pl": "Ty i twoi chłopcy nie znacie się na potworach. Gryfy i wiwerny nigdy nie występują razem.",
+    "bel": "Ты са сваімі хлопцамі ў пачварах не разбіраецеся. Грыфоны і віверны ніколі не жывуць побач."
+  },
+  "594165_00000000": {
+    "en": "Well. Maybe y'are worth a few silver… Fine, I'll take you with.",
+    "ru": "Ну вот. Может, и стоит потратить на тебя немного серебра… Хорошо, я беру тебя.",
+    "pl": "No proszę. Może jednak warto wyłożyć na ciebie trochę srebra... Dobrze, zabiorę cię.",
+    "bel": "Ну вось. Можа, і варта патраціць на цябе крыху срэбра... Добра, я бяру цябе."
+  },
+  "585373_00000000": {
+    "en": "I was about to go. You ready?",
+    "ru": "Я уже собирался выходить. Ты готов?",
+    "pl": "Miałem się już zbierać. Jesteś gotowy?",
+    "bel": "Я ўжо збіраўся выходзіць. Ты гатовы?"
+  },
+  "585345_00000000": {
+    "en": "Your father felt you could use a witcher's help, and I owe him a favor, so…",
+    "ru": "Твой отец решил, что тебе пригодится помощь ведьмака, а я перед ним в долгу, поэтому…",
+    "pl": "Twój ojciec uznał, że przyda ci się pomoc wiedźmina, a ja mam u niego dług, więc... Oto jestem.",
+    "bel": "Твой бацька вырашыў, што табе спатрэбіцца дапамога вядзьмара, а я перад ім у даўгу, таму…"
+  },
+  "585346_00000000": {
+    "en": "Told him not to meddle. Told him I'd manage fine on me own.",
+    "ru": "Говорил я ему, чтобы он не вмешивался. Что я сам справлюсь.",
+    "pl": "Mówiłem mu, żeby się nie mieszał. Że sam sobie poradzę.",
+    "bel": "Казаў я яму, каб ён не лез. Што я сам дам рады."
+  },
+  "585347_00000000": {
+    "en": "Maybe that's not entirely true. Cave of Dreams - supposed to be a dangerous place.",
+    "ru": "Может, и не справишься. Пещера Снов — место вроде небезопасное.",
+    "pl": "Może się myliłeś. Jaskinia Snów to podobno niebezpieczne miejsce.",
+    "bel": "Можа, і не даш. Пячора Сноў - месца небяспечнае."
+  },
+  "585348_00000000": {
+    "en": "Mortally so. But that's my reason for goin' there.",
+    "ru": "Смертельно опасное. Потому я туда и иду.",
+    "pl": "Śmiertelnie niebezpieczne. Dlatego właśnie tam idę.",
+    "bel": "Смяротна небяспечнае. Таму я туды і іду."
+  },
+  "594163_00000000": {
+    "en": "Fine, so be it, I'll take ye… Old man's like to throw a fit elsewise.",
+    "ru": "Ладно, пусть так… А то старик опять разворчится.",
+    "pl": "Dobra, niech będzie... Bo stary się będzie pluł.",
+    "bel": "Добра, няхай... А то стары зноў разбурчыцца."
+  },
+  "585342_00000000": {
+    "en": "Your father sent me.",
+    "ru": "Меня прислал твой отец.",
+    "pl": "Przysłał mnie twój ojciec.",
+    "bel": "Мяне даслаў твой бацька."
+  },
+  "1001536_00000000": {
+    "en": "Farewell.",
+    "ru": "Будь здоров.",
+    "pl": "Bywaj.",
+    "bel": "Бывай."
+  },
+  "1001538_00000000": {
+    "en": "Never mind. So long.",
+    "ru": "Это неважно. Будь здоров.",
+    "pl": "Nieważne. Bywaj.",
+    "bel": "Няважна. Бывай."
+  },
+  "585381_00000000": {
+    "en": "Gimme a minute.",
+    "ru": "Дай мне ещё минуту.",
+    "pl": "Daj mi jeszcze chwilę.",
+    "bel": "Дай мне хвіліну."
+  },
+  "585378_00000000": {
+    "en": "Gimme a minute.",
+    "ru": "Дай мне минуту.",
+    "pl": "Daj mi chwilę.",
+    "bel": "Дай мне хвіліну."
+  },
+  "594166_00000000": {
+    "en": "What's in the Cave of Dreams?",
+    "ru": "Что ждёт нас в Пещере Снов?",
+    "pl": "Co nas czeka w Jaskini Snów?",
+    "bel": "Што чакае нас у Пячоры Сноў?"
+  },
+  "594210_00000000": {
+    "en": "What awaits us in the Cave of Dreams?",
+    "ru": "Что ждёт нас в этой Пещере Снов?",
+    "pl": "Co nas czeka w tej Jaskini Snów?",
+    "bel": "Што чакае нас у Пячоры Сноў?"
+  },
+  "594212_00000000": {
+    "en": "Depends wholly on us, 'cause… Argh, I'll explain later.",
+    "ru": "Это зависит только от нас, потому что… А-а, позже объясню.",
+    "pl": "To zależy tylko od nas, bo... A, wytłumaczę ci później.",
+    "bel": "Гэта залежыць толькі ад нас, таму што… А-а, пазней растлумачу."
+  },
+  "585372_00000000": {
+    "en": "Well? Can we go?",
+    "ru": "Ну? Можем отправляться?",
+    "pl": "No? Możemy ruszać?",
+    "bel": "Ну? Можам вырушаць?"
+  },
   "1048798_00000000": {
     "en": "A son of An Skellig has passed the trial today.",
     "ru": "Сегодня испытание прошёл сын Ан Скеллиг!",
@@ -46307,11 +46607,875 @@
     "pl": "Ciągle tutaj, wiedźminie? Nie zasiekłeś jeszcze tego potwora?",
     "bel": "Яшчэ тут, вядзьмар? Як, бестыю ўжо прырэзаў?"
   },
+  "1071432_00000000": {
+    "en": "Need to know more, first. Word is you're the only ones who've seen it and lived to tell.",
+    "ru": "Сперва мне надо больше о ней узнать. Говорят, вы единственные, кто его видел и живым остался.",
+    "pl": "Najpierw muszę się więcej dowiedzieć. Ponoć tylko wy go widzieliście.",
+    "bel": "Спярша мне трэба больш аб ёй даведацца. Кажуць, вы адзіныя, хто яго бачыў і жывым застаўся."
+  },
+  "1073593_00000000": {
+    "en": "How're you faring?",
+    "ru": "Как идут дела?",
+    "pl": "Jak się masz?",
+    "bel": "Як ідуць справы?"
+  },
+  "1073595_00000000": {
+    "en": "All's well as can be thanks in no small part to you.",
+    "ru": "Отлично. Во многом — благодаря тебе.",
+    "pl": "Wszystko u mnie w porządku. Dzięki tobie.",
+    "bel": "У цэлым усё цудоўна. Дзякуючы табе."
+  },
+  "1073702_00000000": {
+    "en": "I'm grateful.",
+    "ru": "Спасибо.",
+    "pl": "Dziękuję.",
+    "bel": "Дзякуй."
+  },
+  "1073704_00000000": {
+    "en": "Greetings.",
+    "ru": "Привет.",
+    "pl": "Witaj.",
+    "bel": "Вітаю."
+  },
+  "1073706_00000000": {
+    "en": "Greetin's.",
+    "ru": "Привет.",
+    "pl": "Witaj.",
+    "bel": "Вітаю."
+  },
+  "1073596_00000000": {
+    "en": "Herbs - got any on offer?",
+    "ru": "Ты продаёшь травы?",
+    "pl": "Sprzedajesz zioła?",
+    "bel": "Ты прадаеш травы?"
+  },
+  "1073600_00000000": {
+    "en": "Mind if I have a look at your herbs?",
+    "ru": "Позволишь взглянуть на твои травы?",
+    "pl": "Mogę spojrzeć na zioła, które sprzedajesz?",
+    "bel": "Дазволіш зірнуць на твае травы?"
+  },
+  "1073598_00000000": {
+    "en": "Farewell.",
+    "ru": "Удачи.",
+    "pl": "Bywaj.",
+    "bel": "Бывай."
+  },
+  "1073606_00000000": {
+    "en": "See you.",
+    "ru": "Увидимся.",
+    "pl": "Do zobaczenia.",
+    "bel": "Да пабачэння."
+  },
+  "1073608_00000000": {
+    "en": "Fare thee well.",
+    "ru": "Удачи тебе.",
+    "pl": "Bywaj.",
+    "bel": "Будзь здароў."
+  },
+  "422727_00000000": {
+    "en": "Why does the goddess bring you here?",
+    "ru": "Зачем тебя привела богиня?",
+    "pl": "W jakiej sprawie sprowadza cię tu bogini?",
+    "bel": "Навошта цябе прывяла багіня?"
+  },
+  "422729_00000000": {
+    "en": "Brought myself here, seems to me.",
+    "ru": "Мне кажется, я сам себя привёл.",
+    "pl": "Mam wrażenie, że sam się tu sprowadziłem.",
+    "bel": "Здаецца, я сам сябе прывёў."
+  },
+  "422731_00000000": {
+    "en": "You do not worship Freya.",
+    "ru": "Ты не почитаешь Фрейю.",
+    "pl": "Nie jesteś czcicielem Freyji.",
+    "bel": "Ты не пакланяешся Фрэе."
+  },
+  "422733_00000000": {
+    "en": "No. But I respect those that do. Including her priestesses.",
+    "ru": "Нет, но я уважаю её жриц и почитателей.",
+    "pl": "Nie, ale szanuję jej wyznawców i kapłanki.",
+    "bel": "Не, але я шаную яе пачытацеляў і жрыц."
+  },
+  "422735_00000000": {
+    "en": "This does you credit, but is meaningless as well. For Freya rewards and punishes those of other faiths and infidels as she does her own. Worship her and it will help, though it will settle nothing.",
+    "ru": "Фрейя равно награждает и карает верующих, иноверцев и безбожников. Почитай её и не гневай, и тебе зачтётся.",
+    "pl": "To dobrze o tobie świadczy, ale też nie ma znaczenia. Freyja nagradza i każe również innowierców oraz ateuszów. Oddanie jej czci pomaga, ale o niczym nie przesądza.",
+    "bel": "Гэта пахвальна, але не мае значэння. Фрэя ўзнагароджвае і карае вернікаў, іншаверцаў ды бязбожнікаў. Шануй яе, не гняві, ды табе залічыцца."
+  },
+  "437650_00000000": {
+    "en": "What do you need?",
+    "ru": "Что тебе нужно?",
+    "pl": "Czego potrzebujesz?",
+    "bel": "Што табе трэба?"
+  },
+  "422739_00000000": {
+    "en": "Mind if I have a look at your wares?",
+    "ru": "Покажи мне свои товары.",
+    "pl": "Pokaż mi swoje towary.",
+    "bel": "Пакажы мне свае тавары."
+  },
+  "422715_00000000": {
+    "en": "What do you have on offer?",
+    "ru": "Покажи мне свои товары.",
+    "pl": "Pokaż mi swoje towary.",
+    "bel": "Пакажы мне свае тавары."
+  },
+  "422745_00000000": {
+    "en": "Farewell.",
+    "ru": "Прощай.",
+    "pl": "Bywaj.",
+    "bel": "Бывай."
+  },
+  "422719_00000000": {
+    "en": "Farewell.",
+    "ru": "Прощай.",
+    "pl": "Bywaj.",
+    "bel": "Бывай."
+  },
+  "422717_00000000": {
+    "en": "Tell me about this temple.",
+    "ru": "Расскажи мне об этом святилище.",
+    "pl": "Opowiedz mi o tej świątyni.",
+    "bel": "Раскажы мне пра гэта свяцілішча."
+  },
+  "422741_00000000": {
+    "en": "Tell me something about this temple, could you?",
+    "ru": "Ты можешь рассказать об этом святилище?",
+    "pl": "Czy możesz opowiedzieć mi o tej świątyni?",
+    "bel": "Ты можаш расказаць пра гэта свяцілішча?"
+  },
+  "422743_00000000": {
+    "en": "It happened once that Freya lost her favorite white cat. She scoured the isles and finally found him here.",
+    "ru": "Случилось так, что Фрейя потеряла своего любимого белого кота. Она искала его по всем островам и наконец нашла, здесь.",
+    "pl": "Zdarzyło się, że Freyja zgubiła swojego ulubionego białego kota. Szukała na wszystkich wyspach i w końcu znalazła go tutaj.",
+    "bel": "Здарылася так, што Фрэя згубіла свайго ўлюбёнага ката. Яна шукала яго па ўсіх астравах, і нарэшце знайшла, тут."
+  },
+  "437660_00000000": {
+    "en": "Freya's heart filled with joy and she blessed this place. A temple was then established here.",
+    "ru": "Фрейя возрадовалась и благословила это место. А позже здесь построили святилище.",
+    "pl": "Freyja uradowała się i pobłogosławiła to miejsce, w którym później założono świątynię.",
+    "bel": "Фрэя ўсцешылася і благаславіла гэта месца. А пазней тут пабудавалі свяцілішча."
+  },
+  "437662_00000000": {
+    "en": "Didn't know Freya was into cats.",
+    "ru": "Не знал, что Фрейя любит кошек.",
+    "pl": "Nie wiedziałem, że Freyja lubi koty.",
+    "bel": "Не ведаў, што Фрэя любіць катоў."
+  },
+  "437664_00000000": {
+    "en": "Your ignorance speaks poorly of you. The white cat is the goddess' sacred animal and has deep symbolic significance.",
+    "ru": "Ах, твоё невежество прискорбно. Белый кот — священное животное богини. У него глубокое символическое значение.",
+    "pl": "Twoja ignorancja nie robi na mnie wrażenia. Biały kot jest świętym zwierzęciem bogini i ma głębokie znaczenie symboliczne.",
+    "bel": "Твая неадукаванасць засмучвае. Белы кот – свяшчэнная жывёла багіні, ды мае глыбокае сімвалічнае значэнне."
+  },
+  "437678_00000000": {
+    "en": "This temple is for those who seek Freya's help in finding what they desperately seek. Perhaps even you shall experience her grace.",
+    "ru": "В этом святилище Фрейя помогает тем, кто ведёт упорные поиски. Может, она и к тебе будет благосклонна.",
+    "pl": "W tej świątyni Freyja pomaga szczególnie tym, którzy czegoś wytrwale szukają. Może i dla ciebie będzie łaskawa.",
+    "bel": "У гэтым свяцілішчы Фрэя дапамагае тым, хто вядзе настойлівыя пошукі. Можа, яна і да цябе будзе літасцівай."
+  },
+  "437700_00000000": {
+    "en": "Scorn her not! Or have you friends so powerful that you can afford to spurn divine aid?",
+    "ru": "Не отвергай её! Неужели у тебя есть столь могущественные друзья, что ты откажешься от помощи богов?",
+    "pl": "Nie krzyw się! Czyżbyś miał aż tak potężnych przyjaciół, że możesz sobie pozwolić na odtrącenie pomocy bogów?",
+    "bel": "Не адхіляй яе! Няўжо ў цябе настолькі магутныя сябры, што ты адмовішся ад дапамогі багоў?"
+  },
+  "422737_00000000": {
+    "en": "Welcome to the Temple of Freya.",
+    "ru": "Приветствую в святилище Фрейи.",
+    "pl": "Witaj w świątyni Freyji.",
+    "bel": "Вітаю ў свяцілішчы Фрэі."
+  },
+  "574733_00000000": {
+    "en": "Who dares join Bald Sigge and Aegir Fishbreath in the Heroes' Pursuit?",
+    "ru": "Кто из смельчаков присоединится к Лысому Сигге и Эгиру Рыбаку в Скачке смельчаков?",
+    "pl": "Który zuchwalec dołączy do Łysego Siggego i Aegira Rybaka w Wyścigach Śmiałków?",
+    "bel": "Каму хопіць духу далучыцца да Лысага Сіге і Эгіра Рыбака ў Скачцы Смельчакоў?"
+  },
+  "574735_00000000": {
+    "en": "Ye can do it, Aegir! Bolt off the mark and never look back!",
+    "ru": "Ты справишься, Эгир! Сразу в галоп и не оглядывайся!",
+    "pl": "Dasz radę, Aegir! Od razu w galop i nie zatrzymuj się!",
+    "bel": "Давай, Эгір! Зразу ў галоп і не азірайся!"
+  },
+  "574736_00000000": {
+    "en": "Cut your horse's hide, that'll get its hooves movin'!",
+    "ru": "Надрежь коню шкуру, и он рванёт с места!",
+    "pl": "Natnij koniowi skórę, to ruszy z kopyta!",
+    "bel": "Надрэж каню скуру, і ён рване з месца!"
+  },
+  "574738_00000000": {
+    "en": "Horses're antsy… All of you ready?",
+    "ru": "Кони уже бьют копытами… Вы готовы?",
+    "pl": "Konie już drobią... Gotowi?",
+    "bel": "Коні ўжо капытамі б'юць… усе гатовыя?"
+  },
+  "574741_00000000": {
+    "en": "They're off! Faster, faster!",
+    "ru": "Скачут! Быстрее, быстрее!!!",
+    "pl": "Jadą! Szybciej, szybciej!",
+    "bel": "Скачуць! Хутчэй, хутчэй!"
+  },
+  "574745_00000000": {
+    "en": "That all you got?! Can't ye go any faster?!",
+    "ru": "Это всё, на что ты способен? Быстрее не можешь?",
+    "pl": "Na tyle cię stać?! Szybciej nie potrafisz?!",
+    "bel": "Гэта ўсё, што ты можаш?! Хутчэй ніяк?!"
+  },
+  "574743_00000000": {
+    "en": "Hahaha!",
+    "ru": "Ха-ха!!!",
+    "pl": "Ha, ha, ha!",
+    "bel": "Ха-ха-ха!"
+  },
+  "574747_00000000": {
+    "en": "I won! I won!",
+    "ru": "Выиграл! Да!",
+    "pl": "Wygrałem! Wygrałem!!!",
+    "bel": "Выйграў! Выйграў!"
+  },
+  "574749_00000000": {
+    "en": "Who won?! Huh?! Who?! Bald Sigge, that's who!",
+    "ru": "Кто выиграл? Ну кто?! Лысый Сигге!",
+    "pl": "Kto wygrał?! No, kto?! Łysy Sigge!!!",
+    "bel": "Хто выйграў?! Ну хто?! Лысы Сіге – вось хто!"
+  },
+  "391179_00000000": {
+    "en": "Hold up, traveler! Wait!",
+    "ru": "Эй ты! Подожди-ка!",
+    "pl": "Ejże! Zaczekajcie!",
+    "bel": "Гэй, ты! Пачакай!"
+  },
+  "163900_00000000": {
+    "en": "What're you sniffin' at?",
+    "ru": "Что ты там нюхаешь?",
+    "pl": "Co tak niuchasz?",
+    "bel": "Што ты там нюхаеш?"
+  },
+  "163904_00000000": {
+    "en": "Me old lady claims I smell of the barn.",
+    "ru": "Моя старуха жалуется, что от меня конюшней смердит.",
+    "pl": "Moja stara narzeka, że śmierdzę stajnią.",
+    "bel": "Мая старая скардзіцца, што ад мяне стайнямі смуродзіць."
+  },
+  "163906_00000000": {
+    "en": "I don't smell nothin'.",
+    "ru": "Я вот не чувствую.",
+    "pl": "Ja tam nic nie czuję.",
+    "bel": "Я вось не адчуваю."
+  },
+  "163908_00000000": {
+    "en": "Exactly! I knew it - she made the whole thing up!",
+    "ru": "Вот! Так я и знал, что она выдумала.",
+    "pl": "Właśnie! Wiedziałem, że sobie coś wymyśliła!",
+    "bel": "Вось! Так я і ведаў, што яна выдумала!"
+  },
+  "1050039_00000000": {
+    "en": "Wenches, you know… But enough talkin', grab a fork. We've got manure to haul.",
+    "ru": "Бабы они, знаешь, такие… Ну, хватит языком молоть. Бери вилы, надо навоз перекидать.",
+    "pl": "Wiesz, baby... Ale starczy gadania, łap za widły. Trzeba gnój wynieść.",
+    "bel": "Яны такія, бабы… ну, годзе балбатаць, хапай вілы. Трэба гной перакідаць."
+  },
+  "163782_00000000": {
+    "en": "Tell me, Bjorn, what do ye really want from life?",
+    "ru": "А скажи мне, Бьорн. Чего бы ты больше всего хотел в жизни?",
+    "pl": "A powiedz, Bjorn, co ty tak naprawdę chciałbyś robić w życiu?",
+    "bel": "А скажы мне, Б'ёрн, чаго б ты хацеў у жыцці?"
+  },
+  "163784_00000000": {
+    "en": "Me? From life? I just want some peace and quiet.",
+    "ru": "Я? В жизни? Я вот только о покое и мечтаю.",
+    "pl": "Ja? W życiu? Ja to marzę tylko o świętym spokoju.",
+    "bel": "Я? У жыцці? Я, вось, толькі пра спакой і мару."
+  },
+  "163834_00000000": {
+    "en": "Don't tell me that vixen of yours is givin' you a hard time.",
+    "ru": "Так тебя молодая жена достала?",
+    "pl": "Aż tak ci daje w kość twoja młoda żonka?",
+    "bel": "Так цябе маладая жонка абрыдла?"
+  },
+  "163836_00000000": {
+    "en": "Hilda? No, not her. But her mother's over from Hindarsfjal…",
+    "ru": "Хильда? Нет, она-то нет… Мать её приехала с Хиндарсфьялля…",
+    "pl": "Hilda? Nie, ona nie. Jej matka przyjechała z Hindarsfjall...",
+    "bel": "Хільда? Не, яна не… але яе маці прыехала з Хіндарсф'яла…"
+  },
+  "1046514_00000000": {
+    "en": "We've got to get this wood to the jarl. He'll be furious elsewise…",
+    "ru": "Ох ярл взбесится, если вовремя дерево не получит…",
+    "pl": "Jarl się wścieknie, jak nie dostanie drewna na czas...",
+    "bel": "Ох ярл раз'юшыцца, калі своечасова дрэва не атрымае…"
+  },
+  "1046516_00000000": {
+    "en": "And what'll he do to us?",
+    "ru": "Ну и что он нам сделает?",
+    "pl": "No i co nam zrobi?",
+    "bel": "Ну і што ён нам зробіць?"
+  },
+  "1046518_00000000": {
+    "en": "I dunno… But when Bosse was late with the tar, the jarl himself rode up to see what was the matter. Pushed Bosse in the vat.",
+    "ru": "Нам — не знаю. А вот Боссе уже познакомился с кипящей смолой — ярл к нему приехал и запихнул в бочку.",
+    "pl": "Nie wiem... Ale jak Bosse spóźniał się ze smołą, jarl sam do niego przyjechał. I wepchnął go do kadzi.",
+    "bel": "Нам - не ведаю. А вось Босэ ўжо пазнаёміўся з кіпячай смалой - ярл да яго прыехаў і запхаў у бочку."
+  },
+  "1046534_00000000": {
+    "en": "All right… I'll catch me breath a bit longer. Then we'll get back to work.",
+    "ru": "Ну ладно. Сейчас я немного передохну — и за работу.",
+    "pl": "No dobrze... To odsapnę jeszcze chwilkę i wracamy do pracy.",
+    "bel": "Ну добра. Зараз я крыху сапну - і за працу."
+  },
+  "393244_00000000": {
+    "en": "Either open up, or prepare to lose your stones.",
+    "ru": "Открывайте, или мы рассердимся.",
+    "pl": "Otwierajcie, bo się pogniewamy.",
+    "bel": "Адкрывайце, ці мы раззлуемся."
+  },
+  "393246_00000000": {
+    "en": "I say we set fire to the shack!",
+    "ru": "Разведём огонь под этой хибарой!",
+    "pl": "Podłóżmy ogień pod tę budę!",
+    "bel": "Распалім агонь пад гэтай хатай!"
+  },
+  "393248_00000000": {
+    "en": "Argh, loot'd burn up with it, and there's more than junk inside.",
+    "ru": "Так вся добыча в пепел обратится, а они там чего попало не держат.",
+    "pl": "Łup poszedłby z dymem, a tam trzymają nie byle co.",
+    "bel": "Дык уся здабыча ў попел абернецца, а яны там абы чаго не трымаюць."
+  },
+  "542708_00000000": {
+    "en": "I wanna fight.",
+    "ru": "Я хочу драться.",
+    "pl": "Chcę walczyć.",
+    "bel": "Я хачу біцца."
+  },
+  "542710_00000000": {
+    "en": "Grand! Tell me when you're ready.",
+    "ru": "Скажи, как будешь готов.",
+    "pl": "Powiedz, gdy będziesz gotowy.",
+    "bel": "Кажы, як будзеш гатовы."
+  },
+  "521045_00000000": {
+    "en": "Greetings.",
+    "ru": "Привет.",
+    "pl": "Pozdrawiam.",
+    "bel": "Вітаю."
+  },
+  "521046_00000000": {
+    "en": "Heard of you. People! Look who's come to fight!",
+    "ru": "Я слышал о тебе. Люди! Смотрите, кто пришёл драться!",
+    "pl": "Słyszałem o tobie. Ludzie! Patrzcie, kto przyszedł walczyć!",
+    "bel": "Я чуў пра цябе. Людзі! Глядзіце, хто прыйшоў біцца!"
+  },
+  "542705_00000000": {
+    "en": "That is why you're here, right?",
+    "ru": "Ты же будешь драться, правда?",
+    "pl": "Będziesz walczył, prawda?",
+    "bel": "Ты ж будзеш біцца, праўда?"
+  },
+  "521107_00000000": {
+    "en": "Ready to fight right now.",
+    "ru": "Я могу драться хоть сейчас.",
+    "pl": "Mogę walczyć choćby teraz.",
+    "bel": "Я магу біцца хоць зараз."
+  },
+  "521108_00000000": {
+    "en": "Done well so far. Hope your luck continues against Olaf.",
+    "ru": "Пока ты прекрасно справляешься. Надеюсь, в бою с Олафом удача тебя не покинет.",
+    "pl": "Póki co radzisz sobie świetnie. Obyś miał tyle samo szczęścia z Olafem.",
+    "bel": "Пакуль ты выдатна спраўляешся. Спадзяюся, у баі з Олафам поспех цябе не пакіне."
+  },
+  "521109_00000000": {
+    "en": "Ready to fight anytime, even now.",
+    "ru": "Я готов драться хоть сейчас.",
+    "pl": "Mogę walczyć choćby zaraz.",
+    "bel": "Я гатовы біцца хоць зараз."
+  },
+  "521131_00000000": {
+    "en": "Like to have some words with the outlander, first.",
+    "ru": "Сперва я хочу поговорить с чужеземцем.",
+    "pl": "Chcę najpierw porozmawiać z cudzoziemcem.",
+    "bel": "Спачатку я хачу паразмаўляць з чужаземцам."
+  },
+  "521156_00000000": {
+    "en": "It's about my Eryka. See her? I… I gotta win today. She's watchin'.",
+    "ru": "Тут такое дело… Эрика… Видишь её? Я… должен сегодня победить. Она ж смотрит.",
+    "pl": "Chodzi o Erykę. Widzisz ją? Ja... muszę dzisiaj wygrać. Bo ona patrzy.",
+    "bel": "Тут такая справа... Эрыка... Бачыш яе? Я... мушу сёння перамагчы. Яна ж глядзіць."
+  },
+  "521158_00000000": {
+    "en": "I don't stand a chance against ye, I know it well. But I was thinkin' - maybe you'd let me win?",
+    "ru": "Я знаю, что мне тебя не одолеть. Разве что ты сам позволишь мне выиграть.",
+    "pl": "Wiem, że z tobą nie wygram. Chyba że pozwolisz mi zwyciężyć.",
+    "bel": "Я ведаю, што мне цябе не адолець. Толькі што ты сам дазволіш мне перамагчы."
+  },
+  "521200_00000000": {
+    "en": "Listen, if I lose on purpose, we'll both regret it, believe me.",
+    "ru": "Если я поддамся, мы оба пожалеем о нечестной борьбе.",
+    "pl": "Jak się podłożę, obaj będziemy żałowali nieuczciwej walki.",
+    "bel": "Калі я паддамся, мы абодва пашкадуем аб несумленнай барацьбе."
+  },
+  "521201_00000000": {
+    "en": "But it's Eryka we're talkin' about! You don't understand a thing.",
+    "ru": "Но как же Эрика?! Ничего ты не понимаешь.",
+    "pl": "Tu chodzi o Erykę! Nic nie rozumiesz.",
+    "bel": "Але як жа Эрыка?! Ты нічога не разумееш."
+  },
+  "521160_00000000": {
+    "en": "Not about to throw the fight.",
+    "ru": "Я не поддамся.",
+    "pl": "Nie podłożę się.",
+    "bel": "Я не паддамся."
+  },
+  "521159_00000000": {
+    "en": "Fine. Let you win, but just once.",
+    "ru": "Я дам тебе выиграть, но только раз.",
+    "pl": "Dam ci wygrać, ale tylko raz.",
+    "bel": "Я дам табе перамагчы, але толькі раз."
+  },
+  "521161_00000000": {
+    "en": "All right. We'll do it like this: first fight, I'll take a dive. But then we'll go at it again… best man wins.",
+    "ru": "Договоримся, что в первый раз я поддамся. Но потом мы устроим ещё один бой, и победит сильнейший.",
+    "pl": "Umówmy się, że za pierwszym razem się podłożę. Ale potem spróbujemy jeszcze raz i wygra lepszy.",
+    "bel": "Дамовімся, што першы раз я паддамся. Але потым мы зладзім яшчэ адзін бой, і пераможа мацнейшы."
+  },
+  "521202_00000000": {
+    "en": "Enough of this chatter! Fight!",
+    "ru": "Хватит болтать! Начали!",
+    "pl": "Dosyć gadania! Walczcie!",
+    "bel": "Хопіць балакаць! Пачалі!"
+  },
+  "542776_00000000": {
+    "en": "Let's start.",
+    "ru": "Можем начинать.",
+    "pl": "Możemy zaczynać.",
+    "bel": "Пачнем."
+  },
+  "542778_00000000": {
+    "en": "Well, then! Fight!",
+    "ru": "В таком случае — начали!",
+    "pl": "W takim razie – walczcie!",
+    "bel": "У такім выпадку - пачалі!"
+  },
+  "521047_00000000": {
+    "en": "I'm ready.",
+    "ru": "Я готов.",
+    "pl": "Jestem gotowy.",
+    "bel": "Я гатовы."
+  },
+  "521090_00000000": {
+    "en": "Might fight some other time. See you.",
+    "ru": "Может, в другой раз.",
+    "pl": "Może innym razem.",
+    "bel": "Можа, іншым разам."
+  },
+  "521049_00000000": {
+    "en": "Farewell.",
+    "ru": "Прощай.",
+    "pl": "Bywaj.",
+    "bel": "Бывай."
+  },
+  "521048_00000000": {
+    "en": "What's this tournament like?",
+    "ru": "Что это за турнир?",
+    "pl": "Co to za turniej?",
+    "bel": "Што гэта за турнір?"
+  },
+  "521086_00000000": {
+    "en": "Tournament rules, what are they?",
+    "ru": "Расскажи о правилах турнира.",
+    "pl": "Opowiedz mi o zasadach tego turnieju.",
+    "bel": "Распавядзі аб правілах турніру."
+  },
+  "521087_00000000": {
+    "en": "The fighters are both upstarts seekin' to prove their grit and brawn and courage, and old hands just lookin' to keep the rust at bay.",
+    "ru": "У нас дерутся все: юноши, чтобы показать силу и храбрость, зрелые воины, чтобы не потерять навык.",
+    "pl": "Biorą w nim udział młodzieńcy, którzy pragną wykazać się siłą i odwagą, ale również starzy wojownicy, którzy nie chcą zgnuśnieć.",
+    "bel": "У нас б'юцца ўсе: юнакі, каб паказаць сілу і адвагу, сталыя ваяры, каб не страціць навычку."
+  },
+  "542744_00000000": {
+    "en": "Ye get similar bouts in Novigrad and Velen, but those're glorified tavern brawls, ye ask me. This here's a minor festival.",
+    "ru": "В Новиграде и в Велене проходят похожие соревнования, но там обычный мордобой. А у нас каждый бой — маленький праздник.",
+    "pl": "W Novigradzie i w Velen mają podobne zawody, ale tam to zwykłe mordobicie. A u nas małe święto.",
+    "bel": "У Навіградзе і ў Велене праходзяць падобныя спаборніцтвы, але там звычайны мардабой. А ў нас кожны бой — маленькае свята."
+  },
+  "542808_00000000": {
+    "en": "Thinking of trying my hand…",
+    "ru": "Я вот думаю, не попробовать ли…",
+    "pl": "Mógłbym spróbować swoich sił...",
+    "bel": "Я вось думаю, ці не паспрабаваць…"
+  },
+  "542810_00000000": {
+    "en": "Soon as you're ready, come forth and speak up.",
+    "ru": "Скажи, когда надумаешь.",
+    "pl": "Powiedz, gdy będziesz gotowy.",
+    "bel": "Кажы, калі будзеш гатовы."
+  },
+  "1029419_00000000": {
+    "en": "You - you're a witcher? I seein' right?",
+    "ru": "Вы ведьмак, я правильно понимаю?",
+    "pl": "Wyście... Wiedźmin? Tak, tak, dobrze widzę!",
+    "bel": "Вы вядзьмар, я правільна разумею?"
+  },
+  "1011856_00000000": {
+    "en": "Greetings. Saw your notice.",
+    "ru": "Здравствуйте. Я увидел объявление.",
+    "pl": "Witajcie. Widziałem ogłoszenie.",
+    "bel": "Добры дзень. Я бачыў аб'яву."
+  },
+  "1029417_00000000": {
+    "en": "Hah! And they said, \"Why you hangin' that? Ain't no one else gonna hunt that beast.\" But I showed 'em.",
+    "ru": "Ха-ха! А мне говорили: зачем вешаешь? Уже никто на чудовищ не ходит… Ха, вышло-то по-моему.",
+    "pl": "Ha! A mówili mi: po co to wieszasz? Już się nikt na potwora nie wyprawi. A na moje wyszło.",
+    "bel": "Ха-ха! А мне казалі: навошта вешаеш? Ужо ніхто на пачвар не ходзіць... Выйшла па-мойму."
+  },
+  "1011857_00000000": {
+    "en": "Yes. Got work for me?",
+    "ru": "Да. Для меня есть работа?",
+    "pl": "Tak. Macie dla mnie jakąś robotę?",
+    "bel": "Так. Для мяне ёсць праца?"
+  },
+  "1029485_00000000": {
+    "en": "If you're willin'… Some manner o' evil prowls about, got us scared to venture outta the village.",
+    "ru": "Если только согласитесь… Рыщет тут какая-то чудища в округе, аж страх за околицу выходить.",
+    "pl": "Jeśli tylko się zgodzicie... Grasuje tu monstrum jakoweś w okolicy, że strach za opłotki wyjść.",
+    "bel": "Калі толькі пагодзіцеся... Шнырыць тут нейкая пачвара па наваколлі, аж страшна за ваколіцу выходзіць."
+  },
+  "1044955_00000000": {
+    "en": "Killed the beast that was troubling you.",
+    "ru": "Убил я ваше чудище.",
+    "pl": "Zabiłem potwora, który grasował w okolicy.",
+    "bel": "Забіў я вашую бестыю."
+  },
+  "1029707_00000000": {
+    "en": "Merciful Freya, Whoreson's finally dead. Ptooey! Now, tell us - was it a tough fight? Got any wounds need dressin'?",
+    "ru": "Фрейя милосердная! Сдох ублюдок, наконец-то! Тьфу! А теперь рассказывайте: тяжко было? Подлечить вас не надо?",
+    "pl": "Freyo miłosierna! No nareszcie sczezł sukinsyn! Tfu! A rzeknijcie: ciężko było? Może opatrzyć was trzeba?",
+    "bel": "Фрэя міласэрная! Сдох вырадак, нарэшце! Цьфу! А цяпер распавядайце: цяжка было? Падлячыць вас трэба?"
+  },
+  "1013830_00000000": {
+    "en": "No, I'll be all right.",
+    "ru": "Нет, всё в порядке.",
+    "pl": "Nie, wszystko w porządku.",
+    "bel": "Не, усё добра."
+  },
+  "1013832_00000000": {
+    "en": "Ahh, nothin' new to the likes of you. Hard work, witcherin'. Ah right, your reward… This here's for you.",
+    "ru": "А и правда, человек вы привычный. Непростое ремесло — это ваше ведьмачество. А вот и награда. Пожалуйте, это вам.",
+    "pl": "No tak, wam to nie pierwszyzna. Nielekki fach – wiedźmiństwo. A właśnie, nagroda... Proszę, to dla was.",
+    "bel": "А ну так, чалавек вы прызвычаены. Няпростае рамяство - гэтае вашае вядзьмарства. А вось і ўзнагарода. Прашу, гэта вам."
+  },
+  "1029713_00000000": {
+    "en": "Thanks. So long.",
+    "ru": "Спасибо. Будь здоров.",
+    "pl": "Dzięki. Bywajcie.",
+    "bel": "Дзякуй. Бывай."
+  },
+  "1069959_00000000": {
+    "en": "Job's done.",
+    "ru": "Я убил чудовище.",
+    "pl": "Wykonałem zlecenie.",
+    "bel": "Заданне выканана."
+  },
+  "1029566_00000000": {
+    "en": "The four survivors - where'll I find them?",
+    "ru": "А где мне найти четырёх уцелевших воинов?",
+    "pl": "A gdzie znajdę tych czterech ocalałych wojowników?",
+    "bel": "А дзе мне знайсці чатырох ацалелых ваяроў?"
+  },
+  "1029624_00000000": {
+    "en": "Aim to talk to Sverre? Maybe 'tain't a bad idea. They're sittin' over there, by that hut.",
+    "ru": "Хотите со Сверре поговорить? Может, и правильно. Вон они там сидят, у хаты.",
+    "pl": "Chcecie ze Sverrem pogadać? No, może to i dobry pomysł. Ot, tam siedzą, przy chacie.",
+    "bel": "Хочаце са Сверэ паразмаўляць? Можа, і правільна. Вунь яны там сядзяць, ля хаты."
+  },
+  "1014194_00000000": {
+    "en": "I'll tend to the monster.",
+    "ru": "Я займусь этим чудищем.",
+    "pl": "Zajmę się tym potworem.",
+    "bel": "Я займуся пачварай."
+  },
+  "1029565_00000000": {
+    "en": "Not your first, that's clear enough. Not like our lads… heads full o' fire but not a morsel o' thought 'tween 'em.",
+    "ru": "Для вас это не впервой, сразу видать. Не то что наши… Горячие головы, а никакого разумения.",
+    "pl": "Dla was to nie pierwszyzna, od razu widać. Nie to co ci nasi... gorące głowy, ale pomyślunku tam żadnego.",
+    "bel": "Для вас гэта не ўпершыню, адразу бачна. Не тое што нашыя... Галовы гарачыя, а разуму ніякага."
+  },
+  "1014192_00000000": {
+    "en": "I'll tend to the monster.",
+    "ru": "Я займусь этим чудовищем.",
+    "pl": "Zajmę się tym.",
+    "bel": "Я займуся пачварай."
+  },
+  "1069968_00000000": {
+    "en": "Hmph! That's what ye'd ask for a golden dragon, maybe! No chance!",
+    "ru": "Пф-ф! Да столько за золотого дракона разве что просят! И… и речи быть не может!",
+    "pl": "Phhu! Tyle to chyba za złotego smoka byście sobie mogli zaśpiewać. Nie ma mowy!",
+    "bel": "Пф-ф! Ды столькі за залатога дракона хіба што просяць! І… і мовы быць не можа!"
+  },
+  "1069970_00000000": {
+    "en": "Ye knows how to bargain, grant you that. Drop it a bit more, we'll have deal.",
+    "ru": "Торговаться вы умеете, этого не отнять. Скиньте ещё чуточку-то — и по рукам.",
+    "pl": "Umiecie się targować, nie powiem. Jeszcze trochę spuścicie i się dogadamy.",
+    "bel": "Таргавацца вы ўмееце, вядомая справа. Скіньце яшчэ крышачку і па руках."
+  },
+  "1069972_00000000": {
+    "en": "Argh, have it your way. 'Tis your neck on the line.",
+    "ru": "А и пускай. Вам же шею подставлять.",
+    "pl": "A niech wam będzie. W końcu to wy karku nadstawiacie.",
+    "bel": "А і няхай. Вам жа шыю падстаўляць."
+  },
+  "1069974_00000000": {
+    "en": "Gods've taken all reason from ye! Ye can take the offer or sod off!",
+    "ru": "Да у вас боги весь разум отняли! Или берите что есть, или идите прочь.",
+    "pl": "Chyba was bogowie rozumu zbyli! Bierzcie, ile daję, albo idźcie precz!",
+    "bel": "Ды ў вас багі ўвесь розум адабралі! Або бярыце што даю, або ідзіце прэч!"
+  },
+  "1045480_00000000": {
+    "en": "Let's talk about my reward.",
+    "ru": "Поговорим о награде.",
+    "pl": "Porozmawiajmy o nagrodzie.",
+    "bel": "Абмяркуем маю ўзнагароду."
+  },
+  "1071400_00000000": {
+    "en": "Ye want to bargain? How would ye count it? Height in hands at the withers, or--",
+    "ru": "Поторговаться хотите? Как вы их мерите-то, чудищ? Сколько пядей в холке или…",
+    "pl": "Targować się chcecie? I jak to liczycie? Od wysokości w kłębie, czy...",
+    "bel": "Патаргавацца хочаце? Як вы іх мераеце, пачвараў? Ад вышыні ў карку ці"
+  },
+  "1071402_00000000": {
+    "en": "Mm-mm. By species. Drowner's less than a cockatrice.",
+    "ru": "Хм-м… Зависит от вида твари. За утопца меньше, за куролиска больше.",
+    "pl": "Zależy od gatunku. Za utopca mniej, za kuroliszka więcej.",
+    "bel": "Хм-м... Залежыць ад віду стварэння. За тапельніка меней, за кураліска болей."
+  },
+  "1071404_00000000": {
+    "en": "Ah-hah! But we've no notion what prowls the high road! Whaddaya say ye cut it down, and then we'll talk…?",
+    "ru": "Ха-ха! Но мы-то не знаем, что у нас на тракте завелось. Вы эту тварь убейте, там и поговорим.",
+    "pl": "Ha! Ale przecie nie wiadomo, co to się u nas przy trakcie zalęgło! Ubijcie toto, wtedy porozmawiamy.",
+    "bel": "Ха-ха! Але мы не ведаем, што ў нас на гасцінцы завялося. Вы гэтае стварэнне забіце, потым і абмяркуем…?"
+  },
+  "1071406_00000000": {
+    "en": "Mm-mm. We pre-agree a price, define a bonus for unforeseen risks.",
+    "ru": "Ну… Цену надо определить заранее. И добавку за непредвиденный риск.",
+    "pl": "Cenę ustalimy z góry. Z dodatkiem za nieprzewidziane ryzyko.",
+    "bel": "Ну… Цану трэба вызначаць загадзя. І дадатак за непрадбачаную рызыку."
+  },
+  "1071408_00000000": {
+    "en": "Errr… so, how much?",
+    "ru": "Ну… ну и сколько?",
+    "pl": "Ech... No to ile?",
+    "bel": "Ну… ну і колькі?"
+  },
+  "1045461_00000000": {
+    "en": "Let's talk reward.",
+    "ru": "Поговорим о награде.",
+    "pl": "Porozmawiajmy o nagrodzie.",
+    "bel": "Абмяркуем маю ўзнагароду."
+  },
+  "1014193_00000000": {
+    "en": "Farewell.",
+    "ru": "Будь здоров.",
+    "pl": "Bywaj.",
+    "bel": "Бывай."
+  },
+  "1014195_00000000": {
+    "en": "So long.",
+    "ru": "Будь здоров.",
+    "pl": "Bywaj.",
+    "bel": "Бывай."
+  },
+  "1069960_00000000": {
+    "en": "Farewell.",
+    "ru": "Бывай.",
+    "pl": "Bywaj.",
+    "bel": "Бывай."
+  },
+  "1069958_00000000": {
+    "en": "What kind of beast are we talking about?",
+    "ru": "Что это за тварь?",
+    "pl": "Co to za potwór?",
+    "bel": "Што за пачвара?"
+  },
+  "1069998_00000000": {
+    "en": "Any idea what kind of beast this is?",
+    "ru": "Что за чудище-то?",
+    "pl": "A wiecie chociaż co to za potwór?",
+    "bel": "Можа нейкія ідэі што за пачвара?"
+  },
+  "1070000_00000000": {
+    "en": "Aw, ye hear all sorts o' things. The wenches clean the nets blather about koshcheys and manticores. But I reckon that's hogwash.",
+    "ru": "Разное говорят. Бабы, когда вечером сети чистят, говорят, что кощей это или мантикора. Но я так думаю, вздор всё это.",
+    "pl": "Różnie mówią. Baby wieczorami przy czyszczeniu sieci opowiadają o kościejach i mantikorach, ale po mojemu bzdury to.",
+    "bel": "Рознае кажуць. Бабы, калі ўвечары сеткі чысцяць, кажуць пра кашчэяў і мантыкор. Але я думаю, што гэта хлусня."
+  },
+  "1071410_00000000": {
+    "en": "We'd seek the council o' Freya's priestesses, we would. But how can we when we can't get to the shrine?",
+    "ru": "Мы бы спросили у жриц Фрейи, только до святилища не доберёшься.",
+    "pl": "Poradzilibyśmy się kapłanek Freyji, ale jak, skoro do świątyni przejechać się nie da?",
+    "bel": "Мы бы спыталі ў жрыц Фрэі, але як спытаць, калі мы не можам дабрацца да свяцілішча?"
+  },
+  "1071412_00000000": {
+    "en": "And nobody's gotten a glimpse of the beast? From a distance, even?",
+    "ru": "И никто это чудовище не видел? Хотя бы издалека?",
+    "pl": "I nikomu nie udało się nawet z daleka zobaczyć potwora?",
+    "bel": "І ніхто гэту пачвару не бачыў? Нават здалёку?"
+  },
+  "1071414_00000000": {
+    "en": "Oh, they have, they have - right close, closer'n boot and strap. Soon after their blood spattered the underbrush.",
+    "ru": "Видели, конечно, и изблизи, и совсем близёхонько. Только живыми не уходили.",
+    "pl": "Udało, udało – i to z bliska, z bliziutka, tak że tylko krew sikała po łopianach.",
+    "bel": "Бачылі, канешне – і зблізку, і зусім блізенька. Толькі жывымі такіх больш аніхто не бачыў."
+  },
+  "1029440_00000000": {
+    "en": "Knew from the start no ordinary man could handle the beast. But Sverre insisted, mustered a crew and…",
+    "ru": "Я сразу говорил, что с чудовищами обычный человек не управится. Но Сверре упёрся, дружину собрал, и…",
+    "pl": "Ja od początku mówiłem, że na potwory zwykły człowiek nic nie poradzi. Ale Sverre się uparł, drużynę zwołał i...",
+    "bel": "Я зразу казаў, што пачвар звычайны чалавек не здолее. Але Сверэ ўпёрся, дружыну сабраў і…"
+  },
+  "1007669_00000000": {
+    "en": "Only four came back. The rest massacred, east of the village. So, will ye help?",
+    "ru": "Четверо их и вернулось. А остальных тварь эта порвала к востоку от деревни. Ну так как, поможете нам?",
+    "pl": "Czterech ich wróciło. Resztę coś rozszarpało na wschód od wioski. To jak, pomożecie nam?",
+    "bel": "Толькі чацвёра вярнуліся. Астатніх гэта пачвара парвала на ўсход ад вёскі. Ну што, дапаможаце нам?"
+  },
+  "1029568_00000000": {
+    "en": "So will ye help, then?",
+    "ru": "Ну так что, поможете нам?",
+    "pl": "To co, pomożecie nam?",
+    "bel": "Ну што, дапаможаце нам?"
+  },
+  "1046030_00000000": {
+    "en": "Oh, that 'un would make quick work o' the beast!",
+    "ru": "А вот этот бы с чудищем справился!",
+    "pl": "O, ten to by sobie z potworem poradził!",
+    "bel": "А вось гэты бы пачвару здолеў!"
+  },
+  "1045263_00000000": {
+    "en": "Greetings.",
+    "ru": "Здравствуйте.",
+    "pl": "Witajcie.",
+    "bel": "Вітаю."
+  },
+  "166171_00000000": {
+    "en": "Do you have no shame?",
+    "ru": "И тебе не стыдно?",
+    "pl": "A tobie nie wstyd?",
+    "bel": "І табе не сорамна?"
+  },
+  "171653_00000000": {
+    "en": "Shame…? Why would I?",
+    "ru": "Стыдно? С чего вдруг?",
+    "pl": "Wstyd...? Z jakiego powodu?",
+    "bel": "Сорамно? Чаму гэта?"
+  },
+  "171655_00000000": {
+    "en": "A queen should join her king on his last journey. Tradition demands it.",
+    "ru": "Королева должна уйти в последнее плавание с королём. Так велит обычай.",
+    "pl": "Królowa płynie z królem w ostatni rejs. Tak każe tradycja.",
+    "bel": "Каралева мае пайсці ў апошняе плаванне з каралём. Так загадвае традыцыю."
+  },
+  "420379_00000000": {
+    "en": "Holger… To your health, especially that black hand!",
+    "ru": "Хольгер… За здоровье. Твоё и твоей чёрной руки.",
+    "pl": "Holgerze... Piję za zdrowie twoje i twojej czarnej ręki.",
+    "bel": "Хольгер… за здароўе тваё і тваёй чорнай рукі!"
+  },
+  "420362_00000000": {
+    "en": "Come, Geralt.",
+    "ru": "Пойдём.",
+    "pl": "Chodźmy.",
+    "bel": "Ідзём."
+  },
+  "420364_00000000": {
+    "en": "Stay and chew the fat with us, Geralt.",
+    "ru": "Оставайся, Геральт. Поговорим.",
+    "pl": "Zostań jeszcze, Geralt. Pogadamy.",
+    "bel": "Заставайся, Геральт. Пагутарым."
+  },
+  "420381_00000000": {
+    "en": "We were supposed to move on.",
+    "ru": "Нам надо идти.",
+    "pl": "Mieliśmy iść.",
+    "bel": "Нам трэба ісці."
+  },
+  "420389_00000000": {
+    "en": "Let your woman roam alone. You stay here, we'll have another drink.",
+    "ru": "Отпусти женщину попастись в одиночестве — и оставайся. Выпьем ещё.",
+    "pl": "Puść kobietę samopas i zostań. Napijemy się jeszcze.",
+    "bel": "Адпусці жанчыну ў спакоі - і заставайся. Вып'ем яшчэ."
+  },
+  "373558_00000000": {
+    "en": "I shouldn't drink.",
+    "ru": "Я не буду пить.",
+    "pl": "Nie będę pił.",
+    "bel": "Я не буду піць."
+  },
+  "373568_00000000": {
+    "en": "Bran - a great king, a great man.",
+    "ru": "Бран был великим человеком.",
+    "pl": "Bran był wielkim człowiekiem.",
+    "bel": "Бран быў вялікім чалавекам."
+  },
+  "373570_00000000": {
+    "en": "May our next king be his equal.",
+    "ru": "Пусть следующий король будет равным ему.",
+    "pl": "Oby następny król mu dorównał.",
+    "bel": "Няхай наступны кароль будзе роўным яму."
+  },
+  "373572_00000000": {
+    "en": "Geralt?",
+    "ru": "Геральт?",
+    "pl": "Geralt?",
+    "bel": "Геральт?"
+  },
+  "524206_00000000": {
+    "en": "All right. Let's go.",
+    "ru": "Да, идём.",
+    "pl": "Tak, Chodźmy.",
+    "bel": "Так. Хадзем."
+  },
+  "420391_00000000": {
+    "en": "We should go.",
+    "ru": "Пойдём.",
+    "pl": "Chodźmy.",
+    "bel": "Хадзем."
+  },
+  "420383_00000000": {
+    "en": "Now I've a toast. May the emperor of Nilfgaard's prick stay as soft as a noodle, so there'll be no foul spawn to take his place on the throne!",
+    "ru": "А теперь выпьем за то, чтоб у императора Нильфгаарда никогда больше не вставал член! Чтоб ни одного паршивого отпрыска у него не было.",
+    "pl": "A teraz wypijemy za to, żeby cesarzowi Nilfgaardu kutas nigdy więcej nie stanął! Żeby nie doczekał się potomka.",
+    "bel": "А зараз вып'ем за тое, каб у імператара Нільфгаарда больш ніколі не падняўся чэлес! Каб не меў ён ніводнага спадчынніка!"
+  },
+  "373560_00000000": {
+    "en": "To Bran.",
+    "ru": "За Брана.",
+    "pl": "Za Brana.",
+    "bel": "За Брана."
+  },
+  "373556_00000000": {
+    "en": "To Bran.",
+    "ru": "За Брана.",
+    "pl": "Za Brana.",
+    "bel": "За Брана."
+  },
   "373554_00000000": {
     "en": "Birna's a scheming whore. Refuses to admit her reign's ended.",
     "ru": "Бирна — коварная сука. До неё ещё не дошло, что её власть кончена.",
     "pl": "Birna to podstępna suka. Jeszcze do niej nie dotarło, że jej władza się skończyła.",
     "bel": "Бірна – каварная сука. Да яе яшчэ не дайшло, што яе ўлада кончылася."
+  },
+  "524205_00000000": {
+    "en": "Bran knew how to keep her in line. Let's drink to his memory.",
+    "ru": "Бран умел держать её в узде. Почтим его память.",
+    "pl": "Bran umiał trzymać ją w ryzach. Uczcijmy jego pamięć.",
+    "bel": "Бран ведаў як трымаць яе ў руках. Ушануем яго памяць."
+  },
+  "376300_00000000": {
+    "en": "Let's move on, Yen.",
+    "ru": "Пойдём, Йен.",
+    "pl": "Chodźmy, Yen.",
+    "bel": "Пойдзем, Ен."
   },
   "434922_00000000": {
     "en": "High time we did as well. Come, Svanrige.",
@@ -46319,11 +47483,881 @@
     "pl": "Na nas też już czas. Chodź, Svanrige.",
     "bel": "Нам таксама пара. Ідзём, Сванрыг."
   },
+  "376282_00000000": {
+    "en": "We should move on.",
+    "ru": "Нам пора.",
+    "pl": "Musimy się już pożegnać.",
+    "bel": "Нам варта ўжо ісці."
+  },
+  "376278_00000000": {
+    "en": "I'm sorry for your loss.",
+    "ru": "Примите мои соболезнования.",
+    "pl": "Składam wyrazy współczucia.",
+    "bel": "Прыміце мае спачуванні."
+  },
+  "376288_00000000": {
+    "en": "Heard a lot of good things about Bran.",
+    "ru": "Я слышал о Бране много хорошего.",
+    "pl": "Słyszałem wiele dobrego o Branie.",
+    "bel": "Я чуў аб Бране шмат добрага."
+  },
+  "434912_00000000": {
+    "en": "I will miss him sorely.",
+    "ru": "Мне будет его не хватать.",
+    "pl": "Będzie mi go brakowało.",
+    "bel": "Мне будзе яго бракаваць."
+  },
+  "434916_00000000": {
+    "en": "I was not his first wife, but I bore him his first-born son and saw him off on his final journey.",
+    "ru": "Я не была его первой женой, но это я родила ему первенца. И снарядила его в последний путь.",
+    "pl": "Nie byłam jego pierwszą żoną, ale to ja urodziłam mu pierworodnego i ja wyprawiłam go w ostatnią podróż.",
+    "bel": "Я не была ягонай першай жонкай, але гэта я нарадзіла яму першага. І падрыхтавала яго ў апошні шлях."
+  },
+  "524208_00000000": {
+    "en": "We lived a great many years together.",
+    "ru": "Мы прожили вместе много лет.",
+    "pl": "Przeżyliśmy razem wiele lat.",
+    "bel": "Мы пражылі разам шмат гадоў."
+  },
+  "387280_00000000": {
+    "en": "Yen's right.",
+    "ru": "Йен права.",
+    "pl": "Yen ma rację.",
+    "bel": "Ен мае рацыю."
+  },
+  "387290_00000000": {
+    "en": "A custom that demands widows burn themselves alive - too harsh.",
+    "ru": "Закон, который предписывает вдове самоубийство, слишком суров.",
+    "pl": "Prawo, które nakazuje wdowie samobójstwo, jest zbyt surowe.",
+    "bel": "Закон, які загадвае ўдаве самагубства, занадта суровы."
+  },
+  "387292_00000000": {
+    "en": "Foreigners.",
+    "ru": "Чужеземцы.",
+    "pl": "Cudzoziemcy.",
+    "bel": "Іншаземец."
+  },
+  "387296_00000000": {
+    "en": "Holger, perhaps you'd like to show us the meaning of courage, walk willingly into flames. I'm sure we can scrape together some wood.",
+    "ru": "Может, ты подашь пример мужества и сам войдёшь в пламя? Я уверена, мы сумеем собрать для тебя дров.",
+    "pl": "Może dasz nam przykład odwagi i pokażesz, jak wchodzisz w płomienie. Jestem pewna, że zorganizujemy trochę drewna.",
+    "bel": "Хольгер, мо, ты даш прыклад мужнасці і сам увойдзеш у полымя? Я ўпэўненая, мы здолеем сабраць для цябе дроў."
+  },
+  "387298_00000000": {
+    "en": "Callin' me a coward?!",
+    "ru": "Ты называешь меня трусом?",
+    "pl": "Nazywasz mnie tchórzem?",
+    "bel": "Ты называеш мяне баязліўцам?!"
+  },
+  "387300_00000000": {
+    "en": "Calm yourself, Holger. You speak to a widow at her husband's wake.",
+    "ru": "Успокойся, Хольгер. Ты на похоронах и разговариваешь со вдовой.",
+    "pl": "Uspokój się, Holger. Jesteś na pogrzebie i rozmawiasz z wdową.",
+    "bel": "Супакойся, Хольгер. Ты на пахаванні і размаўляеш з удавой."
+  },
+  "387282_00000000": {
+    "en": "Not our place to criticize, Yen. All peoples do things their own way.",
+    "ru": "Не надо вмешиваться, Йен. У всех свои обычаи.",
+    "pl": "Nie wtrącajmy się w to, Yen. Co kraj, to obyczaj.",
+    "bel": "Не трэба крытыкаваць, Ен. Ва ўсіх свае звычаі."
+  },
+  "387284_00000000": {
+    "en": "We're talking about the self-immolation of women, not about decorating trees for Yule.",
+    "ru": "Мы говорим о сожжении женщин, а не об украшении праздничного деревца на Йуле.",
+    "pl": "Mówimy o paleniu kobiet, a nie o strojeniu drzewka na Yule.",
+    "bel": "Мы размаўляем аб спаленні жанчын, а не аб упрыгожванні святочнага дрэўца на Юле."
+  },
+  "387286_00000000": {
+    "en": "Harsh custom, but this is a harsh land. Tradition is Skellige's backbone.",
+    "ru": "Это суровый обычай, но мы в суровом краю. Традиция — сила Скеллиге.",
+    "pl": "To surowy obyczaj, ale jesteśmy w surowym kraju. Tradycja jest siłą Skellige.",
+    "bel": "Гэта суровы звычай, але мы ў суровым краі. Традыцыя - сіла Скеліге."
+  },
+  "387288_00000000": {
+    "en": "People make laws, and people can change them.",
+    "ru": "Люди устанавливают законы, и люди могут их изменять.",
+    "pl": "To ludzie ustanawiają prawa i ludzie mogą je zmieniać.",
+    "bel": "Людзі ўстанаўліваюць законы, і людзі могуць іх змяняць."
+  },
+  "387278_00000000": {
+    "en": "Not our place to get involved.",
+    "ru": "Не будем вмешиваться.",
+    "pl": "Nie wtrącajmy się.",
+    "bel": "Не будзем умешвацца."
+  },
   "376270_00000000": {
     "en": "Geralt, this is Holger Blackhand. Birna, Bran's widow and our hostess today, you've already met.",
     "ru": "Геральт, познакомься с Хольгером по прозвищу Чернорукий. С Бирной, вдовой Брана и нашей хозяйкой, ты уже знаком.",
     "pl": "Geralt, poznaj Holgera zwanego Czarną Ręką. Birnę, wdowę po Branie i naszą gospodynię już poznałeś.",
     "bel": "Геральт, пазнаёмся з Хольгерам па мянушцы Чарнарукі. Бірну, ўдаву Брана і нашу гаспадыню, ты ўжо ведаеш."
+  },
+  "387272_00000000": {
+    "en": "Widow? A widow's duty is to lie beside her husband.",
+    "ru": "Вдова? Вдова должна лежать подле мужа.",
+    "pl": "Wdowa? Obowiązkiem wdowy jest być przy mężu.",
+    "bel": "Удава? Удава павінна ляжаць каля мужа."
+  },
+  "376272_00000000": {
+    "en": "A widow's duty is to care for the king's son.",
+    "ru": "Вдова должна заботиться о королевском сыне.",
+    "pl": "Obowiązkiem wdowy jest zadbać o królewskiego syna.",
+    "bel": "Удава мусіць клапаціцца аб каралеўскім сыне."
+  },
+  "387274_00000000": {
+    "en": "Not by our customs it ain't.",
+    "ru": "Не таковы наши обычаи.",
+    "pl": "Nie takie są nasze zwyczaje.",
+    "bel": "Не такія нашыя звычаі."
+  },
+  "387276_00000000": {
+    "en": "Your customs are barbarous.",
+    "ru": "Ваши обычаи — варварство.",
+    "pl": "Wasze zwyczaje to barbarzyństwo.",
+    "bel": "Вашыя звычаі - варварства."
+  },
+  "1022201_00000000": {
+    "en": "Yana… It'll be three weeks since the storm now. You've naught to look out for. He's not comin' back.",
+    "ru": "Яна… Три недели прошло с того шторма. Нечего тебе высматривать. Он уже не вернётся.",
+    "pl": "Yana... Zaraz trzy tygodnie będzie od sztormu. Nie masz co wypatrywać. On już nie wróci.",
+    "bel": "Яна... Тры тыдні прайшло з таго шторму. Няма чаго табе выглядаць. Ён ужо не вернецца."
+  },
+  "1022203_00000000": {
+    "en": "You don't know that. Maybe his rudder broke, he was set adrift. Maybe sirens saved him. We've both heard the stories.",
+    "ru": "Это ещё неизвестно. Может, он ухватился за какую-нибудь доску и плывёт. А может, его спасли сирены. Бывали такие истории…",
+    "pl": "Nie wiadomo. Może złapał jakąś deskę i dryfuje. Może uratowały go syreny. Takie historie się zdarzały.",
+    "bel": "Гэта яшчэ невядома. Можа, ён ухапіўся за якую-небудзь дошку і плыве. А можа, яго выратавалі сірэны. Бывала і такое."
+  },
+  "1022205_00000000": {
+    "en": "Tales, Yana. They're naught but fairytales.",
+    "ru": "Это всё сказки, Яна. Только сказки.",
+    "pl": "To bajki. Tylko bajki.",
+    "bel": "Гэта ўсё казкі, Яна. Толькі казкі."
+  },
+  "1022207_00000000": {
+    "en": "If the sea'd only give back his body. I've sewed him a lovely shirt. He'd be dressed fine as a jarl for the funeral…",
+    "ru": "Хоть бы тело выбросило на берег. Я ему такую рубаху сшила… Разодела бы его на похороны, как ярла.",
+    "pl": "Żeby chociaż ciało wyrzuciło. Uszyłam mu piękną koszulę. Na pogrzeb wystroiłabym go jak jarla...",
+    "bel": "Хоць бы цела выкінула на бераг. Я яму такую ​​кашулю пашыла... Апранула б яго на пахаванне, як ярла…"
+  },
+  "546154_00000000": {
+    "en": "Greetings.",
+    "ru": "Приветствую.",
+    "pl": "Witaj.",
+    "bel": "Вітаю."
+  },
+  "524194_00000000": {
+    "en": "If you've been named champion of Velen already, try your luck in Novigrad.",
+    "ru": "А если ты уже получил титул чемпиона в Велене, можешь попытать счастья в Новиграде.",
+    "pl": "A jeśli zdobyłeś już tytuł mistrza w Velen, możesz spróbować szczęścia w Novigradzie.",
+    "bel": "А калі ты ўжо атрымаў тытул чэмпіёна ў Велене, можаш паспрабаваць шчасця ў Навіградзе."
+  },
+  "524195_00000000": {
+    "en": "If you've bested all in Novigrad, try your luck in Velen.",
+    "ru": "А если ты победил всех в Новиграде, можешь попытать счастья в Велене.",
+    "pl": "A jeśli pokonałeś wszystkich w Novigradzie, możesz spróbować szczęścia w Velen.",
+    "bel": "А калі ты перамог усіх у Навіградзе, можаш паспрабаваць шчасця ў Велене."
+  },
+  "524196_00000000": {
+    "en": "Once you're all done, sail to Spikeroog. It's there you'll fight to be Champion of Champions.",
+    "ru": "А когда победишь вообще всех, отправляйся на Спикероог бороться за звание Чемпиона чемпионов.",
+    "pl": "A potem popłyń na Spikeroog, tam możesz walczyć o tytuł Mistrza Mistrzów.",
+    "bel": "А калі пераможаш наогул усіх, адпраўляйся на Спікерог змагацца за званне Чэмпіёна Чэмпіёнаў."
+  },
+  "524182_00000000": {
+    "en": "Farewell.",
+    "ru": "Прощай.",
+    "pl": "Bywaj.",
+    "bel": "Бывай."
+  },
+  "524183_00000000": {
+    "en": "Fought enough today. See you.",
+    "ru": "Хватит с меня боёв на сегодня. До свидания.",
+    "pl": "Na dziś mam dosyć walki. Do zobaczenia.",
+    "bel": "Хопіць з мяне баёў на сёння. Да пабачання."
+  },
+  "1047193_00000000": {
+    "en": "You've defeated everyone there was to defeat in Skellige. Makes you Champion of the Isles. Take pride, friend.",
+    "ru": "На Скеллиге ты уже победил всех, кого только можно. Выходит, ты чемпион Скеллиге.",
+    "pl": "Na Skellige pokonałeś już wszystkich, którzy byli do pokonania. Jesteś Mistrzem Skellige.",
+    "bel": "На Скеліге ты ўжо перамог усіх, каго толькі можна. Выходзіць, ты чэмпіён Скеліге."
+  },
+  "524192_00000000": {
+    "en": "Anyone else out there I could fight?",
+    "ru": "Есть ещё кто-то, с кем я могу помериться силой?",
+    "pl": "Czy jest jeszcze ktoś, z kim mogę się zmierzyć?",
+    "bel": "Ёсць яшчэ нехта, з кім я магу памерацца сілай?"
+  },
+  "524181_00000000": {
+    "en": "What now?",
+    "ru": "И что теперь?",
+    "pl": "Co teraz?",
+    "bel": "Што цяпер?"
+  },
+  "524179_00000000": {
+    "en": "You defeated Olaf, 'twas a fair fight.",
+    "ru": "Олаф побеждён в честной борьбе.",
+    "pl": "Olaf został pokonany w uczciwej walce.",
+    "bel": "Олаф пераможаны ў сумленнай барацьбе."
+  },
+  "524193_00000000": {
+    "en": "Isles're home to many a brave lad you'd find it hard to best. If you've not defeated 'em all, seek 'em out and challenge 'em.",
+    "ru": "На островах немало смельчаков и славных бойцов. Отыщи их и вызови их на бой.",
+    "pl": "Na wyspach nadal są śmiałkowie do pokonania. Jeśli jeszcze z nimi nie walczyłeś, odszukaj ich i wyzwij do walki.",
+    "bel": "На астравах нямала смельчакоў і слаўных байцоў. Знайдзі іх і пакліч на бой."
+  },
+  "1020836_00000000": {
+    "en": "But I… Mhm. I understand.",
+    "ru": "Да как же я… Угу. Понял.",
+    "pl": "Kiedy ja... Mhm. Rozumiem.",
+    "bel": "Але я... Угу. Зразумеў."
+  },
+  "1020834_00000000": {
+    "en": "I made a mistake. I know this now. Swear by Freya and all the gods - never again!",
+    "ru": "Э-это была ошибка. Теперь я понимаю. Клянусь Фрейей и всеми богами Большой земли… Больше никогда!",
+    "pl": "T-to był błąd. Teraz to rozumiem. Klnę się na Freyję i wszystkich bogów kontynentu... Już nigdy więcej!",
+    "bel": "Э-гэта была памылка. Цяпер я разумею. Клянуся Фрэяй і ўсімі багамі кантыненту... Больш ніколі!"
+  },
+  "1017165_00000000": {
+    "en": "Best keep that promise. I ever hear of another ship, even a dinghy, running aground off Eldberg… I'll come back here, finish what the penitent started. Understand?",
+    "ru": "Лучше тебе сдержать слово. Потому что если я когда-нибудь услышу, что у берегов Эльдберга разбился какой-нибудь корабль… то я вернусь сюда и закончу дело покаянника. Понял?",
+    "pl": "Lepiej, żebyś dotrzymał słowa. Bo jeśli kiedykolwiek usłyszę, że przy brzegu Eldbergu rozbiła się jakaś łódź, choćby kajak... To wrócę tu i dokończę robotę pokutnika. Rozumiesz?",
+    "bel": "Ты лепш стрымай слова. Бо калі я калі-небудзь пачую, што ў берагоў Эльдберга разбіўся нейкі карабель… то я вярнуся сюды і пакончу справу спаведніка. Ясна?"
+  },
+  "1017163_00000000": {
+    "en": "Let it slide. This time.",
+    "ru": "Я прощаю тебя. На этот раз.",
+    "pl": "Odpuszczę ci. Tym razem.",
+    "bel": "Я дарую табе. Гэтым разам."
+  },
+  "1017164_00000000": {
+    "en": "You gotta leave.",
+    "ru": "Ты должен уйти отсюда.",
+    "pl": "Masz się stąd wynieść.",
+    "bel": "Ты маеш ісці адсюль."
+  },
+  "1017168_00000000": {
+    "en": "Absolutely, never. Soon as we're done talking, you're gonna pack up and leave. For good. Understand?",
+    "ru": "Да, больше никогда. Потому что как только мы закончим этот разговор, ты соберёшь вещи и уедешь. Навсегда. Понял?",
+    "pl": "Tak, nigdy więcej. Bo jak tylko skończymy rozmowę, spakujesz się i wyjedziesz. Na zawsze. Rozumiesz?",
+    "bel": "Так, больш аніколі. Бо як толькі мы закончым размову, ты збярэш рэчы і паедзеш. Назаўсёды. Зразумеў?"
+  },
+  "1017171_00000000": {
+    "en": "I'd gladly thank you with words and gold. It's just my coin pouch is empty.",
+    "ru": "Я бы с радостью не только добрым словом поблагодарил, но и золотом… Только кошель у меня пустой.",
+    "pl": "Chętnie bym nie tylko słowem podziękował, ale i złotem... Tyle że mieszek u mnie pusty.",
+    "bel": "Я бы з радасцю не толькі добрым словам падзякаваў, але і золатам... толькі кашэль у мяне пусты."
+  },
+  "1017172_00000000": {
+    "en": "I know the feeling. So long.",
+    "ru": "Знакомое чувство. Будь здоров.",
+    "pl": "Znam to uczucie. Bywaj.",
+    "bel": "Знаёмае пачуццё. Бывай."
+  },
+  "1020829_00000000": {
+    "en": "It did. Still don't know what brought the penitent here, though… You'd best be careful.",
+    "ru": "Получилось. Но я по-прежнему не знаю, что привлекло сюда покаянника… Так что лучше будь осторожен.",
+    "pl": "Udało. Ale wciąż nie wiem, co tu ściągnęło pokutnika... Więc lepiej na siebie uważaj.",
+    "bel": "Выйшла. Але я ўсё яшчэ не ведаю, што прывяло сюды спаведніка… так што лепей будзь асцярожны."
+  },
+  "1020831_00000000": {
+    "en": "It did. But that doesn't make the island safe… 'Cause you're still here. A light keeper who lures ships onto the rocks… Sheesh.",
+    "ru": "Получилось. Но это вовсе не значит, что остров в безопасности… потому что на нем остаёшься ты. Сторож маяка, который заманивает корабли на скалы.",
+    "pl": "Udało. Ale to wcale nie znaczy, że wyspa jest bezpieczna... Bo jesteś na niej ty. Latarnik, który ściąga statki na skały.",
+    "bel": "Выйшла. Але гэта зусім не значыць, што востраў у бяспецы… бо на ім застаешся ты. Вартаўнік маяка, што вядзе караблі на скалы."
+  },
+  "1017162_00000000": {
+    "en": "D-did it work?",
+    "ru": "П-получилось?",
+    "pl": "U-udało się?",
+    "bel": "С-спрацавала?"
+  },
+  "168949_00000000": {
+    "en": "A whale.",
+    "ru": "Кит.",
+    "pl": "Wieloryb.",
+    "bel": "Кіт."
+  },
+  "168961_00000000": {
+    "en": "Answer's a whale.",
+    "ru": "Речь о ките.",
+    "pl": "Chodzi o wieloryba.",
+    "bel": "Гаворка пра кіта."
+  },
+  "168898_00000000": {
+    "en": "Bad! It troll! Whale no step, idgit! Him in pot!",
+    "ru": "Плохо! Потому что тролль! Кит не ходит! В котёл!",
+    "pl": "Źle – bo troll! Wieloryb nie chodzi! Do gara!",
+    "bel": "Дрэнна! Бо троль! Кіт не ходзіць! У кацёл!"
+  },
+  "168900_00000000": {
+    "en": "Hang on a minute. It's my turn.",
+    "ru": "Постой-ка. Теперь моя очередь.",
+    "pl": "Chwila. Teraz moja kolej.",
+    "bel": "Пастой. Цяпер мая чарга."
+  },
+  "168951_00000000": {
+    "en": "A troll.",
+    "ru": "Тролль.",
+    "pl": "Troll.",
+    "bel": "Троль."
+  },
+  "168963_00000000": {
+    "en": "A troll, of course.",
+    "ru": "Тролль, ясное дело.",
+    "pl": "Troll, rzecz jasna.",
+    "bel": "Троль, вядома."
+  },
+  "169012_00000000": {
+    "en": "Grr... Good, troll. Now you asks.",
+    "ru": "Гр-р… Хорошо, тролль. Пусть говорит свою загадку.",
+    "pl": "Grr... troll, dobrze. Niech zada swoją zagadkę.",
+    "bel": "Гр-р… добра, троль. Хай кажа сваю загадку."
+  },
+  "169000_00000000": {
+    "en": "The answer is \"your breath.\" All right, your turn. But make it quick or my guy'll boil to a pulp.",
+    "ru": "Ответ — «отдых». Ваша очередь. Только быстро, а то у меня человек разварится.",
+    "pl": "Odpowiedź brzmi: „oddech”. Wasza kolej. Tylko szybko, bo mi się człowiek rozgotuje.",
+    "bel": "Адказ – «адпачынак». Ваша чарга. Толькі хутка, а тое мой чалавек разварыцца."
+  },
+  "415235_00000000": {
+    "en": "Hurry up, dammit!",
+    "ru": "Быстрее!",
+    "pl": "Pospiesz się!",
+    "bel": "Хутчэй!"
+  },
+  "168945_00000000": {
+    "en": "Cold and splashes... Umm, a rhyme, rhyme… \"Cold and splashes, wave crashes.\"",
+    "ru": "Склизко и хлюп… Хм… Рифма, рифма… «Склизко, холодно и… хлюп. Но не рифма к слову „суп“»! Хе-хе-хе!",
+    "pl": "Zimny... Zimny i chlupa. Hmm... Rymu, rymu... „Zimny i chlupa, chrupa. Rymu, do rymu zupa!”. Haha!",
+    "bel": "Холадна… холадна, і хлюп… рыфма, рыфма… «холадна і хлюп, але не рыфма да слова “суп”»! Ха-ха!"
+  },
+  "168890_00000000": {
+    "en": "Snow.",
+    "ru": "Слизняк.",
+    "pl": "Ślimak.",
+    "bel": "Смоўж."
+  },
+  "168896_00000000": {
+    "en": "Snow?",
+    "ru": "Это слизняк.",
+    "pl": "To ślimak.",
+    "bel": "Гэта смоўж."
+  },
+  "169004_00000000": {
+    "en": "Bad!",
+    "ru": "Плохо!",
+    "pl": "Źle!",
+    "bel": "Дрэнна!"
+  },
+  "169006_00000000": {
+    "en": "In that case…",
+    "ru": "В таком случае…",
+    "pl": "W takim razie...",
+    "bel": "У такім выпадку…"
+  },
+  "169008_00000000": {
+    "en": "Soup break!",
+    "ru": "Перерыв на суп!",
+    "pl": "Przerwa na zupę!",
+    "bel": "Перарыў на суп!"
+  },
+  "169010_00000000": {
+    "en": "Dammit.",
+    "ru": "Чёрт…",
+    "pl": "Zaraza...",
+    "bel": "Зараза..."
+  },
+  "170946_00000000": {
+    "en": "That took too long.",
+    "ru": "Поздно.",
+    "pl": "Za długo to trwało.",
+    "bel": "Запозна."
+  },
+  "168894_00000000": {
+    "en": "A corpse.",
+    "ru": "Это волнорез.",
+    "pl": "To falochron.",
+    "bel": "Гэта хвалярэз."
+  },
+  "168886_00000000": {
+    "en": "A corpse.",
+    "ru": "Волнорез.",
+    "pl": "Falochron.",
+    "bel": "Хвалярэз."
+  },
+  "168953_00000000": {
+    "en": "Changed my mind, no time for riddles.",
+    "ru": "Я передумал, у меня нет времени на загадки.",
+    "pl": "Zmieniłem zdanie, nie ma czasu na zagadki.",
+    "bel": "Я перадумаў, у мяне няма часу на загадкі."
+  },
+  "158125_00000000": {
+    "en": "Had enough!",
+    "ru": "Ну хватит!",
+    "pl": "Dość tego!",
+    "bel": "Ну годзе!"
+  },
+  "168884_00000000": {
+    "en": "Forget it. Just don't feel like negotiating.",
+    "ru": "Что-то нет у меня настроения торговаться.",
+    "pl": "Nie jestem w nastroju do dyskusji.",
+    "bel": "Штосьці я не ў настроі таргавацца."
+  },
+  "168965_00000000": {
+    "en": "I don't have time for riddles.",
+    "ru": "Пожалуй, у меня всё-таки нет времени на загадки.",
+    "pl": "Chyba jednak nie mamy czasu na zagadki.",
+    "bel": "Бадай, у мяне ўсё ж няма часу на загадкі."
+  },
+  "168967_00000000": {
+    "en": "You in pot!",
+    "ru": "В котёл!",
+    "pl": "Do gara!",
+    "bel": "У кацёл!"
+  },
+  "168892_00000000": {
+    "en": "I don't wanna guess anymore.",
+    "ru": "Я передумал, у меня нет времени на загадки.",
+    "pl": "Nie chcę zgadywać.",
+    "bel": "У мяне няма часу на загадкі."
+  },
+  "168888_00000000": {
+    "en": "A rock.",
+    "ru": "Камень.",
+    "pl": "Kamień.",
+    "bel": "Камень."
+  },
+  "163504_00000000": {
+    "en": "A rock.",
+    "ru": "Это камень.",
+    "pl": "To kamień.",
+    "bel": "Гэта камень."
+  },
+  "309649_00000000": {
+    "en": "Grrr... Stupid riddle.",
+    "ru": "Гр-р-р… Глупые загадки.",
+    "pl": "Grrr... Głupie zagadki.",
+    "bel": "Гр-р-р... дурныя загадкі."
+  },
+  "312440_00000000": {
+    "en": "Feather, troll not hold, not piss…",
+    "ru": "…Перо, троллю нелегко, не пись-пись…",
+    "pl": "...Piórko, troll trzyma, nie siku...",
+    "bel": "…пяро, тролю нялёгка, не пісь-пісь…"
+  },
+  "169002_00000000": {
+    "en": "I won fair and square.",
+    "ru": "Я выиграл честно.",
+    "pl": "Wygrałem uczciwie.",
+    "bel": "Я выйграў сумленна."
+  },
+  "309647_00000000": {
+    "en": "Riddle hard! Human cheat!",
+    "ru": "Трудная загадка! Человек обманул!",
+    "pl": "Zagadka za trudna! Człowiek oszukał!",
+    "bel": "Цяжкая загадка! Чалавек падмануў!"
+  },
+  "163508_00000000": {
+    "en": "\"I'm light as a feather, but even a troll can't hold me for long.\"",
+    "ru": "«Пусть лёгким бываю я, словно перо, быть долго и троллю со мной нелегко».",
+    "pl": "„Jestem lekki jak piórko, ale nawet troll nie wstrzyma mnie długo”.",
+    "bel": "«Хай лёгкім бываю я, быццам пёрка, быць доўга і тролю са мной нялёгка»."
+  },
+  "163510_00000000": {
+    "en": "Eee... Err...",
+    "ru": "Э-э-э…",
+    "pl": "Yyy... Hmm...",
+    "bel": "Э-э-э... м-м-м..."
+  },
+  "163512_00000000": {
+    "en": "Hmmm…",
+    "ru": "Хм-м-м…",
+    "pl": "Hmmm...",
+    "bel": "Хм-м-м…"
+  },
+  "163514_00000000": {
+    "en": "Eee…",
+    "ru": "Э-э-э…",
+    "pl": "Eee...",
+    "bel": "Э-э-э…"
+  },
+  "163516_00000000": {
+    "en": "Piss?",
+    "ru": "Пись-пись?",
+    "pl": "Siku?",
+    "bel": "Пісь-пісь?"
+  },
+  "168959_00000000": {
+    "en": "It's a clock.",
+    "ru": "Это часы.",
+    "pl": "To zegar.",
+    "bel": "Гэта гадзіннік."
+  },
+  "392983_00000000": {
+    "en": "Clock? This what…? Bad! To pot!",
+    "ru": "Часы? Это кто? Плохо! В котёл!",
+    "pl": "Zegar? Eee... A co to?.. Źle! Do gara!",
+    "bel": "Гадзіннік? Гэта хто? Дрэнна! У кацёл!"
+  },
+  "392993_00000000": {
+    "en": "Hang on. It's my turn.",
+    "ru": "Погоди. Теперь моя очередь.",
+    "pl": "Poczekaj. Teraz moja kolej.",
+    "bel": "Счакай. Цяпер мая чарга."
+  },
+  "168947_00000000": {
+    "en": "A clock.",
+    "ru": "Часы.",
+    "pl": "Zegar.",
+    "bel": "Гадзіннік."
+  },
+  "163498_00000000": {
+    "en": "Play me for the man, then. If I win, I take him with me. If I lose, I'll jump in the pot too.",
+    "ru": "Значит, загадки любите? Ну давайте сыграем на человека. Если я выиграю — заберу его с собой, а если проиграю — сам прыгну в котёл.",
+    "pl": "Lubicie zagadki? No to zagrajmy o tego człowieka. Jeśli wygram, zabieram go ze sobą, jeśli przegram – wskakuję do gara.",
+    "bel": "Загадкі любіце? Ну дык давайце згуляем на чалавека. Калі я выйграю – забяру яго з сабой, а калі прайграю – сам скокну ў кацёл."
+  },
+  "163500_00000000": {
+    "en": "Good, good! Hehehe.",
+    "ru": "Это хорошо! Хе-хе-хе.",
+    "pl": "To dobre! He, he, he. Bardzo dobre!",
+    "bel": "Гэта добра! Хе-хе-хе."
+  },
+  "415292_00000000": {
+    "en": "What?! Ploughin' riddles? Now?!",
+    "ru": "Загадки? Сейчас?!",
+    "pl": "Zagadki? Teraz?!",
+    "bel": "Загадкі? Цяпер?!"
+  },
+  "415294_00000000": {
+    "en": "No bubble!",
+    "ru": "Не булькай!",
+    "pl": "Nie bulgota!",
+    "bel": "Не булькай!"
+  },
+  "163502_00000000": {
+    "en": "First riddle: \"Lots eats, lots drinks.\"",
+    "ru": "Первая загадка: «Много ест и много пьёт…»",
+    "pl": "Pierwsza zagadka: „Dużo je i dużo pije.”",
+    "bel": "Першая загадка: \"Шмат есці і шмат п'е.\""
+  },
+  "171024_00000000": {
+    "en": "\"Big he be, steps big he, big he bash.\"",
+    "ru": "«Ходит он большой и бьёт».",
+    "pl": "„I jest duży, chodzi i bije”.",
+    "bel": "\"Ходзіць ён вялікі і б'е\"."
+  },
+  "158123_00000000": {
+    "en": "All right, let's play for him - you and me.",
+    "ru": "Сыграем на него.",
+    "pl": "Zagrajmy o niego.",
+    "bel": "Згуляем на яго."
+  },
+  "158121_00000000": {
+    "en": "Cookin' somethin'?",
+    "ru": "Готовите?",
+    "pl": "Gotujecie sobie?",
+    "bel": "Гатуеце нешта?"
+  },
+  "158174_00000000": {
+    "en": "Aye, cooking.",
+    "ru": "Готовим.",
+    "pl": "Ano, gotujemy. Bo głodne.",
+    "bel": "Гатуем."
+  },
+  "158176_00000000": {
+    "en": "Hey! You there! Help me! Water's getting' hot! Ah! Argh!",
+    "ru": "Эй ты! Помоги мне! Вода нагревается!",
+    "pl": "Hej, ty tam! No pomóż mi! Woda robi się gorąca!",
+    "bel": "Гэй ты! Дапамажы мне! Вада награваецца!"
+  },
+  "168876_00000000": {
+    "en": "Shut it!",
+    "ru": "Тихо там!",
+    "pl": "Cicho tam!",
+    "bel": "Цішэй там!"
+  },
+  "168878_00000000": {
+    "en": "I need that man.",
+    "ru": "Мне нужен этот человек.",
+    "pl": "Potrzebuję tego człowieka.",
+    "bel": "Мне патрэбны гэты чалавек."
+  },
+  "168880_00000000": {
+    "en": "No! We win human from Myrhyff!",
+    "ru": "Не. Человека у Мыргыффа выиграли.",
+    "pl": "Nie. Człowiek wygrany od Myrhyffa.",
+    "bel": "Не. Чалавека ў Мыргыфа выйгралі!"
+  },
+  "168882_00000000": {
+    "en": "I figure riddle.",
+    "ru": "В загадки! Хе-хе.",
+    "pl": "W zagadki. I to trudne!",
+    "bel": "У загадкі! Хе-хе."
+  },
+  "1043508_00000000": {
+    "en": "Fuckin' hell, didn't hurt this much when that bear clawed me shoulder.",
+    "ru": "Жёваный крот, когда мне медведь плечо разорвал, и то так не болело.",
+    "pl": "Kurważ mać, nawet jak mi niedźwiedź rozdarł ramię, to tak nie bolało.",
+    "bel": "Халеру мне ў жонкі, калі мне мядзведзь плячо разадрваў, і тое так не балела."
+  },
+  "1043509_00000000": {
+    "en": "Stop groanin', herb'll do its thing soon, and I'll take ye to the druid.",
+    "ru": "Не стони, как травка начнёт действовать, понесу тебя к друиду.",
+    "pl": "Nie jęcz, zioła zaczną działać, to cię wezmę do druida.",
+    "bel": "Не стагні, як траўка пачне дзейнічаць, панясу цябе да друіда."
+  },
+  "485928_00000000": {
+    "en": "I'm ready.",
+    "ru": "Я готов.",
+    "pl": "Jestem gotowy.",
+    "bel": "Я гатовы."
+  },
+  "485929_00000000": {
+    "en": "All right. I'll be back soon.",
+    "ru": "Хорошо. Я скоро вернусь.",
+    "pl": "Dobrze. Niedługo wrócę.",
+    "bel": "Добра. Я хутка павярнуся."
+  },
+  "1064481_00000000": {
+    "en": "In the meantime, get a fire goin' in the oven.",
+    "ru": "А ты пока затопи печь.",
+    "pl": "A ty w tym czasie rozpal ogień w piecu.",
+    "bel": "А ты пакуль распалі печ."
+  },
+  "485926_00000000": {
+    "en": "Let's start.",
+    "ru": "Начнём.",
+    "pl": "Zaczynajmy.",
+    "bel": "Пачнем."
+  },
+  "485931_00000000": {
+    "en": "I don't know what you have in store for me. Gotta prepare, at least a little.",
+    "ru": "Я не знаю, что меня ждёт, и должен хоть немного подготовиться.",
+    "pl": "Nie wiem, co mnie czeka, muszę się choć trochę przygotować.",
+    "bel": "Я не ведаю, што мяне чакае, і мушу хоць крыху падрыхтавацца."
+  },
+  "485932_00000000": {
+    "en": "All right. Let me know when you're ready.",
+    "ru": "Понимаю. Дай знать, когда будешь готов.",
+    "pl": "Rozumiem. Daj znać, kiedy będziesz gotowy.",
+    "bel": "Разумею. Паведамі, калі будзеш гатовы."
+  },
+  "485927_00000000": {
+    "en": "No, I need to get ready.",
+    "ru": "Нет, я должен подготовиться.",
+    "pl": "Nie, muszę się przygotować.",
+    "bel": "Не, я мушу падрыхтавацца."
+  },
+  "488734_00000000": {
+    "en": "So? Can we start?",
+    "ru": "Ну что? Можем начинать?",
+    "pl": "To jak? Możemy zaczynać?",
+    "bel": "Ну як? Можам пачынаць?"
+  },
+  "485924_00000000": {
+    "en": "Hope you know what you're doing…",
+    "ru": "Надеюсь, ты знаешь, что делаешь.",
+    "pl": "Mam nadzieję, że wiesz, co robisz...",
+    "bel": "Спадзяюся, ты разумееш, што робіш..."
+  },
+  "485925_00000000": {
+    "en": "So do I…",
+    "ru": "Я тоже…",
+    "pl": "Ja też...",
+    "bel": "Я таксама…"
+  },
+  "485922_00000000": {
+    "en": "I trust you.",
+    "ru": "Я тебе верю.",
+    "pl": "Ufam ci.",
+    "bel": "Я табе веру."
+  },
+  "485939_00000000": {
+    "en": "No reason to wait.",
+    "ru": "Не стоит ждать.",
+    "pl": "Nie ma na co czekać.",
+    "bel": "Не варта чакаць."
+  },
+  "485937_00000000": {
+    "en": "Let's go now.",
+    "ru": "Идём сейчас.",
+    "pl": "Chodźmy od razu.",
+    "bel": "Пайшлі зараз."
+  },
+  "485940_00000000": {
+    "en": "Wanna look around some more. Meet you there.",
+    "ru": "Я хочу осмотреться. Встретимся на месте.",
+    "pl": "Chcę się jeszcze rozejrzeć, spotkamy się na miejscu.",
+    "bel": "Я хачу агледзецца. Сустрэнемся на месцы."
+  },
+  "485938_00000000": {
+    "en": "I'll join you later.",
+    "ru": "Я приду позже.",
+    "pl": "Przyjdę później.",
+    "bel": "Далучуся да цябе пазней."
+  },
+  "488739_00000000": {
+    "en": "You're asking me to put my life at risk, Udalryk's life at risk. I can't do that.",
+    "ru": "Ты собираешься рискнуть жизнями — своей и Удальрика. Я не могу на это пойти.",
+    "pl": "Każesz zaryzykować życie swoje i Udalryka. Nie mogę się na to zgodzić.",
+    "bel": "Ты збіраешся рызыкнуць жыццямі - сваёй і Удальрыка. Я не магу на гэтае пагадзіцца."
+  },
+  "488741_00000000": {
+    "en": "I prefer witchers' methods - tried and true.",
+    "ru": "По мне, проверенные ведьмачьи методы лучше.",
+    "pl": "Wolę sprawdzone, wiedźmińskie metody...",
+    "bel": "На мой погляд, правераныя вядзьмарскія метады лепш."
+  },
+  "488744_00000000": {
+    "en": "I see. If something were to go wrong, it’s true… So be it. Let's get Udalryk.",
+    "ru": "Понимаю. И если что-то пойдёт не так… Ладно, идём за Удальриком.",
+    "pl": "Rozumiem... Faktycznie, gdyby coś poszło nie tak... No nic, w takim razie chodźmy po Udalryka.",
+    "bel": "Разумею. А раптам нешта пойдзе не так... Добра, ідзём за Удальрыкам."
+  },
+  "488746_00000000": {
+    "en": "But you'll have to tell him what this witchers' method's about.",
+    "ru": "Надо ему рассказать о ведьмачьем способе.",
+    "pl": "Trzeba mu powiedzieć, jak wygląda ten wiedźmiński sposób...",
+    "bel": "Трэба яму распавесці пра вядзьмарскі спосаб."
+  },
+  "485923_00000000": {
+    "en": "No way.",
+    "ru": "И речи быть не может.",
+    "pl": "Nie ma mowy.",
+    "bel": "Няма мовы."
+  },
+  "488708_00000000": {
+    "en": "Come up with anything?",
+    "ru": "Ты придумала что-нибудь?",
+    "pl": "Wymyśliłaś coś?",
+    "bel": "Ты прыдумала што-небудзь?"
+  },
+  "488722_00000000": {
+    "en": "Yes, I've a plan - one that just might work.",
+    "ru": "Да, у меня есть план, и очень надеюсь, что он сработает.",
+    "pl": "Tak, mam plan – i to naprawdę może się udać.",
+    "bel": "Так, маю план, і вельмі спадзяюся, што ён спрацуе."
+  },
+  "488724_00000000": {
+    "en": "Can I get any details?",
+    "ru": "А подробности?",
+    "pl": "Jakieś konkrety?",
+    "bel": "А падрабязнасці?"
+  },
+  "488728_00000000": {
+    "en": "You've got to wait for me here. I won't be long.",
+    "ru": "Просто подожди меня здесь. Я скоро вернусь.",
+    "pl": "Po prostu musisz tu na mnie poczekać. Niedługo wrócę.",
+    "bel": "Проста пачакай мяне тут. Я хутка вярнуся."
+  },
+  "495335_00000000": {
+    "en": "Uhhh, anything else…?",
+    "ru": "Что-нибудь ещё?..",
+    "pl": "Może coś więcej...?",
+    "bel": "Што-небудзь яшчэ…?"
+  },
+  "495337_00000000": {
+    "en": "Said yourself - you can't know the details. So no, nothing else. You simply gotta trust me.",
+    "ru": "Ты сам сказал, что не должен знать подробностей. Большего я не могу сказать. Просто верь мне.",
+    "pl": "Przecież sam powiedziałeś, że nie możesz znać szczegółów. Więcej nie powiem, musisz mi zaufać.",
+    "bel": "Ты сам казаў, што не павінен ведаць падрабязнасьцяў. Большага я не магу апавесці. Мусіш проста верыць мне."
+  },
+  "390026_00000000": {
+    "en": "Arnulf is dead!",
+    "ru": "Арнульф мёртв!",
+    "pl": "Arnulf nie żyje!",
+    "bel": "Арнульф мёртвы!"
+  },
+  "391411_00000000": {
+    "en": "What?!",
+    "ru": "Что?",
+    "pl": "Co?!",
+    "bel": "Што?!"
+  },
+  "390028_00000000": {
+    "en": "Your brother, he's been murdered! Dammit, c'mon people, we gotta take him down!",
+    "ru": "Брата твоего убили! Дьявол, идём скорей, его снять надо!",
+    "pl": "Twój brat zamordowany! Psiakrew, chodźcie, musimy go zdjąć!",
+    "bel": "Брата твайго забілі! Халера, ідзем хутчэй, яго зняць трэба!"
+  },
+  "1010305_00000000": {
+    "en": "Hmm, strange… Knife protruding from that one's gut… No sign of fighting, otherwise…",
+    "ru": "Хм-м… Странно… У этого из живота торчит нож… Но кроме этого, нет никаких следов борьбы…",
+    "pl": "Hmm... Dziwne... Temu z brzucha sterczy nóż... Ale poza tym nie ma żadnych śladów walki...",
+    "bel": "Хм-м... Дзіўна... У гэтага з жывата тырчыць нож... Але апроч гэтага, няма ніякіх слядоў барацьбы..."
+  },
+  "1010315_00000000": {
+    "en": "Skelligan honor… Chose to die instead of living with the knowledge they'd let down their brother…",
+    "ru": "Скеллигская честь… Им лучше было умереть, чем жить, понимая, что они подвели брата…",
+    "pl": "Skelligijski honor... Woleli zginąć, niż żyć ze świadomością, że zawiedli brata.",
+    "bel": "Скелізскі гонар... Ім лепш было памерці, чым жыць, разумеючы, што яны падвялі брата..."
+  },
+  "1010318_00000000": {
+    "en": "God-fearing warriors…",
+    "ru": "Какие-то богобоязненные воины…",
+    "pl": "Jacyś bogobojni wojownicy...",
+    "bel": "Нейкія богабаязныя ваяры..."
+  },
+  "1010317_00000000": {
+    "en": "Brothers entrusted themselves to the goddess before they died.",
+    "ru": "Перед смертью братья исповедались богине.",
+    "pl": "Bracia powierzyli się bogini, zanim skonali.",
+    "bel": "Перад смерцю браты спавядаліся багіні."
+  },
+  "1010316_00000000": {
+    "en": "Freya's symbol… scrawled in blood…",
+    "ru": "Символ Фрейи… Забрызганный кровью…",
+    "pl": "Symbol Freyji... Nabazgrany krwią...",
+    "bel": "Сімвал Фрэіі... Запырсканы крывёй..."
+  },
+  "560061_00000000": {
+    "en": "Trapdoor under a bearskin rug… Classic.",
+    "ru": "Крышка в полу спрятана под медвежьей шкурой… Классика.",
+    "pl": "Klapa w podłodze ukryta pod niedźwiedzią skórą... Klasyka.",
+    "bel": "Дзверы ў падлозе схаваныя пад мядзведжай скурай... Класіка."
+  },
+  "587468_00000000": {
+    "en": "C'mon. Open it.",
+    "ru": "Ну ладно. Открывай.",
+    "pl": "No, już. Otwieraj.",
+    "bel": "Ну добра. Адчыняй."
+  },
+  "1022389_00000000": {
+    "en": "Einar's back from a raid. They say when he lost his axe, he went to smashin' Nilfgaardians with his bare hands.",
+    "ru": "Эйнар тут вернулся из похода. Говорят, когда он потерял топор, давил нильфов голыми руками.",
+    "pl": "Einar z wyprawy wrócił. Mówią, że jak stracił topór, prał Nilfgaardczyków gołymi rękoma.",
+    "bel": "Эйнар вярнуўся з паходу. Кажуць, калі ён згубіў сякеру, душыў нільфаў голымі рукамі."
+  },
+  "1022391_00000000": {
+    "en": "Ehh, I know he's unequaled in a fistfight… But I think that's vergin' on eyewash.",
+    "ru": "Я знаю, что ему в кулачном бою нет равных. Но уж это точно враки.",
+    "pl": "No, ja wiem, że on na pięści nie ma równych... Ale to już chyba bujdy.",
+    "bel": "Я ведаю, што яму ў кулачным баі няма роўных. Але гэта ўжо сапраўды хлусня."
+  },
+  "1022393_00000000": {
+    "en": "Naye. He showed us the plates he took off the Black Ones. They all had dents - shaped by his fists.",
+    "ru": "Он показывал доспехи, снятые с Чёрных. А на них вмятины — прям по форме его ладоней.",
+    "pl": "Pokazywał blachy zdjęte z Czarnych. Miały wgniecenia w kształcie jego dłoni.",
+    "bel": "Ён паказваў даспехі, знятыя з Чорных. А на іх сагнутасці - рыхтык форма ягоных далоняў."
+  },
+  "1022395_00000000": {
+    "en": "Did you hear? Some outlander thrashed Einar. Man couldn't stand up straight for three days after.",
+    "ru": "Слыхал? Какой-то чужак побил Эйнара. Тот потом три дня на ногах не стоял.",
+    "pl": "Słyszałeś? Jakiś obcy pobił Einara. Trzy dni potem nie mógł prosto ustać.",
+    "bel": "Чуў? Нейкі чужынец пабіў Эйнара. Той потым тры дні на нагах не стаяў."
+  },
+  "1022397_00000000": {
+    "en": "Well, well. What's next? Some vagrant from the Continent gonna out drink Madman Lugos? It's end-times for sure!",
+    "ru": "Ну и ну. И что же дальше-то будет? Какой-нибудь бродяга с Большой земли перепьёт Лугоса Безумного? Конец света!",
+    "pl": "No, no. Co będzie dalej? Jakiś włóczęga z kontynentu przepije Lugosa Szalonego? Świat się kończy!",
+    "bel": "Ну і ну. І што ж далей будзе? Які-небудзь бадзяга з кантынента перап'е Лугаса Вар'ята? Канец свету!"
+  },
+  "1042573_00000000": {
+    "en": "We must go to the central chamber, try to power down the security measures.",
+    "ru": "Пойдём в главный зал. Надо снять защиту.",
+    "pl": "Chodźmy do głównej komnaty. Trzeba pozbyć się zabezpieczenia.",
+    "bel": "Пойдзем у галоўную залю. Трэба зняць абарону."
   },
   "1042575_00000000": {
     "en": "The Defensive Regulatory Magicon could react. Be on your guard.",
@@ -46331,10 +48365,952 @@
     "pl": "Defensywny Regulator Magiczny może zareagować. Bądź czujny.",
     "bel": "Абарончы Рэгулятар Магіі можа адрэагаваць. Асцярожна."
   },
+  "1050112_00000000": {
+    "en": "Geralt of Rivia! Our hero!",
+    "ru": "Геральт из Ривии! Наш герой!",
+    "pl": "Nasz bohater, Geralt z Rivii!",
+    "bel": "Геральт з Рывіі! Наш герой!"
+  },
+  "1024272_00000000": {
+    "en": "Thick, leathery leaves… rough to the touch.",
+    "ru": "Листья толстые, кожистые, жёсткие…",
+    "pl": "Liście grube, skórzaste... A w dotyku szorstkie.",
+    "bel": "Лісце тоўстае, скурыстае, цвёрдае."
+  },
+  "1024274_00000000": {
+    "en": "An ill omen. It'll be a dry year.",
+    "ru": "Дурной знак. Будет сухой год.",
+    "pl": "Zła wróżba. Będzie suchy rok.",
+    "bel": "Благі знак. Будзе сухі год."
+  },
+  "1024276_00000000": {
+    "en": "At least there's no sign of woodworm. When you hear their scratching, it means hail for sure.",
+    "ru": "Хорошо хоть короедов не слышно, а то как они шуршат, вечно град выпадает.",
+    "pl": "Dobrze chociaż, że korników nie słychać. Bo jak chroboczą, zawsze grad spadnie.",
+    "bel": "Добра хоць караедаў не чуваць, бо як яны храбусцяць, вечна град падае."
+  },
+  "485901_00000000": {
+    "en": "But why? Why'd you do it?!",
+    "ru": "Зачем? Зачем ты это сделал?!",
+    "pl": "Ale czemu? Czemu to zrobiłeś?!",
+    "bel": "Але чаму? Чаму ты гэтае зрабіў?!"
+  },
+  "485902_00000000": {
+    "en": "I… I had to. The gods commanded it.",
+    "ru": "Я… Я должен. Боги приказали.",
+    "pl": "Mu... Musiałem. Bogowie kazali.",
+    "bel": "Я... Я мусіў. Багі загадалі."
+  },
+  "485903_00000000": {
+    "en": "No gods command men to do such things!",
+    "ru": "Никакие боги не прикажут такое.",
+    "pl": "Żadni bogowie nie każą robić takich rzeczy!",
+    "bel": "Ніякія багі не загадаюць такое!"
+  },
+  "492027_00000000": {
+    "en": "J-o-n-n-a… May it be quick and painless.",
+    "ru": "Й-о-н-а… Лишь бы это была лёгкая смерть.",
+    "pl": "J-o-n-a... Oby to była lekka śmierć.",
+    "bel": "Ё-о-н-а... Абы гэта была лёгкая смерць."
+  },
+  "413288_00000000": {
+    "en": "So I jumped on his back, sank my blade in his neck to the hilt!",
+    "ru": "Тут я вскакиваю ему на спину и загоняю меч ему в шею — по рукоять!",
+    "pl": "A wtedy wskoczyłem mu na plecy – i wbiłem miecz w kark, po jelec!",
+    "bel": "Тут я ўскокваю на спіну і заганяю меч яму ў шыю - па рукаяць!"
+  },
+  "414757_00000000": {
+    "en": "Blood sprayed out like a true geyser, 'cept cold as a mountain stream!",
+    "ru": "Хлынула кровь… А холодная была, как вода в горном ручье!",
+    "pl": "Trysnęła krew... A zimna była, jak woda w górskim strumieniu!",
+    "bel": "Пырснула кроў... А халодная была, як вада ў горным ручаі!"
+  },
+  "414759_00000000": {
+    "en": "But so many of your mates died. A shame, that.",
+    "ru": "Но столько твоих товарищей погибло. Это жалко.",
+    "pl": "Ale tylu twoich towarzyszy zginęło. Szkoda ich.",
+    "bel": "Але столькі тваіх таварышаў загінула. Шкада іх."
+  },
+  "414761_00000000": {
+    "en": "Aye, damn shame. But bewailin' 'em's for naught. We'd do better to drink to their memory!",
+    "ru": "Жалко, конечно. Но вместо того, чтоб о них скорбеть, выпьем-ка за их добрую память!",
+    "pl": "Ano, szkoda. Ale zamiast się nad nimi użalać, lepiej wypijmy za ich pamięć!",
+    "bel": "Шкада, вядома. Але замест таго, каб пра іх смуткаваць, вып'ем за іх добрую памяць!"
+  },
+  "1070507_00000000": {
+    "en": "Here's his room. Arnvald slept there, by the wall.",
+    "ru": "Вот его комната… Арнвальд спал там, у стены.",
+    "pl": "To ten pokój... Arnvald spał o tam, pod ścianą.",
+    "bel": "Вось ягоны пакой… Арнвальд спаў там, ля сцяны."
+  },
+  "1072796_00000000": {
+    "en": "Clothes all over the place. Think Arnvald might've been in a hurry.",
+    "ru": "Вся одежда разбросана. Наверно, Арнвальд очень спешил.",
+    "pl": "Spójrz na te rozrzucone ubrania. Chyba Arnwald bardzo się śpieszył.",
+    "bel": "Усё адзенне раскідана. Напэўна, Арнвальд вельмі спяшаўся."
+  },
+  "1073271_00000000": {
+    "en": "And a lone shoe. Unlike him - he paid attention to how he looked.",
+    "ru": "И башмак без пары. Непохоже на него — он всегда был очень опрятным.",
+    "pl": "I but bez pary. To do niego niepodobne – zawsze dbał o strój.",
+    "bel": "І чаравік без пары. Непадобна на яго - ён заўсёды дбаў пра строй."
+  },
+  "1073229_00000000": {
+    "en": "Shoes are of a pair.",
+    "ru": "А вот и пара.",
+    "pl": "Buty są z tej samej pary.",
+    "bel": "Чаравік з тае пары."
+  },
+  "1072798_00000000": {
+    "en": "Wonder where the other one is.",
+    "ru": "Интересно, где второй башмак?",
+    "pl": "Ciekawe co się stało z drugim butem?",
+    "bel": "Цікава, дзе другі чаравік."
+  },
+  "1073273_00000000": {
+    "en": "Think that important?",
+    "ru": "Думаешь, это важно?",
+    "pl": "Uważasz, że to ważne?",
+    "bel": "Думаеш гэта важна?"
+  },
+  "1073275_00000000": {
+    "en": "Was wearing both on the beach. Remember that clearly 'cause he didn't have much else on. Now where could it be?",
+    "ru": "На берегу на нём были оба башмака. Я это запомнил, потому что больше на нём почти ничего не было. Где же другой?",
+    "pl": "Na plaży miał oba buty. Zapamiętałem, bo wiele wiele więcej nie miał na sobie. Gdzie jest drugi?",
+    "bel": "На беразе на ім было два чаравіка. Я гэта запомніў, бо болей на ім амаль нічога не было. Дзе ж другі?"
+  },
+  "1072800_00000000": {
+    "en": "Got a shoe under the table.",
+    "ru": "Под столом башмак.",
+    "pl": "But Arnvalda leży pod stołem.",
+    "bel": "Пад сталом чаравік."
+  },
+  "1072802_00000000": {
+    "en": "Arnvald must've kicked it in his rush to get away.",
+    "ru": "Должно быть, Арнвальд случайно запнул это под стол — когда убегал.",
+    "pl": "Arnval musiał kopnąć but pod stół przypadkiem, podczas ucieczki.",
+    "bel": "Мабыць, Арнвальд выпадкова пнуў яго пад стол - калі ўцякаў."
+  },
+  "1072804_00000000": {
+    "en": "Hm… Something inside it.",
+    "ru": "Гм… Внутри что-то есть.",
+    "pl": "Hm... W środku coś jest.",
+    "bel": "Гм... Унутры нешта ёсць."
+  },
+  "1072806_00000000": {
+    "en": "Beautiful things… all pretty much useless to us.",
+    "ru": "Красивые вещи, но в расследовании они нам не помогут.",
+    "pl": "Ładne rzeczy, ale nic przydatnego w naszym śledztwie.",
+    "bel": "Прыгожыя рэчы, але яны нам не дапамогуць."
+  },
+  "1072808_00000000": {
+    "en": "We should take everythin' anyway. Never know what could be important.",
+    "ru": "На всякий случай возьмём всё — кто знает, что нам пригодится.",
+    "pl": "Na wszelki wypadek weźmy wszystko – nigdy nie wiadomo, co się przyda.",
+    "bel": "На ўсялякі выпадак возьмем усё - хто ведае, што нам спатрэбіцца."
+  },
+  "1072810_00000000": {
+    "en": "Right.",
+    "ru": "Верно.",
+    "pl": "Racja.",
+    "bel": "Добра."
+  },
+  "1073287_00000000": {
+    "en": "\"The Song of Bran the Conqueror.\"",
+    "ru": "«Песнь о Бране Завоевателе».",
+    "pl": "„Pieśń o Branie Zdobywcy.”",
+    "bel": "\"Песня пра Брана Заваёўніка.\""
+  },
+  "1073289_00000000": {
+    "en": "Bran the Conqueror's a hero to Clan Tuirseach. He took Skellige's crown by force, was killed soon after.",
+    "ru": "Бран Завоеватель — герой клана Тиршах. Он силой захватил корону Скеллиге, а потом его убили.",
+    "pl": "Bran Zdobywca jest bohaterem klanu Tuirseach. Zdobył koronę Skellige siłą, a potem został zabity.",
+    "bel": "Бран Заваёўнік - герой клана Туршах. Ён сілай захапіў карону Скеліге, а потым яго забілі."
+  },
+  "1073291_00000000": {
+    "en": "Interesting, but it's hardly proof.",
+    "ru": "Интересно, но на доказательство не потянет.",
+    "pl": "Ciekawe, ale to żaden dowód.",
+    "bel": "Цікава, але на доказ не пацягне."
+  },
+  "560928_00000000": {
+    "en": "An empty envelope. Hm… scent's familiar…",
+    "ru": "Пустой конверт. Но… Запах, кажется, знакомый…",
+    "pl": "Pusta koperta. Ale... chyba znam skądś ten zapach...",
+    "bel": "Пусты канверт. Але... Пах, здаецца, знаёмы..."
+  },
+  "1073277_00000000": {
+    "en": "Must say I envy you that.",
+    "ru": "Ну и нюх у тебя.",
+    "pl": "Ależ ty masz nos.",
+    "bel": "Ну і нюх у цябе."
+  },
+  "1073279_00000000": {
+    "en": "Ambergris… Means a user of perfume. That's the scent to follow.",
+    "ru": "Амбра… это духи. Идём за этим запахом.",
+    "pl": "Tak, czuję ambrę... To perfumy. Chodźmy za tym zapachem.",
+    "bel": "Амбра… гэта духі. Ідзем за гэтым пахам."
+  },
   "1073334_00000000": {
     "en": "Birna Bran… Horrific death.",
     "ru": "Бирна Бран… Скверная смерть.",
     "pl": "Birna Bran... Paskudna śmierć.",
     "bel": "Бірна Бран… паскудная смерць."
+  },
+  "392904_00000000": {
+    "en": "Wanted to see what you have on offer.",
+    "ru": "Я хотел бы взглянуть на твои товары.",
+    "pl": "Chciałem obejrzeć twoje towary.",
+    "bel": "Я хацеў бы агледзець твае тавары."
+  },
+  "392856_00000000": {
+    "en": "Can't charge you for lookin'. Peruse at will.",
+    "ru": "За это я денег не беру. Смотри, сколько хочешь.",
+    "pl": "To nic nie kosztuje. Oglądaj, ile chcesz.",
+    "bel": "За гэта я грошай не бяру. Глядзі, колькі хочаш."
+  },
+  "392850_00000000": {
+    "en": "Show me what you have in stock?",
+    "ru": "Покажи мне свои товары.",
+    "pl": "Pokaż mi swoje towary.",
+    "bel": "Пакажы мне свае тавары?"
+  },
+  "1086472_00000000": {
+    "en": "Wouldn't mind playing cards. You game?",
+    "ru": "Я бы перекинулся в гвинт. Ты играешь?",
+    "pl": "Zagrałbym w karty. Co ty na to?",
+    "bel": "Я б перакінуўся ў гвінт. Ты гуляеш?"
+  },
+  "392922_00000000": {
+    "en": "See you.",
+    "ru": "Будь здоров.",
+    "pl": "Bywaj.",
+    "bel": "Бывай."
+  },
+  "392854_00000000": {
+    "en": "Farewell.",
+    "ru": "Прощай.",
+    "pl": "Bywaj.",
+    "bel": "Бывай."
+  },
+  "392852_00000000": {
+    "en": "Kaer Trolde's preparing for war?",
+    "ru": "Каэр Трольде готовится к войне?",
+    "pl": "Kaer Trolde szykuje się na wojnę?",
+    "bel": "Каэр-Трольдэ рыхтуецца да вайны?"
+  },
+  "392858_00000000": {
+    "en": "Harbor's real busy. Looks like Crach's marshaling his forces for war.",
+    "ru": "На пристани такое движение. Похоже, Крах собрался на войну?",
+    "pl": "Sporo ruchu na przystani. Wygląda na to, że Crach mobilizuje wszystkie siły na wojnę.",
+    "bel": "На прыстані такі рух. Нібы Крах сабраўся на вайну."
+  },
+  "392868_00000000": {
+    "en": "If that weren't old gossip, I'd take you for a spy. But I know you're a friend of Crach, so I'm proud to say you're right.",
+    "ru": "Все вокруг только об этом и твердят. Если б не это, я бы тебя принял за шпиона. Ты дружишь с Крахом, поэтому с гордостью подтверждаю: так и есть.",
+    "pl": "Gdyby nie stugębna plotka, wziąłbym cię za szpiega. Ale wiem, że przyjaźnisz się z Crachem, więc z dumą potwierdzam.",
+    "bel": "Усё наўкола толькі пра гэта і кажа. І калі б не гэтае, я б цябе прыняў за шпіёна. Але я ведаю ты сябруеш з Крахам, таму з гонарам пацвярджаю."
+  },
+  "392906_00000000": {
+    "en": "Come summer we'll have three new longboats: the \"Hemdall,\" the \"Kambi,\" and the \"Wild Boar of the Sea.\" The last for Crach himself.",
+    "ru": "К лету спустят на воду три новых драккара: «Хеймдалль», «Камби» и корабль для самого Краха, «Морской Вепрь».",
+    "pl": "Do lata powstaną trzy nowe drakkary: „Hemdal”, „Kambi” i przeznaczony dla samego Cracha „Dzik Morski”.",
+    "bel": "Да лета спусцяць на ваду тры новыя дракары: \"Хэмдаль\", \"Камбі\" і карабель для самога Краха, \"Марскі Дзік\"."
+  },
+  "393682_00000000": {
+    "en": "Your clan planning to take up arms against Nilfgaard?",
+    "ru": "Клан выступает против Нильфгаарда?",
+    "pl": "Klan rusza przeciw Nilfgaardowi?",
+    "bel": "Клан выступае супраць Нільфгаарда?"
+  },
+  "393684_00000000": {
+    "en": "We'll see what our new king says. But it'd be strange to see those longships just sit in the harbor.",
+    "ru": "Посмотрим, что скажет новый король. Но я удивлюсь, если драккары останутся у пристани.",
+    "pl": "Zobaczymy, co powie nowy król. Ale zdziwiłbym się, gdyby drakkary zostały w porcie.",
+    "bel": "Паглядзім, што скажа новы кароль. Але я здзіўлюся, калі дракары застануцца ў прыстані."
+  },
+  "392848_00000000": {
+    "en": "Greetings.",
+    "ru": "Приветствую.",
+    "pl": "Witaj.",
+    "bel": "Вітаю."
+  },
+  "392898_00000000": {
+    "en": "And a most humble greeting to you, sir. Name's Karl, but Whistling Whacker they call me.",
+    "ru": "Ваш покорный слуга. Я Карл, по прозванию Свистящая Дубина.",
+    "pl": "Kłaniam się uniżenie. Jestem Karl, zwany Świszczącą Pałą.",
+    "bel": "Ваш пакорны слуга. Я – Карл па мянушцы Свісцячая Дубіна."
+  },
+  "393676_00000000": {
+    "en": "Interesting as monikers go.",
+    "ru": "Интересное прозвище.",
+    "pl": "Interesujący przydomek.",
+    "bel": "Цікавая мянушка."
+  },
+  "393678_00000000": {
+    "en": "When I was a lad, my pa told me, \"Son, you'll be a merchant one day. If you want folk to buy from you, you gotta draw them in.\"",
+    "ru": "Когда я был ещё дитятей, батюшка говорил мне: «Сынок, когда-нибудь ты сам станешь купцом. Чтобы люди у тебя покупали, надо их как-то привлекать».",
+    "pl": "Gdy byłem dziecięciem, ojciec rzekł do mnie: „Synu, kiedyś sam będziesz kupcem. Jeśli chcesz, żeby ludzie u ciebie kupowali, musisz ich jakoś przyciągnąć”.",
+    "bel": "Калі я быў яшчэ дзіцянём, бацька мне казаў: «Сынок, аднойчы ты станеш купцом. Каб людзі ў цябе пакупалі, ты маеш неяк прыцягваць»."
+  },
+  "393680_00000000": {
+    "en": "\"You're neither pretty nor smart nor much of a sweet-talker, so I hereby name you Whistlin' Whacker. People'll come by just to ask you what that means. Don't blow those opportunities.\"",
+    "ru": "«Ты не красив, не мудр и не красноречив. Поэтому я прозвал тебя Свистящая Дубина. Люди будут к тебе приходить и спрашивать, отчего такое имя. А ты пользуйся случаем».",
+    "pl": "„Nie jesteś ani piękny, ani mądry, ani wymowny, dlatego nazwałem cię Świszczącą Pałą. Ludzie będą przychodzili i pytali, o co chodzi. Nie zmarnuj tych okazji”.",
+    "bel": "«Ты не прыгожы, не мудры, не красамоўны, а таму я празваў цябе Свісцячая Дубіна. Людзі будуць прыходзіць і пытаць, адкуль такое імя. А ты карыстайся выпадкам»."
+  },
+  "1007900_00000000": {
+    "en": "Something's here. Another wreck.",
+    "ru": "Там что-то есть. Очередной остов.",
+    "pl": "Tu coś jest. Kolejny wrak.",
+    "bel": "Там штосьці ёсць. Чарговы касцяк."
+  },
+  "1007926_00000000": {
+    "en": "Let's see if our djinn's down there.",
+    "ru": "Посмотрим, не здесь ли прячется наш джинн.",
+    "pl": "Zobaczę, czy nasz dżinn się tam chowa.",
+    "bel": "Паглядзім, ці не так хаваецца наш джын."
+  },
+  "581195_00000000": {
+    "en": "How's it going?",
+    "ru": "Ну как?",
+    "pl": "Jak idzie?",
+    "bel": "Ну як там?"
+  },
+  "581196_00000000": {
+    "en": "Yen, you know I hate it when you read my mind.",
+    "ru": "Йен, ты же знаешь: я не люблю, когда ты читаешь мои мысли.",
+    "pl": "Yen, wiesz, że nie lubię, jak mi czytasz w myślach.",
+    "bel": "Ен, ты ж ведаеш: я не люблю, калі ты чытаеш мае думкі."
+  },
+  "1006772_00000000": {
+    "en": "Strictly speaking, I'm not reading your mind, but using telepathy.",
+    "ru": "Я не читаю твои мысли, это просто телепатия.",
+    "pl": "Nie czytam ci w myślach, tylko używam telepatii.",
+    "bel": "Я не чытаю твае думкі, гэта проста тэлепатыя."
+  },
+  "1006774_00000000": {
+    "en": "Besides, you've nothing to hide, right?",
+    "ru": "Кстати, тебе есть что скрывать?",
+    "pl": "Poza tym masz coś do ukrycia?",
+    "bel": "Дарэчы, а ў цябе ёсць што хаваць?"
+  },
+  "1006776_00000000": {
+    "en": "Wouldn't admit it if I did. Not the point.",
+    "ru": "Если бы было, я бы тебе не сказал.",
+    "pl": "Nie powiedziałbym ci, gdybym miał.",
+    "bel": "Я б не сказаў, будзь у мяне."
+  },
+  "1006778_00000000": {
+    "en": "See anything interesting?",
+    "ru": "Видишь что-нибудь интересное?",
+    "pl": "Widzisz coś ciekawego?",
+    "bel": "Бачыш нешта цікавае?"
+  },
+  "581201_00000000": {
+    "en": "A shipwreck and a cavern. I'll look inside.",
+    "ru": "Здесь остов корабля и какая-то пещера. Сейчас посмотрю.",
+    "pl": "Szczątki statku i jakaś jaskinię. Sprawdzę ją.",
+    "bel": "Тут касцяк карабля і нейкая пячора. Зараз пагляджу."
+  },
+  "592612_00000000": {
+    "en": "It's too deep here. You can't dive that long.",
+    "ru": "Здесь слишком глубоко, ты не донырнёшь.",
+    "pl": "Tu jest za głęboko, nie dasz rady zanurkować.",
+    "bel": "Тут занадта глыбока, ты не даплывеш."
+  },
+  "592613_00000000": {
+    "en": "You underestimate me.",
+    "ru": "Ты меня недооцениваешь.",
+    "pl": "Nie doceniasz mnie.",
+    "bel": "Ты недаацэньваеш мяне."
+  },
+  "592614_00000000": {
+    "en": "On the contrary. After all, I asked you for help.",
+    "ru": "Как раз наоборот. Я даже попросила тебя о помощи.",
+    "pl": "Wręcz przeciwnie, dlatego poprosiłam cię o pomoc.",
+    "bel": "Наадварот. Я ж папрасіла цябе пра дапамогу."
+  },
+  "1008094_00000000": {
+    "en": "I'll cast a spell. It will slow your heart for a time, you can stay submerged longer.",
+    "ru": "Я наложу на тебя заклятие. На какое-то время оно замедлит твоё сердцебиение, и ты сможешь дольше продержаться под водой.",
+    "pl": "Rzucę na ciebie zaklęcie. Na jakiś czas spowolni ci akcję serca i będziesz mógł dłużej wytrzymać pod wodą.",
+    "bel": "Я налажу на цябе заклён. Ён на нейкі час запаволіць тваё сэрцабіццё, і ты зможаш на даўжэйшы час пратрымацца пад вадой."
+  },
+  "581187_00000000": {
+    "en": "There's something here… On the bottom.",
+    "ru": "Что-то здесь есть… На дне.",
+    "pl": "Coś tu jest... Na dnie.",
+    "bel": "Тут нешта ёсць… на дне."
+  },
+  "1006948_00000000": {
+    "en": "You're getting better at this.",
+    "ru": "У тебя получается всё лучше и лучше.",
+    "pl": "Coraz sprawniej ci idzie.",
+    "bel": "У цябе выходзіць усё лепш і лепш."
+  },
+  "1006949_00000000": {
+    "en": "Go even quicker if you helped me down there.",
+    "ru": "Если бы ты помогала мне внизу, было бы ещё быстрее.",
+    "pl": "Byłoby jeszcze sprawniej, gdybyś mi pomogła tam, na dole.",
+    "bel": "Дапамагай ты мне ўнізе, было б яшчэ хутчэй."
+  },
+  "1008033_00000000": {
+    "en": "I prefer to observe matters from up here, most definitely.",
+    "ru": "Я предпочитаю наблюдать за событиями сверху.",
+    "pl": "Zdecydowanie wolę obserwować sprawy z góry.",
+    "bel": "Я аддаю перавагу назіранню за падзеямі зверху."
+  },
+  "1017442_00000000": {
+    "en": "Yeah, like when we were looking for the golden dragon and an avalanche swept us off the trail?",
+    "ru": "Как когда мы искали золотого дракона и нас сбросило с дороги обвалом?",
+    "pl": "Tak jak wtedy, gdy szukaliśmy smoka i lawina strąciła nas ze ścieżki?",
+    "bel": "Як калі мы шукалі золата дракона і нас скінула з дарогі лавінай?"
+  },
+  "1017443_00000000": {
+    "en": "Me clinging to the remains of a bridge for dear life, you gripping my waist, admiring the view. Remember?",
+    "ru": "Я держался за сорванный мост, а ты повисла у меня на поясе и наслаждалась видами, помнишь?",
+    "pl": "Trzymałem się zerwanego mostu, a ty uwiesiłaś mi się na pasie i podziwiałaś widoki, pamiętasz?",
+    "bel": "Я трымаўся за сарваны мост, а ты павісла ў мяне на поясе і захаплялася краявідамі, помніш?"
+  },
+  "1017480_00000000": {
+    "en": "Chasm below us was breathtaking - rustling trees, a lazily flowing stream…",
+    "ru": "Внизу была чудесная пропасть, шумели деревья, журчал ручеёк…",
+    "pl": "W dole była piękna przepaść, szumiały drzewa, leniwie płynął strumyk...",
+    "bel": "Унізе была цудоўная прорва, шумелі дрэвы, журчаў струменьчык…"
+  },
+  "1017444_00000000": {
+    "en": "I remember… Though I found myself admiring what I had right in front of me.",
+    "ru": "Помню-помню… Хотя мне больше нравился вид прямо перед глазами.",
+    "pl": "Pamiętam... Choć bardziej podobał mi się widok, który miałam tuż przed oczami.",
+    "bel": "Помню… хаця мне больш падабаўся краявід проста перад вачамі."
+  },
+  "1005717_00000000": {
+    "en": "Get rid of them!",
+    "ru": "Избавься от них!",
+    "pl": "Pozbądź się ich!",
+    "bel": "Пазбаўся ад іх!"
+  },
+  "581332_00000000": {
+    "en": "Jump in, see for yourself.",
+    "ru": "Прыгай, сама увидишь.",
+    "pl": "Wskocz i sama się przekonaj.",
+    "bel": "Скачы, і сама пабачыш."
+  },
+  "581333_00000000": {
+    "en": "Sea water wreaks havoc on my complexion.",
+    "ru": "Морская вода плохо действует мне на кожу.",
+    "pl": "Woda morska źle mi robi na cerę.",
+    "bel": "Марская вада дрэнна дзейнічае мне на скуру."
+  },
+  "1006797_00000000": {
+    "en": "Just find the wreck.",
+    "ru": "Лучше поищи корабль.",
+    "pl": "Lepiej poszukaj wraku.",
+    "bel": "Лепей пашукай карабель."
+  },
+  "581331_00000000": {
+    "en": "How's your bath? Water warm enough for you?",
+    "ru": "Как водичка, не холодно?",
+    "pl": "Jak tam kąpiel? Ciepła woda?",
+    "bel": "Як там купанне? Не халодная вада?"
+  },
+  "1007919_00000000": {
+    "en": "Ugh. Gotta deal with the sirens first.",
+    "ru": "Сначала надо разобраться с сиренами.",
+    "pl": "Najpierw muszę się uporać z syrenami.",
+    "bel": "Спачатку трэба разабрацца з сірэнамі."
+  },
+  "1007927_00000000": {
+    "en": "Hit and sunk.",
+    "ru": "Выстрел — труп.",
+    "pl": "Trafiona-zatopiona.",
+    "bel": "Выстрал – труп."
+  },
+  "1008026_00000000": {
+    "en": "Here's hoping you're just as good at searching sunken ships.",
+    "ru": "Надеюсь, затонувший корабль ты обыщешь так же ловко.",
+    "pl": "Mam nadzieję, że z przeszukaniem wraku pójdzie ci równie sprawnie.",
+    "bel": "Спадзяваюся, патанулы карабель ты абшукаеш так жа спрытна."
+  },
+  "1017544_00000000": {
+    "en": "Esad eich crydae rhythaun!",
+    "ru": "Esad eich crydae rhythaun!",
+    "pl": "Esad eich crydae rhythaun!",
+    "bel": "Esad eich crydae rhythaun!"
+  },
+  "1074418_00000000": {
+    "en": "Say we find the djinn, what'll you do?",
+    "ru": "А когда мы найдём джинна, что ты будешь делать?",
+    "pl": "Co zrobisz, jak już znajdziemy dżinna?",
+    "bel": "А калі мы знойдзем джына, што ты будзеш рабіць?"
+  },
+  "1074490_00000000": {
+    "en": "Ask for a beautiful house, then a palace, then a queen's crown?",
+    "ru": "Попросишь новое корыто, потом высокий терем, а потом захочешь стать вольною царицей?",
+    "pl": "Poprosisz go o piękny dom, potem pałac, a na końcu zechcesz zostać królową?",
+    "bel": "Папросіш новую хату, потым палац, а потым карону на галаву?"
+  },
+  "1074420_00000000": {
+    "en": "Are we still talking about the djinn, or have we moved on to a talking fish?",
+    "ru": "Мы по-прежнему говорим о джинне или уже о золотой рыбке?",
+    "pl": "Dalej mówimy o dżinnie czy już o złotej rybce?",
+    "bel": "Мы ўсё яшчэ аб джыне ці ўжо аб залатой рыбцы?"
+  },
+  "1074422_00000000": {
+    "en": "Doesn't much matter. Both make wishes come true.",
+    "ru": "Не важно. Оба исполняют желания.",
+    "pl": "Bez różnicy, ważne, że spełnia życzenia.",
+    "bel": "Няважна. Абодва выконваюць жаданні."
+  },
+  "1074492_00000000": {
+    "en": "What would yours be?",
+    "ru": "Чего хочешь ты?",
+    "pl": "Jakie jest twoje?",
+    "bel": "Чаго ты хочаш?"
+  },
+  "1074424_00000000": {
+    "en": "You'll learn in due course.",
+    "ru": "Скоро узнаешь.",
+    "pl": "Dowiesz się w swoim czasie.",
+    "bel": "Хутка даведаешся."
+  },
+  "592615_00000000": {
+    "en": "Ready. Careful down there.",
+    "ru": "Готово. Осторожней.",
+    "pl": "Gotowe. Uważaj na siebie.",
+    "bel": "Гатова. Асцярожней."
+  },
+  "1005814_00000000": {
+    "en": "Don't you dare disembark before disposing of every last siren.",
+    "ru": "Не смей уплывать, пока не перестреляешь сирен.",
+    "pl": "Tylko nie waż się wysiadać, póki nie powystrzelasz syren.",
+    "bel": "Толькі не думай выходзіць, пакуль не перастраляеш сірэн."
+  },
+  "1005850_00000000": {
+    "en": "Last one.",
+    "ru": "Последняя.",
+    "pl": "Ta była ostatnia.",
+    "bel": "Апошняя."
+  },
+  "1006756_00000000": {
+    "en": "Time to check the bottom.",
+    "ru": "Теперь пора проверить дно.",
+    "pl": "Pora sprawdzić dno.",
+    "bel": "Цяпер час праверыць дно."
+  },
+  "581063_00000000": {
+    "en": "Not sure this djinn thing's a good idea.",
+    "ru": "Что-то я не уверен, что мне нравится затея с джинном…",
+    "pl": "Nie wiem, czy z tym dżinnem to dobry pomysł.",
+    "bel": "Нешта я не ўпэўнены, што мне падабаецца задума з джынам…"
+  },
+  "1006715_00000000": {
+    "en": "We managed to seize one before. Do you remember?",
+    "ru": "С одним мы когда-то справились, помнишь?",
+    "pl": "Z jednym już sobie kiedyś poradziliśmy, pamiętasz?",
+    "bel": "З адным мы некалі далі рады, памятаеш?"
+  },
+  "1006717_00000000": {
+    "en": "Course. Dandelion almost lost his voice that time.",
+    "ru": "Помню. Тогда Лютик чуть не лишился голоса.",
+    "pl": "Pamiętam. Jaskier o mało co nie stracił głosu.",
+    "bel": "Памятаю. Тады Казялец ледзь не страціў голас."
+  },
+  "581064_00000000": {
+    "en": "Haha. How lucky your 'exorcism' saved it. It was poetic.",
+    "ru": "На счастье, его спас твой экзорцизм.",
+    "pl": "Całe szczęście uratował go twój egzorcyzm.",
+    "bel": "На шчасце, яго выратаваў твой экзарцызм."
+  },
+  "1013869_00000000": {
+    "en": "Yeah, how was I supposed to know that incantation meant \"Begone and plough yourself?\"",
+    "ru": "Ага… Откуда мне было знать, что это значит «Иди отсюда и отымей себя»?",
+    "pl": "Ta... Skąd miałem wiedzieć, że to znaczy „Odejdź stąd i wychędoż się sam”?",
+    "bel": "Ага... Адкуль мне было ведаць, што тое было \"Прэч адсюль і выябі сябе\"?"
+  },
+  "1013871_00000000": {
+    "en": "You should've studied foreign languages.",
+    "ru": "Надо было учить иностранные языки.",
+    "pl": "Trzeba się było uczyć języków obcych.",
+    "bel": "Трэба вучыць замежныя мовы."
+  },
+  "1013873_00000000": {
+    "en": "Gonna keep bringing that up for the rest of my life?",
+    "ru": "Ты до конца жизни будешь мне это припоминать?",
+    "pl": "Do końca życia będziesz mi to wypominać?",
+    "bel": "Ты да канца жыцця будзеш мне пра гэтае нагадваць?"
+  },
+  "1013875_00000000": {
+    "en": "Of course. Your last wish effectively assured it.",
+    "ru": "Ты сам об этом позаботился.",
+    "pl": "O to akurat już sam zadbałeś. Takie było twoje ostatnie życzenie.",
+    "bel": "Ты ўжо сам пра гэтае паклапаціўся. Бо такім было тваё апошняе жаданне."
+  },
+  "1008019_00000000": {
+    "en": "My wish was about us being together always, not about you mocking my every mistake.",
+    "ru": "Я просил, чтоб мы всегда были вместе, а не чтобы ты указывала мне на все мои промахи.",
+    "pl": "Prosiłem, żebyśmy zawsze byli razem, a nie żebyś wytykała mi potknięcia.",
+    "bel": "Я прасіў, каб мы заўсёды былі разам, а не каб ты падкрэслівала мне ўсе мае хібы."
+  },
+  "1017262_00000000": {
+    "en": "\"Careful what you wish for.\" And when your wish is granted, you must accept it with all attendant circumstances.",
+    "ru": "«Будь осторожней в желаниях». А если уж желание исполнилось, прими последствия с достоинством.",
+    "pl": "„Uważaj, czego sobie życzysz”. A jak już to dostaniesz, przyjmij z dobrodziejstwem inwentarza.",
+    "bel": "\"Будзь асцярожней у жаданнях\". А калі ўжо жаданне здзейснілася, прымай наступствы годна."
+  },
+  "1017265_00000000": {
+    "en": "Yeah…",
+    "ru": "Да…",
+    "pl": "Ta...",
+    "bel": "Так…"
+  },
+  "1017259_00000000": {
+    "en": "And as for your missteps - I don't rightly see why I shouldn't laugh if they're amusing.",
+    "ru": "Что до промахов, почему бы над ними не смеяться, если они забавны.",
+    "pl": "A jeśli chodzi o potknięcia – nie widzę powodu, żeby się nie śmiać, póki są zabawne.",
+    "bel": "Што да хібаў, то чаму б над імі не пасмяяцца, калі яны пацешныя."
+  },
+  "1017541_00000000": {
+    "en": "Where to now?",
+    "ru": "Куда теперь?",
+    "pl": "Dokąd teraz?",
+    "bel": "Куды цяпер?"
+  },
+  "1017542_00000000": {
+    "en": "Wherever the leads take us.",
+    "ru": "Куда ведёт след.",
+    "pl": "Tam, gdzie zaprowadzi nas ślad.",
+    "bel": "Куды вядзе след."
+  },
+  "1006787_00000000": {
+    "en": "Find anything?",
+    "ru": "Нашёл что-нибудь?",
+    "pl": "Masz coś?",
+    "bel": "Знайшоў што-небудзь?"
+  },
+  "581328_00000000": {
+    "en": "Snapped masts, busted planks, and a whole swarm of drowners.",
+    "ru": "Поломанные мачты, доски… И великое множество утопцев.",
+    "pl": "Połamane maszty, kawałki burt... I całe mnóstwo utopców.",
+    "bel": "Паламаныя машты, дошкі... І мноства тапельнікаў."
+  },
+  "1061373_00000000": {
+    "en": "Probably drawn by the corpses of drowned crew. Then made their nest here.",
+    "ru": "Похоже, их приманили тела команды… А потом они устроили здесь логово.",
+    "pl": "Pewnie przyciągnęły ich ciała załogi tego okrętu. A potem zrobiły tu leże.",
+    "bel": "Падобна, іх прывабілі целы каманды… А потым яны зладзілі тут логава."
+  },
+  "1006791_00000000": {
+    "en": "There's also a Clan Drummond figurehead.",
+    "ru": "На носу фигура клана Друммонд.",
+    "pl": "Jest też galion klanu Drummond.",
+    "bel": "На носе фігура клана Друмонд."
+  },
+  "581329_00000000": {
+    "en": "Not the right ship. Come back up.",
+    "ru": "Это не тот корабль. Возвращайся.",
+    "pl": "To nie ten okręt. Wracaj na górę.",
+    "bel": "Гэта не той карабель. Вяртайся."
+  },
+  "560950_00000000": {
+    "en": "They were waiting for him.",
+    "ru": "Его ждали.",
+    "pl": "Czekali na niego.",
+    "bel": "Яны чакалі на яго."
+  },
+  "560951_00000000": {
+    "en": "He probably thought they'd take him someplace safe.",
+    "ru": "Наверно, он думал, что его отведут в безопасное место.",
+    "pl": "Pewnie myślał, że zabiorą go w bezpieczne miejsce.",
+    "bel": "Магчыма, ён думаў, што яго завядуць у бяспечнае месца."
+  },
+  "585727_00000000": {
+    "en": "I can't believe he could be so… so stupid! Oh, gods, I've known him all my life.",
+    "ru": "Не могу поверить, что он был так… глуп! О боги, я знала его всю жизнь.",
+    "pl": "Nie mogę uwierzyć, że był tak... głupi! O bogowie, przecież znałam go całe życie.",
+    "bel": "Не магу паверыць, што ён быў такі... дурны! Божухна, я ведала яго ўсё сваё жыццё."
+  },
+  "560952_00000000": {
+    "en": "Need to search the body.",
+    "ru": "Давай обыщем всё.",
+    "pl": "Musimy przeszukać ciała.",
+    "bel": "Мусім абшукаць целы."
+  },
+  "521702_00000000": {
+    "en": "Will no one accept the challenge? C'mon! Don't be shy!",
+    "ru": "Кто-нибудь примет вызов? Ну! Давайте!",
+    "pl": "Czy ktoś podejmie wyzwanie? No! Dalej!",
+    "bel": "Хто-небудзь прыме выклік? Ну! Давайце!"
+  },
+  "521703_00000000": {
+    "en": "Looking's for pansies! Step in the ring, with the real men!",
+    "ru": "Нечего смотреть! Драться надо!",
+    "pl": "Nie ma co patrzeć! Trzeba się zgłosić!",
+    "bel": "Няма чаго глядзець! Біцца трэба!"
+  },
+  "1021497_00000000": {
+    "en": "Heard Nilfgaardians were bitin' yesterday 'stead o' the fish.",
+    "ru": "Говорят, вчера Чёрных вместо рыбы вылавливали.",
+    "pl": "Słyszałem, że wczoraj Nilfgaardczycy brali zamiast ryb?",
+    "bel": "Кажуць, учора Чорных замест рыбы вылоўлівалі."
+  },
+  "1021499_00000000": {
+    "en": "Oh, aye. Hauled one in meself, saw 'im driftin' on a plank. Promised me a gold ring to put 'im ashore.",
+    "ru": "Ну да. Выловил я одного — он на доске плыл. Он мне обещал золотой перстень, если я его доставлю на сушу.",
+    "pl": "A tak. Wyłowiłem jednego, co na desce dryfował. Obiecał złoty pierścień, jeśli odstawię go na ląd.",
+    "bel": "Ну так. Вылавіў я аднаго - ён на дошцы плыў. Ён мне абяцаў залаты пярсцёнак, калі я яго дастаўлю на сушу."
+  },
+  "1049761_00000000": {
+    "en": "So? D'ye take pity on the sodden wretch?",
+    "ru": "Вот как? И что, сжалился ты над ним?",
+    "pl": "I co? Zlitowałeś się?",
+    "bel": "Вось як? І што, злітаваўся ты над ім?"
+  },
+  "1021501_00000000": {
+    "en": "Ye know ye can't refuse a castaway. Though… once we were on shore, I slit his throat.",
+    "ru": "Ну нельзя же отказать потерпевшему крушение. А вот как на берег вышел, тут я ему горло и перерезал.",
+    "pl": "Wiesz przecież, nie można odmówić rozbitkowi. Ale jak już był na brzegu... Poderżnąłem mu gardło.",
+    "bel": "Ну нельга ж адмовіць пацярпеламу. А вось як на бераг выйшаў, тут я яму горла і перарэзаў."
+  },
+  "1049114_00000000": {
+    "en": "Maybe he'll say something if I put out his fire…",
+    "ru": "Может, если я погашу ему огонь, он что-нибудь скажет…",
+    "pl": "Może jeśli zgaszę mu to ognisko, coś mi powie...",
+    "bel": "Можа, калі я згашу яму агонь, ён нешта скажа…"
+  },
+  "1049116_00000000": {
+    "en": "Tin pots… Stand to make a lot of noise… Maybe give 'em a smack once he's asleep…",
+    "ru": "Жестяная посуда… Она может наделать много шума. Если в неё как следует грохнуть, когда он пойдёт спать…",
+    "pl": "Blaszane garnki... Mogłyby zrobić dużo hałasu. Gdyby tak w nie przyłożyć, jak pójdzie spać...",
+    "bel": "Бляшаны посуд... Ён можа нарабіць шмат шуму. Калі ў яго як след грымнуць, калі ён пойдзе спаць…"
+  },
+  "1049112_00000000": {
+    "en": "Hornets' nest… Known to have therapeutic uses. In shock therapy, for instance.",
+    "ru": "Осиное гнездо… Может, получится его использовать… для шоковой терапии.",
+    "pl": "Gniazdo os... Może dałoby się je wykorzystać do jakiejś kuracji. Szokowej, na przykład.",
+    "bel": "Гняздо вос… Можа, атрымаецца яго выкарыстаць… для шокавай тэрапіі, напрыклад."
+  },
+  "408351_00000000": {
+    "en": "Already paid.",
+    "ru": "Я тебе уже заплатил.",
+    "pl": "Już ci zapłaciłem.",
+    "bel": "Я табе ўжо заплаціў."
+  },
+  "1043319_00000000": {
+    "en": "You're confused. I already paid. Just here for the pick-up.",
+    "ru": "Ты что-то напутал. Я уже заплатил. Я пришёл только людей забрать.",
+    "pl": "Coś ci się pomyliło. Już zapłaciłem. Przeszedłem ich tylko odebrać.",
+    "bel": "Ты нешта наблытаў. Я ўжо заплаціў. Я прыйшоў толькі людзей забраць."
+  },
+  "1043321_00000000": {
+    "en": "Ah, aye, I remember now.",
+    "ru": "А, да-да, точно…",
+    "pl": "A, tak, teraz sobie przypominam.",
+    "bel": "А, так, сапраўды ўзгадаў."
+  },
+  "1043303_00000000": {
+    "en": "That leaves transport. We brought 'em here, you gotta take 'em onward. Ye'd do best to sail your ship into the bay.",
+    "ru": "Остаётся вопрос, как их довезти. Доставкой мы не занимаемся, так что лучше всего будет, если ты приведёшь свой корабль сюда, в залив.",
+    "pl": "Zostaje sprawa transportu. Dostawami się nie zajmujemy, więc najlepiej, jak wprowadzisz swój statek tu, do zatoki.",
+    "bel": "Застаецца пытанне, як іх давезці. Дастаўкай мы не займаемся, так што лепш за ўсё будзе, калі ты прывядзеш свой карабель сюды, у затоку."
+  },
+  "1043305_00000000": {
+    "en": "Just give me the key to the cell.",
+    "ru": "Просто дай мне ключи от клеток.",
+    "pl": "Po prostu daj mi klucz do cel.",
+    "bel": "Проста дай мне ключы ад клетак."
+  },
+  "1043307_00000000": {
+    "en": "Then what? Will ye drive 'em on foot? Ye alone?",
+    "ru": "И что потом? Пёхом будешь их гнать? Один?",
+    "pl": "I co potem? Piechotą chcesz ich gnać? Sam?",
+    "bel": "І што потым? Пешкі будзеш іх гнаць? Сам?"
+  },
+  "1043309_00000000": {
+    "en": "Any who drop, I'll leave behind. Ville only wants the strong.",
+    "ru": "Кто не дойдёт, тот не дойдёт. Вилли нужны только сильные.",
+    "pl": "Który padnie, to padnie, reszta zostanie. Villemu zależy tylko na silnych.",
+    "bel": "Хто не дойдзе, той не дойдзе. Вілі патрэбныя толькі трывалыя."
+  },
+  "1043311_00000000": {
+    "en": "Fine, here. Just don't come cryin' for your coin if they run. They're your property now.",
+    "ru": "Ну ладно, бери. Только чтоб потом жалоб не было. Они теперь твоя собственность.",
+    "pl": "No, dobra, masz. Tylko żeby potem reklamacji nie było. Od teraz są twoją własnością.",
+    "bel": "Ну добра, бяры. Толькі каб потым скарг не было. Яны зараз твая ўласнасць."
+  },
+  "1043299_00000000": {
+    "en": "Yeah. Your coin.",
+    "ru": "Вот твои деньги.",
+    "pl": "Twoje pieniądze.",
+    "bel": "Вось твае грошы."
+  },
+  "1043301_00000000": {
+    "en": "They call you Black Ones whoresons to a man, but me, I like doin' business with yous. At least you don't stall in payin'.",
+    "ru": "Говорят, что Чёрные — ублюдки, а мне нравится иметь с вами дело. Всё у вас чётко, платите без задержек.",
+    "pl": "Mówią, że z Czarnych skurwysyny, ale ja tam lubię robić z wami interesy. Przynajmniej płacicie bez ociągania.",
+    "bel": "Кажуць, што Чорныя – вырадкі, а мне падабаецца мець з вамі справы. Прынамсі вы плаціце без затрымкі."
+  },
+  "408349_00000000": {
+    "en": "Here's your coin.",
+    "ru": "Вот деньги.",
+    "pl": "Oto zapłata.",
+    "bel": "Вось грошы."
+  },
+  "1043491_00000000": {
+    "en": "You're right, Ville didn't send me.",
+    "ru": "Ты прав, меня прислал не Вилли.",
+    "pl": "Masz rację, nie przysyła mnie Ville.",
+    "bel": "Твая праўда, мяне прыслаў не Вілі."
+  },
+  "1043494_00000000": {
+    "en": "Sorry to disappoint. To be honest, I'm not from Nilfgaard. And I haven't the faintest who Ville is.",
+    "ru": "Не хочу тебя расстраивать, но так получилось, что я не из Нильфгаарда. И я понятия не имею, кто такой Вилли.",
+    "pl": "Przykro mi, że cię rozczarowałem. Ale tak się składa, że nie jestem z Nilfgaardu. I nie mam pojęcia, kto to jest Ville.",
+    "bel": "Не хачу цябе расчароўваць, але я не з Нільфгаарда. І я паняцця не маю, хто такі Вілі."
+  },
+  "1043496_00000000": {
+    "en": "Enemy in the camp! To arms!",
+    "ru": "Враг в лагере! Все к оружию!",
+    "pl": "Wróg w obozie! Wszyscy do broni!",
+    "bel": "Вораг у лагеры! Усё даа зброі!"
+  },
+  "408359_00000000": {
+    "en": "I really don't like to hear humans reffered to as \"goods.\" And I'm not a slave trader.",
+    "ru": "Я правда не люблю, когда людей называют товаром. И я не работорговец.",
+    "pl": "Naprawdę nie lubię, gdy ludzi nazywa się towarem. I nie jestem handlarzem.",
+    "bel": "Я сапраўды не люблю, калі людзей называюць таварам. Я не гандляр рабамі."
+  },
+  "408353_00000000": {
+    "en": "I'm not a slave trader.",
+    "ru": "Я людьми не торгую.",
+    "pl": "Nie jestem handlarzem.",
+    "bel": "Я не гандлюю рабамі."
+  },
+  "408329_00000000": {
+    "en": "What'd you expect - a big sun on my chest? Would that be Nilfgaardian enough for you?",
+    "ru": "По-твоему, я должен носить большое солнце на груди? Тогда я буду достаточно нильфгаардский?",
+    "pl": "Według ciebie powinienem nosić wielkie słońce na piersi? Wtedy byłbym wystarczająco nilfgaardzki?",
+    "bel": "Па-твойму, я павінны насіць вялікае сонца на грудзях? Тады я буду дастаткова нільфгаардскім?"
+  },
+  "1043498_00000000": {
+    "en": "Fine, fine, no need to be jumpy. Goods're ready.",
+    "ru": "Ладно, ладно, без нервов. Товар готов.",
+    "pl": "Dobra, dobra, bez nerwów. Towar jest gotowy.",
+    "bel": "Добра, добра, без нерваў. Тавар гатовы."
+  },
+  "408331_00000000": {
+    "en": "Don't like to hear humans referred to as \"goods.\"",
+    "ru": "Не люблю, когда людей называют товаром.",
+    "pl": "Nie lubię, gdy się ludzi nazywa towarem.",
+    "bel": "Не люблю, калі людзей называюць таварам."
+  },
+  "408333_00000000": {
+    "en": "I don't give a fuck what ye do or don't like. Got the sum we agreed on?",
+    "ru": "Да мне один хер, чего ты любишь. Помнишь, на сколько мы договаривались? Деньги с собой?",
+    "pl": "Chuj mnie obchodzi, co lubisz, a czego nie. Masz tyle, na ile się umawialiśmy?",
+    "bel": "Ды похер мне, што ты там любіш, а што не любіш. Прынёс колькі мы дамаўляліся?"
+  },
+  "1043490_00000000": {
+    "en": "We doing this deal or not?",
+    "ru": "Будем дело делать или нет?",
+    "pl": "Robimy intres czy nie?",
+    "bel": "Будзем рабіць справу ці не?"
+  },
+  "408327_00000000": {
+    "en": "Heard you've been waiting for me. How're the goods?",
+    "ru": "Говорят, ты меня ждал. Как там товар?",
+    "pl": "Podobno na mnie czekałeś. Jak tam... towar?",
+    "bel": "Кажуць, ты мяне чакаў. Як там... тавар?"
+  },
+  "1047986_00000000": {
+    "en": "Had to calm a few of 'em, but we managed it without doin' serious harm. Tough islanders, these, they'll serve you well.",
+    "ru": "Нескольких пришлось успокоить, но все без особых повреждений. Это сильные островитяне, будут хорошо на тебя работать.",
+    "pl": "Kilku musieliśmy trochę uspokoić, ale obyło się bez poważnych uszczerbków. To silni wyspiarze, będą ci dobrze służyć.",
+    "bel": "Некалькіх давялося супакоіць, але ўсе без сур'ёзных пашкоджанняў. Гэта моцныя астраўляне, будуць добра на цябе працаваць."
+  },
+  "1047989_00000000": {
+    "en": "Good. Ville doesn't like cock-ups.",
+    "ru": "Хорошо. Вилли халтуры не любит.",
+    "pl": "Dobrze. Ville nie lubi fuszerki.",
+    "bel": "Добра. Вілі не любіць халтуры."
+  },
+  "1043489_00000000": {
+    "en": "Hm… Sure it were Ville who sent you? Expected someone more… Nilfgaardian.",
+    "ru": "Хм-м… А тебя точно Вилли прислал? Я-то ожидал кого-то более… нильфгаардского.",
+    "pl": "Hmm... Na pewno Ville cię przysyła? Spodziewałem się kogoś bardziej... nilfgaardzkiego.",
+    "bel": "Хм-м… А цябе сапраўды Вілі даслаў? Я чакаў кагосьці больш… нільфгаардскага."
+  },
+  "421522_00000000": {
+    "en": "Hear that noise? That's Freya - grindin' her teeth, haha.",
+    "ru": "Слышишь звук? Это боги скрипят зубами, ха-ха.",
+    "pl": "Słyszysz ten dźwięk? Tak bogowie zgrzytają zębami, ha, ha.",
+    "bel": "Чуеш гук? Гэта багі рыпяць зубамі, ха-ха."
+  },
+  "500865_00000000": {
+    "en": "Means war's a-brewin'. Time to sharpen our swords.",
+    "ru": "Значит, время войны. Время мечи точить.",
+    "pl": "Znaczy – czas na wojnę. Czas miecze naostrzyć.",
+    "bel": "Значыцца, час вайны. Час мячы гастрыць."
+  },
+  "500867_00000000": {
+    "en": "With Bran dead, who will lead you?",
+    "ru": "Кто вас поведёт после смерти Брана?",
+    "pl": "Kto was poprowadzi po śmierci Brana?",
+    "bel": "Хто вас павядзе пасля смерці Брана?"
+  },
+  "500869_00000000": {
+    "en": "Don't need a king to stick it to the Black Ones. No reason to wait.",
+    "ru": "Чтобы бить Чёрных, короля не нужно. Нет причин ждать.",
+    "pl": "Nie trzeba króla, żeby kąsać Czarnych. Nie ma na co czekać.",
+    "bel": "Каб біць Чорных, караля не трэба. Няма нагод чакаць."
+  },
+  "421926_00000000": {
+    "en": "Could you craft something for me?",
+    "ru": "Хочу, чтобы ты кое-что для меня изготовил.",
+    "pl": "Chciałbym, żebyś coś dla mnie wykonał.",
+    "bel": "Я хацеў бы, каб ты штосьці для мяне зрабіў."
+  },
+  "421924_00000000": {
+    "en": "Like you to craft something for me.",
+    "ru": "Хочу, чтобы ты кое-что для меня сделал.",
+    "pl": "Chciałbym, żebyś coś dla mnie wykonał.",
+    "bel": "Хачу, каб ты нешта для мяне зрабіў."
+  },
+  "1086491_00000000": {
+    "en": "Take a break. Play a little gwent with me.",
+    "ru": "Не хочешь отдохнуть и сыграть со мной в гвинт?",
+    "pl": "Zrób sobie przerwę, to zagramy w gwinta.",
+    "bel": "Сапні крыху, згуляма ў гвінта."
+  },
+  "421530_00000000": {
+    "en": "Farewell.",
+    "ru": "Бывай.",
+    "pl": "Bywaj.",
+    "bel": "Бывай."
+  },
+  "421526_00000000": {
+    "en": "Farewell.",
+    "ru": "Бывай.",
+    "pl": "Bywaj.",
+    "bel": "Бывай."
+  },
+  "421524_00000000": {
+    "en": "What do you have on offer?",
+    "ru": "Покажи мне свои товары.",
+    "pl": "Pokaż mi swoje towary.",
+    "bel": "Пакажы мне свае тавары."
+  },
+  "421528_00000000": {
+    "en": "Show me what you have in stock.",
+    "ru": "Покажи мне свои товары.",
+    "pl": "Pokaż mi swoje towary.",
+    "bel": "Пакажы мне свае тавары."
+  },
+  "500871_00000000": {
+    "en": "You're back, White Hair.",
+    "ru": "Ты вернулся, Белоголовый.",
+    "pl": "Wróciłeś, białowłosy.",
+    "bel": "Ты вярнуўся, Белагаловы."
   }
 }

@@ -1,4 +1,196 @@
 ﻿{
+  "139234_79069bc7": {
+    "en": "You must be signed into XBOX Live to access XBOX Live gameplay features.",
+    "ru": "Чтобы получить доступ к игровым особенностям XBOX Live, необходимо войти в XBOX Live.",
+    "pl": "Aby uzyskać dostęp do usług związanych z XBOX Live, musisz zalogować się w XBOX Live.",
+    "bel": "Каб атрымаць доступ да гульнявых асаблівасцей XBOX Live, неабходна ўвайсці ў XBOX Live."
+  },
+  "139235_5f532416": {
+    "en": "You must be signed into XBOX Live to access the leaderboard(s).",
+    "ru": "Чтобы просмотреть список лидеров, необходимо войти в XBOX Live.",
+    "pl": "Aby uzyskać dostęp do rankingu(ów), powinieneś zalogować się do usługi XBOX Live.",
+    "bel": "Каб прагледзець спіс лідараў, неабходна ўвайсці ў XBOX Live."
+  },
+  "139237_c19c7c89": {
+    "en": "You must be signed into XBOX Live to access XBOX Live gameplay features.",
+    "ru": "Чтобы получить доступ к игровым особенностям XBOX Live, необходимо войти в XBOX Live.",
+    "pl": "Aby uzyskać dostęp do usług związanych z XBOX Live, musisz zalogować się w XBOX Live.",
+    "bel": "Каб атрымаць доступ да гульнявых асаблівасцей XBOX Live, неабходна ўвайсці ў XBOX Live."
+  },
+  "139238_9fed5a8c": {
+    "en": "You must be signed into XBOX Live to access the leaderboard(s).",
+    "ru": "Чтобы просмотреть список лидеров, необходимо войти в XBOX Live.",
+    "pl": "Aby uzyskać dostęp do rankingu(ów), powinieneś zalogować się do usługi XBOX Live.",
+    "bel": "Каб прагледзець спіс лідараў, неабходна ўвайсці ў XBOX Live."
+  },
+  "139239_b973764f": {
+    "en": "Your profile does not have the permissions required to access XBOX Live features.",
+    "ru": "У вас нет доступа к дополнительным свойствам XBOX Live в соответствии с вашим профилем игрока.",
+    "pl": "Twój profil gracza nie ma pozwolenia na dostęp do usługi XBOX Live.",
+    "bel": "Ваш профіль не мае дазволаў, неабходных для доступу да дадатковых магчымасцей XBOX Live."
+  },
+  "139240_f71950ef": {
+    "en": "Your profile does not have the permissions required to access XBOX Live features.",
+    "ru": "У вас нет доступа к дополнительным свойствам XBOX Live в соответствии с вашим профилем игрока.",
+    "pl": "Twój profil gracza nie ma pozwolenia na dostęp do usługi XBOX Live.",
+    "bel": "Ваш профіль не мае дазволаў, неабходных для доступу да дадатковых магчымасцей XBOX Live."
+  },
+  "139241_c59c78f0": {
+    "en": "You must be signed into XBOX Live to access XBOX Live gameplay features.",
+    "ru": "Чтобы получить доступ к игровым особенностям XBOX Live, необходимо войти в XBOX Live.",
+    "pl": "Aby uzyskać dostęp do usług związanych z XBOX Live, musisz zalogować się w XBOX Live.",
+    "bel": "Каб атрымаць доступ да гульнявых асаблівасцей XBOX Live, неабходна ўвайсці ў XBOX Live."
+  },
+  "139242_11bad073": {
+    "en": "You must be signed into XBOX Live to access the leaderboard(s).",
+    "ru": "Чтобы просмотреть список лидеров, необходимо войти в XBOX Live.",
+    "pl": "Aby uzyskać dostęp do rankingu(ów), powinieneś zalogować się do usługi XBOX Live.",
+    "bel": "Каб прагледзець спіс лідараў, неабходна ўвайсці ў XBOX Live."
+  },
+  "147965_d38f6204": {
+    "en": "Cannot connect to XBOX Live",
+    "ru": "Не удаётся подсоединиться к XBOX Live",
+    "pl": "Brak połączenia z usługą XBOX Live",
+    "bel": "Не атрымліваецца падключыцца да XBOX Live"
+  },
+  "147968_dc2cd606": {
+    "en": "Cannot connect to XBOX Live",
+    "ru": "Не удаётся подсоединиться к XBOX Live",
+    "pl": "Brak połączenia z usługą XBOX Live",
+    "bel": "Не атрымліваецца падключыцца да XBOX Live"
+  },
+  "412838_00000000": {
+    "en": "EXT. Dialogue with Sjusta the tailor, in front of his workshop.",
+    "ru": "EXT. Dialogue with Sjusta the tailor, in front of his workshop.",
+    "pl": "EXT. Dialog z krawcem Sjusta przeprowadzony przed jego pracownią.",
+    "bel": "EXT. Дыялог з краўцом С'юстам каля яго майстэрні."
+  },
+  "531753_00000000": {
+    "en": "Go on, piggies. Need you over there.",
+    "ru": "Давайте, поросятки. Вам туда.",
+    "pl": "Idźcie świnki. Tam dalej.",
+    "bel": "Давайце, парсючкі. Вам — туды."
+  },
+  "531754_00000000": {
+    "en": "See that?! Great hog's a-gleamin'!",
+    "ru": "Ты видел?! Огромный вепрь такой яркий!",
+    "pl": "Widziałeś?! Wielki wieprz świeci!",
+    "bel": "Бачыў?! Вялізны вяпрук свеціцца!"
+  },
+  "531755_00000000": {
+    "en": "Statue lit up? Interesting…",
+    "ru": "Статуя начала светиться? Интересно…",
+    "pl": "Posąg błysnął? Ciekawe...",
+    "bel": "Статуя стала свяціцца? Цікава…"
+  },
+  "531799_00000000": {
+    "en": "Put the gold back.",
+    "ru": "Положи сюда золото.",
+    "pl": "Odłóż tu złoto.",
+    "bel": "Пакладзі сюды золата."
+  },
+  "531800_00000000": {
+    "en": "Uhh… Doin' it!",
+    "ru": "Ага, я несу!",
+    "pl": "No niosę!",
+    "bel": "Ага, нясу!"
+  },
+  "531801_00000000": {
+    "en": "Blimey! Great hog's a-gleamin'!",
+    "ru": "Итить-колотить! Большой вепрь светится!",
+    "pl": "O ja cię! Wielki wieprz świeci!",
+    "bel": "Каб на яго! Вялікі вяпрук свеціцца!"
+  },
+  "531802_00000000": {
+    "en": "So it worked.",
+    "ru": "Значит, получилось.",
+    "pl": "Czyli zadziałało.",
+    "bel": "Значыць, атрымалася."
+  },
+  "532103_00000000": {
+    "en": "Screaming… Trouble in the village again.",
+    "ru": "Кричат… Опять в деревне что-то творится.",
+    "pl": "Słychać krzyki... W wiosce znowu coś się dzieje.",
+    "bel": "Крычаць… Зноў у вёсцы штось дзеіцца."
+  },
+  "543251_00000000": {
+    "en": "Magic! 'Tworked!",
+    "ru": "Чары! Получилось!",
+    "pl": "Czary! Udało się!",
+    "bel": "Чары! Атрымалася!"
+  },
+  "543253_00000000": {
+    "en": "Cor blimey… That were somethin'…",
+    "ru": "Ох, сучок… Вот так дела…",
+    "pl": "O kruca... To się podziało...",
+    "bel": "Каб цябе… От дык да-а…"
+  },
+  "543255_00000000": {
+    "en": "Hmmm… Pigs don't want to leave.",
+    "ru": "Хм-м… Свиньи не хотят выходить.",
+    "pl": "Hmm... Świnie nie chcą wyjść.",
+    "bel": "Хм-м… Свінні не хочуць выходзіць."
+  },
+  "576815_00000000": {
+    "en": "G and V look at each other surprised, then with admiration at CY.",
+    "ru": "G and V look at each other surprised, then with admiration at CY, then they pause.",
+    "pl": "Geralt i Vesemir patrzą na siebie zdziwieniu, pod wrażeniem",
+    "bel": "Геральт і Весемір здзіўлена і ўражана пераглянуліся."
+  },
+  "1011406_0f42d391": {
+    "en": "Vairmont Jonne",
+    "ru": "Вермонт Йонн",
+    "pl": "Vermont Jonne",
+    "bel": "Вермант Ён"
+  },
+  "1038706_00000000": {
+    "en": "Geralt is surprised, looks at old woman, puzzled.",
+    "ru": "[EN] Geralt is surprised, looks at old woman, puzzled.",
+    "pl": "Geralt jest zdziwiony, patrzy pytająco",
+    "bel": "Геральт здзіўлены, азадачана глядзіць на старую."
+  },
+  "1038748_00000000": {
+    "en": "The old lady gives G an offended look, continues her story.",
+    "ru": "[EN] The old lady gives G an offended look, continues her story.",
+    "pl": "Staruszka patrzy na Geralta urażona, ale kontynuuje opowieść",
+    "bel": "Старая з крыўдай глядзіць на Геральта, працягвае расказваць."
+  },
+  "1043187_00000000": {
+    "en": "The peasants look at each other, confused, intrigued.",
+    "ru": "[EN] The peasants look at each other, confused, intrigued.",
+    "pl": "Chłopi patrzą po sobie, zdziwieni, zaintrygowani",
+    "bel": "Сяляне пераглядаюцца, здзіўленыя, заінтрыгаваныя."
+  },
+  "1057446_a9742293": {
+    "en": "Lemmingbrush",
+    "ru": "Мышехвост",
+    "pl": "Mysichwost",
+    "bel": "Мышахвоснік"
+  },
+  "1057772_00000000": {
+    "en": "G begins to walk, gran follows him as if she wanted to enter the hut behind him. G stops her.",
+    "ru": "[EN] G begins to walk, gran follows him as if she wanted to enter the hut behind him. G stops her.",
+    "pl": "Geralt zaczyna isc, babcia za nim, jakby chciala razem z nim wlezc do chaty - Geralt ją zatrzymuje",
+    "bel": "Геральт пачынае ісці, бабуля ідзе за ім, быццам хоча зайсці з ім у хаціну — Геральт спыняе яе."
+  },
+  "1057777_00000000": {
+    "en": "G begins to leave, but the gran stops him.",
+    "ru": "[EN] G begins to leave, but the gran stops him.",
+    "pl": "Geralt zaczyna odchodzić, babcia go zatrzymuje",
+    "bel": "Геральт пачынае сыходзіць, але бабуля спыняе яго."
+  },
+  "1058719_00000000": {
+    "en": "Ciri fetches a sword, Vesemir turns to watch her with an admonishing look, then turns back to G.",
+    "ru": "[EN] Ciri fetches a sword, Vesemir turns to watch her with an admonishing look, then turns back to G.",
+    "pl": "Ciri idzie po miecz, Vesemir kręci karcąco głową, potem odwraca się do Geralta.",
+    "bel": "Цыры ідзе да мяча, Весемір дакорліва хістае галавой, потым паварочваецца да Геральта."
+  },
+  "1061659_00000000": {
+    "en": "Brief pause. G nods.",
+    "ru": "[EN] Brief pause. G nods.",
+    "pl": "Geralt kiwa głową, krótka pauza",
+    "bel": "Геральт ківае. Кароткая паўза."
+  },
   "1066021_621accd2": {
     "en": "Settings",
     "ru": "Настройки",
@@ -10,6 +202,42 @@
     "ru": "Звук",
     "pl": "Dźwięk",
     "bel": "Гук"
+  },
+  "1071214_61cf2d1e": {
+    "en": "Parry/Counterattack",
+    "ru": "Блок/контратака",
+    "pl": "Blok / Kontratak",
+    "bel": "Блок/Контратака"
+  },
+  "1073366_00000000": {
+    "en": "Press <<Jump>> to climb over obstacles, or tilt <<PAD_LSUp>> and press <<Jump>> to leap over them.",
+    "ru": "Чтобы перелезть через препятствие, нажмите <<Jump>>. Чтобы перепрыгнуть — наклоните <<PAD_LSUp>> и нажмите <<Jump>>.",
+    "pl": "Wciśnij <<Jump>>, aby pokonać przeszkodę, albo przechyl <<PAD_LSUp>> i wciśnij <<Jump>>, aby przez nią przeskoczyć.",
+    "bel": "Каб пералезці праз перашкоду, націсніце <<Jump>>. Каб пераскочыць — нахіліце <<PAD_LSUp>> і націсніце <<Jump>>."
+  },
+  "1073408_00000000": {
+    "en": "Press <<SteelSword>> to draw your steel sword.",
+    "ru": "Нажмите <<SteelSword>>, чтобы обнажить стальной меч.",
+    "pl": "Wciśnij <<SteelSword>>, aby wyciągnąć stalowy miecz.",
+    "bel": "Каб выняць стальны меч, націсніце <<SteelSword>>."
+  },
+  "1073479_00000000": {
+    "en": "Horses – Movement",
+    "ru": "Лошадь — движение",
+    "pl": "Koń - poruszanie się",
+    "bel": "Конь — рух"
+  },
+  "1073484_00000000": {
+    "en": "Hold <<Gallop>> to canter.",
+    "ru": "Чтобы перейти на галоп, зажмите <<Gallop>>.",
+    "pl": "Przytrzymaj <<Gallop>>, aby przejść do galopu.",
+    "bel": "Каб перайсці на галоп, зацісніце <<Gallop>>."
+  },
+  "1073489_00000000": {
+    "en": "Double-press <<Canter>> to gallop.<br><br>Your horse can't gallop with depleted Stamina.",
+    "ru": "Чтобы пустить лошадь карьером, дважды нажмите <<Canter>>.<br><br>Лошадь не может скакать карьером, когда у неё кончается энергия.",
+    "pl": "Dwukrotnie wciśnij <<Canter>>, aby przejść do cwału.<br><br>Koń nie może cwałować, kiedy zużyje całą wytrzymałość.",
+    "bel": "Каб пусціць каня кар'ерам, двойчы націсніце <<Canter>>.<br><br>Конь не можа скакаць кар'ерам, калі ў яго заканчваецца энергія."
   },
   "1083490_888281ec": {
     "en": "Controls",
